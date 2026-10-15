@@ -1,0 +1,146 @@
+{
+  "005930": {
+    "name": "삼성전자",
+    "marcap": 1218949089768000.0,
+    "shares": 5846278608.0,
+    "close": 208500.0,
+    "per": null,
+    "pbr": null,
+    "is_bluechip": true
+  },
+  "000660": {
+    "name": "SK하이닉스",
+    "marcap": 1023419803365000.0,
+    "shares": 730492365.0,
+    "close": 1401000.0,
+    "per": null,
+    "pbr": null,
+    "is_bluechip": true
+  },
+  "402340": {
+    "name": "SK스퀘어",
+    "marcap": 112164628100000.0,
+    "shares": 131958386.0,
+    "close": 850000.0,
+    "per": null,
+    "pbr": null,
+    "is_bluechip": true
+  },
+  "042700": {
+    "name": "한미반도체",
+    "marcap": 15974324720000.0,
+    "shares": 95312200.0,
+    "close": 167600.0,
+    "per": null,
+    "pbr": null,
+    "is_bluechip": true
+  },
+  "012450": {
+    "name": "한화에어로스페이스",
+    "marcap": 41766354810000.0,
+    "shares": 51563401.0,
+    "close": 810000.0,
+    "per": null,
+    "pbr": null,
+    "is_bluechip": true
+  },
+  "064350": {
+    "name": "현대로템",
+    "marcap": 13107989389300.0,
+    "shares": 109142293.0,
+    "close": 120100.0,
+    "per": null,
+    "pbr": null,
+    "is_bluechip": true
+  },
+  "079550": {
+    "name": "LIG디펜스앤에어로스페이스",
+    "marcap": 13640000000000.0,
+    "shares": 22000000.0,
+    "close": 620000.0,
+    "per": null,
+    "pbr": null,
+    "is_bluechip": true
+  },
+  "272210": {
+    "name": "한화시스템",
+    "marcap": 10239430883800.0,
+    "shares": 188919389.0,
+    "close": 54200.0,
+    "per": null,
+    "pbr": null,
+    "is_bluechip": true
+  },
+  "047810": {
+    "name": "한국항공우주",
+    "marcap": 11453325072500.0,
+    "shares": 97475107.0,
+    "close": 117500.0,
+    "per": null,
+    "pbr": null,
+    "is_bluechip": true
+  },
+  "329180": {
+    "name": "HD현대중공업",
+    "marcap": 45553171650000.0,
+    "shares": 104961225.0,
+    "close": 434000.0,
+    "per": null,
+    "pbr": null,
+    "is_bluechip": true
+  },
+  "042660": {
+    "name": "한화오션",
+    "marcap": 22858439192400.0,
+    "shares": 306413394.0,
+    "close": 74600.0,
+    "per": null,
+    "pbr": null,
+    "is_bluechip": true
+  },
+  "010140": {
+    "name": "삼성중공업",
+    "marcap": 17072000000000.0,
+    "shares": 880000000.0,
+    "close": 19400.0,
+    "per": null,
+    "pbr": null,
+    "is_bluechip": true
+  },
+  "009540": {
+    "name": "HD한국조선해양",
+    "marcap": 23708993860000.0,
+    "shares": 70773116.0,
+    "close": 335000.0,
+    "per": null,
+    "pbr": null,
+    "is_bluechip": true
+  },
+  "298040": {
+    "name": "효성중공업",
+    "marcap": 18705043288000.0,
+    "shares": 9324548.0,
+    "close": 2006000.0,
+    "per": null,
+    "pbr": null,
+    "is_bluechip": true
+  },
+  "015760": {
+    "name": "한국전력",
+    "marcap": 21249010948700.0,
+    "shares": 641964077.0,
+    "close": 33100.0,
+    "per": null,
+    "pbr": null,
+    "is_bluechip": true
+  },
+  "010120": {
+    "name": "LS ELECTRIC",
+    "marcap": 24570000000000.0,
+    "shares": 150000000.0,
+    "close": 163800.0,
+    "per": null,
+    "pbr": null,
+    "is_bluechip": true
+  }
+}

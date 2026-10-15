@@ -1,0 +1,336 @@
+{
+  "market": "KR",
+  "as_of_date": "2026-09-22",
+  "plain_summary": [
+    "코스피는 장 초반 급등분을 대부분 반납하고 0.15% 오른 7,017.91에 마감했습니다.",
+    "증권사 리포트는 엔터(하이브·SM·JYP)와 AI 기판·부품 쪽에 몰렸고, 시장에서는 반도체 기판(PCB, 칩을 얹는 회로판) 관련주가 급등했습니다.",
+    "⚠️ 미국 국채금리(미국 정부가 돈 빌릴 때 이자)가 5%대에 머물러 있어, 지수가 한 번에 오르기 어려운 조심스러운 분위기입니다."
+  ],
+  "market_tone": "코스피 7,017.91(+0.15%), 코스닥 834.38(-0.23%)로 마감했습니다(한국경제 보도). 간밤 미국 나스닥이 사상 최고치를 쓰고 필라델피아 반도체지수가 4.29% 급등한 영향으로 코스피는 장 초반 2% 넘게 올라 7,160선까지 상승했지만, 오후에 매물이 나오며 한때 7,000선을 내주기도 했습니다. 수급은 외국인이 순매수, 개인이 1조원 넘게 순매도했습니다. 지수를 좌우하는 시총 1·2위 반도체 두 종목의 흐름이 엇갈렸습니다. 보도 기준 삼성전자는 0.91% 올랐고 SK하이닉스는 1.50% 내렸습니다. 수집 데이터(index_drivers, 장중 스냅샷)에서 하락 기여 1위는 SK하이닉스였고, 삼성전자를 제외한 상승 기여 1위는 삼성전기(보도 기준 +3.99%)였습니다. 다만 종가 기준으로는 시총 1위 삼성전자(+0.91%)의 상승 기여가 가장 컸을 것으로 계산됩니다(시총×등락률). 그 외 LG전자·대한항공·현대건설·포스코퓨처엠이 시총 대비 상승 기여 상위에 들었습니다. 원/달러 환율은 22.8원 내린 1,358.2원으로, 원화 강세가 수출기업 실적에는 부담 요인으로 언급됩니다. ⚠️ 코스피 % 상승률 상위(코리아써키트·티엘비 등)는 중소형주라 지수 영향은 제한적입니다.",
+  "news": [
+    {
+      "title": "코스피, 2%대 상승분 반납하고 7,000선 '턱걸이' 마감",
+      "summary_plain": "코스피가 아침엔 2% 넘게 올랐지만 오후에 팔자 물량이 나와 0.15% 상승으로 끝났습니다. 삼성전자는 오르고 SK하이닉스는 내렸습니다.",
+      "why_it_matters": "코스피는 시가총액(회사 크기)이 큰 회사가 지수를 더 많이 움직입니다. 1·2위인 삼성전자와 SK하이닉스가 서로 반대로 움직이면 지수는 제자리에 머물기 쉽습니다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "date": "2026-09-22",
+      "tier": "news",
+      "source_url": "https://www.hankyung.com/article/2026092212936",
+      "source_name": "한국경제"
+    },
+    {
+      "title": "메타 AI 비서 '뮤즈' 열풍에 국내 반도체 기판(PCB)주 급등",
+      "summary_plain": "메타의 AI 에이전트 앱 '뮤즈'가 미국 앱스토어 1위에 오르자, AI가 일을 대신할수록 CPU와 서버가 더 필요하다는 기대가 커졌습니다. 그 부품인 기판을 만드는 회사 주가가 뛰었습니다.",
+      "why_it_matters": "AI 투자의 온기가 GPU(엔비디아 등)에서 CPU·기판·부품으로 넓어질 수 있다는 신호입니다. 대신증권 이경민 연구원은 보도에서 '국내 반도체 투자심리 강화'로 해석했습니다. ⚠️ 급등 종목 다수는 중소형주라 변동성이 큽니다.",
+      "tickers": [
+        "009150"
+      ],
+      "date": "2026-09-22",
+      "tier": "news",
+      "source_url": "https://www.fnnews.com/news/202609221547179840",
+      "source_name": "파이낸셜뉴스"
+    },
+    {
+      "title": "유가 하락에 대한항공 8.84% 급등",
+      "summary_plain": "미국과 이란의 평화 협상 기대로 국제유가가 내리자, 기름값이 최대 비용인 항공사 주가가 크게 올랐습니다.",
+      "why_it_matters": "항공사는 연료비 비중이 커서 유가가 내리면 이익이 늘 수 있습니다. 보도에 따르면 증권가는 대한항공 3분기 실적이 시장 기대를 웃돌 것으로 봅니다.",
+      "tickers": [
+        "003490"
+      ],
+      "date": "2026-09-22",
+      "tier": "news",
+      "source_url": "https://www.hankyung.com/article/202609222044i",
+      "source_name": "한국경제"
+    },
+    {
+      "title": "LG전자, 엔비디아와 서울 양재에 '로봇 공동개발 거점' 조성",
+      "summary_plain": "LG전자와 엔비디아가 다음 달 양재 데이터팩토리 안에 같은 공간을 만들어 로봇용 AI 모델을 함께 개발합니다. 연말까지 10만 시간 규모의 로봇 학습 데이터를 모을 계획입니다.",
+      "why_it_matters": "가전 회사로 알던 LG전자가 '피지컬 AI(몸을 가진 AI)' 회사로 재평가될 수 있는지가 관심입니다. LG전자는 이날 코스피 상승 기여 상위 종목이었습니다(수집 데이터 index_drivers).",
+      "tickers": [
+        "066570"
+      ],
+      "date": "2026-09-21",
+      "tier": "news",
+      "source_url": "https://view.asiae.co.kr/article/2026092017360772541",
+      "source_name": "아시아경제"
+    },
+    {
+      "title": "원/달러 환율 22.8원 급락, 1,358.2원",
+      "summary_plain": "원화 가치가 하루 만에 크게 올랐습니다(환율 하락). 외국인이 한국 주식을 사고, 유가가 내린 영향이 겹쳤습니다.",
+      "why_it_matters": "환율이 내리면 수출기업이 달러로 번 돈을 원화로 바꿀 때 금액이 줄어듭니다. 메리츠증권은 9/21 LG이노텍 3분기 프리뷰 리포트에서 '피할 수 없는 환율 역풍'을 언급했습니다.",
+      "tickers": [
+        "011070"
+      ],
+      "date": "2026-09-22",
+      "tier": "news",
+      "source_url": "https://www.hankyung.com/article/2026092212936",
+      "source_name": "한국경제"
+    }
+  ],
+  "hot_sectors": [
+    {
+      "sector": "엔터테인먼트",
+      "trend": "SK증권이 하루에 산업 리포트 1건과 하이브·에스엠·JYP·와이지 기업 리포트 4건을 동시에 냈습니다. 리포트는 업종 12개월 선행 PER이 연초 약 25배에서 15배로 낮아져 밸류에이션 매력이 충분하다고 봅니다.",
+      "drivers": "BTS·빅뱅 등 메가 IP 월드투어 재개, 저연차(데뷔 초기) 아티스트의 빠른 수익화. ⚠️ 2027년 하반기 메가 IP 투어 종료 뒤 이익 감소 구간이 리레이팅의 시험대라고 리포트는 지적합니다.",
+      "tickers": [
+        "352820",
+        "041510",
+        "035900"
+      ],
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652504",
+      "source_name": "한경 컨센서스 (SK증권, 엔터테인먼트 NEXT GREEN LIGHT)"
+    },
+    {
+      "sector": "AI 반도체 기판·전자부품",
+      "trend": "메리츠증권이 이수페타시스(9/22)·두산 전자BG(9/18)·해성디에스(9/21) 리포트를 연달아 냈고, iM증권은 삼성전기 이익 컨센서스 상향을 전망했습니다. 시장에서도 메타 '뮤즈' 효과로 기판주가 급등했습니다.",
+      "drivers": "AI 서버·가속기 수요로 고다층 기판(MultiLam)과 동박적층판(CCL) 수요 증가. 이수페타시스는 ASP 2배 이상인 MultiLam 비중 확대, 두산 전자BG는 9,684억원 규모 CCL 증설을 발표했습니다.",
+      "tickers": [
+        "009150",
+        "007660",
+        "000150"
+      ],
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652490",
+      "source_name": "한경 컨센서스 (메리츠증권, 이수페타시스)"
+    },
+    {
+      "sector": "건설",
+      "trend": "유안타증권이 9/21 현대건설·삼성물산·GS건설·DL이앤씨·대우건설·삼성E&A·HDC현대산업개발 등 7개 종목 리포트를 한꺼번에 냈습니다(대부분 커버리지 개시, 투자의견 BUY). 현대건설은 9/22 코스피 상승 기여 상위에 들었습니다.",
+      "drivers": "리포트에 제시된 목표주가는 현대건설 205,000원(유지), 삼성물산 510,000원(신규) 등입니다. ⚠️ 여러 종목을 동시에 개시한 것은 증권사 한 곳의 시각이라는 점을 감안해야 합니다.",
+      "tickers": [
+        "000720",
+        "028260",
+        "006360",
+        "028050"
+      ],
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652470",
+      "source_name": "한경 컨센서스 (유안타증권, 현대건설)"
+    },
+    {
+      "sector": "조선·발전엔진(데이터센터 전력)",
+      "trend": "SK증권이 9/17 HD현대중공업·삼성중공업·한화엔진·HD현대마린솔루션 4개 리포트를 냈습니다. 배 만드는 기술을 데이터센터용 발전 엔진과 부유식 데이터센터(FDC)로 확장하는 스토리입니다.",
+      "drivers": "HD현대중공업의 4행정 엔진 생산능력을 3.0GW에서 2030년 7.2GW로 확대하는 증설 계획, 삼성중공업의 50MW급 부유식 데이터센터 개념설계 인증(AiP).",
+      "tickers": [
+        "329180",
+        "010140",
+        "443060",
+        "082740"
+      ],
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652399",
+      "source_name": "한경 컨센서스 (SK증권, HD현대중공업)"
+    },
+    {
+      "sector": "항공",
+      "trend": "유진투자증권이 9/22 항공운송 업종 OVERWEIGHT 코멘트를 냈고, iM증권·상상인증권은 9/21 대한항공 3분기 호실적 전망 리포트를 냈습니다. 9/22 유가 하락으로 대한항공이 급등했습니다.",
+      "drivers": "국토부의 25개 국제노선 운수권 배분(7년 만의 한-중 운수권 확대), 유류비를 운임에 전가할 만큼 견조한 여객·화물 수요, 국제유가 하락.",
+      "tickers": [
+        "003490"
+      ],
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652488",
+      "source_name": "한경 컨센서스 (유진투자증권, 운수권 배분 코멘트)"
+    }
+  ],
+  "notable_stocks": [
+    {
+      "name": "SK하이닉스",
+      "ticker": "000660",
+      "note": "시총 2위. 보도 기준 1.50% 내렸고, 수집 데이터(장중 스냅샷)에서 이날 코스피 하락 기여 1위였습니다. 장 초반 반도체 랠리에도 오후에 차익 매물이 나온 것으로 보도됐습니다.",
+      "report_summary": "9/22 개별 리포트는 없습니다. 한국경제 9/3 보도('증권사 목표주가 322만원')에 따르면 고수익 개인투자자들이 낙폭이 큰 SK하이닉스 등 반도체 대형주를 저가 매수한 것으로 전해졌습니다. ⚠️ 증권사별 목표주가 세부 수치는 유료 콘텐츠로 확인할 수 없어 싣지 않았습니다.",
+      "tier": "news",
+      "source_url": "https://www.hankyung.com/article/202609030963i",
+      "source_name": "한국경제"
+    },
+    {
+      "name": "삼성전기",
+      "ticker": "009150",
+      "note": "수집 데이터(index_drivers, 장중 스냅샷) 기준 삼성전자를 제외하면 이날 코스피 상승 기여 1위. 보도 기준 3.99% 올랐습니다(종가 기준으로는 삼성전자 +0.91%의 기여가 더 큽니다). AI 서버용 기판·MLCC를 만드는 회사라 '뮤즈' 효과의 대형주 수혜로 거론됐습니다.",
+      "report_summary": "iM증권(9/18): 환율 하락에도 3분기 매출 3.9조원, 영업이익 6,500억원(+150% YoY)으로 컨센서스를 약 9% 웃돌 전망. '이익 컨센서스 상향 조정이 재가속화될 것'으로 봅니다.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652411",
+      "source_name": "한경 컨센서스 (iM증권)"
+    },
+    {
+      "name": "대한항공",
+      "ticker": "003490",
+      "note": "유가 하락 기대로 보도 기준 8.84% 급등, 코스피 상승 기여 상위에 들었습니다. 최근 이틀 사이 증권사 2곳이 3분기 호실적 전망 리포트를 냈습니다.",
+      "report_summary": "iM증권(9/21): 투자의견 Buy·목표주가 40,000원 유지, 유류비 부담을 운임에 전가한 견조한 업황. 상상인증권(9/21): 3분기 별도 매출 5조1,106억원, 영업이익 4,880억원으로 컨센서스 부합 전망.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652462",
+      "source_name": "한경 컨센서스 (iM증권)"
+    },
+    {
+      "name": "하이브",
+      "ticker": "352820",
+      "note": "SK증권이 엔터 4사 리포트를 낸 날의 대표 종목. BTS 컴백으로 역대 최대 실적이 예상되지만, 리포트 제목대로 '의존도 완화'가 과제로 제시됐습니다.",
+      "report_summary": "SK증권(9/22): Buy, 목표주가 290,000원. 2026년 매출 5.1조원(+93.2%), 영업이익 3,018억원 전망. ⚠️ 2분기 재계약 정산율 상승으로 매출총이익률이 43%에서 32%로 하락한 점을 우려로 짚었습니다.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652500",
+      "source_name": "한경 컨센서스 (SK증권)"
+    },
+    {
+      "name": "포스코인터내셔널",
+      "ticker": "047050",
+      "note": "미국 셰일가스 자산 인수를 두고 메리츠증권(9/22)·iM증권(9/21)이 연달아 긍정 리포트를 냈습니다. LNG 트레이딩 회사로 체질을 바꾸는 과정으로 평가됩니다.",
+      "report_summary": "메리츠증권(9/22): Buy. Chord Energy 자회사의 미국 Marcellus 셰일가스 자산을 5.5억달러(약 7,500억원)에 인수, 2028년 이후 연간 영업이익 약 1,000억원 제시. 세후 ROIC 약 10%로 WACC 7.3%를 웃돈다고 추정.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652493",
+      "source_name": "한경 컨센서스 (메리츠증권)"
+    },
+    {
+      "name": "LG화학",
+      "ticker": "051910",
+      "note": "LS증권이 3분기 실적 미리보기에서 '일회성 요인 소멸 + 과징금 리스크'를 제목으로 뽑았습니다. 2차전지·석유화학 대형주 중 우려가 명시된 리포트입니다.",
+      "report_summary": "LS증권(9/22): 목표주가 235,000원. 3분기 영업이익 1,420억원(영업이익률 1.0%, 전분기 대비 -76.3%) 추정. ⚠️ PVC·가성소다 등 비닐체인 가격 담합에 대한 검찰·공정위 조사로 일회성 과징금 비용 우려를 언급했습니다.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652511",
+      "source_name": "한경 컨센서스 (LS증권)"
+    }
+  ],
+  "key_reports": [
+    {
+      "title": "LG화학: 3분기 일회성 요인 소멸 + 과징금 리스크",
+      "broker": "LS증권",
+      "ticker": "051910",
+      "target_price": "235,000원",
+      "summary": "2분기 중동 전쟁 영향의 저가 원료 효과가 사라지며 3분기 영업이익 1,420억원(OPM 1.0%) 추정. 비닐체인 담합 조사에 따른 과징금 일회성 비용 우려.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652511"
+    },
+    {
+      "title": "하이브: BTS로 만든 외형 성장, 앞으로 핵심은 의존도 완화",
+      "broker": "SK증권",
+      "ticker": "352820",
+      "opinion": "Buy",
+      "target_price": "290,000원",
+      "summary": "2026년 매출 5.1조원(+93.2%), 영업이익 3,018억원(+504.9%) 전망. 3분기는 북미·유럽 회차 집중으로 회차당 티켓 매출 상승, 코르티스 등 저연차 IP가 이익의 질을 바꾼다고 봄.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652500"
+    },
+    {
+      "title": "에스엠: 디스카운트 요인 해소 - SMTR25, 북미진출 그리고 중국",
+      "broker": "SK증권",
+      "ticker": "041510",
+      "opinion": "Buy",
+      "target_price": "120,000원",
+      "summary": "2026년 매출 1.3조원(+10.0%), 영업이익 1,912억원 전망. 에스파의 북미 아레나 투어 확대로 서구권 부재라는 할인 요인이 해소되는 중. ⚠️ 한한령 해제 불확실성 장기화.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652501"
+    },
+    {
+      "title": "JYP Ent.: 'RUN IT' 스트레이키즈 월드투어 출발",
+      "broker": "SK증권",
+      "ticker": "035900",
+      "opinion": "Buy",
+      "target_price": "66,000원",
+      "summary": "스트레이키즈 미니 10집 초동 약 330만장으로 전작 대비 100만장 이상 증가, 돔·스타디움 투어가 2027년 상반기까지 이어질 전망. ⚠️ 트와이스 정연·채영 이탈로 완전체 활동 불확실성.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652503"
+    },
+    {
+      "title": "이수페타시스: 우려를 넘어서는 성장",
+      "broker": "메리츠증권",
+      "ticker": "007660",
+      "opinion": "Buy",
+      "summary": "3분기 매출 4,349억원(+46.9% YoY), 영업이익 965억원(+65.2% YoY)으로 추정치 상향. 5공장 증설 효과와 7월부터 원재료 가격 상승분의 판가 전가가 순조롭고, ASP 2배 이상인 MultiLam 비중 확대 지속.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652490"
+    },
+    {
+      "title": "포스코인터내셔널: 투자하고, 벌고, 환원하고",
+      "broker": "메리츠증권",
+      "ticker": "047050",
+      "opinion": "Buy",
+      "summary": "미국 Marcellus 비운영 셰일가스 자산 5.5억달러 인수. 예상 생산량 124MMcf/d(LNG 환산 연 약 100만톤), 2026년 11월 딜 완료 예정, 2028년 이후 연간 영업이익 약 1,000억원 회사 제시.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652493"
+    },
+    {
+      "title": "항공운송: 운수권 배분 코멘트 (업종 OVERWEIGHT)",
+      "broker": "유진투자증권",
+      "opinion": "OVERWEIGHT",
+      "summary": "9/16 국토부가 25개 국제노선 운수권을 10개 국적 항공사에 배분. 7년 만의 한-중 운수권 확대로 LCC의 인천발 중국 간선 진입이 늘었고, 인천발 중국 노선 주 11회를 확보한 제주항공에 주목.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652488"
+    },
+    {
+      "title": "글로벌 테크 위클리: 쉬어가자니 남 좋은 일",
+      "broker": "유진투자증권",
+      "summary": "네비우스가 10월 1일부터 GPU 온디맨드 렌탈가를 최대 21% 인상, 오라클도 만기 GPU를 20% 높은 단가에 재계약. 렌탈가 상승이 스팟·계약 단가에 동시 반영돼 AI 인프라 수요가 견조함을 재확인.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652486"
+    }
+  ],
+  "broker_views": [
+    {
+      "firm": "대신증권 (이경민)",
+      "view": "메타의 AI 에이전트 '뮤즈'가 미국 앱스토어 1위에 오르며 AI 에이전트 확산에 따른 CPU·서버 수요 기대가 커졌고, 이것이 국내 반도체 투자심리를 강화했다고 평가.",
+      "date": "2026-09-22",
+      "tier": "news",
+      "source_url": "https://www.fnnews.com/news/202609221547179840"
+    },
+    {
+      "firm": "골드만삭스 (티모시 모)",
+      "view": "보도에 따르면 코스피 12개월 목표치 12,000을 유지. 메모리 업황, 개인 신용거래, 비메모리 업종, 위험·보상 구조를 종합해 '현재 시장이 지나치게 부정적'이라고 평가.",
+      "date": "2026-08-11",
+      "tier": "ib_news",
+      "source_url": "https://www.seoul.co.kr/news/economy/2026/08/11/20260811500090"
+    },
+    {
+      "firm": "대신증권 (Global Daishin View)",
+      "view": "'9월 계절적 약세'라는 통념을 깨고 하반월로 갈수록 미국 증시 상방 압력이 높아질 것으로 봄. 알파벳의 CapEx 조달 다변화와 미국 데이터센터 리츠의 경쟁력을 주목.",
+      "date": "2026-09-22",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652489"
+    },
+    {
+      "firm": "유안타증권 (이환욱)",
+      "view": "나스닥 신고가로 위험선호는 강하지만, 미국 10년물 금리 5.01%(실질 2.68%)로 상승했고 FedWatch 기준 10월 금리 인상 확률이 56.5%라고 집계. 매크로는 '중립'으로 판단.",
+      "date": "2026-09-22",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652498"
+    },
+    {
+      "firm": "SK증권 (박준형)",
+      "view": "엔터 업종 평균 12개월 선행 PER이 연초 약 25배에서 15배로 조정된 반면 본업은 견조해 밸류에이션 매력이 충분. 다음 리레이팅은 저연차 IP의 실적 방어가 확인되는 2027년 하반기가 핵심 트리거.",
+      "date": "2026-09-22",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652504"
+    },
+    {
+      "firm": "IBK투자증권 (Morning Brief)",
+      "view": "국내 증시는 8월 반도체 수출이 전년 대비 약 260% 증가하고 메모리·장비 업황 개선 기대로 상승했지만, 개인 대기자금이 금리 오른 은행 정기예금 등으로 이동하며 개인 매도세가 확대되고 있다고 진단.",
+      "date": "2026-09-22",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652508"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "시가총액 가중 지수",
+      "meaning": "코스피는 회사 크기(주가×주식 수)가 클수록 지수를 더 많이 움직입니다. 그래서 삼성전자·SK하이닉스 두 종목이 지수 방향을 좌우합니다."
+    },
+    {
+      "term": "반도체 기판(PCB)",
+      "meaning": "반도체 칩을 얹어 전기 신호를 연결하는 회로판. AI 서버가 늘수록 더 정밀한 다층 기판과 그 원재료(CCL, 동박적층판)가 필요합니다."
+    },
+    {
+      "term": "목표주가",
+      "meaning": "증권사가 대체로 6~12개월 안에 도달할 수 있다고 보는 주가. 예측이지 약속이 아니며, 같은 종목도 증권사마다 크게 다를 수 있습니다."
+    },
+    {
+      "term": "순매수·순매도",
+      "meaning": "산 금액에서 판 금액을 뺀 값. 외국인 순매수는 외국인이 산 게 더 많았다는 뜻으로, 시장 분위기를 읽는 지표로 쓰입니다."
+    },
+    {
+      "term": "12개월 선행 PER",
+      "meaning": "주가가 앞으로 1년 예상 이익의 몇 배인지. 낮아질수록 '싸졌다'고 보지만, 이익 전망이 나빠져 낮아진 것일 수도 있습니다."
+    }
+  ]
+}

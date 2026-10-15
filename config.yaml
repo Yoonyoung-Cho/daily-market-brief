@@ -1,0 +1,49 @@
+# ── 데일리 마켓 브리핑 설정 ──────────────────────────────────────
+# 메인 제품은 초심자용 데일리 브리핑(KR+US). 페어 분석은 옵션 기능(features.pairs).
+
+# ── 브리핑(digest) ──────────────────────────────────────────────
+digest:
+  min_marcap_krw: 1.0e+12   # KR 픽 최소 시총(원). 1조 미만은 잡주로 보고 픽에서 제외
+  min_marcap_usd: 1.0e+10   # US 픽 최소 시총(달러). 100억$ 미만 제외
+  backfill_days: 7          # 매 실행 시 한경 컨센서스를 며칠 전까지 다시 훑어 놓친 날을 채움
+  history_dir: "history"    # 날짜별 대시보드 스냅샷 폴더(data/ 기준)
+  history_keep: 90          # 아카이브 목록에 보여줄 최대 날짜 수
+
+features:
+  pairs: false              # 페어 분석 탭 표시 여부(옵션 기능)
+  us: true                  # 미국 탭 표시 여부
+
+# ── (옵션) 페어 분석 ─────────────────────────────────────────────
+MARKET: "KR"            # "KR"(한국) 또는 "US"(미국)
+LOOKBACK_DAYS: 504      # 분석 기간(약 2년, 거래일 기준)
+ROLLING_WINDOW: 60      # 평소 트렌드 기준 롤링 윈도우(거래일)
+UNIVERSE: "HOT_THEMES_KR" # 핫·굳건 테마(반도체·방산·조선·원전) / KOSPI200 / SP500
+                        # 워치리스트 종목·근거는 data/watchlist.json 에서 관리
+WATCHLIST_FILE: "watchlist.json"  # 포커스 유니버스 정의 파일(data/ 기준)
+
+# ── 스크리닝 임계값 ─────────────────────────────────────────────
+screening:
+  min_correlation: 0.72     # 로그수익률 Pearson 상관 하한(공적분 다중검정 위양성 억제용 사전필터)
+  coint_pvalue: 0.05        # Engle-Granger / 잔차 ADF p-value 상한
+  min_overlap_days: 252     # 두 종목 공통 거래일 최소치
+  max_statistical_pairs: 40 # 통계 발굴 쌍 상한(연산량 제한)
+
+# ── 괴리율/스코어 ───────────────────────────────────────────────
+analysis:
+  zscore_window: 60         # z-score 롤링 윈도우(= ROLLING_WINDOW)
+  band_sigmas: [1.0, 2.0]   # 시각화 밴드
+  seed_score_bonus: 0.30    # 구조적(시드) 쌍 가산점
+  structural_bonus: 0.20    # '누가봐도' 구조적 페어(pref_common/holdco_sub) 추가 가산점
+  bluechip_marcap: 3.0e+12  # 우량주(대형주) 시가총액 하한(원). 3조 이상이면 대형주 태그
+
+# ── 캐시 ────────────────────────────────────────────────────────
+cache:
+  dir: "data"
+  prices_file: "prices.parquet"
+  ttl_hours: 12             # 캐시 신선도(시간); 초과 시 재수집
+  max_retries: 3
+  backoff_seconds: 2.0
+
+DISCLAIMER: >
+  본 시스템은 참고용 통계 분석 도구이며 투자 자문이 아닙니다.
+  모든 투자 판단과 그에 따른 손익의 책임은 사용자 본인에게 있습니다.

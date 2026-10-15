@@ -1,0 +1,30 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+*.egg-info/
+.DS_Store
+
+# 로그·임시 파일
+data/*.log
+data/summarize_input.json
+data/summarize_output.json
+
+# 증권사 리포트 원문·본문 발췌(저작물) — 저장소에는 요약·의견·목표가·출처 링크만 남긴다
+data/reports/
+data/report_excerpts.json
+data/report_texts.json
+data/summarize_input.json
+
+# (옵션) 페어 분석 산출물 — 재생성 가능
+data/prices.parquet
+data/candidate_pairs.json
+data/pair_analysis.json
+data/report.html
+
+# 추적하는 것(의도적): data/dashboard.html, data/history/, data/briefs/, data/*_archive.json,
+#   data/briefing_*.json, data/watchlist*.json, data/seed_pairs.json → 이 파일들이 곧 '히스토리'다.
+.claude/settings.local.json

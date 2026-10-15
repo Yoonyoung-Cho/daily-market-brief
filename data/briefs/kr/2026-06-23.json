@@ -1,0 +1,185 @@
+{
+  "market": "KR",
+  "as_of_date": "2026-06-23",
+  "market_tone": "코스피 8,470(-7.1%)·코스닥 906(-6.4%)로 큰 폭 조정. 코스피는 시총가중 지수라 하락을 주도한 것은 대장주들로, SK하이닉스 -9.5%(시총 1,882조)·삼성전자 -7.2%(시총 1,918조) 등 반도체 대형주의 동반 급락이 지수를 끌어내렸다. 현대차(-10.3%)·삼성전기(-8.9%)·삼성물산(-9.0%) 등 다른 대형주도 약세. (초소형주가 % 낙폭은 더 컸으나 시총이 작아 지수 영향은 미미.) 한편 오늘 발행된 증권사 리포트는 AI 반도체 후공정·2차전지·AI보안 등 개별 성장 테마에 집중됐다. 최근 거래일 종가 기준.",
+  "key_reports": [
+    {
+      "title": "이오테크닉스 — 공정 다변화와 고객사 확대가 만드는 신규 수요",
+      "broker": "한국IR협의회",
+      "ticker": "039030",
+      "opinion": "",
+      "target_price": "",
+      "summary": "AI 반도체 칩렛 전환으로 마킹 신규 수요 발생, 북미 GPU 업체 표준 장비로 채택. 레이저 어닐링은 DRAM(EUV 증가)·NAND(400단+) 확대. 2026 매출 4,948억(+29.9%)·영업익 1,309억(+62.1%) 전망.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=650214"
+    },
+    {
+      "title": "NH투자증권 — 향상된 이익체력에도 평균을 하회하는 멀티플",
+      "broker": "대신증권",
+      "ticker": "005940",
+      "opinion": "Buy(유지)",
+      "target_price": "45,000원",
+      "summary": "증권주 부진 지속이나 PBR 1배까지 하락, 배당수익률 5.8%로 상승. 2분기 순이익 컨센서스 20% 상회 예상. 목표가 45,000원 유지(리포트 기준 현재가 30,800원).",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=650210"
+    },
+    {
+      "title": "성우 — 원통형 이차전지 안전장치 제조업체",
+      "broker": "한국IR협의회",
+      "ticker": "458650",
+      "opinion": "",
+      "target_price": "",
+      "summary": "원통형 배터리(L사 공급) 안전장치 캡어셈블리 주력. 46시리즈 물량 확대로 2026 매출 1,052억(+23%)·영업익 66억(+534%) 기대.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=650213"
+    },
+    {
+      "title": "라온시큐어 — 성장하는 AI 보안·인증 플랫폼 강소기업",
+      "broker": "한국IR협의회",
+      "ticker": "042510",
+      "opinion": "",
+      "target_price": "",
+      "summary": "모바일 신분증·화이트햇 컨설팅 성장, 양자내성암호·에이전틱 AI 보안 신사업. 2026 PER 17.8배. 리스크는 경쟁사 대비 낮은 수익성.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=650212"
+    },
+    {
+      "title": "한글과컴퓨터 — 문서 SW에서 Sovereign Agentic OS로",
+      "broker": "한국IR협의회",
+      "ticker": "030520",
+      "opinion": "",
+      "target_price": "",
+      "summary": "오피스 고객의 유료 AI 패키지 전환으로 AI 매출 2025 89억→2026F 360억 전망. 공공 레퍼런스·유럽 파트너십 기반 Agentic OS 사업화.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=650215"
+    },
+    {
+      "title": "[해외출장기] 내일의 바다 — 조선·해운 새 패러다임 (POSIDONIA 2026)",
+      "broker": "LS증권",
+      "ticker": "",
+      "opinion": "",
+      "target_price": "",
+      "summary": "세계 3대 해운 박람회 POSIDONIA 참관기. 신조선 발주를 넘어 지정학·탈탄소 규제·에너지 전환으로 조선업 외연 확장. 조선=미래 에너지 인프라로 재정의.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=650201"
+    }
+  ],
+  "notable_stocks": [
+    {
+      "name": "이오테크닉스",
+      "ticker": "039030",
+      "tier": "consensus",
+      "note": "AI 반도체 후공정(레이저 마킹·어닐링) 장비. 북미 GPU 업체 표준 장비 채택.",
+      "report_summary": "한국IR협의회 — 2026 매출 4,948억(+29.9%)·영업익 1,309억(+62.1%) 전망. 칩렛 전환·DRAM/NAND 투자 수혜.",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=650214",
+      "source_name": "한경 컨센서스 리포트"
+    },
+    {
+      "name": "NH투자증권",
+      "ticker": "005940",
+      "tier": "consensus",
+      "note": "증권주. 부진 지속이나 배당수익률 5.8%·PBR 1배로 밸류 매력 부각.",
+      "report_summary": "대신증권 — 투자의견 Buy·목표주가 45,000원 유지. 2분기 순이익 컨센서스 20% 상회 예상.",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=650210",
+      "source_name": "한경 컨센서스 리포트"
+    },
+    {
+      "name": "성우",
+      "ticker": "458650",
+      "tier": "consensus",
+      "note": "원통형 2차전지 안전장치(캡어셈블리). 46시리즈 확대 수혜.",
+      "report_summary": "한국IR협의회 — 2026 매출 1,052억(+23%)·영업익 66억(+534%) 기대.",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=650213",
+      "source_name": "한경 컨센서스 리포트"
+    },
+    {
+      "name": "한글과컴퓨터",
+      "ticker": "030520",
+      "tier": "consensus",
+      "note": "오피스 SW의 AI 전환. Sovereign Agentic OS 사업화.",
+      "report_summary": "한국IR협의회 — AI 매출 2025 89억→2026F 360억 전망.",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=650215",
+      "source_name": "한경 컨센서스 리포트"
+    },
+    {
+      "name": "SK하이닉스",
+      "ticker": "000660",
+      "tier": "ib_news",
+      "note": "오늘 지수와 함께 급락(-9.5%)했으나 글로벌 IB 중기 최선호는 유지.",
+      "report_summary": "Goldman 한국 비중확대·JPMorgan AI 반도체 견인 — AI 메모리(HBM) 사이클을 핵심 동력으로 지목.",
+      "source_url": "https://www.cnbc.com/2026/05/11/jpmorgan-says-kospi-could-jump-over-25percent-to-hit-10000.html",
+      "source_name": "CNBC (JPMorgan)"
+    }
+  ],
+  "hot_sectors": [
+    {
+      "sector": "AI 반도체 후공정·장비",
+      "trend": "오늘 리포트의 핵심 — 칩렛·HBM 전환으로 후공정 장비 신규 수요",
+      "drivers": "북미 GPU 칩렛 구조, DRAM EUV·NAND 400단+",
+      "tickers": [
+        "이오테크닉스"
+      ],
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=650214",
+      "source_name": "한경 컨센서스 리포트"
+    },
+    {
+      "sector": "2차전지 부품",
+      "trend": "원통형(46시리즈) 부품사 실적 모멘텀",
+      "drivers": "46시리즈 물량 확대",
+      "tickers": [
+        "성우"
+      ],
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=650213",
+      "source_name": "한경 컨센서스 리포트"
+    },
+    {
+      "sector": "AI 보안·소프트웨어",
+      "trend": "AI 인증·에이전틱 AI 보안, 오피스 AI 전환 테마 부각",
+      "drivers": "모바일 신분증·양자내성암호·소버린 AI",
+      "tickers": [
+        "라온시큐어",
+        "한글과컴퓨터"
+      ],
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=650212",
+      "source_name": "한경 컨센서스 리포트"
+    },
+    {
+      "sector": "조선·해운",
+      "trend": "탈탄소·에너지전환으로 조선업 외연 확장(산업 리포트)",
+      "drivers": "지정학·탈탄소 규제, 해상 에너지 인프라",
+      "tickers": [
+        "HD현대중공업",
+        "한화오션"
+      ],
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=650201",
+      "source_name": "한경 컨센서스 리포트(LS증권)"
+    }
+  ],
+  "broker_views": [
+    {
+      "firm": "Goldman Sachs",
+      "view": "한국 비중확대(overweight). 메모리·방산·조선 주목, KOSPI 12개월 목표 12,000",
+      "date": "2026-06",
+      "tier": "ib_news",
+      "source_url": "https://www.goldmansachs.com/insights/articles/koreas-stock-market-is-forecast-to-set-fresh-highs"
+    },
+    {
+      "firm": "J.P. Morgan",
+      "view": "AI 인프라 수요로 반도체 견인, KOSPI 불 케이스 10,000",
+      "date": "2026-05",
+      "tier": "ib_news",
+      "source_url": "https://www.cnbc.com/2026/05/11/jpmorgan-says-kospi-could-jump-over-25percent-to-hit-10000.html"
+    },
+    {
+      "firm": "미래에셋·베스트 애널리스트(국내)",
+      "view": "2026 주도주 반도체, 확산 테마 조선·방산·원전",
+      "date": "2025-11",
+      "tier": "ib_news",
+      "source_url": "https://kr.investing.com/news/stock-market-news/article-1727804"
+    }
+  ]
+}

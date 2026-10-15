@@ -1,0 +1,24 @@
+{
+  "name": "BIGTECH_AISEMI_US",
+  "title": "미국 빅테크 · AI반도체",
+  "market": "US",
+  "description": "M7 빅테크 + AI 반도체 밸류체인. 애널리스트 등급변경·목표가·컨센서스(yfinance)와 글로벌 IB(JPMorgan·Goldman) 섹터 뷰를 결합해 본다.",
+  "source": "애널리스트 데이터: yfinance(등급변경·목표가·컨센서스). 섹터 뷰: JPMorgan·Goldman 등 뉴스 보도.",
+  "tickers": [
+    {"ticker": "AAPL", "name": "Apple", "theme": "빅테크"},
+    {"ticker": "MSFT", "name": "Microsoft", "theme": "빅테크"},
+    {"ticker": "GOOGL", "name": "Alphabet", "theme": "빅테크"},
+    {"ticker": "AMZN", "name": "Amazon", "theme": "빅테크"},
+    {"ticker": "META", "name": "Meta Platforms", "theme": "빅테크"},
+    {"ticker": "TSLA", "name": "Tesla", "theme": "빅테크"},
+    {"ticker": "NVDA", "name": "NVIDIA", "theme": "AI반도체"},
+    {"ticker": "AVGO", "name": "Broadcom", "theme": "AI반도체"},
+    {"ticker": "AMD", "name": "AMD", "theme": "AI반도체"},
+    {"ticker": "TSM", "name": "TSMC", "theme": "AI반도체"},
+    {"ticker": "MU", "name": "Micron", "theme": "AI반도체"},
+    {"ticker": "ASML", "name": "ASML", "theme": "AI반도체"},
+    {"ticker": "ARM", "name": "Arm Holdings", "theme": "AI반도체"},
+    {"ticker": "MRVL", "name": "Marvell", "theme": "AI반도체"},
+    {"ticker": "QCOM", "name": "Qualcomm", "theme": "AI반도체"}
+  ]
+}

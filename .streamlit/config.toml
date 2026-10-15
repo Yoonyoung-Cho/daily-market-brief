@@ -1,0 +1,11 @@
+# Streamlit 다크 테마 — HTML 대시보드와 동일 팔레트
+[theme]
+base = "dark"
+primaryColor = "#5b9dff"
+backgroundColor = "#0f1420"
+secondaryBackgroundColor = "#1a2030"
+textColor = "#e8edf6"
+font = "sans serif"
+
+[server]
+headless = true

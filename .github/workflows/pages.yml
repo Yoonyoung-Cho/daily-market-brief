@@ -1,0 +1,38 @@
+# 대시보드(최신 + 날짜별 스냅샷)를 GitHub Pages 로 배포한다. 서버·DB 없이 "언제 들어가도" 볼 수 있게.
+# 트리거: data/dashboard.html 이나 data/history/** 가 커밋되어 push 될 때.
+# (수집·브리핑 실행 자체는 Claude Code 예약 작업 또는 로컬에서 하고, 결과만 커밋한다 — README '무인 운영')
+name: publish-dashboard
+on:
+  push:
+    branches: [main, master]
+    paths: ["data/dashboard.html", "data/history/**", ".github/workflows/pages.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Assemble site
+        run: |
+          mkdir -p site/history
+          cp data/dashboard.html site/index.html
+          cp data/history/*.html site/history/ 2>/dev/null || true
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deployment
+        uses: actions/deploy-pages@v4

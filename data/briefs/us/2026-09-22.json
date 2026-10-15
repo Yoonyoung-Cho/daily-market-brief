@@ -1,0 +1,283 @@
+{
+  "market": "US",
+  "as_of_date": "2026-09-22",
+  "plain_summary": [
+    "미국 증시는 전날 급등 뒤 숨을 고르며, 나스닥은 0.45% 오른 27,244.28로 최고치를 이어갔고 S&P 500은 제자리였습니다.",
+    "메타의 AI 비서 앱 '뮤즈'가 앱스토어 1위에 오르면서 AI 소프트웨어와 CPU·반도체 관련주에 다시 관심이 몰렸습니다.",
+    "⚠️ 유가는 이란 협상 기대로 내렸지만, 미국 국채금리(정부가 돈 빌릴 때 이자)가 5% 안팎에 머물러 연준(미국 중앙은행)의 추가 금리 인상 우려가 남아 있습니다."
+  ],
+  "market_tone": "S&P 500 7,764.64(보합), 나스닥 27,244.28(+0.45%), 다우 51,863.69(-0.36%)로 마감했습니다(CNBC·Yahoo Finance 보도). 전날(9/21) 나스닥이 2.26% 급등해 사상 최고치를 쓴 뒤 상승 폭이 크게 줄었습니다. 이날 시장을 이끈 것은 여전히 AI였습니다. 메타는 전날 11% 급등에 이어 1.5% 더 올랐고, 쇼피파이는 메타 뮤즈와의 결제 연동 발표로 7% 가까이 올랐습니다. 유가는 이란이 호르무즈 해협을 7일 안에 다시 열 수 있다고 제안했다는 보도에 내렸습니다. 브렌트유는 1.09% 내린 배럴당 99.25달러에 마감했습니다. 한편 리치먼드 연은 바킨 총재는 '일시적이라던 충격이 짧게 끝나지 않고 있다'며 추가 금리 인상 가능성을 열어 뒀습니다. 이번 주 트럼프-시진핑 정상회담을 앞두고 베선트 재무장관은 미중 예비 협상을 '매우 성공적'이라고 평가했습니다. ⚠️ 유가 하락과 AI 낙관에도 국채금리 부담 때문에 다우는 내렸고, 지수 전반은 방향을 잡지 못했습니다.",
+  "news": [
+    {
+      "title": "메타 AI 비서 '뮤즈' 앱스토어 1위, 월가 목표가 상향",
+      "summary_plain": "메타가 내놓은 AI 에이전트 앱 '뮤즈'가 애플 앱스토어 무료 앱 1위에 올랐습니다. 웰스파고는 메타 목표주가를 640달러에서 796달러로 올렸고, 주가는 21일 11% 뛰었습니다.",
+      "why_it_matters": "AI에 돈을 쏟아붓던 빅테크가 실제로 '쓰이는 서비스'를 만들었다는 첫 신호로 받아들여졌습니다. 에버코어 ISI의 마크 마하니는 '메타가 히트작을 손에 넣었다'고 평가했습니다. ⚠️ 이틀 사이 주가가 크게 올라 기대가 상당히 반영된 상태입니다.",
+      "tickers": [
+        "META"
+      ],
+      "date": "2026-09-21",
+      "tier": "news",
+      "source_url": "https://finance.yahoo.com/video/meta-stock-jumps-wells-fargo-195200224.html",
+      "source_name": "Yahoo Finance"
+    },
+    {
+      "title": "AMD, 시총 1조달러 클럽 진입 - CPU 반도체주 랠리",
+      "summary_plain": "21일 AMD 주가가 장중 최대 10%(마감 기준 9.4%) 올라 회사 가치(시가총액)가 처음으로 1조달러를 넘었습니다. 인텔·Arm도 두 자릿수로 올랐고, 필라델피아 반도체지수는 4.29% 급등했습니다.",
+      "why_it_matters": "AI 에이전트가 사람 대신 일을 하면 GPU(엔비디아)뿐 아니라 CPU와 서버도 더 필요하다는 논리가 확산됐습니다. 보도에 따르면 이번 랠리에서 엔비디아는 상대적으로 소외됐습니다.",
+      "tickers": [
+        "AMD",
+        "ARM",
+        "NVDA"
+      ],
+      "date": "2026-09-21",
+      "tier": "news",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/amd-set-top-1-trillion-153644877.html",
+      "source_name": "Bloomberg (via Yahoo Finance)"
+    },
+    {
+      "title": "이란 '호르무즈 재개방' 제안 보도에 유가 하락",
+      "summary_plain": "이란이 미국의 군사 압박 완화를 조건으로 7일 안에 호르무즈 해협을 다시 열 수 있다고 제안했다는 보도가 나왔습니다. 브렌트유는 배럴당 99.25달러로 1.09% 내렸습니다.",
+      "why_it_matters": "유가가 내리면 물가 걱정이 줄어 금리에 숨통이 트이고, 항공·소비 관련 기업 비용도 줄어듭니다. 캐피털 이코노믹스는 유가 하락을 '외교적 진전이 작동하고 있다는 신호'로 해석했습니다. ⚠️ 협상이 틀어지면 유가가 다시 튈 수 있습니다.",
+      "date": "2026-09-22",
+      "tier": "news",
+      "source_url": "https://www.cnbc.com/2026/09/21/stock-market-today-live-updates.html",
+      "source_name": "CNBC"
+    },
+    {
+      "title": "연준 바킨 총재 '충격이 짧게 끝나지 않는다' - 금리 인상 여지 시사",
+      "summary_plain": "리치먼드 연은 바킨 총재가 물가에 대해 '일시적이라던 충격이 짧게 끝나지 않고 있다'고 말했습니다. 국채 10년물 금리는 5% 안팎을 오갔습니다.",
+      "why_it_matters": "금리가 오르면 주식의 매력이 상대적으로 떨어져 특히 고평가 성장주에 부담입니다. 국내 리포트(유안타증권)는 10월 금리 인상 확률을 56.5%로 집계했습니다.",
+      "date": "2026-09-22",
+      "tier": "news",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
+      "source_name": "Yahoo Finance"
+    },
+    {
+      "title": "마이크로소프트, 분기 배당 8% 인상 - 23년 연속",
+      "summary_plain": "마이크로소프트가 분기 배당을 주당 0.91달러에서 0.98달러로 올렸습니다. 12월 10일 지급 예정입니다.",
+      "why_it_matters": "AI에 큰돈을 쓰면서도 주주에게 돌려줄 여력이 있다는 신호입니다. ⚠️ 다만 보도에 따르면 한 AI 고객사가 지난 회계연도 매출 241억달러를 차지해, 고객 집중 위험도 함께 지적됩니다.",
+      "tickers": [
+        "MSFT"
+      ],
+      "date": "2026-09-22",
+      "tier": "news",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-higher-dividend-comes-modest-015210981.html",
+      "source_name": "Insider Monkey (via Yahoo Finance)"
+    },
+    {
+      "title": "마이크론, 9월 30일 회계 4분기 실적 발표 예정",
+      "summary_plain": "메모리 반도체 회사 마이크론이 9월 30일 장 마감 뒤 실적을 발표합니다. 주가는 1,000달러 위로 다시 올라선 상태입니다.",
+      "why_it_matters": "메모리는 AI 서버의 필수 부품이고, 한국의 삼성전자·SK하이닉스와 같은 업종입니다. 마이크론 실적과 가이던스는 한국 반도체 주가에도 바로 영향을 줍니다.",
+      "tickers": [
+        "MU"
+      ],
+      "date": "2026-09-22",
+      "tier": "news",
+      "source_url": "https://investors.micron.com/news/press-release/2026/Micron-Technology-to-Report-Fiscal-Fourth-Quarter-Results-on-September-30-2026/default.aspx",
+      "source_name": "Micron IR"
+    }
+  ],
+  "hot_sectors": [
+    {
+      "sector": "AI 에이전트·빅테크 플랫폼",
+      "trend": "메타 '뮤즈'의 성공으로 '누가 AI 비서 시장을 잡느냐' 경쟁이 주가 재료가 됐습니다. 수집 컨센서스 기준 메타는 애널리스트 62명 중 56명이 매수 의견이고 평균 목표가는 758.07달러입니다.",
+      "drivers": "뮤즈 출시 12일 만에 미국·캐나다 280만 다운로드(보도)·앱스토어 1위, 쇼피파이의 뮤즈 결제(에이전트 체크아웃) 연동, 웰스파고 목표가 상향. ⚠️ 현재가(741달러)가 평균 목표가에 거의 닿아 추가 상향이 없으면 상승 여지가 좁습니다.",
+      "tickers": [
+        "META",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+      ],
+      "tier": "news",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
+      "source_name": "Yahoo Finance"
+    },
+    {
+      "sector": "AI 반도체 - CPU·커스텀 칩",
+      "trend": "AI 에이전트 확산이 CPU 수요를 늘린다는 기대에 AMD·Arm·인텔이 급등했습니다. Arm CEO는 CNBC에서 수요가 '차트를 벗어날 정도(off the charts)'라고 말했습니다.",
+      "drivers": "AMD 시총 1조달러 돌파, Arm 21일 17% 급등. ⚠️ 수집 컨센서스 기준 AMD 현재가(615.52달러)는 평균 목표가(616.51달러)와 거의 같고, Arm 현재가는 평균 목표가를 이미 넘었습니다.",
+      "tickers": [
+        "AMD",
+        "ARM",
+        "QCOM"
+      ],
+      "tier": "news",
+      "source_url": "https://www.tikr.com/blog/arm-stock-jumped-17-yesterday-after-its-ceo-said-demand-is-off-the-charts-heres-what-got-investors-so-excited?ref=yahoofinance",
+      "source_name": "TIKR (via Yahoo Finance)"
+    },
+    {
+      "sector": "메모리 반도체",
+      "trend": "마이크론 주가가 1,000달러 위로 복귀했고 9월 30일 실적 발표를 앞두고 있습니다. Trefis 분석에 따르면 고객사들이 약 220억달러의 예치금·약정을 마이크론에 맡길 정도로 공급이 빠듯합니다.",
+      "drivers": "AI 데이터센터 메모리 부족. ⚠️ 마이크론의 장기(통상 5년) 공급계약 16건 중 14건이 최소 계약가격 기준 약 1,000억달러 매출을 묶고 있고, 대형 계약에는 2026년 2분기 가격 수준의 상한이 있어 가격 상승 효과가 제한될 수 있다는 분석(Trefis)도 있습니다.",
+      "tickers": [
+        "MU"
+      ],
+      "tier": "news",
+      "source_url": "https://www.trefis.com/articles/616017/nvidia-or-micron-which-gets-paid-more-safely-for-the-ai-shortage/2026-09-21",
+      "source_name": "Trefis"
+    },
+    {
+      "sector": "AI 네트워킹·광통신 반도체",
+      "trend": "마벨이 업계 첫 2나노 광 인터커넥트 시연을 발표해 22일 장중 6.1%까지 올랐습니다(마감 +5.5%, 257.14달러). 모건스탠리는 목표가를 246달러에서 268달러로 올렸습니다(보도). AI 서버 사이를 잇는 '연결' 부품이 새 격전지로 부각됐습니다.",
+      "drivers": "유럽 광통신 학회(ECOC 2026) 발표, 하이퍼스케일러의 데이터센터 네트워크 투자. ⚠️ 마벨은 시연만 했고 수주·출시 일정은 공개하지 않았습니다.",
+      "tickers": [
+        "MRVL",
+        "AVGO"
+      ],
+      "tier": "news",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-mrvl-shares-skyrocket-012625762.html",
+      "source_name": "StockStory (via Yahoo Finance)"
+    }
+  ],
+  "notable_stocks": [
+    {
+      "name": "Meta Platforms",
+      "ticker": "META",
+      "note": "AI 에이전트 '뮤즈' 흥행으로 21일 11% 급등한 뒤 22일 1.5% 더 올랐습니다. 이번 주 미국 시장의 주인공입니다.",
+      "report_summary": "웰스파고 목표가 640→796달러 상향(보도). 수집 컨센서스: 매수 56·보유 6·매도 0, 평균 목표가 758.07달러(최고 1,000달러). 에버코어 ISI 마하니 '메타가 히트작을 손에 넣었다'.",
+      "tier": "news",
+      "source_url": "https://www.tikr.com/blog/meta-stock-jumped-11-monday-heres-where-shares-could-go-further-in-2026?ref=yahoofinance",
+      "source_name": "TIKR (via Yahoo Finance)"
+    },
+    {
+      "name": "AMD",
+      "ticker": "AMD",
+      "note": "21일 9.4% 올라(장중 최대 10%) 시가총액 1조달러를 처음 넘었습니다. AI 에이전트가 CPU 수요를 키운다는 기대의 대표 종목입니다.",
+      "report_summary": "수집 컨센서스: 매수 44·보유 11·매도 0, 평균 목표가 616.51달러(최고 1,250달러). ⚠️ 현재가 615.52달러로 평균 목표가에 이미 도달했습니다.",
+      "tier": "news",
+      "source_url": "https://www.euronews.com/2026/09/22/amd-joins-trillion-dollar-chipmaker-club-as-ai-demand-surges",
+      "source_name": "Euronews"
+    },
+    {
+      "name": "NVIDIA",
+      "ticker": "NVDA",
+      "note": "반도체 랠리에서 상대적으로 소외됐다는 보도가 나왔습니다. 이번 주 트럼프-시진핑 회담에서 중국 판매 문제가 다뤄질지가 관전 포인트입니다.",
+      "report_summary": "수집 컨센서스: 매수 58·보유 2·매도 1, 평균 목표가 327.70달러로 현재가(227.38달러)보다 높습니다. 보도에 따르면 메타 뮤즈 효과·CPU 회전·경쟁사 가격 인상이 엔비디아를 뒤로 밀어낸 배경으로 꼽힙니다.",
+      "tier": "news",
+      "source_url": "https://beincrypto.com/amd-1-trillion-market-cap-nvidia/",
+      "source_name": "BeInCrypto"
+    },
+    {
+      "name": "Arm Holdings",
+      "ticker": "ARM",
+      "note": "21일 17% 급등해 323달러에 마감했습니다. CEO가 CNBC에서 칩 수요가 '차트를 벗어날 정도'라고 말한 것이 계기였습니다.",
+      "report_summary": "수집 컨센서스: 매수 28·보유 13·매도 2, 평균 목표가 288.71달러. ⚠️ 현재가(322.90달러)가 평균 목표가를 이미 넘어 애널리스트들이 뒤따라 올릴지가 관심입니다.",
+      "tier": "news",
+      "source_url": "https://www.tikr.com/blog/arm-stock-jumped-17-yesterday-after-its-ceo-said-demand-is-off-the-charts-heres-what-got-investors-so-excited?ref=yahoofinance",
+      "source_name": "TIKR (via Yahoo Finance)"
+    },
+    {
+      "name": "Micron",
+      "ticker": "MU",
+      "note": "9월 30일 실적 발표를 앞둔 메모리 대표주. 주가가 1,000달러 위로 복귀해 액면분할 가능성도 거론됩니다.",
+      "report_summary": "수집 컨센서스: 매수 45·보유 4·매도 0, 평균 목표가 1,515달러로 현재가(1,043.96달러)를 크게 웃돕니다.",
+      "tier": "news",
+      "source_url": "https://www.fool.com/investing/2026/09/21/micron-stock-is-back-above-usd1-000-is-a-stock-split-coming/",
+      "source_name": "Motley Fool"
+    },
+    {
+      "name": "Microsoft",
+      "ticker": "MSFT",
+      "note": "분기 배당을 8% 올렸습니다. AI 투자와 주주환원을 동시에 하는 대표 사례입니다.",
+      "report_summary": "수집 컨센서스: 매수 52·보유 3·매도 0, 평균 목표가 575.34달러(현재가 501.61달러). ⚠️ 보도에 따르면 한 AI 고객사가 지난 회계연도 매출 241억달러를 차지해 고객 집중 위험이 지적됩니다.",
+      "tier": "news",
+      "source_url": "https://www.fool.com/investing/2026/09/22/microsoft-s-biggest-ai-customer-is-also-its-biggest-risk/",
+      "source_name": "Motley Fool"
+    }
+  ],
+  "key_reports": [
+    {
+      "title": "Wells Fargo, 메타 목표주가 상향",
+      "broker": "Wells Fargo",
+      "ticker": "META",
+      "target_price": "$796 (기존 $640)",
+      "summary": "보도에 따르면 뮤즈 AI 에이전트의 기록적인 초기 채택을 이유로 목표가를 올렸고, 발표 당일 메타 주가는 장중 10% 이상 급등했습니다.",
+      "tier": "ib_news",
+      "source_url": "https://finance.yahoo.com/video/meta-stock-jumps-wells-fargo-195200224.html"
+    },
+    {
+      "title": "Rosenblatt, 샌디스크 신규 커버리지 Buy",
+      "broker": "Rosenblatt",
+      "ticker": "SNDK",
+      "opinion": "Buy",
+      "target_price": "$2,400",
+      "summary": "보도에 따르면 로젠블랫이 샌디스크를 매수 의견·목표가 2,400달러로 커버리지를 개시했고, 주가는 5% 올랐습니다. AI 저장장치 수요를 배경으로 합니다.",
+      "tier": "ib_news",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html"
+    },
+    {
+      "title": "Morningstar, 테슬라는 '믿어 달라는(believe-me) 스토리'",
+      "broker": "Morningstar",
+      "ticker": "TSLA",
+      "summary": "보도에 따르면 모닝스타는 테슬라 기업가치가 로보택시·옵티머스 등 아직 실현되지 않은 신사업에 크게 의존한다고 평가했습니다. 테슬라는 엔비디아 관련 소식으로 3주 만의 최고가에 근접했습니다.",
+      "tier": "ib_news",
+      "source_url": "https://stocktwits.com/news-articles/markets/equity/tsla-stock-nvidia-physical-ai-pivot-optimus-delays/cZMPEiwRBI8"
+    },
+    {
+      "title": "Global Daishin View: 9월 계절적 약세 통념을 깨는 미국 증시",
+      "broker": "대신증권",
+      "summary": "하반월로 갈수록 미국 증시 상방 압력이 높아질 것으로 봄. 알파벳의 크럭스AI를 통한 CapEx 조달 다변화, 전력망 비용 부담 강화로 미국 데이터센터 리츠(Equinix)의 경쟁력 부각을 이번 주 포커스로 제시.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652489"
+    }
+  ],
+  "broker_views": [
+    {
+      "firm": "Morgan Stanley (Michael Wilson)",
+      "view": "보도에 따르면 에너지 가격 상승과 채권시장 변동성이 겹치면 S&P 500이 단기적으로 7%가량 내려 7,100까지 밀릴 수 있다고 경고. 다만 견조한 기업이익을 근거로 연말 목표 8,000은 유지하며 대형 우량주를 선호.",
+      "date": "2026-09-21",
+      "tier": "ib_news",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-wilson-says-us-082353803.html"
+    },
+    {
+      "firm": "Evercore ISI (Mark Mahaney)",
+      "view": "'메타가 뮤즈로 히트작을 손에 넣었다'고 평가. AI 에이전트 플랫폼 경쟁에서 메타가 앞서 나갔다는 시각.",
+      "date": "2026-09-22",
+      "tier": "ib_news",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html"
+    },
+    {
+      "firm": "JPMorgan",
+      "view": "보도에 따르면 강한 2분기 실적과 AI 지출의 수익화를 반영해 S&P 500 목표치를 7,800에서 8,000으로 상향. 올해 EPS 365달러(+35%), 내년 420달러(+15%) 추정.",
+      "date": "2026-08-11",
+      "tier": "ib_news",
+      "source_url": "https://www.seoul.co.kr/news/economy/2026/08/11/20260811500090"
+    },
+    {
+      "firm": "Capital Economics (Hamad Hussain)",
+      "view": "유가 하락은 이란 관련 외교적 진전이 실제로 작동하고 있을 가능성을 보여주는 신호라고 해석.",
+      "date": "2026-09-22",
+      "tier": "ib_news",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html"
+    },
+    {
+      "firm": "유안타증권 (이환욱)",
+      "view": "나스닥 신고가로 위험선호는 강하지만 미국 10년물 금리 5.01%로 상승, FedWatch 10월 인상 확률 56.5%. 금은 월간 -2.1%, WTI 91.9달러로 상품은 약세라고 집계.",
+      "date": "2026-09-22",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652498"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI 에이전트",
+      "meaning": "질문에 답만 하는 챗봇을 넘어, 사람 대신 검색·비교·예약·결제까지 실행하는 AI 비서. 메타 '뮤즈'가 대표 사례로 떠올랐습니다."
+    },
+    {
+      "term": "시가총액 1조달러 클럽",
+      "meaning": "주가×주식 수가 1조달러를 넘는 초대형 기업 그룹. AMD가 21일 새로 들어갔습니다."
+    },
+    {
+      "term": "평균 목표가(컨센서스)",
+      "meaning": "여러 애널리스트 목표주가의 평균. 현재가가 이미 평균 목표가에 닿았다면 기대가 상당히 반영됐다는 뜻으로 읽습니다."
+    },
+    {
+      "term": "국채금리(10년물)",
+      "meaning": "미국 정부가 10년간 돈을 빌릴 때 내는 이자율. 오르면 예금·채권 매력이 커져 주식, 특히 성장주에 부담이 됩니다."
+    },
+    {
+      "term": "CPU와 GPU",
+      "meaning": "CPU는 컴퓨터의 범용 두뇌, GPU는 AI 계산에 특화된 칩. AI 에이전트가 늘면 GPU뿐 아니라 CPU와 서버도 더 필요하다는 논리가 이번 랠리의 핵심입니다."
+    }
+  ]
+}

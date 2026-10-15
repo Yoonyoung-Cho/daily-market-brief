@@ -1,0 +1,76 @@
+{
+  "market": "US",
+  "as_of_date": "2026-06-26",
+  "market_tone": "AI가 주도하는 강세장이 이어지는 가운데 IB들은 2026년 '브로드닝(상승 종목 확산)'을 전망. Goldman은 S&P500 연말 7,600(+6%) 목표와 함께 AI 투자가 S&P 이익성장의 약 40%를 견인(클라우드 빅테크 CapEx 약 $670B)할 것으로 봄. M7 집중에서 벗어나 전통 기업의 생산성 개선으로 확산되는 국면.",
+  "hot_sectors": [
+    {
+      "sector": "반도체 (AI)",
+      "trend": "AI 가속 시 최대 수혜. 멀티플 추가 확장 여지",
+      "drivers": "AI 인프라 CapEx, 데이터센터 수요",
+      "tickers": [
+        "NVDA",
+        "AVGO",
+        "AMD",
+        "TSM"
+      ],
+      "tier": "ib_news",
+      "source_url": "https://www.goldmansachs.com/insights/goldman-sachs-research/equity-outlook-2026-tech-tonic-a-broadening-bull-market",
+      "source_name": "Goldman Sachs Equity Outlook 2026"
+    },
+    {
+      "sector": "클라우드·엔터프라이즈 SW",
+      "trend": "AI 채택 가속의 핵심 수혜처로 지목",
+      "drivers": "클라우드 CapEx $670B, AI 소프트웨어 채택",
+      "tickers": [
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+      ],
+      "tier": "ib_news",
+      "source_url": "https://am.gs.com/en-us/advisors/insights/article/2026/technology-2026-ai-dispersion-diversification",
+      "source_name": "Goldman Sachs AM — Technology 2026"
+    },
+    {
+      "sector": "헬스케어 (GLP-1)",
+      "trend": "방어적이면서 성장형. 비만치료제(GLP-1)·심혈관 모멘텀",
+      "drivers": "GLP-1 시장 확대",
+      "tickers": [],
+      "tier": "ib_news",
+      "source_url": "https://www.goldmansachs.com/insights/articles/us-stocks-forecast-to-rise-in-2026",
+      "source_name": "Goldman Sachs"
+    },
+    {
+      "sector": "금융·산업재 (브로드닝)",
+      "trend": "이익이 밸류를 따라잡으며 비중확대 아이디어로 부상",
+      "drivers": "상승 종목 확산, 테크 멀티플 리프라이싱",
+      "tickers": [],
+      "tier": "ib_news",
+      "source_url": "https://www.jpmorgan.com/insights/global-research/outlook/market-outlook",
+      "source_name": "J.P. Morgan 2026 Outlook"
+    }
+  ],
+  "notable_stocks": [],
+  "broker_views": [
+    {
+      "firm": "Goldman Sachs",
+      "view": "S&P500 7,600(+6%) 목표. 반도체·클라우드·엔터프라이즈 SW가 AI 핵심 수혜. 2026은 강세장 '브로드닝'의 해",
+      "date": "2026",
+      "tier": "ib_news",
+      "source_url": "https://www.goldmansachs.com/insights/goldman-sachs-research/equity-outlook-2026-tech-tonic-a-broadening-bull-market"
+    },
+    {
+      "firm": "J.P. Morgan",
+      "view": "AI 롤아웃 지속에 미국 강세 전망. 대형주>소형주, 성장>가치 비중확대 유지. AI 수혜가 다음 500 종목으로 확산",
+      "date": "2026",
+      "tier": "ib_news",
+      "source_url": "https://www.jpmorgan.com/insights/global-research/outlook/market-outlook"
+    },
+    {
+      "firm": "Morgan Stanley",
+      "view": "2026 리더십이 크게 넓어질 것 — 금융·산업재·헬스케어 비중확대 아이디어",
+      "date": "2026",
+      "tier": "ib_news",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-pulls-no-punches-214700272.html"
+    }
+  ]
+}

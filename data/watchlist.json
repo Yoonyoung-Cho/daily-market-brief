@@ -1,0 +1,30 @@
+{
+  "name": "HOT_THEMES_KR",
+  "title": "핫·굳건 테마 (반도체·방산·조선·원전)",
+  "market": "KR",
+  "description": "2026년 증권사 리서치가 공통으로 가리키는 '핫하면서 굳건한' 대형주 테마. Goldman Sachs는 한국 비중확대(KOSPI 12,000 목표)와 메모리·방산·조선을, JPMorgan은 AI 반도체 견인(KOSPI 10,000)을 제시. 국내(미래에셋 등) 2026 Top Picks도 반도체·조선·방산·원전에 집중. 각 테마의 시총 상위 우량주로 페어를 구성한다.",
+  "source": "가격·시총: FinanceDataReader(KRX). 섹터 선정 근거: Goldman Sachs·J.P.Morgan·미래에셋증권 등 2026 전망 리포트(리포트 일자·링크는 리포트 하단 참조).",
+  "research_sources": [
+    {"firm": "Goldman Sachs", "view": "한국 비중확대(overweight). 메모리 사이클·방산·조선. KOSPI 12개월 목표 12,000", "url": "https://www.goldmansachs.com/insights/articles/koreas-stock-market-is-forecast-to-set-fresh-highs"},
+    {"firm": "J.P. Morgan", "view": "AI 인프라 수요로 반도체 견인. KOSPI 불 케이스 10,000", "url": "https://www.cnbc.com/2026/05/11/jpmorgan-says-kospi-could-jump-over-25percent-to-hit-10000.html"},
+    {"firm": "미래에셋·베스트 애널리스트(국내)", "view": "2026 주도주 반도체, 확산 테마 조선·방산·원전", "url": "https://kr.investing.com/news/stock-market-news/article-1727804"}
+  ],
+  "tickers": [
+    {"ticker": "005930", "name": "삼성전자", "theme": "반도체", "sector_note": "메모리·파운드리 대장주. AI HBM 사이클 핵심."},
+    {"ticker": "000660", "name": "SK하이닉스", "theme": "반도체", "sector_note": "HBM 글로벌 1위. 2026 최선호 주도주."},
+    {"ticker": "402340", "name": "SK스퀘어", "theme": "반도체", "sector_note": "SK하이닉스 보유 투자지주. NAV 디스카운트 관찰용."},
+    {"ticker": "042700", "name": "한미반도체", "theme": "반도체", "sector_note": "HBM TC본더 핵심 장비."},
+    {"ticker": "012450", "name": "한화에어로스페이스", "theme": "방산·우주", "sector_note": "방산 대장주. 수출(폴란드·중동) 모멘텀, 우주 발사체."},
+    {"ticker": "064350", "name": "현대로템", "theme": "방산·우주", "sector_note": "K2 전차 수출(폴란드·중동 협상)."},
+    {"ticker": "079550", "name": "LIG넥스원", "theme": "방산·우주", "sector_note": "미사일·천궁 체계종합. 중동 수출."},
+    {"ticker": "272210", "name": "한화시스템", "theme": "방산·우주", "sector_note": "레이더·방산 전자, 위성 통신."},
+    {"ticker": "047810", "name": "한국항공우주", "theme": "방산·우주", "sector_note": "KAI. 항공기·우주 발사체."},
+    {"ticker": "329180", "name": "HD현대중공업", "theme": "조선", "sector_note": "조선 빅3. 수주잔고 풍부, LNG·특수선."},
+    {"ticker": "042660", "name": "한화오션", "theme": "조선", "sector_note": "(구 대우조선) LNG선·방산함정, 미국 협력."},
+    {"ticker": "010140", "name": "삼성중공업", "theme": "조선", "sector_note": "조선 빅3. LNG선·해양플랜트."},
+    {"ticker": "009540", "name": "HD한국조선해양", "theme": "조선", "sector_note": "HD현대중공업 보유 조선 지주. NAV 관찰용."},
+    {"ticker": "298040", "name": "효성중공업", "theme": "원전·전력", "sector_note": "전력기기(변압기). AI 전력수요·그리드 투자 수혜."},
+    {"ticker": "015760", "name": "한국전력", "theme": "원전·전력", "sector_note": "원전 수출 기대(한미 원자력 협력)."},
+    {"ticker": "010120", "name": "LS ELECTRIC", "theme": "원전·전력", "sector_note": "전력기기·전력인프라."}
+  ]
+}

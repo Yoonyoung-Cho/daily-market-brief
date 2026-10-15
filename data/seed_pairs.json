@@ -1,0 +1,53 @@
+[
+  {"ticker_a": "402340", "name_a": "SK스퀘어", "ticker_b": "000660", "name_b": "SK하이닉스",
+   "relationship_type": "holdco_sub", "mechanism": "지주사 NAV 디스카운트", "pinned": true,
+   "theme": "반도체", "stake_pct": 0.2007, "net_debt": null,
+   "rationale": "SK스퀘어는 SK하이닉스 지분(약 20%)을 보유한 투자지주. 2026 최선호 주도주(하이닉스)에 직접 연동되며, 지주사-자회사 NAV 디스카운트가 가장 굳건한 구조적 관계다.",
+   "notes": "지분율·순부채는 최신 공시로 갱신. 단일 자회사 근사."},
+
+  {"ticker_a": "005930", "name_a": "삼성전자", "ticker_b": "000660", "name_b": "SK하이닉스",
+   "relationship_type": "industry_peer", "mechanism": "메모리(DRAM/HBM) 산업 동조", "theme": "반도체",
+   "rationale": "국내 메모리 양대 산맥. Goldman·JPMorgan 모두 AI 메모리 사이클을 한국 증시의 핵심 동력으로 지목. 업황을 공유해 강하게 동조.",
+   "notes": "2026 최선호 테마"},
+
+  {"ticker_a": "009540", "name_a": "HD한국조선해양", "ticker_b": "329180", "name_b": "HD현대중공업",
+   "relationship_type": "holdco_sub", "mechanism": "지주사 NAV 디스카운트", "theme": "조선",
+   "stake_pct": 0.30, "net_debt": null,
+   "rationale": "HD한국조선해양은 HD현대중공업을 보유한 조선 지주. 조선 빅3 수주잔고 약 135조(3~4년치)로 굳건한 테마이며, 지주-자회사 NAV 관계로 함께 본다.",
+   "notes": "지분율은 최신 공시로 갱신"},
+
+  {"ticker_a": "329180", "name_a": "HD현대중공업", "ticker_b": "010140", "name_b": "삼성중공업",
+   "relationship_type": "industry_peer", "mechanism": "조선 빅3 업황 동조", "theme": "조선",
+   "rationale": "조선 빅3로 LNG선·수주 사이클을 공유. Clarkson은 2026 LNG선 약 115척 발주 전망. 굳건한 수주잔고 기반.",
+   "notes": "조선 빅3"},
+
+  {"ticker_a": "042660", "name_a": "한화오션", "ticker_b": "010140", "name_b": "삼성중공업",
+   "relationship_type": "industry_peer", "mechanism": "조선 빅3 업황 동조", "theme": "조선",
+   "rationale": "LNG선·특수선 사이클 공유. 한화오션은 방산함정·미국 협력 모멘텀도 보유.",
+   "notes": "조선 빅3"},
+
+  {"ticker_a": "012450", "name_a": "한화에어로스페이스", "ticker_b": "079550", "name_b": "LIG넥스원",
+   "relationship_type": "industry_peer", "mechanism": "방산 산업 동조", "theme": "방산·우주",
+   "rationale": "방산 대표주. 중동·폴란드 수출 모멘텀을 공유(Goldman·JPMorgan도 방산을 미국 재산업화 수혜로 지목). 단, 밸류에이션 프리미엄이 높아 변동성 유의.",
+   "notes": "수출 모멘텀, 고밸류"},
+
+  {"ticker_a": "064350", "name_a": "현대로템", "ticker_b": "012450", "name_b": "한화에어로스페이스",
+   "relationship_type": "industry_peer", "mechanism": "방산 산업 동조", "theme": "방산·우주",
+   "rationale": "지상장비(K2 전차)·항공방산 대표주로 같은 수출 사이클을 탄다.",
+   "notes": ""},
+
+  {"ticker_a": "272210", "name_a": "한화시스템", "ticker_b": "079550", "name_b": "LIG넥스원",
+   "relationship_type": "industry_peer", "mechanism": "방산 전자·미사일 동조", "theme": "방산·우주",
+   "rationale": "레이더·체계종합 등 방산 전자 분야 동종. 천궁-II 등 사업을 함께 공유.",
+   "notes": ""},
+
+  {"ticker_a": "047810", "name_a": "한국항공우주", "ticker_b": "012450", "name_b": "한화에어로스페이스",
+   "relationship_type": "industry_peer", "mechanism": "항공·우주 산업 동조", "theme": "방산·우주",
+   "rationale": "KAI(항공기·발사체)와 한화에어로(엔진·우주)는 항공우주 밸류체인을 공유.",
+   "notes": "우주 테마"},
+
+  {"ticker_a": "298040", "name_a": "효성중공업", "ticker_b": "010120", "name_b": "LS ELECTRIC",
+   "relationship_type": "industry_peer", "mechanism": "전력기기 산업 동조", "theme": "원전·전력",
+   "rationale": "변압기 등 전력기기 동종. AI 데이터센터발 전력수요·그리드 투자라는 같은 구조적 흐름을 탄다.",
+   "notes": "전력기기"}
+]
