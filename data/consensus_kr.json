@@ -3,282 +3,276 @@
   "source_url": "https://consensus.hankyung.com/",
   "reports": [
     {
-      "date": "2026-10-15",
-      "category": "시장",
-      "title": "start with ibks\n                        \n                            \n                                start with ibks\n                                \n                                    start with ibks",
-      "ticker": null,
-      "authors": "투자분석부",
-      "broker": "IBK투자증권",
-      "report_idx": "652991",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652991"
-    },
-    {
-      "date": "2026-10-15",
-      "category": "시장",
-      "title": "IBKS Morning Brief\n                        \n                            \n                                IBKS Morning Brief\n                                \n                                    IBKS Morning Brief",
-      "ticker": null,
-      "authors": "기간산업분석부, 혁신기업분석부",
-      "broker": "IBK투자증권",
-      "report_idx": "652990",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652990"
-    },
-    {
-      "date": "2026-10-15",
-      "category": "산업",
-      "title": "[인터넷/게임] IBKS Daily\n                        \n                            \n                                [인터넷/게임] IBKS Daily\n                                \n                                    [인터넷/게임] IBKS Daily",
-      "ticker": null,
-      "authors": "이승훈, 박상준",
-      "broker": "IBK투자증권",
-      "report_idx": "652989",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652989"
-    },
-    {
-      "date": "2026-10-15",
-      "category": "시장",
-      "title": "wake up! 아침에 슼\n                        \n                            \n                                wake up! 아침에 슼\n                                \n                                    wake up! 아침에 슼",
-      "ticker": null,
-      "authors": "sk증권 리서치센터",
-      "broker": "SK증권",
-      "report_idx": "652988",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652988"
-    },
-    {
-      "date": "2026-10-15",
-      "category": "시장",
-      "title": "미국 9월 CPI: 에너지 반등, 비용 전가가 관건\n                        \n                            \n                                미국 9월 CPI: 에너지 반등, 비용 전가가 관건\n                                \n                                    미국 9월 CPI: 에너지 반등, 비용 전가가 관건",
-      "ticker": null,
-      "authors": "신윤정",
-      "broker": "SK증권",
-      "report_idx": "652987",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652987"
-    },
-    {
-      "date": "2026-10-15",
-      "category": "산업",
-      "title": "Global Carbon Daily\n                        \n                            \n                                Global Carbon Daily\n                                \n                                    Global Carbon Daily",
-      "ticker": null,
-      "authors": "최관순",
-      "broker": "SK증권",
-      "report_idx": "652986",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652986"
-    },
-    {
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "category": "기업",
-      "title": "엘앤에프(066970) 환율과 리튬가로 3분기 적자전환 \n                        \n                            \n                                엘앤에프(066970) 환율과 리튬가로 3분기 적자전환 \n                                \n                                    환율과 리튬가로 3분기 적자전환",
-      "ticker": "066970",
-      "authors": "정경희",
-      "broker": "LS증권",
-      "report_idx": "652985",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652985"
-    },
-    {
-      "date": "2026-10-15",
-      "category": "기업",
-      "title": "카카오(035720) B2C AI, 고도화를 기다리며\n                        \n                            \n                                카카오(035720) B2C AI, 고도화를 기다리며\n                                \n                                    B2C AI, 고도화를 기다리며",
-      "ticker": "035720",
-      "authors": "선유진",
-      "broker": "LS증권",
-      "report_idx": "652984",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652984"
-    },
-    {
-      "date": "2026-10-15",
-      "category": "기업",
-      "title": "현대건설(000720) 무난히 달성할 이익 레벨 \n                        \n                            \n                                현대건설(000720) 무난히 달성할 이익 레벨  \n                                \n                                    무난히 달성할 이익 레벨",
-      "ticker": "000720",
-      "authors": "김세련",
-      "broker": "LS증권",
-      "report_idx": "652983",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652983"
-    },
-    {
-      "date": "2026-10-15",
-      "category": "기업",
-      "title": "GS건설(006360) 내실을 다지는 3분기\n                        \n                            \n                                GS건설(006360) 내실을 다지는 3분기\n                                \n                                    내실을 다지는 3분기",
-      "ticker": "006360",
-      "authors": "김세련",
-      "broker": "LS증권",
-      "report_idx": "652982",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652982"
-    },
-    {
-      "date": "2026-10-15",
-      "category": "기업",
-      "title": "기아(000270) 잘 싸웠지만 아쉬운 3분기\n                        \n                            \n                                기아(000270) 잘 싸웠지만 아쉬운 3분기\n                                \n                                    잘 싸웠지만 아쉬운 3분기",
-      "ticker": "000270",
-      "authors": "이병근",
-      "broker": "LS증권",
-      "report_idx": "652981",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652981"
-    },
-    {
-      "date": "2026-10-15",
-      "category": "기업",
-      "title": "클리오(237880) 수익성 회복 본격화, 외형 성장 확대가 관건 \n                        \n                            \n                                클리오(237880) 수익성 회복 본격화, 외형 성장 확대가 관건 \n                                \n                                    수익성 회복 본격화, 외형 성장 확대가 관건",
-      "ticker": "237880",
-      "authors": "박선영,정수현",
+      "title": "알테오젠(196170) 주사는 짧게, 성장은 길게 \n                        \n                            \n                                알테오젠(196170) 주사는 짧게, 성장은 길게 \n                                \n                                    주사는 짧게, 성장은 길게",
+      "ticker": "196170",
+      "authors": "김승준,이금민",
       "broker": "한국IR협의회",
-      "report_idx": "652980",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652980"
+      "report_idx": "653045",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653045"
     },
     {
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "category": "기업",
-      "title": "현대모비스(012330) 견조한 본업, 방어주로 부각될 것\n                        \n                            \n                                현대모비스(012330) 견조한 본업, 방어주로 부각될 것\n                                \n                                    견조한 본업, 방어주로 부각될 것",
-      "ticker": "012330",
-      "authors": "이병근",
-      "broker": "LS증권",
-      "report_idx": "652979",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652979"
+      "title": "피엔티(137400) 이차전지 전극공정 장비 기업 \n                        \n                            \n                                피엔티(137400) 이차전지 전극공정 장비 기업 \n                                \n                                    이차전지 전극공정 장비 기업",
+      "ticker": "137400",
+      "authors": "김선호,홍소현",
+      "broker": "한국IR협의회",
+      "report_idx": "653044",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653044"
     },
     {
-      "date": "2026-10-15",
-      "category": "기업",
-      "title": "HD현대중공업(329180) 업종 내 여전히 매력적인 선택지\n                        \n                            \n                                HD현대중공업(329180) 업종 내 여전히 매력적인 선택지\n                                \n                                    업종 내 여전히 매력적인 선택지",
-      "ticker": "329180",
-      "authors": "이서연",
-      "broker": "상상인증권",
-      "report_idx": "652978",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652978"
-    },
-    {
-      "date": "2026-10-15",
-      "category": "기업",
-      "title": "HK이노엔(195940) 3분기 부진, 4분기 회복\n                        \n                            \n                                HK이노엔(195940) 3분기 부진, 4분기 회복\n                                \n                                    3분기 부진, 4분기 회복",
-      "ticker": "195940",
-      "authors": "이달미",
-      "broker": "상상인증권",
-      "report_idx": "652977",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652977"
-    },
-    {
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "category": "시장",
-      "title": "YUANTA Research | Daily Digital Asset\n                        \n                            \n                                YUANTA Research   |   Daily Digital Asset\n                                \n                                    YUANTA Research | Daily Digital Asset",
+      "title": "2027년 미국주식 연간전망\n                        \n                            \n                                2027년 미국주식 연간전망\n                                \n                                    2027년 미국주식 연간전망",
       "ticker": null,
-      "authors": "이환욱",
-      "broker": "유안타증권",
-      "report_idx": "652976",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652976"
+      "authors": "김경태",
+      "broker": "상상인증권",
+      "report_idx": "653043",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653043"
     },
     {
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "category": "시장",
       "title": "상상인 Macro Daily\n                        \n                            \n                                상상인 Macro Daily\n                                \n                                    상상인 Macro Daily",
       "ticker": null,
       "authors": "투자전략팀",
       "broker": "상상인증권",
-      "report_idx": "652975",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652975"
+      "report_idx": "653042",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653042"
     },
     {
-      "date": "2026-10-15",
+      "date": "2026-10-16",
+      "category": "시장",
+      "title": "한화 주간전략\n                        \n                            \n                                한화 주간전략\n                                \n                                    한화 주간전략",
+      "ticker": null,
+      "authors": "투자전략팀",
+      "broker": "한화투자증권",
+      "report_idx": "653041",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653041"
+    },
+    {
+      "date": "2026-10-16",
+      "category": "기업",
+      "title": "대한항공(003490) [3Q26 Review] 2Q 성과급 미반영분 반영 \n                        \n                            \n                                대한항공(003490) [3Q26 Review] 2Q 성과급 미반영분 반영 \n                                \n                                    [3Q26 Review] 2Q 성과급 미반영분 반영",
+      "ticker": "003490",
+      "authors": "박수영",
+      "broker": "한화투자증권",
+      "report_idx": "653040",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653040"
+    },
+    {
+      "date": "2026-10-16",
+      "category": "경제",
+      "title": "9월 미국 소매판매: 반등보다는 양호하게 유지 \n                        \n                            \n                                9월 미국 소매판매: 반등보다는 양호하게 유지 \n                                \n                                    9월 미국 소매판매: 반등보다는 양호하게 유지",
+      "ticker": null,
+      "authors": "최규호",
+      "broker": "한화투자증권",
+      "report_idx": "653039",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653039"
+    },
+    {
+      "date": "2026-10-16",
+      "category": "시장",
+      "title": "wake up! 아침에 슼\n                        \n                            \n                                wake up! 아침에 슼\n                                \n                                    wake up! 아침에 슼",
+      "ticker": null,
+      "authors": "sk증권 리서치센터",
+      "broker": "SK증권",
+      "report_idx": "653038",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653038"
+    },
+    {
+      "date": "2026-10-16",
+      "category": "시장",
+      "title": "[매크로COMMENT] 미국 PPI·소매판매: 매출증가보다 무거워진 비용부담\n                        \n                            \n                                [매크로COMMENT] 미국 PPI·소매판매: 매출증가보다 무거워진 비용부담\n                                \n                                    [매크로COMMENT] 미국 PPI·소매판매: 매출증가보다 무거워진 비용부담",
+      "ticker": null,
+      "authors": "신윤정",
+      "broker": "SK증권",
+      "report_idx": "653037",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653037"
+    },
+    {
+      "date": "2026-10-16",
+      "category": "산업",
+      "title": "ESG snapshot : 저PBR 공표 앞두고 기업가치제고계획 공시 시한 임박\n                        \n                            \n                                ESG snapshot : 저PBR 공표 앞두고 기업가치제고계획 공시 시한 임박\n                                \n                                    ESG snapshot : 저PBR 공표 앞두고 기업가치제고계획 공시 시한 임박",
+      "ticker": null,
+      "authors": "최관순",
+      "broker": "SK증권",
+      "report_idx": "653036",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653036"
+    },
+    {
+      "date": "2026-10-16",
+      "category": "산업",
+      "title": "[은행] 9월 여수신 동향 – 조달 포트폴리오 악화 지속\n                        \n                            \n                                [은행] 9월 여수신 동향 – 조달 포트폴리오 악화 지속\n                                \n                                    [은행] 9월 여수신 동향 – 조달 포트폴리오 악화 지속",
+      "ticker": null,
+      "authors": "장영임",
+      "broker": "SK증권",
+      "report_idx": "653035",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653035"
+    },
+    {
+      "date": "2026-10-16",
+      "category": "산업",
+      "title": "Global Carbon Daily\n                        \n                            \n                                Global Carbon Daily\n                                \n                                    Global Carbon Daily",
+      "ticker": null,
+      "authors": "최관순",
+      "broker": "SK증권",
+      "report_idx": "653034",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653034"
+    },
+    {
+      "date": "2026-10-16",
+      "category": "산업",
+      "title": "[매수] 극단적 다운턴을 선반영하고 있는 주가. 업황은 여전히 강세 \n                        \n                            \n                                [매수] 극단적 다운턴을 선반영하고 있는 주가. 업황은 여전히 강세 \n                                \n                                    [매수] 극단적 다운턴을 선반영하고 있는 주가. 업황은 여전히 강세",
+      "ticker": null,
+      "authors": "한동희",
+      "broker": "SK증권",
+      "report_idx": "653033",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653033"
+    },
+    {
+      "date": "2026-10-16",
+      "category": "기업",
+      "title": "대우건설(047040) 곧 수주가 대거 몰려온다! \n                        \n                            \n                                대우건설(047040) 곧 수주가 대거 몰려온다! \n                                \n                                    곧 수주가 대거 몰려온다!",
+      "ticker": "047040",
+      "authors": "김도엽",
+      "broker": "유안타증권",
+      "report_idx": "653032",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653032"
+    },
+    {
+      "date": "2026-10-16",
+      "category": "기업",
+      "title": "DL이앤씨(375500) 플랜트는 아쉽지만, 본업은 여전히 든든하다!\n                        \n                            \n                                DL이앤씨(375500) 플랜트는 아쉽지만, 본업은 여전히 든든하다!\n                                \n                                    플랜트는 아쉽지만, 본업은 여전히 든든하다!",
+      "ticker": "375500",
+      "authors": "김도엽",
+      "broker": "유안타증권",
+      "report_idx": "653031",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653031"
+    },
+    {
+      "date": "2026-10-16",
+      "category": "기업",
+      "title": "GS건설(006360) 데이터센터 준비 갈 완료\n                        \n                            \n                                GS건설(006360) 데이터센터 준비 갈 완료\n                                \n                                    데이터센터 준비 갈 완료",
+      "ticker": "006360",
+      "authors": "김도엽",
+      "broker": "유안타증권",
+      "report_idx": "653030",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653030"
+    },
+    {
+      "date": "2026-10-16",
+      "category": "기업",
+      "title": "삼성E&A(028050) 수주는 이미 초과 달성, 실적도 순항 중\n                        \n                            \n                                삼성E&A(028050) 수주는 이미 초과 달성, 실적도 순항 중\n                                \n                                    수주는 이미 초과 달성, 실적도 순항 중",
+      "ticker": "028050",
+      "authors": "김도엽",
+      "broker": "유안타증권",
+      "report_idx": "653029",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653029"
+    },
+    {
+      "date": "2026-10-16",
+      "category": "기업",
+      "title": "에스원(012750) 화끈한 주주환원과 미래성장 투자 \n                        \n                            \n                                에스원(012750) 화끈한 주주환원과 미래성장 투자 \n                                \n                                    화끈한 주주환원과 미래성장 투자",
+      "ticker": "012750",
+      "authors": "이창영, 김영민",
+      "broker": "유안타증권",
+      "report_idx": "653028",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653028"
+    },
+    {
+      "date": "2026-10-16",
+      "category": "기업",
+      "title": "대한항공(003490) 비용 부담에도 확인된 이익 체력\n                        \n                            \n                                대한항공(003490) 비용 부담에도 확인된 이익 체력\n                                \n                                    비용 부담에도 확인된 이익 체력",
+      "ticker": "003490",
+      "authors": "최지운",
+      "broker": "유안타증권",
+      "report_idx": "653027",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653027"
+    },
+    {
+      "date": "2026-10-16",
       "category": "시장",
       "title": "YUANTA DAILY MARKET VIEW\n                        \n                            \n                                YUANTA DAILY MARKET VIEW\n                                \n                                    YUANTA DAILY MARKET VIEW",
       "ticker": null,
       "authors": "리서치센터",
       "broker": "유안타증권",
-      "report_idx": "652974",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652974"
-    },
-    {
-      "date": "2026-10-15",
-      "category": "시장",
-      "title": "[유안타이슈테마] 로봇 규제개선 & 정책지원 구체화\n                        \n                            \n                                [유안타이슈테마] 로봇 규제개선 & 정책지원 구체화\n                                \n                                    [유안타이슈테마] 로봇 규제개선 & 정책지원 구체화",
-      "ticker": null,
-      "authors": "권명준,서석준",
-      "broker": "유안타증권",
-      "report_idx": "652973",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652973"
-    },
-    {
-      "date": "2026-10-15",
-      "category": "산업",
-      "title": "Oct, ‘26: 업황 좋은데 밴드 하단이거나 뚫었거나 \n                        \n                            \n                                Oct, ‘26: 업황 좋은데 밴드 하단이거나 뚫었거나 \n                                \n                                    Oct, ‘26: 업황 좋은데 밴드 하단이거나 뚫었거나",
-      "ticker": null,
-      "authors": "박수영",
-      "broker": "한화투자증권",
-      "report_idx": "652972",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=652972"
+      "report_idx": "653026",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653026"
     }
   ],
   "by_category": {
     "기업": 9,
-    "시장": 8,
-    "산업": 3
+    "시장": 6,
+    "산업": 4,
+    "경제": 1
   },
   "top_tickers": [
     {
-      "ticker": "066970",
-      "count": 1,
-      "sample_title": "엘앤에프(066970) 환율과 리튬가로 3분기 적자전환 \n                        \n                            \n                                엘앤에프(066970) 환율과 리튬가로 3분기 적자전환 \n                                \n                                    환율과 리튬가로 3분기 적자전환",
+      "ticker": "003490",
+      "count": 2,
+      "sample_title": "대한항공(003490) [3Q26 Review] 2Q 성과급 미반영분 반영 \n                        \n                            \n                                대한항공(003490) [3Q26 Review] 2Q 성과급 미반영분 반영 \n                                \n                                    [3Q26 Review] 2Q 성과급 미반영분 반영",
       "brokers": [
-        "LS증권"
+        "유안타증권",
+        "한화투자증권"
       ]
     },
     {
-      "ticker": "035720",
+      "ticker": "196170",
       "count": 1,
-      "sample_title": "카카오(035720) B2C AI, 고도화를 기다리며\n                        \n                            \n                                카카오(035720) B2C AI, 고도화를 기다리며\n                                \n                                    B2C AI, 고도화를 기다리며",
-      "brokers": [
-        "LS증권"
-      ]
-    },
-    {
-      "ticker": "000720",
-      "count": 1,
-      "sample_title": "현대건설(000720) 무난히 달성할 이익 레벨 \n                        \n                            \n                                현대건설(000720) 무난히 달성할 이익 레벨  \n                                \n                                    무난히 달성할 이익 레벨",
-      "brokers": [
-        "LS증권"
-      ]
-    },
-    {
-      "ticker": "006360",
-      "count": 1,
-      "sample_title": "GS건설(006360) 내실을 다지는 3분기\n                        \n                            \n                                GS건설(006360) 내실을 다지는 3분기\n                                \n                                    내실을 다지는 3분기",
-      "brokers": [
-        "LS증권"
-      ]
-    },
-    {
-      "ticker": "000270",
-      "count": 1,
-      "sample_title": "기아(000270) 잘 싸웠지만 아쉬운 3분기\n                        \n                            \n                                기아(000270) 잘 싸웠지만 아쉬운 3분기\n                                \n                                    잘 싸웠지만 아쉬운 3분기",
-      "brokers": [
-        "LS증권"
-      ]
-    },
-    {
-      "ticker": "237880",
-      "count": 1,
-      "sample_title": "클리오(237880) 수익성 회복 본격화, 외형 성장 확대가 관건 \n                        \n                            \n                                클리오(237880) 수익성 회복 본격화, 외형 성장 확대가 관건 \n                                \n                                    수익성 회복 본격화, 외형 성장 확대가 관건",
+      "sample_title": "알테오젠(196170) 주사는 짧게, 성장은 길게 \n                        \n                            \n                                알테오젠(196170) 주사는 짧게, 성장은 길게 \n                                \n                                    주사는 짧게, 성장은 길게",
       "brokers": [
         "한국IR협의회"
       ]
     },
     {
-      "ticker": "012330",
+      "ticker": "137400",
       "count": 1,
-      "sample_title": "현대모비스(012330) 견조한 본업, 방어주로 부각될 것\n                        \n                            \n                                현대모비스(012330) 견조한 본업, 방어주로 부각될 것\n                                \n                                    견조한 본업, 방어주로 부각될 것",
+      "sample_title": "피엔티(137400) 이차전지 전극공정 장비 기업 \n                        \n                            \n                                피엔티(137400) 이차전지 전극공정 장비 기업 \n                                \n                                    이차전지 전극공정 장비 기업",
       "brokers": [
-        "LS증권"
+        "한국IR협의회"
       ]
     },
     {
-      "ticker": "329180",
+      "ticker": "047040",
       "count": 1,
-      "sample_title": "HD현대중공업(329180) 업종 내 여전히 매력적인 선택지\n                        \n                            \n                                HD현대중공업(329180) 업종 내 여전히 매력적인 선택지\n                                \n                                    업종 내 여전히 매력적인 선택지",
+      "sample_title": "대우건설(047040) 곧 수주가 대거 몰려온다! \n                        \n                            \n                                대우건설(047040) 곧 수주가 대거 몰려온다! \n                                \n                                    곧 수주가 대거 몰려온다!",
       "brokers": [
-        "상상인증권"
+        "유안타증권"
       ]
     },
     {
-      "ticker": "195940",
+      "ticker": "375500",
       "count": 1,
-      "sample_title": "HK이노엔(195940) 3분기 부진, 4분기 회복\n                        \n                            \n                                HK이노엔(195940) 3분기 부진, 4분기 회복\n                                \n                                    3분기 부진, 4분기 회복",
+      "sample_title": "DL이앤씨(375500) 플랜트는 아쉽지만, 본업은 여전히 든든하다!\n                        \n                            \n                                DL이앤씨(375500) 플랜트는 아쉽지만, 본업은 여전히 든든하다!\n                                \n                                    플랜트는 아쉽지만, 본업은 여전히 든든하다!",
       "brokers": [
-        "상상인증권"
+        "유안타증권"
+      ]
+    },
+    {
+      "ticker": "006360",
+      "count": 1,
+      "sample_title": "GS건설(006360) 데이터센터 준비 갈 완료\n                        \n                            \n                                GS건설(006360) 데이터센터 준비 갈 완료\n                                \n                                    데이터센터 준비 갈 완료",
+      "brokers": [
+        "유안타증권"
+      ]
+    },
+    {
+      "ticker": "028050",
+      "count": 1,
+      "sample_title": "삼성E&A(028050) 수주는 이미 초과 달성, 실적도 순항 중\n                        \n                            \n                                삼성E&A(028050) 수주는 이미 초과 달성, 실적도 순항 중\n                                \n                                    수주는 이미 초과 달성, 실적도 순항 중",
+      "brokers": [
+        "유안타증권"
+      ]
+    },
+    {
+      "ticker": "012750",
+      "count": 1,
+      "sample_title": "에스원(012750) 화끈한 주주환원과 미래성장 투자 \n                        \n                            \n                                에스원(012750) 화끈한 주주환원과 미래성장 투자 \n                                \n                                    화끈한 주주환원과 미래성장 투자",
+      "brokers": [
+        "유안타증권"
       ]
     }
   ],
