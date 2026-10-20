@@ -3,291 +3,268 @@
   "source_url": "https://consensus.hankyung.com/",
   "reports": [
     {
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "category": "기업",
-      "title": "SK텔레콤(017670) 안정적인 이익 수준 유지 중\n                        \n                            \n                                SK텔레콤(017670) 안정적인 이익 수준 유지 중\n                                \n                                    안정적인 이익 수준 유지 중",
-      "ticker": "017670",
-      "authors": "신희철",
-      "broker": "iM증권",
-      "report_idx": "653094",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653094"
+      "title": "디어유(376300) 북미와 오프라인으로 확장되는 버블 \n                        \n                            \n                                디어유(376300) 북미와 오프라인으로 확장되는 버블 \n                                \n                                    북미와 오프라인으로 확장되는 버블",
+      "ticker": "376300",
+      "authors": "채윤석,정수현",
+      "broker": "한국IR협의회",
+      "report_idx": "653138",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653138"
     },
     {
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "category": "기업",
-      "title": "LS ELECTRIC(010120) 단납기 수주로 실적개선 가속화 및 800VDC 성장성 가시화 \n                        \n                            \n                                LS ELECTRIC(010120) 단납기 수주로 실적개선 가속화 및 800VDC 성장성 가시화 \n                                \n                                    단납기 수주로 실적개선 가속화 및 800VDC 성장성 가시화",
-      "ticker": "010120",
-      "authors": "이상헌",
-      "broker": "iM증권",
-      "report_idx": "653093",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653093"
+      "title": "샘씨엔에스(252990) 3Q26 Preview: 영업이익 +84.6% YoY 전망\n                        \n                            \n                                샘씨엔에스(252990) 3Q26 Preview: 영업이익 +84.6% YoY 전망\n                                \n                                    3Q26 Preview: 영업이익 +84.6% YoY 전망",
+      "ticker": "252990",
+      "authors": "정홍식",
+      "broker": "LS증권",
+      "report_idx": "653137",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653137"
     },
     {
-      "date": "2026-10-19",
-      "category": "기업",
-      "title": "대한항공(003490) 과도한 주가 하락은 매수 기회\n                        \n                            \n                                대한항공(003490) 과도한 주가 하락은 매수 기회\n                                \n                                    과도한 주가 하락은 매수 기회",
-      "ticker": "003490",
-      "authors": "배세호",
-      "broker": "iM증권",
-      "report_idx": "653092",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653092"
-    },
-    {
-      "date": "2026-10-19",
-      "category": "기업",
-      "title": "대덕전자(353200) 3Q 실적 추정치 상향 조정 → 서프 기대\n                        \n                            \n                                대덕전자(353200) 3Q 실적 추정치 상향 조정 → 서프 기대\n                                \n                                    3Q 실적 추정치 상향 조정 → 서프 기대",
-      "ticker": "353200",
-      "authors": "고의영,박정하",
-      "broker": "iM증권",
-      "report_idx": "653091",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653091"
-    },
-    {
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "category": "산업",
-      "title": "IM Steel Weekly\n                        \n                            \n                                IM Steel Weekly\n                                \n                                    IM Steel Weekly",
+      "title": "금융의 AX 어디까지 왔는가\n                        \n                            \n                                금융의 AX 어디까지 왔는가\n                                \n                                    금융의 AX 어디까지 왔는가",
       "ticker": null,
-      "authors": "김윤상",
-      "broker": "iM증권",
-      "report_idx": "653090",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653090"
+      "authors": "전배승, 전채원",
+      "broker": "LS증권",
+      "report_idx": "653136",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653136"
     },
     {
-      "date": "2026-10-19",
+      "date": "2026-10-20",
+      "category": "기업",
+      "title": "현대로템(064350) 3Q26 Re: 양호한 수익성, 정상화될 추정치\n                        \n                            \n                                현대로템(064350) 3Q26 Re: 양호한 수익성, 정상화될 추정치\n                                \n                                    3Q26 Re: 양호한 수익성, 정상화될 추정치",
+      "ticker": "064350",
+      "authors": "백종민",
+      "broker": "유안타증권",
+      "report_idx": "653135",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653135"
+    },
+    {
+      "date": "2026-10-20",
+      "category": "기업",
+      "title": "와이지엔터테인먼트(122870) 3Q26 Preview: 컨센서스 부합 전망\n                        \n                            \n                                와이지엔터테인먼트(122870) 3Q26 Preview: 컨센서스 부합 전망\n                                \n                                    3Q26 Preview: 컨센서스 부합 전망",
+      "ticker": "122870",
+      "authors": "이환욱",
+      "broker": "유안타증권",
+      "report_idx": "653134",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653134"
+    },
+    {
+      "date": "2026-10-20",
+      "category": "시장",
+      "title": "YUANTA Research | Daily Digital Asset\n                        \n                            \n                                YUANTA Research   |   Daily Digital Asset\n                                \n                                    YUANTA Research | Daily Digital Asset",
+      "ticker": null,
+      "authors": "이환욱",
+      "broker": "유안타증권",
+      "report_idx": "653133",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653133"
+    },
+    {
+      "date": "2026-10-20",
+      "category": "시장",
+      "title": "YUANTA DAILY MARKET VIEW\n                        \n                            \n                                YUANTA DAILY MARKET VIEW\n                                \n                                    YUANTA DAILY MARKET VIEW",
+      "ticker": null,
+      "authors": "리서치센터",
+      "broker": "유안타증권",
+      "report_idx": "653132",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653132"
+    },
+    {
+      "date": "2026-10-20",
+      "category": "시장",
+      "title": "wake up! 아침에 슼\n                        \n                            \n                                wake up! 아침에 슼\n                                \n                                    wake up! 아침에 슼",
+      "ticker": null,
+      "authors": "SK증권 리서치센터",
+      "broker": "SK증권",
+      "report_idx": "653131",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653131"
+    },
+    {
+      "date": "2026-10-20",
+      "category": "기업",
+      "title": "F&F(383220) 중국 실적 눈높이 하향\n                        \n                            \n                                F&F(383220) 중국 실적 눈높이 하향\n                                \n                                    중국 실적 눈높이 하향",
+      "ticker": "383220",
+      "authors": "형권훈",
+      "broker": "SK증권",
+      "report_idx": "653130",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653130"
+    },
+    {
+      "date": "2026-10-20",
+      "category": "기업",
+      "title": "현대로템(064350) 밸류 부담 낮아졌지만, 불확실성 해소는 필요 \n                        \n                            \n                                현대로템(064350) 밸류 부담 낮아졌지만, 불확실성 해소는 필요 \n                                \n                                    밸류 부담 낮아졌지만, 불확실성 해소는 필요",
+      "ticker": "064350",
+      "authors": "고서영",
+      "broker": "SK증권",
+      "report_idx": "653129",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653129"
+    },
+    {
+      "date": "2026-10-20",
+      "category": "기업",
+      "title": "코세스(089890) 수주에서 실적으로, 다시 주목할 시점\n                        \n                            \n                                코세스(089890) 수주에서 실적으로, 다시 주목할 시점\n                                \n                                    수주에서 실적으로, 다시 주목할 시점",
+      "ticker": "089890",
+      "authors": "허선재",
+      "broker": "SK증권",
+      "report_idx": "653128",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653128"
+    },
+    {
+      "date": "2026-10-20",
       "category": "시장",
       "title": "start with ibks\n                        \n                            \n                                start with ibks\n                                \n                                    start with ibks",
       "ticker": null,
       "authors": "투자분석부",
       "broker": "IBK투자증권",
-      "report_idx": "653089",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653089"
+      "report_idx": "653127",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653127"
     },
     {
-      "date": "2026-10-19",
-      "category": "산업",
-      "title": "[인터넷/게임] IBKS Daily\n                        \n                            \n                                [인터넷/게임] IBKS Daily\n                                \n                                    [인터넷/게임] IBKS Daily",
-      "ticker": null,
-      "authors": "이승훈, 박상준",
-      "broker": "IBK투자증권",
-      "report_idx": "653088",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653088"
-    },
-    {
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "category": "시장",
       "title": "IBKS Morning Brief\n                        \n                            \n                                IBKS Morning Brief\n                                \n                                    IBKS Morning Brief",
       "ticker": null,
       "authors": "기간산업분석부, 혁신기업분석부",
       "broker": "IBK투자증권",
-      "report_idx": "653087",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653087"
+      "report_idx": "653126",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653126"
     },
     {
-      "date": "2026-10-19",
+      "date": "2026-10-20",
+      "category": "산업",
+      "title": "[인터넷/게임] IBKS Daily\n                        \n                            \n                                [인터넷/게임] IBKS Daily\n                                \n                                    [인터넷/게임] IBKS Daily",
+      "ticker": null,
+      "authors": "이승훈, 박상준",
+      "broker": "IBK투자증권",
+      "report_idx": "653125",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653125"
+    },
+    {
+      "date": "2026-10-20",
       "category": "시장",
-      "title": "IBKS Spot Comment : [화학] 태양광, 미국은 가격을 높이고 중국은 기술을 담근다\n                        \n                            \n                                IBKS Spot Comment : [화학] 태양광, 미국은 가격을 높이고 중국은 기술을 담근다\n                                \n                                    IBKS Spot Comment : [화학] 태양광, 미국은 가격을 높이고 중국은 기술을 담근다",
+      "title": "IBKS Spot Comment : [화학] 코오롱인더, 폴더블폰이 CPI 공장을 깨운다 \n                        \n                            \n                                IBKS Spot Comment : [화학] 코오롱인더, 폴더블폰이 CPI 공장을 깨운다 \n                                \n                                    IBKS Spot Comment : [화학] 코오롱인더, 폴더블폰이 CPI 공장을 깨운다",
       "ticker": null,
       "authors": "이동욱",
       "broker": "IBK투자증권",
-      "report_idx": "653086",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653086"
+      "report_idx": "653124",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653124"
     },
     {
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "category": "시장",
-      "title": "Market NOWCAST : 깊어진 낙폭\n                        \n                            \n                                Market NOWCAST : 깊어진 낙폭\n                                \n                                    Market NOWCAST : 깊어진 낙폭",
+      "title": "IBKS Spot Comment : [화학/정유] 휘발유가 끌어올린 방향족 가치\n                        \n                            \n                                IBKS Spot Comment : [화학/정유] 휘발유가 끌어올린 방향족 가치\n                                \n                                    IBKS Spot Comment : [화학/정유] 휘발유가 끌어올린 방향족 가치",
       "ticker": null,
-      "authors": "조준기",
-      "broker": "SK증권",
-      "report_idx": "653085",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653085"
+      "authors": "이동욱",
+      "broker": "IBK투자증권",
+      "report_idx": "653123",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653123"
     },
     {
-      "date": "2026-10-19",
-      "category": "산업",
-      "title": "메모리로 재확장 \n                        \n                            \n                                메모리로 재확장 \n                                \n                                    메모리로 재확장",
-      "ticker": null,
-      "authors": "이동주",
-      "broker": "SK증권",
-      "report_idx": "653084",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653084"
-    },
-    {
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "category": "시장",
-      "title": "[중소형주] 조정에서 나타난 특징\n                        \n                            \n                                [중소형주] 조정에서 나타난 특징\n                                \n                                    [중소형주] 조정에서 나타난 특징",
+      "title": "IBKS Spot Comment : [화학] LG화학, ESS가 본업의 이익을 바꾼다 \n                        \n                            \n                                IBKS Spot Comment : [화학] LG화학, ESS가 본업의 이익을 바꾼다 \n                                \n                                    IBKS Spot Comment : [화학] LG화학, ESS가 본업의 이익을 바꾼다",
       "ticker": null,
-      "authors": "나승두",
-      "broker": "SK증권",
-      "report_idx": "653083",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653083"
+      "authors": "이동욱",
+      "broker": "IBK투자증권",
+      "report_idx": "653122",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653122"
     },
     {
-      "date": "2026-10-19",
-      "category": "기업",
-      "title": "효성중공업(298040) 펀더멘털은 여전히 견고 \n                        \n                            \n                                효성중공업(298040) 펀더멘털은 여전히 견고 \n                                \n                                    펀더멘털은 여전히 견고",
-      "ticker": "298040",
-      "authors": "나민식",
-      "broker": "SK증권",
-      "report_idx": "653082",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653082"
+      "date": "2026-10-20",
+      "category": "시장",
+      "title": "IBKS Spot Comment : [에너지] 가스는 돌아오지 않았다 \n                        \n                            \n                                IBKS Spot Comment : [에너지] 가스는 돌아오지 않았다 \n                                \n                                    IBKS Spot Comment : [에너지] 가스는 돌아오지 않았다",
+      "ticker": null,
+      "authors": "이동욱",
+      "broker": "IBK투자증권",
+      "report_idx": "653121",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653121"
     },
     {
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "category": "기업",
-      "title": "HD현대일렉트릭(267260) 일시적인 환율 역풍 \n                        \n                            \n                                HD현대일렉트릭(267260) 일시적인 환율 역풍 \n                                \n                                    일시적인 환율 역풍",
-      "ticker": "267260",
-      "authors": "나민식",
-      "broker": "SK증권",
-      "report_idx": "653081",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653081"
+      "title": "삼성전기(009150) 실적 개선 속도를 주가가 못 따라간다\n                        \n                            \n                                삼성전기(009150) 실적 개선 속도를 주가가 못 따라간다\n                                \n                                    실적 개선 속도를 주가가 못 따라간다",
+      "ticker": "009150",
+      "authors": "김운호, 고혁진",
+      "broker": "IBK투자증권",
+      "report_idx": "653120",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653120"
     },
     {
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "category": "기업",
-      "title": "OCI(456040) 반도체 소재로 차근차근 전진\n                        \n                            \n                                OCI(456040) 반도체 소재로 차근차근 전진\n                                \n                                    반도체 소재로 차근차근 전진",
-      "ticker": "456040",
-      "authors": "정경희",
-      "broker": "LS증권",
-      "report_idx": "653080",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653080"
-    },
-    {
-      "date": "2026-10-19",
-      "category": "기업",
-      "title": "CJ대한통운(000120) 3Q26 Preview: 성장통 \n                        \n                            \n                                CJ대한통운(000120) 3Q26 Preview: 성장통 \n                                \n                                    3Q26 Preview: 성장통",
-      "ticker": "000120",
-      "authors": "이재혁",
-      "broker": "LS증권",
-      "report_idx": "653079",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653079"
-    },
-    {
-      "date": "2026-10-19",
-      "category": "기업",
-      "title": "대한항공(003490) 3Q26 Review: 고유가 면역력\n                        \n                            \n                                대한항공(003490) 3Q26 Review: 고유가 면역력\n                                \n                                    3Q26 Review: 고유가 면역력",
-      "ticker": "003490",
-      "authors": "이재혁",
-      "broker": "LS증권",
-      "report_idx": "653078",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653078"
-    },
-    {
-      "date": "2026-10-19",
-      "category": "기업",
-      "title": "LG화학(051910) 3분기 LGES 일회성이익 추가, 과징금 업데이트 \n                        \n                            \n                                LG화학(051910) 3분기 LGES 일회성이익 추가, 과징금 업데이트 \n                                \n                                    3분기 LGES 일회성이익 추가, 과징금 업데이트",
-      "ticker": "051910",
-      "authors": "정경희",
-      "broker": "LS증권",
-      "report_idx": "653077",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653077"
-    },
-    {
-      "date": "2026-10-19",
-      "category": "기업",
-      "title": "하이브(352820) 견조한 실적 성장\n                        \n                            \n                                하이브(352820) 견조한 실적 성장\n                                \n                                    견조한 실적 성장",
-      "ticker": "352820",
-      "authors": "박성호",
-      "broker": "LS증권",
-      "report_idx": "653076",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653076"
-    },
-    {
-      "date": "2026-10-19",
-      "category": "기업",
-      "title": "KT&G(033780) 불확실성 상쇄하는 주주환원 \n                        \n                            \n                                KT&G(033780) 불확실성 상쇄하는 주주환원  \n                                \n                                    불확실성 상쇄하는 주주환원",
-      "ticker": "033780",
-      "authors": "박성호",
-      "broker": "LS증권",
-      "report_idx": "653075",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653075"
+      "title": "삼성전기(009150) 패키지기판 수주 공시 코멘트: FC-BGA에 이어 BGA까지 \n                        \n                            \n                                삼성전기(009150) 패키지기판 수주 공시 코멘트: FC-BGA에 이어 BGA까지 \n                                \n                                    패키지기판 수주 공시 코멘트: FC-BGA에 이어 BGA까지",
+      "ticker": "009150",
+      "authors": "고의영, 박정하",
+      "broker": "iM증권",
+      "report_idx": "653119",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653119"
     }
   ],
   "by_category": {
-    "기업": 12,
-    "시장": 5,
-    "산업": 3
+    "기업": 9,
+    "시장": 9,
+    "산업": 2
   },
   "top_tickers": [
     {
-      "ticker": "003490",
+      "ticker": "064350",
       "count": 2,
-      "sample_title": "대한항공(003490) 과도한 주가 하락은 매수 기회\n                        \n                            \n                                대한항공(003490) 과도한 주가 하락은 매수 기회\n                                \n                                    과도한 주가 하락은 매수 기회",
+      "sample_title": "현대로템(064350) 3Q26 Re: 양호한 수익성, 정상화될 추정치\n                        \n                            \n                                현대로템(064350) 3Q26 Re: 양호한 수익성, 정상화될 추정치\n                                \n                                    3Q26 Re: 양호한 수익성, 정상화될 추정치",
       "brokers": [
-        "LS증권",
+        "SK증권",
+        "유안타증권"
+      ]
+    },
+    {
+      "ticker": "009150",
+      "count": 2,
+      "sample_title": "삼성전기(009150) 실적 개선 속도를 주가가 못 따라간다\n                        \n                            \n                                삼성전기(009150) 실적 개선 속도를 주가가 못 따라간다\n                                \n                                    실적 개선 속도를 주가가 못 따라간다",
+      "brokers": [
+        "IBK투자증권",
         "iM증권"
       ]
     },
     {
-      "ticker": "017670",
+      "ticker": "376300",
       "count": 1,
-      "sample_title": "SK텔레콤(017670) 안정적인 이익 수준 유지 중\n                        \n                            \n                                SK텔레콤(017670) 안정적인 이익 수준 유지 중\n                                \n                                    안정적인 이익 수준 유지 중",
+      "sample_title": "디어유(376300) 북미와 오프라인으로 확장되는 버블 \n                        \n                            \n                                디어유(376300) 북미와 오프라인으로 확장되는 버블 \n                                \n                                    북미와 오프라인으로 확장되는 버블",
       "brokers": [
-        "iM증권"
+        "한국IR협의회"
       ]
     },
     {
-      "ticker": "010120",
+      "ticker": "252990",
       "count": 1,
-      "sample_title": "LS ELECTRIC(010120) 단납기 수주로 실적개선 가속화 및 800VDC 성장성 가시화 \n                        \n                            \n                                LS ELECTRIC(010120) 단납기 수주로 실적개선 가속화 및 800VDC 성장성 가시화 \n                                \n                                    단납기 수주로 실적개선 가속화 및 800VDC 성장성 가시화",
+      "sample_title": "샘씨엔에스(252990) 3Q26 Preview: 영업이익 +84.6% YoY 전망\n                        \n                            \n                                샘씨엔에스(252990) 3Q26 Preview: 영업이익 +84.6% YoY 전망\n                                \n                                    3Q26 Preview: 영업이익 +84.6% YoY 전망",
       "brokers": [
-        "iM증권"
+        "LS증권"
       ]
     },
     {
-      "ticker": "353200",
+      "ticker": "122870",
       "count": 1,
-      "sample_title": "대덕전자(353200) 3Q 실적 추정치 상향 조정 → 서프 기대\n                        \n                            \n                                대덕전자(353200) 3Q 실적 추정치 상향 조정 → 서프 기대\n                                \n                                    3Q 실적 추정치 상향 조정 → 서프 기대",
+      "sample_title": "와이지엔터테인먼트(122870) 3Q26 Preview: 컨센서스 부합 전망\n                        \n                            \n                                와이지엔터테인먼트(122870) 3Q26 Preview: 컨센서스 부합 전망\n                                \n                                    3Q26 Preview: 컨센서스 부합 전망",
       "brokers": [
-        "iM증권"
+        "유안타증권"
       ]
     },
     {
-      "ticker": "298040",
+      "ticker": "383220",
       "count": 1,
-      "sample_title": "효성중공업(298040) 펀더멘털은 여전히 견고 \n                        \n                            \n                                효성중공업(298040) 펀더멘털은 여전히 견고 \n                                \n                                    펀더멘털은 여전히 견고",
+      "sample_title": "F&F(383220) 중국 실적 눈높이 하향\n                        \n                            \n                                F&F(383220) 중국 실적 눈높이 하향\n                                \n                                    중국 실적 눈높이 하향",
       "brokers": [
         "SK증권"
       ]
     },
     {
-      "ticker": "267260",
+      "ticker": "089890",
       "count": 1,
-      "sample_title": "HD현대일렉트릭(267260) 일시적인 환율 역풍 \n                        \n                            \n                                HD현대일렉트릭(267260) 일시적인 환율 역풍 \n                                \n                                    일시적인 환율 역풍",
+      "sample_title": "코세스(089890) 수주에서 실적으로, 다시 주목할 시점\n                        \n                            \n                                코세스(089890) 수주에서 실적으로, 다시 주목할 시점\n                                \n                                    수주에서 실적으로, 다시 주목할 시점",
       "brokers": [
         "SK증권"
-      ]
-    },
-    {
-      "ticker": "456040",
-      "count": 1,
-      "sample_title": "OCI(456040) 반도체 소재로 차근차근 전진\n                        \n                            \n                                OCI(456040) 반도체 소재로 차근차근 전진\n                                \n                                    반도체 소재로 차근차근 전진",
-      "brokers": [
-        "LS증권"
-      ]
-    },
-    {
-      "ticker": "000120",
-      "count": 1,
-      "sample_title": "CJ대한통운(000120) 3Q26 Preview: 성장통 \n                        \n                            \n                                CJ대한통운(000120) 3Q26 Preview: 성장통 \n                                \n                                    3Q26 Preview: 성장통",
-      "brokers": [
-        "LS증권"
-      ]
-    },
-    {
-      "ticker": "051910",
-      "count": 1,
-      "sample_title": "LG화학(051910) 3분기 LGES 일회성이익 추가, 과징금 업데이트 \n                        \n                            \n                                LG화학(051910) 3분기 LGES 일회성이익 추가, 과징금 업데이트 \n                                \n                                    3분기 LGES 일회성이익 추가, 과징금 업데이트",
-      "brokers": [
-        "LS증권"
-      ]
-    },
-    {
-      "ticker": "352820",
-      "count": 1,
-      "sample_title": "하이브(352820) 견조한 실적 성장\n                        \n                            \n                                하이브(352820) 견조한 실적 성장\n                                \n                                    견조한 실적 성장",
-      "brokers": [
-        "LS증권"
       ]
     }
   ],
