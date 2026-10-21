@@ -1,374 +1,374 @@
 {
   "indices": {
     "KOSPI": {
-      "close": 5552.74,
-      "change_pct": -3.7321363867261037
+      "close": 5735.66,
+      "change_pct": 3.2942295155184764
     },
     "KOSDAQ": {
-      "close": 781.97,
-      "change_pct": -3.3280174065694945
+      "close": 792.76,
+      "change_pct": 1.3798483317774224
     }
   },
   "index_drivers": {
     "down": [
       {
-        "ticker": "000660",
-        "name": "SK하이닉스",
-        "close": 1209000.0,
-        "change_pct": -5.32,
-        "marcap": 893392162395000.0
+        "ticker": "079550",
+        "name": "LIG디펜스앤에어로스페이스",
+        "close": 495500.0,
+        "change_pct": -9.58,
+        "marcap": 10967000000000.0
       },
       {
-        "ticker": "005930",
-        "name": "삼성전자",
-        "close": 210500.0,
-        "change_pct": -3.44,
-        "marcap": 1236487925592000.0
-      },
-      {
-        "ticker": "402340",
-        "name": "SK스퀘어",
-        "close": 734000.0,
-        "change_pct": -5.9,
-        "marcap": 97755682518000.0
-      },
-      {
-        "ticker": "012450",
-        "name": "한화에어로스페이스",
-        "close": 794000.0,
-        "change_pct": -12.27,
-        "marcap": 41199157399000.0
-      },
-      {
-        "ticker": "005935",
-        "name": "삼성전자우",
-        "close": 164500.0,
-        "change_pct": -3.74,
-        "marcap": 133113382577700.0
+        "ticker": "000270",
+        "name": "기아",
+        "close": 110300.0,
+        "change_pct": -1.87,
+        "marcap": 43140636279000.0
       },
       {
         "ticker": "373220",
         "name": "LG에너지솔루션",
-        "close": 411500.0,
-        "change_pct": -4.75,
-        "marcap": 96876000000000.0
+        "close": 411000.0,
+        "change_pct": -0.72,
+        "marcap": 96291000000000.0
+      },
+      {
+        "ticker": "030200",
+        "name": "KT",
+        "close": 49250.0,
+        "change_pct": -2.67,
+        "marcap": 12374264733500.0
       },
       {
         "ticker": "005380",
         "name": "현대차",
-        "close": 308000.0,
-        "change_pct": -5.52,
-        "marcap": 63074612520000.0
+        "close": 308500.0,
+        "change_pct": -0.48,
+        "marcap": 62972879274000.0
       },
       {
-        "ticker": "006400",
-        "name": "삼성SDI",
-        "close": 553000.0,
-        "change_pct": -6.59,
-        "marcap": 44805554680000.0
+        "ticker": "047050",
+        "name": "포스코인터내셔널",
+        "close": 53900.0,
+        "change_pct": -3.06,
+        "marcap": 9482238273200.0
       },
       {
-        "ticker": "329180",
-        "name": "HD현대중공업",
-        "close": 316000.0,
-        "change_pct": -8.54,
-        "marcap": 33377669550000.0
+        "ticker": "088350",
+        "name": "한화생명",
+        "close": 4290.0,
+        "change_pct": -7.34,
+        "marcap": 3747706950000.0
       },
       {
-        "ticker": "034020",
-        "name": "두산에너빌리티",
-        "close": 62200.0,
-        "change_pct": -6.61,
-        "marcap": 40227239968800.0
-      }
-    ],
-    "up": [
-      {
-        "ticker": "007810",
-        "name": "코리아써키트",
-        "close": 72100.0,
-        "change_pct": 11.78,
-        "marcap": 1738739950000.0
-      },
-      {
-        "ticker": "271560",
-        "name": "오리온",
-        "close": 112300.0,
-        "change_pct": 2.18,
-        "marcap": 4431177134800.0
-      },
-      {
-        "ticker": "033780",
-        "name": "KT&G",
-        "close": 193500.0,
-        "change_pct": 0.21,
-        "marcap": 20139228464000.0
-      },
-      {
-        "ticker": "026960",
-        "name": "동서",
-        "close": 28200.0,
-        "change_pct": 1.44,
-        "marcap": 2826495000000.0
+        "ticker": "035720",
+        "name": "카카오",
+        "close": 30950.0,
+        "change_pct": -1.9,
+        "marcap": 13710865784500.0
       },
       {
         "ticker": "316140",
         "name": "우리금융지주",
-        "close": 31700.0,
-        "change_pct": 0.16,
-        "marcap": 23429812512600.0
+        "close": 31500.0,
+        "change_pct": -0.94,
+        "marcap": 23208776545500.0
       },
       {
-        "ticker": "036570",
-        "name": "NC",
-        "close": 219000.0,
-        "change_pct": 0.46,
-        "marcap": 4750456851000.0
+        "ticker": "032640",
+        "name": "LG유플러스",
+        "close": 14830.0,
+        "change_pct": -3.32,
+        "marcap": 6290018988240.0
+      }
+    ],
+    "up": [
+      {
+        "ticker": "005930",
+        "name": "삼성전자",
+        "close": 224500.0,
+        "change_pct": 6.15,
+        "marcap": 1306643268888000.0
       },
       {
-        "ticker": "001800",
-        "name": "오리온홀딩스",
-        "close": 23200.0,
-        "change_pct": 1.31,
-        "marcap": 1404657824200.0
+        "ticker": "000660",
+        "name": "SK하이닉스",
+        "close": 1297000.0,
+        "change_pct": 6.05,
+        "marcap": 945257120310000.0
       },
       {
-        "ticker": "000400",
-        "name": "롯데손해보험",
-        "close": 2515.0,
-        "change_pct": 2.24,
-        "marcap": 785150889600.0
+        "ticker": "005935",
+        "name": "삼성전자우",
+        "close": 172700.0,
+        "change_pct": 4.1,
+        "marcap": 138168321156600.0
       },
       {
-        "ticker": "030190",
-        "name": "NICE평가정보",
-        "close": 17130.0,
-        "change_pct": 1.72,
-        "marcap": 1001639657790.0
+        "ticker": "402340",
+        "name": "SK스퀘어",
+        "close": 778000.0,
+        "change_pct": 4.99,
+        "marcap": 102768794442000.0
       },
       {
-        "ticker": "007070",
-        "name": "GS리테일",
-        "close": 21400.0,
-        "change_pct": 0.94,
-        "marcap": 1818461276250.0
+        "ticker": "034730",
+        "name": "SK",
+        "close": 482000.0,
+        "change_pct": 12.62,
+        "marcap": 34946302846000.0
+      },
+      {
+        "ticker": "028260",
+        "name": "삼성물산",
+        "close": 287500.0,
+        "change_pct": 4.55,
+        "marcap": 47028598490000.0
+      },
+      {
+        "ticker": "010120",
+        "name": "LS ELECTRIC",
+        "close": 165800.0,
+        "change_pct": 6.83,
+        "marcap": 24915000000000.0
+      },
+      {
+        "ticker": "032830",
+        "name": "삼성생명",
+        "close": 244000.0,
+        "change_pct": 2.95,
+        "marcap": 49000000000000.0
+      },
+      {
+        "ticker": "009150",
+        "name": "삼성전기",
+        "close": 1173000.0,
+        "change_pct": 1.56,
+        "marcap": 87242236928000.0
+      },
+      {
+        "ticker": "207940",
+        "name": "삼성바이오로직스",
+        "close": 1416000.0,
+        "change_pct": 1.8,
+        "marcap": 65594277567000.0
       }
     ]
   },
   "top_gainers": [
     {
-      "ticker": "456160",
-      "name": "지투지바이오",
-      "close": 36000.0,
-      "change_pct": 11.8,
-      "marcap": 615288762000.0
-    },
-    {
-      "ticker": "007810",
-      "name": "코리아써키트",
-      "close": 72100.0,
-      "change_pct": 11.78,
-      "marcap": 1738739950000.0
-    },
-    {
-      "ticker": "126340",
-      "name": "비나텍",
-      "close": 88800.0,
-      "change_pct": 8.29,
-      "marcap": 658443963800.0
-    },
-    {
-      "ticker": "122640",
-      "name": "예스티",
-      "close": 27900.0,
-      "change_pct": 4.3,
-      "marcap": 611649931250.0
-    },
-    {
-      "ticker": "115180",
-      "name": "큐리언트",
-      "close": 19800.0,
-      "change_pct": 2.59,
-      "marcap": 750683020000.0
-    },
-    {
-      "ticker": "053800",
-      "name": "안랩",
-      "close": 88800.0,
-      "change_pct": 2.3,
-      "marcap": 1000272889400.0
-    },
-    {
-      "ticker": "000400",
-      "name": "롯데손해보험",
-      "close": 2515.0,
-      "change_pct": 2.24,
-      "marcap": 785150889600.0
-    },
-    {
-      "ticker": "271560",
-      "name": "오리온",
-      "close": 112300.0,
-      "change_pct": 2.18,
-      "marcap": 4431177134800.0
-    },
-    {
-      "ticker": "079940",
-      "name": "가비아",
-      "close": 39250.0,
-      "change_pct": 1.95,
-      "marcap": 526761847000.0
-    },
-    {
-      "ticker": "089890",
-      "name": "코세스",
-      "close": 32100.0,
-      "change_pct": 1.9,
-      "marcap": 534035776400.0
-    }
-  ],
-  "top_losers": [
-    {
       "ticker": "0158S0",
       "name": "엘리스",
-      "close": 60100.0,
-      "change_pct": -33.59,
-      "marcap": 684425136000.0
+      "close": 79900.0,
+      "change_pct": 29.92,
+      "marcap": 889196233600.0
     },
     {
       "ticker": "445680",
       "name": "큐리옥스바이오시스템즈",
-      "close": 53400.0,
-      "change_pct": -22.94,
-      "marcap": 930133746000.0
+      "close": 63200.0,
+      "change_pct": 17.04,
+      "marcap": 1088600976800.0
     },
     {
-      "ticker": "033790",
-      "name": "피노",
-      "close": 7510.0,
-      "change_pct": -16.0,
-      "marcap": 661439608570.0
+      "ticker": "009900",
+      "name": "명신산업",
+      "close": 10050.0,
+      "change_pct": 16.18,
+      "marcap": 534670655270.0
     },
     {
-      "ticker": "112610",
-      "name": "씨에스윈드",
-      "close": 46750.0,
-      "change_pct": -14.53,
-      "marcap": 1992598791750.0
+      "ticker": "456160",
+      "name": "지투지바이오",
+      "close": 42250.0,
+      "change_pct": 14.19,
+      "marcap": 700098834600.0
     },
     {
-      "ticker": "064350",
-      "name": "현대로템",
-      "close": 86100.0,
-      "change_pct": -14.5,
-      "marcap": 9484465261700.0
+      "ticker": "010170",
+      "name": "대한광통신",
+      "close": 14530.0,
+      "change_pct": 13.96,
+      "marcap": 2224999794600.0
     },
     {
-      "ticker": "229640",
-      "name": "LS에코에너지",
-      "close": 49550.0,
-      "change_pct": -14.42,
-      "marcap": 1514400266550.0
+      "ticker": "078350",
+      "name": "한양디지텍",
+      "close": 36050.0,
+      "change_pct": 13.01,
+      "marcap": 548797752000.0
     },
     {
-      "ticker": "272210",
-      "name": "한화시스템",
-      "close": 70200.0,
-      "change_pct": -14.39,
-      "marcap": 13337708863400.0
+      "ticker": "034730",
+      "name": "SK",
+      "close": 482000.0,
+      "change_pct": 12.62,
+      "marcap": 34946302846000.0
     },
     {
-      "ticker": "012450",
-      "name": "한화에어로스페이스",
-      "close": 794000.0,
-      "change_pct": -12.27,
-      "marcap": 41199157399000.0
+      "ticker": "183300",
+      "name": "코미코",
+      "close": 26050.0,
+      "change_pct": 11.8,
+      "marcap": 1330308822500.0
     },
     {
-      "ticker": "322000",
-      "name": "HD현대에너지솔루션",
-      "close": 111400.0,
-      "change_pct": -11.94,
-      "marcap": 1251040000000.0
+      "ticker": "181710",
+      "name": "NHN",
+      "close": 56600.0,
+      "change_pct": 10.76,
+      "marcap": 1823353626000.0
     },
     {
-      "ticker": "009830",
-      "name": "한화솔루션",
-      "close": 30450.0,
-      "change_pct": -10.31,
-      "marcap": 6870466974800.0
+      "ticker": "281820",
+      "name": "케이씨텍",
+      "close": 100600.0,
+      "change_pct": 10.55,
+      "marcap": 1979866100000.0
+    }
+  ],
+  "top_losers": [
+    {
+      "ticker": "006120",
+      "name": "SK디스커버리",
+      "close": 62100.0,
+      "change_pct": -9.87,
+      "marcap": 1079652562000.0
+    },
+    {
+      "ticker": "079550",
+      "name": "LIG디펜스앤에어로스페이스",
+      "close": 495500.0,
+      "change_pct": -9.58,
+      "marcap": 10967000000000.0
+    },
+    {
+      "ticker": "178320",
+      "name": "서진시스템",
+      "close": 34950.0,
+      "change_pct": -8.39,
+      "marcap": 2166598626000.0
+    },
+    {
+      "ticker": "328130",
+      "name": "루닛",
+      "close": 11670.0,
+      "change_pct": -7.82,
+      "marcap": 857013651800.0
+    },
+    {
+      "ticker": "088350",
+      "name": "한화생명",
+      "close": 4290.0,
+      "change_pct": -7.34,
+      "marcap": 3747706950000.0
+    },
+    {
+      "ticker": "005180",
+      "name": "빙그레",
+      "close": 82300.0,
+      "change_pct": -5.94,
+      "marcap": 729448582500.0
+    },
+    {
+      "ticker": "214150",
+      "name": "클래시스",
+      "close": 28100.0,
+      "change_pct": -5.55,
+      "marcap": 1836383800850.0
+    },
+    {
+      "ticker": "048410",
+      "name": "현대바이오",
+      "close": 6330.0,
+      "change_pct": -5.38,
+      "marcap": 611845326480.0
+    },
+    {
+      "ticker": "035760",
+      "name": "CJ ENM",
+      "close": 39550.0,
+      "change_pct": -4.35,
+      "marcap": 868394498400.0
+    },
+    {
+      "ticker": "452260",
+      "name": "한화갤러리아",
+      "close": 2660.0,
+      "change_pct": -4.32,
+      "marcap": 515666562600.0
     }
   ],
   "top_marcap": [
     {
       "ticker": "005930",
       "name": "삼성전자",
-      "close": 210500.0,
-      "change_pct": -3.44,
-      "marcap": 1236487925592000.0
+      "close": 224500.0,
+      "change_pct": 6.15,
+      "marcap": 1306643268888000.0
     },
     {
       "ticker": "000660",
       "name": "SK하이닉스",
-      "close": 1209000.0,
-      "change_pct": -5.32,
-      "marcap": 893392162395000.0
+      "close": 1297000.0,
+      "change_pct": 6.05,
+      "marcap": 945257120310000.0
     },
     {
       "ticker": "005935",
       "name": "삼성전자우",
-      "close": 164500.0,
-      "change_pct": -3.74,
-      "marcap": 133113382577700.0
+      "close": 172700.0,
+      "change_pct": 4.1,
+      "marcap": 138168321156600.0
     },
     {
       "ticker": "402340",
       "name": "SK스퀘어",
-      "close": 734000.0,
-      "change_pct": -5.9,
-      "marcap": 97755682518000.0
+      "close": 778000.0,
+      "change_pct": 4.99,
+      "marcap": 102768794442000.0
     },
     {
       "ticker": "373220",
       "name": "LG에너지솔루션",
-      "close": 411500.0,
-      "change_pct": -4.75,
-      "marcap": 96876000000000.0
+      "close": 411000.0,
+      "change_pct": -0.72,
+      "marcap": 96291000000000.0
     },
     {
       "ticker": "009150",
       "name": "삼성전기",
-      "close": 1140000.0,
-      "change_pct": -2.56,
-      "marcap": 86271218880000.0
+      "close": 1173000.0,
+      "change_pct": 1.56,
+      "marcap": 87242236928000.0
     },
     {
       "ticker": "207940",
       "name": "삼성바이오로직스",
-      "close": 1382000.0,
-      "change_pct": -3.15,
-      "marcap": 64390712841000.0
+      "close": 1416000.0,
+      "change_pct": 1.8,
+      "marcap": 65594277567000.0
     },
     {
       "ticker": "005380",
       "name": "현대차",
-      "close": 308000.0,
-      "change_pct": -5.52,
-      "marcap": 63074612520000.0
+      "close": 308500.0,
+      "change_pct": -0.48,
+      "marcap": 62972879274000.0
     },
     {
       "ticker": "105560",
       "name": "KB금융",
-      "close": 160600.0,
-      "change_pct": -1.29,
-      "marcap": 57069256400600.0
+      "close": 160700.0,
+      "change_pct": -0.12,
+      "marcap": 56962850080400.0
     },
     {
       "ticker": "032830",
       "name": "삼성생명",
-      "close": 235000.0,
-      "change_pct": -3.89,
-      "marcap": 47400000000000.0
+      "close": 244000.0,
+      "change_pct": 2.95,
+      "marcap": 49000000000000.0
     }
   ],
   "source": "FinanceDataReader (KRX)"
