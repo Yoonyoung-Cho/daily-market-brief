@@ -8,6 +8,7 @@ set -uo pipefail
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$ROOT"
 PY="$ROOT/.venv/bin/python"
+[ -x "$PY" ] || PY="$(command -v python3)"   # venv 없으면(클라우드) 시스템 파이썬
 DASH="$ROOT/data/dashboard.html"
 
 bash "$ROOT/scripts/collect.sh"

@@ -8,11 +8,12 @@ set -uo pipefail
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$ROOT"
 PY="$ROOT/.venv/bin/python"
+[ -x "$PY" ] || PY="$(command -v python3)"   # venv 없으면(클라우드) 시스템 파이썬
 LOG="$ROOT/data/collect.log"
 mkdir -p "$ROOT/data"
 
 echo "===== collect $(date '+%Y-%m-%d %H:%M:%S') =====" >> "$LOG"
-if [ ! -x "$PY" ]; then echo "venv 파이썬 없음: $PY (python -m venv .venv && pip install -r requirements.txt)" | tee -a "$LOG"; exit 1; fi
+if [ ! -x "$PY" ]; then echo "파이썬 없음"; exit 1; fi
 
 echo "[1/3] KR 시장 스냅샷 + 한경 컨센서스…"
 "$PY" -m src.dashboard_pipeline --collect --force 2>&1 | tee -a "$LOG" || echo "  ⚠️ KR 스냅샷 일부 실패 — 계속"
