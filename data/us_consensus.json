@@ -105,9 +105,9 @@
     "theme": "빅테크",
     "strongBuy": 4,
     "buy": 15,
-    "hold": 21,
+    "hold": 22,
     "sell": 2,
-    "strongSell": 2,
+    "strongSell": 1,
     "buy_trend": [
       23,
       22,
@@ -115,7 +115,7 @@
       19
     ],
     "prev_buy": 23,
-    "pt_mean": 397.83212,
+    "pt_mean": 401.39514,
     "pt_high": 600.0,
     "pt_low": 128.11,
     "price": 386.47
@@ -235,9 +235,9 @@
       38
     ],
     "prev_buy": 40,
-    "pt_mean": 2150.408,
-    "pt_high": 2856.7505,
-    "pt_low": 869.64935,
+    "pt_mean": 2143.6606,
+    "pt_high": 2847.7869,
+    "pt_low": 866.9207,
     "price": 1676.69
   },
   "ARM": {
