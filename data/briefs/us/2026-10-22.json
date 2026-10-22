@@ -1,0 +1,208 @@
+{
+  "market": "US",
+  "as_of_date": "2026-10-22",
+  "plain_summary": [
+    "미국 3대 지수가 모두 올랐습니다. SpaceX가 상장 후 첫 흑자를 기록하며 AI 투자 우려를 덜어줬습니다.",
+    "Super Micro가 AI 서버 수요 견조를 확인하며 9.6% 올랐고, Meta·Tesla도 장 마감 후 호실적을 발표했습니다.",
+    "⚠️ 미국 국채 10년물 금리가 5.12%로 높은 수준을 유지하고 있어, 실적 호조에도 시장 전체의 상승은 제한됐습니다."
+  ],
+  "market_tone": "S&P 500 7,757(+0.6%), 나스닥 26,703(+1.1%), 다우 52,856(+0.7%). SpaceX가 상장 후 첫 분기 흑자를 기록하며 7.8% 올랐고, Super Micro(+9.6%)의 AI 서버 가이던스가 월가 기대를 넘어 반도체·AI 인프라주에 매수세가 들어왔다. S&P 500 정보기술 섹터가 1.6%로 업종 중 가장 많이 올랐다. 반면 통신서비스 섹터는 1.3% 내렸는데, SpaceX의 통신 사업 확장 우려로 AT&T(-6.5%), T-Mobile(-2.5%)이 크게 밀렸다. Netflix도 4분기 가이던스 약세에 5.3% 하락. 장 마감 후 Meta는 매출 $64.6B(시장 기대 상회)과 CAPEX 전망 상향($135-145B)을, Tesla는 매출 $28.05B(시장 기대 상회)을 각각 발표하며 시간외 거래에서 상승했다.",
+  "news": [
+    {
+      "title": "SpaceX, 상장 후 첫 흑자 기록…매출 161% 급증",
+      "summary_plain": "SpaceX가 7~9월 분기에 순이익(최종 이익) 44억달러를 기록했습니다. 매출은 146억달러로 전년보다 161% 늘었습니다.",
+      "why_it_matters": "AI 관련 대규모 투자가 실제로 이익을 낼 수 있다는 첫 사례 중 하나입니다. 최근 AI 투자 수익성에 대한 불안이 컸기에 시장에 안도감을 줬습니다.",
+      "tickers": [
+        "SPACEX"
+      ],
+      "date": "2026-10-22",
+      "tier": "news",
+      "source_url": "https://news.rthk.hk/rthk/en/component/k2/1874844-20261022.htm",
+      "source_name": "RTHK (Reuters 인용)"
+    },
+    {
+      "title": "머스크, SpaceX-Tesla 합병 논의 시사",
+      "summary_plain": "일론 머스크가 SpaceX 실적 발표 후 SpaceX와 Tesla의 합병이 '좋은 아이디어'라고 말했습니다. 양사에 특별위원회가 구성됐습니다.",
+      "why_it_matters": "두 회사의 합병이 현실화되면 AI·로봇·우주가 합쳐진 거대 기업이 탄생할 수 있습니다. 이 발언으로 Tesla 주가도 시간외 추가 상승했습니다.",
+      "tickers": [
+        "TSLA"
+      ],
+      "date": "2026-10-22",
+      "tier": "news",
+      "source_url": "https://www.cnbc.com/2026/10/22/trump-iran-musk-tesla-spacex-merger-.html",
+      "source_name": "CNBC"
+    },
+    {
+      "title": "Meta, 3분기 매출 $64.6B로 시장 기대 상회…AI 투자 확대",
+      "summary_plain": "Meta(페이스북·인스타그램 모회사)의 3분기 매출이 646억달러로 시장 전망보다 높았습니다. AI 투자 예산을 1,350~1,450억달러로 올렸습니다.",
+      "why_it_matters": "AI에 큰 돈을 쓰면서도 매출이 늘고 있다는 것은 AI 투자가 헛되지 않다는 신호입니다. 새로운 비의결권 주식(Class C)도 발행해 CEO 저커버그의 경영권을 유지하며 자금을 조달할 계획입니다.",
+      "tickers": [
+        "META"
+      ],
+      "date": "2026-10-22",
+      "tier": "news",
+      "source_url": "https://www.abc.net.au/news/2026-10-22/asx-markets-business-news-live-updates-thursday-22-october/107295020",
+      "source_name": "ABC News (Reuters 인용)"
+    },
+    {
+      "title": "Tesla, 3분기 매출 $28.05B…배달 486K대로 예상 상회",
+      "summary_plain": "Tesla 3분기 매출이 280.5억달러로 시장 기대(278.8억달러)를 넘었습니다. 차량 인도는 약 48.7만대였습니다.",
+      "why_it_matters": "AI·로보택시에 큰돈을 쓰면서도 자동차 사업의 마진(이익률)이 개선됐다는 점이 투자자를 안심시켰습니다.",
+      "tickers": [
+        "TSLA"
+      ],
+      "date": "2026-10-22",
+      "tier": "news",
+      "source_url": "https://www.abc.net.au/news/2026-10-22/asx-markets-business-news-live-updates-thursday-22-october/107295020",
+      "source_name": "ABC News"
+    },
+    {
+      "title": "Netflix, 4분기 가이던스 약세에 5.3% 하락",
+      "summary_plain": "Netflix 3분기 매출은 기대를 넘었지만, 4분기 이익 전망이 시장 기대보다 낮아 주가가 5.3% 내렸습니다.",
+      "why_it_matters": "스트리밍 시장 경쟁이 심해지며 성장 속도가 둔화되고 있다는 우려가 반영됐습니다. 여러 애널리스트가 목표가를 내렸습니다.",
+      "tickers": [
+        "NFLX"
+      ],
+      "date": "2026-10-22",
+      "tier": "news",
+      "source_url": "https://www.schwab.com/learn/story/stock-market-update-open",
+      "source_name": "Schwab"
+    }
+  ],
+  "hot_sectors": [
+    {
+      "sector": "AI 인프라(서버·우주)",
+      "trend": "SpaceX 첫 흑자와 Super Micro 호실적으로 AI 인프라 투자 수익성 우려가 완화됨",
+      "drivers": "SpaceX 연결사업(Starlink) 매출 22% QoQ 증가, Super Micro AI 서버 가이던스 상향",
+      "tickers": [
+        "SMCI"
+      ],
+      "tier": "news",
+      "source_url": "https://news.rthk.hk/rthk/en/component/k2/1874844-20261022.htm",
+      "source_name": "RTHK (Reuters 인용)"
+    },
+    {
+      "sector": "빅테크(Magnificent Seven)",
+      "trend": "Meta·Tesla 장 마감 후 호실적 발표. 이번 주 Procter & Gamble, Honeywell, 다음 주 Microsoft·Alphabet 실적 예정",
+      "drivers": "AI 투자 수익화 확인이 핵심 관전 포인트",
+      "tickers": [
+        "META",
+        "TSLA",
+        "MSFT",
+        "GOOGL"
+      ],
+      "tier": "news",
+      "source_url": "https://www.schwab.com/learn/story/stock-market-update-open",
+      "source_name": "Schwab"
+    },
+    {
+      "sector": "통신서비스",
+      "trend": "SpaceX 통신 사업 확장 우려로 기존 통신주 약세. AT&T -6.5%, T-Mobile -2.5%",
+      "drivers": "SpaceX Starlink의 통신 시장 진출 가능성이 기존 통신사에 경쟁 위협",
+      "tickers": [
+        "T",
+        "TMUS"
+      ],
+      "tier": "news",
+      "source_url": "https://news.rthk.hk/rthk/en/component/k2/1874844-20261022.htm",
+      "source_name": "RTHK (Reuters 인용)"
+    }
+  ],
+  "notable_stocks": [
+    {
+      "name": "Meta Platforms",
+      "ticker": "META",
+      "note": "3분기 매출 $64.6B로 시장 기대 상회. AI 투자(CAPEX) 전망을 $135-145B으로 상향.",
+      "report_summary": "수집 컨센서스: 매수 24·보유 14·매도 6, 평균 목표가 $328. 비의결권 주식(Class C) 발행으로 AI 확장 자금 확보.",
+      "tier": "news",
+      "source_url": "https://www.abc.net.au/news/2026-10-22/asx-markets-business-news-live-updates-thursday-22-october/107295020",
+      "source_name": "ABC News"
+    },
+    {
+      "name": "Tesla",
+      "ticker": "TSLA",
+      "note": "3분기 매출 $28.05B(시장 기대 상회). 마진 개선으로 AI·로보택시 투자 우려 완화.",
+      "report_summary": "배달 486K대(예상 461K 상회). 머스크가 SpaceX-Tesla 합병을 '좋은 아이디어'로 언급.",
+      "tier": "news",
+      "source_url": "https://www.abc.net.au/news/2026-10-22/asx-markets-business-news-live-updates-thursday-22-october/107295020",
+      "source_name": "ABC News"
+    },
+    {
+      "name": "Super Micro Computer",
+      "ticker": "SMCI",
+      "note": "9.6% 상승. AI 서버 분기 매출·이익 가이던스가 월가 기대를 넘어 AI 수요 견조 확인.",
+      "report_summary": "리포트에 따르면 AI 서버 수요가 여전히 강하다는 신호로 해석됨. HPE(+3.7%), Dell(+5.3%)도 수혜.",
+      "tier": "news",
+      "source_url": "https://news.rthk.hk/rthk/en/component/k2/1874844-20261022.htm",
+      "source_name": "RTHK (Reuters 인용)"
+    },
+    {
+      "name": "Microsoft",
+      "ticker": "MSFT",
+      "note": "10/28 실적 발표 예정. AI 최대 고객 의존 리스크와 CAPEX 방향이 관전 포인트.",
+      "report_summary": "수집 컨센서스: 매수 54·보유 3·매도 0, 평균 목표가 $601.73(현재가 $532.95).",
+      "tier": "analyst_data",
+      "source_url": "https://www.schwab.com/learn/story/stock-market-update-open",
+      "source_name": "Schwab"
+    }
+  ],
+  "key_reports": [
+    {
+      "title": "SpaceX — 상장 후 첫 흑자, 매출 $14.6B (+161% YoY)",
+      "broker": "FactSet 컨센서스",
+      "ticker": "SPACEX",
+      "summary": "시장 기대($12.87B)를 크게 상회. 연결사업(Starlink) 매출 22% QoQ 증가. 머스크가 Tesla와의 합병 논의를 시사해 양사 주가 상승.",
+      "tier": "news",
+      "source_url": "https://www.schwab.com/learn/story/stock-market-update-open"
+    },
+    {
+      "title": "Meta — 3분기 매출 $64.6B, CAPEX 전망 상향",
+      "broker": "ABC News (Reuters 인용)",
+      "ticker": "META",
+      "summary": "매출 시장 기대($63.37B) 상회. AI CAPEX를 $135-145B으로 상향 조정. Muse 에이전트와 새 AI 모델의 초기 흥행이 투자를 정당화.",
+      "tier": "news",
+      "source_url": "https://www.abc.net.au/news/2026-10-22/asx-markets-business-news-live-updates-thursday-22-october/107295020"
+    }
+  ],
+  "broker_views": [
+    {
+      "firm": "Edward Jones (Angelo Kourkafas)",
+      "view": "SpaceX 실적이 AI 투자 수익성에 대한 투자자 우려를 일부 해소했다고 평가. 다만 모든 의문이 풀린 것은 아니라고 덧붙임.",
+      "date": "2026-10-22",
+      "tier": "ib_news",
+      "source_url": "https://news.rthk.hk/rthk/en/component/k2/1874844-20261022.htm"
+    },
+    {
+      "firm": "Huntington Bank (Marc Dizard)",
+      "view": "AI 생태계 전반에 긍정적인 기술 스토리라고 평가. 다만 심리가 빠르게 바뀔 수 있어 다른 기업 실적도 확인해야 한다고 언급.",
+      "date": "2026-10-22",
+      "tier": "ib_news",
+      "source_url": "https://news.rthk.hk/rthk/en/component/k2/1874844-20261022.htm"
+    },
+    {
+      "firm": "Trade Nation (David Morrison)",
+      "view": "기술주 매도세가 끝났는지는 확실하지 않지만, 이번 실적 시즌은 인상적인 출발이라고 평가.",
+      "date": "2026-10-22",
+      "tier": "ib_news",
+      "source_url": "https://www.ndtvprofit.com/markets/wallstreet-highlights-s-and-p-500-nasdaq-climb-in-late-hours-on-metas-big-ai-wagers-12217764"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "CAPEX(자본지출)",
+      "meaning": "회사가 공장·장비·데이터센터 같은 자산에 투자하는 돈. AI 시대에는 GPU 서버와 데이터센터 건설 비용이 대부분을 차지한다."
+    },
+    {
+      "term": "가이던스",
+      "meaning": "회사가 다음 분기나 연간 실적을 미리 예측해 알려주는 것. 가이던스가 시장 기대보다 높으면 주가가 오르는 경향이 있다."
+    },
+    {
+      "term": "시간외 거래(After-hours)",
+      "meaning": "정규 장 마감(오후 4시) 후에도 이어지는 주식 거래. 실적 발표 직후 주가가 크게 움직이는 경우가 많다."
+    },
+    {
+      "term": "비의결권 주식(Class C)",
+      "meaning": "투표권(의결권)이 없는 주식. 기업이 자금을 조달하면서도 경영권을 희석하지 않으려 할 때 발행한다."
+    }
+  ]
+}

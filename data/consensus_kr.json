@@ -5,6 +5,66 @@
     {
       "date": "2026-10-22",
       "category": "기업",
+      "title": "삼성바이오로직스(207940) 불리한 환경에서도 성장성 유지 \n                        \n                            \n                                삼성바이오로직스(207940) 불리한 환경에서도 성장성 유지 \n                                \n                                    불리한 환경에서도 성장성 유지",
+      "ticker": "207940",
+      "authors": "하현수",
+      "broker": "유안타증권",
+      "report_idx": "653214",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653214"
+    },
+    {
+      "date": "2026-10-22",
+      "category": "기업",
+      "title": "하나머티리얼즈(166090) 2027년 사상 최대 실적 달성 전망, PER은 9.9배 \n                        \n                            \n                                하나머티리얼즈(166090) 2027년 사상 최대 실적 달성 전망, PER은 9.9배 \n                                \n                                    2027년 사상 최대 실적 달성 전망, PER은 9.9배",
+      "ticker": "166090",
+      "authors": "백길현, 임석민",
+      "broker": "유안타증권",
+      "report_idx": "653213",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653213"
+    },
+    {
+      "date": "2026-10-22",
+      "category": "기업",
+      "title": "LS ELECTRIC(010120) 실적 추정치 상향은 이제 시작 \n                        \n                            \n                                LS ELECTRIC(010120) 실적 추정치 상향은 이제 시작 \n                                \n                                    실적 추정치 상향은 이제 시작",
+      "ticker": "010120",
+      "authors": "손현정, 김고은",
+      "broker": "유안타증권",
+      "report_idx": "653212",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653212"
+    },
+    {
+      "date": "2026-10-22",
+      "category": "시장",
+      "title": "[27년, 다시 볼 회사채] 4년 만의 순상환, AA- 16개사 점검\n                        \n                            \n                                [27년, 다시 볼 회사채] 4년 만의 순상환, AA- 16개사 점검\n                                \n                                    [27년, 다시 볼 회사채] 4년 만의 순상환, AA- 16개사 점검",
+      "ticker": null,
+      "authors": "이현수",
+      "broker": "유안타증권",
+      "report_idx": "653211",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653211"
+    },
+    {
+      "date": "2026-10-22",
+      "category": "시장",
+      "title": "YUANTA DAILY MARKET VIEW\n                        \n                            \n                                YUANTA DAILY MARKET VIEW\n                                \n                                    YUANTA DAILY MARKET VIEW",
+      "ticker": null,
+      "authors": "리서치센터",
+      "broker": "유안타증권",
+      "report_idx": "653210",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653210"
+    },
+    {
+      "date": "2026-10-22",
+      "category": "기업",
+      "title": "티에스이(131290) 3Q26 Preview: 고성장 흐름 유지 전망\n                        \n                            \n                                티에스이(131290) 3Q26 Preview: 고성장 흐름 유지 전망\n                                \n                                    3Q26 Preview: 고성장 흐름 유지 전망",
+      "ticker": "131290",
+      "authors": "정홍식",
+      "broker": "LS증권",
+      "report_idx": "653209",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653209"
+    },
+    {
+      "date": "2026-10-22",
+      "category": "기업",
       "title": "LS ELECTRIC(010120) AI발 배전시장 초호황, 공격적 증설 대응으로 고성장 지속 \n                        \n                            \n                                LS ELECTRIC(010120) AI발 배전시장 초호황, 공격적 증설 대응으로 고성장 지속 \n                                \n                                    AI발 배전시장 초호황, 공격적 증설 대응으로 고성장 지속",
       "ticker": "010120",
       "authors": "성종화",
@@ -141,91 +201,47 @@
       "broker": "IBK투자증권",
       "report_idx": "653195",
       "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653195"
-    },
-    {
-      "date": "2026-10-22",
-      "category": "시장",
-      "title": "상상인 Macro Daily\n                        \n                            \n                                상상인 Macro Daily\n                                \n                                    상상인 Macro Daily",
-      "ticker": null,
-      "authors": "투자전략팀",
-      "broker": "상상인증권",
-      "report_idx": "653194",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653194"
-    },
-    {
-      "date": "2026-10-22",
-      "category": "시장",
-      "title": "Silver Lining\n                        \n                            \n                                Silver Lining\n                                \n                                    Silver Lining",
-      "ticker": null,
-      "authors": "리서치센터",
-      "broker": "한화투자증권",
-      "report_idx": "653193",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653193"
-    },
-    {
-      "date": "2026-10-22",
-      "category": "시장",
-      "title": "2027년 주식전망 KOSPI Target 8,500pt\n                        \n                            \n                                2027년 주식전망 KOSPI Target 8,500pt\n                                \n                                    2027년 주식전망 KOSPI Target 8,500pt",
-      "ticker": null,
-      "authors": "하장권",
-      "broker": "한화투자증권",
-      "report_idx": "653192",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653192"
-    },
-    {
-      "date": "2026-10-22",
-      "category": "기업",
-      "title": "LS ELECTRIC(010120) 3Q26 Review: 닫히지 않은 성장판 \n                        \n                            \n                                LS ELECTRIC(010120) 3Q26 Review: 닫히지 않은 성장판 \n                                \n                                    3Q26 Review: 닫히지 않은 성장판",
-      "ticker": "010120",
-      "authors": "김예인",
-      "broker": "한화투자증권",
-      "report_idx": "653191",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653191"
-    },
-    {
-      "date": "2026-10-22",
-      "category": "기업",
-      "title": "삼성바이오로직스(207940) 외형 성장 지속, 수익성 개선은 시간이 필요 \n                        \n                            \n                                삼성바이오로직스(207940) 외형 성장 지속, 수익성 개선은 시간이 필요 \n                                \n                                    외형 성장 지속, 수익성 개선은 시간이 필요",
-      "ticker": "207940",
-      "authors": "김준영,김현비",
-      "broker": "메리츠증권",
-      "report_idx": "653190",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653190"
-    },
-    {
-      "date": "2026-10-22",
-      "category": "기업",
-      "title": "선익시스템(171090) 이제는 배를 채울 시간 \n                        \n                            \n                                선익시스템(171090) 이제는 배를 채울 시간 \n                                \n                                    이제는 배를 채울 시간",
-      "ticker": "171090",
-      "authors": "양승수",
-      "broker": "메리츠증권",
-      "report_idx": "653189",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653189"
     }
   ],
   "by_category": {
-    "기업": 10,
-    "시장": 7,
+    "기업": 11,
+    "시장": 6,
     "산업": 3
   },
   "top_tickers": [
     {
       "ticker": "010120",
       "count": 3,
-      "sample_title": "LS ELECTRIC(010120) AI발 배전시장 초호황, 공격적 증설 대응으로 고성장 지속 \n                        \n                            \n                                LS ELECTRIC(010120) AI발 배전시장 초호황, 공격적 증설 대응으로 고성장 지속 \n                                \n                                    AI발 배전시장 초호황, 공격적 증설 대응으로 고성장 지속",
+      "sample_title": "LS ELECTRIC(010120) 실적 추정치 상향은 이제 시작 \n                        \n                            \n                                LS ELECTRIC(010120) 실적 추정치 상향은 이제 시작 \n                                \n                                    실적 추정치 상향은 이제 시작",
       "brokers": [
         "LS증권",
         "SK증권",
-        "한화투자증권"
+        "유안타증권"
       ]
     },
     {
       "ticker": "207940",
       "count": 2,
-      "sample_title": "삼성바이오로직스(207940) 불확실성보다 성장을 볼 시점 \n                        \n                            \n                                삼성바이오로직스(207940) 불확실성보다 성장을 볼 시점 \n                                \n                                    불확실성보다 성장을 볼 시점",
+      "sample_title": "삼성바이오로직스(207940) 불리한 환경에서도 성장성 유지 \n                        \n                            \n                                삼성바이오로직스(207940) 불리한 환경에서도 성장성 유지 \n                                \n                                    불리한 환경에서도 성장성 유지",
       "brokers": [
         "IBK투자증권",
-        "메리츠증권"
+        "유안타증권"
+      ]
+    },
+    {
+      "ticker": "166090",
+      "count": 1,
+      "sample_title": "하나머티리얼즈(166090) 2027년 사상 최대 실적 달성 전망, PER은 9.9배 \n                        \n                            \n                                하나머티리얼즈(166090) 2027년 사상 최대 실적 달성 전망, PER은 9.9배 \n                                \n                                    2027년 사상 최대 실적 달성 전망, PER은 9.9배",
+      "brokers": [
+        "유안타증권"
+      ]
+    },
+    {
+      "ticker": "131290",
+      "count": 1,
+      "sample_title": "티에스이(131290) 3Q26 Preview: 고성장 흐름 유지 전망\n                        \n                            \n                                티에스이(131290) 3Q26 Preview: 고성장 흐름 유지 전망\n                                \n                                    3Q26 Preview: 고성장 흐름 유지 전망",
+      "brokers": [
+        "LS증권"
       ]
     },
     {
@@ -258,14 +274,6 @@
       "sample_title": "한세실업(105630) 이 비가 지나가기를\n                        \n                            \n                                한세실업(105630) 이 비가 지나가기를\n                                \n                                    이 비가 지나가기를",
       "brokers": [
         "SK증권"
-      ]
-    },
-    {
-      "ticker": "171090",
-      "count": 1,
-      "sample_title": "선익시스템(171090) 이제는 배를 채울 시간 \n                        \n                            \n                                선익시스템(171090) 이제는 배를 채울 시간 \n                                \n                                    이제는 배를 채울 시간",
-      "brokers": [
-        "메리츠증권"
       ]
     }
   ],

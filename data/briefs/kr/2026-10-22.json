@@ -1,0 +1,227 @@
+{
+  "market": "KR",
+  "as_of_date": "2026-10-22",
+  "plain_summary": [
+    "코스피가 3.3% 올랐습니다. 삼성전자·SK하이닉스 등 반도체 대형주가 6%대 반등하며 지수를 끌어올렸습니다.",
+    "증권사 리포트는 LS ELECTRIC과 삼성바이오로직스에 몰렸습니다. 두 회사 모두 3분기 실적이 시장 기대를 넘어선 덕분입니다.",
+    "⚠️ 한국은행이 기준금리를 3.00%로 동결했지만, 추가 인상 가능성을 열어두어 시장은 여전히 긴장 중입니다."
+  ],
+  "market_tone": "코스피 5,735.66(+3.29%). 전주 16% 넘게 급락한 반동으로 반도체주가 급반등했다. 삼성전자(+6.15%, 시총 약 1,307조원)와 SK하이닉스(+6.05%, 시총 약 945조원)가 시총 기여도(index_drivers) 기준으로 상승을 주도했고, SK(+12.62%), SK스퀘어(+4.99%), 삼성물산(+4.55%) 등 그룹주도 동반 상승했다. 반면 LIG디펜스앤에어로스페이스(-9.58%)와 카카오(-1.9%), 기아(-1.87%)는 하락 압력을 줬으나 시총 차이로 지수 영향은 제한적이었다. 코스닥 792.76(+1.38%).",
+  "news": [
+    {
+      "title": "한국은행, 기준금리 3.00% 만장일치 동결",
+      "summary_plain": "한국은행 금융통화위원회가 기준금리를 연 3.00%에 그대로 두기로 했습니다. 7·8월 두 차례 연속 올린 뒤 효과를 지켜보는 '숨고르기'입니다.",
+      "why_it_matters": "금리(돈을 빌릴 때 내는 이자율)가 오르면 대출 이자가 늘고, 기업 투자도 위축될 수 있습니다. 동결이지만 추가 인상 가능성을 남겨 시장은 긴장합니다.",
+      "tickers": [],
+      "date": "2026-10-22",
+      "tier": "news",
+      "source_url": "https://www.yna.co.kr/view/AKR20261022069300002",
+      "source_name": "연합뉴스"
+    },
+    {
+      "title": "코스피, 전주 급락 딛고 3.3% 반등…반도체 주도",
+      "summary_plain": "전주 16%대 급락 이후 코스피가 크게 반등했습니다. 삼성전자와 SK하이닉스가 각각 6%대 올랐습니다.",
+      "why_it_matters": "코스피 시총 1·2위인 반도체 대형주가 동시에 오르면 지수 전체를 크게 움직입니다. 반도체 업황(업계 사정)에 대한 불안감이 다소 누그러졌다는 신호입니다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "date": "2026-10-22",
+      "tier": "market_data",
+      "source_url": "https://www.newspim.com/news/view/20261022000225",
+      "source_name": "뉴스핌"
+    },
+    {
+      "title": "LS ELECTRIC, 3분기 사상 최대 실적…컨센서스 20% 상회",
+      "summary_plain": "LS ELECTRIC이 3분기에 매출 1조8,778억원, 영업이익 2,335억원을 기록했습니다. 시장 전망치(컨센서스)를 20.4% 넘었습니다.",
+      "why_it_matters": "미국 데이터센터(AI 서버를 모아두는 건물)에 전력 장비를 납품하는 사업이 크게 성장하고 있습니다. AI 투자 확대가 국내 전력 장비 기업에까지 이익을 주는 사례입니다.",
+      "tickers": [
+        "010120"
+      ],
+      "date": "2026-10-22",
+      "tier": "consensus",
+      "source_url": "https://etoday.co.kr/news/view/2638638",
+      "source_name": "이투데이"
+    },
+    {
+      "title": "삼성바이오로직스, 3분기 매출 1.5조…5공장 매출 기여 시작",
+      "summary_plain": "삼성바이오로직스의 3분기 매출이 1조4,903억원으로 전년보다 18.5% 늘었습니다. 영업이익률(매출 중 이익 비중)은 42.9%로 높은 수준입니다.",
+      "why_it_matters": "바이오(생명과학) 위탁생산은 경기에 덜 흔들리는 사업입니다. 5공장 가동으로 매출이 더 늘어날 수 있어 증권사 3곳이 같은 날 '매수' 리포트를 냈습니다.",
+      "tickers": [
+        "207940"
+      ],
+      "date": "2026-10-22",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653214",
+      "source_name": "한경 컨센서스(유안타증권)"
+    },
+    {
+      "title": "22일 장초반 차익실현으로 하락 출발",
+      "summary_plain": "코스피는 22일 오전 전일 급등에 따른 차익 매물이 나와 0.17% 내린 5,726에 거래를 시작했습니다.",
+      "why_it_matters": "전날 3%대 급등 이후 이틀 연속 오르긴 쉽지 않습니다. 기관이 1,557억원을 순매도(판 게 더 많음)하며 상승 폭을 되돌렸습니다.",
+      "tickers": [],
+      "date": "2026-10-22",
+      "tier": "news",
+      "source_url": "https://www.newspim.com/news/view/20261022000225",
+      "source_name": "뉴스핌"
+    }
+  ],
+  "hot_sectors": [
+    {
+      "sector": "반도체",
+      "trend": "전주 급락 후 강한 반등. 삼성전자·SK하이닉스 6%대 상승으로 코스피 반등을 이끔",
+      "drivers": "미국 SpaceX·Super Micro 호실적으로 AI 투자 우려 완화, 3분기 실적 기대",
+      "tickers": [
+        "삼성전자",
+        "SK하이닉스"
+      ],
+      "tier": "market_data",
+      "source_url": "https://www.newspim.com/news/view/20261022000225",
+      "source_name": "뉴스핌"
+    },
+    {
+      "sector": "전력 인프라",
+      "trend": "LS ELECTRIC 3분기 사상 최대 실적에 증권사 3곳이 같은 날 리포트 발간",
+      "drivers": "미국 빅테크 데이터센터용 배전 장비 수주 확대, 신규 고객사 확보",
+      "tickers": [
+        "LS ELECTRIC"
+      ],
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653212",
+      "source_name": "한경 컨센서스(유안타증권)"
+    },
+    {
+      "sector": "바이오",
+      "trend": "삼성바이오로직스 호실적에 증권사 3곳 동시 매수 의견. 5공장 상업 생산 본격화 기대",
+      "drivers": "위탁생산(CMO) 수요 증가, 바이오시밀러 수출 확대",
+      "tickers": [
+        "삼성바이오로직스"
+      ],
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653188",
+      "source_name": "한경 컨센서스(대신증권)"
+    }
+  ],
+  "notable_stocks": [
+    {
+      "name": "삼성전자",
+      "ticker": "005930",
+      "note": "전주 급락 뒤 6.15% 반등. 시총 기여도 기준 코스피 상승의 최대 기여 종목.",
+      "report_summary": "3분기 실적 발표를 앞두고 반도체 업황 불안이 다소 진정됨.",
+      "tier": "market_data",
+      "source_url": "https://www.newspim.com/news/view/20261022000225",
+      "source_name": "뉴스핌"
+    },
+    {
+      "name": "SK하이닉스",
+      "ticker": "000660",
+      "note": "6.05% 반등. HBM(고대역폭메모리) 수요 기대에 매수세 유입.",
+      "report_summary": "전주 118만원까지 밀렸다가 반등. 마이크론 파업 등 변수 남아 있음.",
+      "tier": "market_data",
+      "source_url": "https://kr.investing.com/equities/sk-hynix-inc",
+      "source_name": "인베스팅닷컴"
+    },
+    {
+      "name": "LS ELECTRIC",
+      "ticker": "010120",
+      "note": "3분기 매출·영업이익 모두 분기 최대 기록. 미국 데이터센터향 배전반 수주 확대.",
+      "report_summary": "유안타증권 목표가 30만원(Buy), SK증권 31만원, 한화투자증권 26만원(Buy). '실적 추정치 상향은 이제 시작'이라는 평가.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653212",
+      "source_name": "한경 컨센서스(유안타증권)"
+    },
+    {
+      "name": "삼성바이오로직스",
+      "ticker": "207940",
+      "note": "3분기 컨센서스 상회. 5공장 PPQ(공정적격성평가) 배치 생산 본격화.",
+      "report_summary": "유안타·IBK·대신증권 모두 매수 의견. 목표가 200만원 유지. '불리한 환경에서도 성장성 유지'라는 평가.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653214",
+      "source_name": "한경 컨센서스(유안타증권)"
+    },
+    {
+      "name": "LIG디펜스앤에어로스페이스",
+      "ticker": "079550",
+      "note": "9.58% 급락. 단기 실적 부진 우려에 차익실현 매물 출회.",
+      "report_summary": "SK증권은 목표가 90만원 유지. '단기 실적보다 수출 사업 확대 기조에 주목해야' 평가.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653207",
+      "source_name": "한경 컨센서스(SK증권)"
+    }
+  ],
+  "key_reports": [
+    {
+      "title": "LS ELECTRIC — 3Q26 Review: 닫히지 않은 성장판",
+      "broker": "한화투자증권",
+      "ticker": "010120",
+      "opinion": "Buy",
+      "target_price": "260,000원",
+      "summary": "3Q 매출 1조8,778억원(+54.4% YoY), 영업이익 2,335억원(+131.6% YoY). 전력인프라 영업이익 1,525억원으로 실적 견인. 미국 데이터센터향 배전반과 국내 고수익 배전 사업 성장.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653191"
+    },
+    {
+      "title": "삼성바이오로직스 — 불리한 환경에서도 성장성 유지",
+      "broker": "유안타증권",
+      "ticker": "207940",
+      "opinion": "Buy",
+      "target_price": "2,000,000원",
+      "summary": "3Q 매출 1조4,903억원(+18.5% YoY), 영업이익 6,401억원(OPM 42.9%). 5공장 PPQ 배치 생산 본격화로 2H27부터 이익 기여 확대 기대. Rockville 공장 안정적 가동.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653214"
+    },
+    {
+      "title": "하나머티리얼즈 — 2027년 사상 최대 실적 달성 전망",
+      "broker": "유안타증권",
+      "ticker": "166090",
+      "opinion": "Buy",
+      "target_price": "100,000원",
+      "summary": "3Q 예상 매출 970억원(+39.3% YoY), 영업이익 272억원(+125.1% YoY). 메모리 반도체 선단공정 실리콘 파츠 수요 확대. 목표가 85,000→100,000원 상향.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653213"
+    },
+    {
+      "title": "LIG디펜스앤에어로스페이스 — 단기 실적보다 수출 사업 확대 기조에 주목",
+      "broker": "SK증권",
+      "ticker": "079550",
+      "target_price": "900,000원",
+      "summary": "단기 실적 부진 우려에 주가 9.58% 급락했으나, 수출 사업 확대 기조가 중장기 성장 동력이라는 평가. 목표가 90만원 유지.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653207"
+    }
+  ],
+  "broker_views": [
+    {
+      "firm": "한화투자증권",
+      "view": "2027년 코스피 목표 8,500pt 제시. 반도체 실적 개선과 AI 투자 확대를 근거로 강세 전망.",
+      "date": "2026-10-22",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653192"
+    },
+    {
+      "firm": "유안타증권",
+      "view": "KOSPI 5,735(+3.3%). 전주 급락 반동이지만 반도체·전력 인프라 실적 모멘텀이 뒷받침. 1주·1개월 수익률은 여전히 마이너스.",
+      "date": "2026-10-22",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653210"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "기준금리",
+      "meaning": "한국은행이 정하는 기본 이자율. 은행 대출·예금 금리의 기준이 되며, 올리면 돈 빌리기 어려워지고 내리면 쉬워진다."
+    },
+    {
+      "term": "컨센서스",
+      "meaning": "여러 증권사 애널리스트(분석가)들이 예측한 실적의 평균치. '컨센서스 상회'는 예상보다 실적이 좋았다는 뜻."
+    },
+    {
+      "term": "시총 기여도(index_drivers)",
+      "meaning": "지수 등락에 각 종목이 얼마나 영향을 줬는지. 시가총액이 큰 종목일수록 같은 등락률이라도 지수에 미치는 영향이 크다."
+    },
+    {
+      "term": "PPQ(공정적격성평가)",
+      "meaning": "신규 공장이 제품을 안정적으로 생산할 수 있는지 확인하는 시험. 통과해야 본격 상업 생산을 시작할 수 있다."
+    }
+  ]
+}
