@@ -55,7 +55,7 @@
       56
     ],
     "prev_buy": 58,
-    "pt_mean": 429.12833,
+    "pt_mean": 429.12222,
     "pt_high": 500.0,
     "pt_low": 340.0,
     "price": 324.22
@@ -75,7 +75,7 @@
       58
     ],
     "prev_buy": 61,
-    "pt_mean": 331.7243,
+    "pt_mean": 331.71967,
     "pt_high": 405.0,
     "pt_low": 230.0,
     "price": 250.38
@@ -95,7 +95,7 @@
       55
     ],
     "prev_buy": 55,
-    "pt_mean": 833.1331,
+    "pt_mean": 843.48,
     "pt_high": 1050.0,
     "pt_low": 600.0,
     "price": 648.85
@@ -104,18 +104,18 @@
     "name": "Tesla",
     "theme": "빅테크",
     "strongBuy": 4,
-    "buy": 15,
-    "hold": 22,
+    "buy": 14,
+    "hold": 23,
     "sell": 2,
-    "strongSell": 1,
+    "strongSell": 0,
     "buy_trend": [
       23,
       22,
       19,
-      19
+      18
     ],
     "prev_buy": 23,
-    "pt_mean": 401.39514,
+    "pt_mean": 408.35843,
     "pt_high": 600.0,
     "pt_low": 128.11,
     "price": 374.58
@@ -135,7 +135,7 @@
       59
     ],
     "prev_buy": 58,
-    "pt_mean": 328.71695,
+    "pt_mean": 328.95346,
     "pt_high": 515.0,
     "pt_low": 180.0,
     "price": 212.21
@@ -143,7 +143,7 @@
   "AVGO": {
     "name": "Broadcom",
     "theme": "AI반도체",
-    "strongBuy": 7,
+    "strongBuy": 8,
     "buy": 40,
     "hold": 3,
     "sell": 0,
@@ -152,10 +152,10 @@
       44,
       45,
       47,
-      47
+      48
     ],
     "prev_buy": 44,
-    "pt_mean": 527.5915,
+    "pt_mean": 529.1,
     "pt_high": 660.0,
     "pt_low": 215.88,
     "price": 323.24
@@ -215,7 +215,7 @@
       45
     ],
     "prev_buy": 40,
-    "pt_mean": 1560.5652,
+    "pt_mean": 1561.9111,
     "pt_high": 3000.0,
     "pt_low": 361.0,
     "price": 856.49
@@ -235,9 +235,9 @@
       38
     ],
     "prev_buy": 40,
-    "pt_mean": 2146.788,
-    "pt_high": 2851.9414,
-    "pt_low": 868.18536,
+    "pt_mean": 2145.103,
+    "pt_high": 2849.703,
+    "pt_low": 867.5039,
     "price": 1560.54
   },
   "ARM": {
@@ -245,9 +245,9 @@
     "theme": "AI반도체",
     "strongBuy": 8,
     "buy": 21,
-    "hold": 12,
+    "hold": 13,
     "sell": 1,
-    "strongSell": 1,
+    "strongSell": 0,
     "buy_trend": [
       27,
       27,
@@ -275,7 +275,7 @@
       42
     ],
     "prev_buy": 38,
-    "pt_mean": 341.63016,
+    "pt_mean": 341.43552,
     "pt_high": 450.0,
     "pt_low": 229.95,
     "price": 223.47
