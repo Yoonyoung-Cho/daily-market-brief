@@ -2,172 +2,175 @@
   "market": "US",
   "as_of_date": "2026-10-23",
   "plain_summary": [
-    "미국 S&P 500은 0.59% 올라 7,757포인트로 마감하며 AI 매도세에서 일부 반등했습니다.",
-    "CoreWeave(AI 데이터센터 임대 기업)의 520억 달러 부채가 이번 주 기술주 매도의 촉매였으나, 엔비디아 CEO의 낙관론에 일부 회복했습니다.",
-    "⚠️ 미국 10년 국채 금리가 5%를 넘어서며 높은 차입 비용이 기술주 밸류에이션(주가 수준)에 부담을 주고 있습니다."
+    "S&P 500이 1.21% 하락한 7,663포인트로 마감하며 7월 이후 최대 낙폭을 기록했습니다.",
+    "메타가 AI 투자비 확대로 잉여현금흐름(FCF)이 적자로 전환되면서 7% 빠졌고, 필라델피아 반도체 지수도 6.7% 급락했습니다.",
+    "⚠️ 10년 국채 금리가 5% 근처에서 움직이고 유가도 급등해, AI 투자 비용 부담과 물가 우려가 동시에 시장을 누르고 있습니다."
   ],
-  "market_tone": "S&P 500은 10월 21일(수) 7,757.17로 전일 대비 0.59% 상승하며 마감했습니다. 다우도 0.69% 오르고 나스닥 100은 1.13% 반등하는 등 AI 관련 긍정적 뉴스에 기술주가 일부 회복했습니다. 다만 이번 주 초 CoreWeave의 부채 우려로 촉발된 기술주 매도세가 나스닥에 큰 타격을 줬고, 10년 국채 금리가 5% 이상을 유지하면서 성장주에 대한 부담이 남아 있습니다. 방어적 업종으로의 자금 이동(섹터 로테이션)이 관찰되고 있습니다.",
+  "market_tone": "10월 22일(목) S&P 500은 1.21% 하락한 7,663.43으로 7월 이후 최대 낙폭을 보였고, 나스닥은 2.60% 급락한 26,008.86을 기록했습니다. 다우존스는 0.02% 소폭 올라 52,867.98로 마감했습니다. 메타가 3분기 잉여현금흐름(FCF) 적자(-21억 달러)를 기록하고 연간 설비투자(CapEx) 전망 하단을 올리면서, AI 투자 비용에 대한 우려가 기술주 전반으로 퍼졌습니다. 필라델피아 반도체 지수는 6.72% 급락했고, 엔비디아(-4.4%), AMD(-8.1%), 마이크론(-6.3%) 등이 큰 폭으로 하락했습니다. 반면 10년 국채 금리는 18.5bp 하락한 약 4.96%로 떨어지며 안전자산 선호가 나타났고, 브렌트유는 4% 올라 배럴당 113달러를 넘었습니다.",
   "news": [
     {
-      "title": "CoreWeave 부채 520억 달러, AI 투자 우려 확산",
-      "summary_plain": "GPU(그래픽처리장치) 컴퓨팅을 임대하는 CoreWeave의 부채가 520억 달러에 달하면서 채권이 액면가의 78센트까지 떨어졌습니다. CDS(부도보험) 스프레드가 5년 내 부도 확률 50% 이상을 반영하고 있습니다.",
-      "why_it_matters": "AI 인프라 확장에 막대한 빚을 쓰는 기업들이 늘고 있어, 이들이 빚을 갚지 못하면 AI 투자 전체에 대한 신뢰가 흔들릴 수 있습니다.",
+      "title": "메타 3분기 실적: 매출 호조에도 FCF 적자, 주가 7% 하락",
+      "summary_plain": "메타의 3분기 매출은 646억 달러(+26% YoY)로 호조였으나, 설비투자(CapEx)가 349억 달러에 달해 잉여현금흐름(FCF)이 -21억 달러로 적자 전환했습니다.",
+      "why_it_matters": "AI 인프라에 대한 막대한 투자가 당장 수익으로 이어지지 않을 수 있다는 우려를 키우며, AI 관련주 전반에 매도를 촉발했습니다.",
       "tickers": [
-        "CRWV"
+        "META"
       ],
       "date": "2026-10-22",
       "tier": "news",
-      "source_url": "https://www.wsj.com/finance/investing/u-s-stocks-fall-as-credit-fears-haunt-tech-sector-db50c887",
-      "source_name": "Wall Street Journal"
+      "source_url": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
+      "source_name": "CNBC"
     },
     {
-      "title": "미국 증시 반등, AI 우려 완화에 다우 +1.1%",
-      "summary_plain": "AI 부채 공포가 일단 진정되면서 다우가 약 600포인트 올랐습니다. 국채 금리가 하락하고 반도체주 낙폭이 줄면서 투자 심리가 회복됐습니다.",
-      "why_it_matters": "급락 후 반등은 투자자들이 AI 투자 자체를 부정하는 것이 아니라 일부 기업의 과도한 부채에 대한 걱정이었음을 보여줍니다.",
-      "tickers": [],
-      "date": "2026-10-22",
-      "tier": "news",
-      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-rise-nasdaq-trims-losses-as-treasury-yields-sink-153611834.html",
-      "source_name": "Yahoo Finance"
-    },
-    {
-      "title": "TSMC, 기록적 분기 실적에도 글로벌 매도 속 2% 하락",
-      "summary_plain": "TSMC가 AI 칩 수요 호조에 힘입어 역대 최고 분기 이익을 기록했으나, 글로벌 반도체 매도 분위기 속에서 주가가 하락 압력을 받고 있습니다.",
-      "why_it_matters": "실적이 좋아도 시장 전체의 심리가 나쁘면 주가가 빠질 수 있다는 것을 보여주는 사례입니다.",
+      "title": "나스닥 2.6% 급락, 필라델피아 반도체 지수 6.7% 하락",
+      "summary_plain": "AI 투자비 부담 우려에 기술주 전반이 매도세를 보였습니다. 나스닥은 6월 이후 최악의 하루였습니다.",
+      "why_it_matters": "반도체 지수 6.7% 급락은 엔비디아·AMD·마이크론 등 핵심 AI 칩 기업들이 동반 하락했음을 의미합니다.",
       "tickers": [
-        "TSM"
+        "NVDA",
+        "AMD",
+        "MU"
       ],
       "date": "2026-10-22",
       "tier": "news",
-      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-rise-nasdaq-trims-losses-as-treasury-yields-sink-153611834.html",
-      "source_name": "Yahoo Finance"
+      "source_url": "https://apnews.com/article/stocks-wall-street-nasdaq-dow-1970e79d013cbddcae89c53b4b98f384",
+      "source_name": "AP News"
     },
     {
-      "title": "Microsoft, 분기 배당금 8% 인상해 주당 0.98달러로",
-      "summary_plain": "Microsoft가 분기 배당금을 0.91달러에서 0.98달러로 올려 23년 연속 배당 증가 기록을 이어갔습니다.",
-      "why_it_matters": "꾸준한 배당 인상은 기업이 안정적으로 돈을 벌고 있다는 신호로, 장기 투자자에게 의미 있는 소식입니다.",
+      "title": "테슬라 실적 발표 — Optimus 로봇 양산 시작 확인",
+      "summary_plain": "테슬라 3분기 어닝 컨퍼런스 콜에서 프리몬트 공장에서 Optimus 휴머노이드 로봇 초기 생산이 시작되었음이 확인되었습니다.",
+      "why_it_matters": "연간 100만 대 생산 체제 목표를 유지하면서 로보틱스 관련 부품·소재 기업에 대한 관심이 커지고 있습니다.",
       "tickers": [
-        "MSFT"
+        "TSLA"
       ],
       "date": "2026-10-22",
       "tier": "news",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-higher-dividend-comes-modest-015210981.html",
-      "source_name": "Yahoo Finance"
+      "source_url": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html",
+      "source_name": "CNBC"
+    },
+    {
+      "title": "10년 국채 금리, 하루 만에 18.5bp 급락해 5% 아래로",
+      "summary_plain": "기술주 매도세 속에서 투자자들이 안전자산인 국채로 몰리며 금리가 급락(국채 가격 상승)했습니다.",
+      "why_it_matters": "금리가 떨어지면 성장주(기술주) 밸류에이션(주가 수준)에는 긍정적이지만, 이번 하락은 위험 회피 심리를 반영한 것입니다.",
+      "date": "2026-10-22",
+      "tier": "news",
+      "source_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-22-2026",
+      "source_name": "WSJ"
     }
   ],
   "hot_sectors": [
     {
       "sector": "AI 인프라·반도체",
-      "trend": "CoreWeave 부채 우려와 미국 국채 금리 상승이 반도체·AI 관련주 매도를 촉발했으나, 실적 발표 시즌이 다가오며 반등 시도도 있었습니다.",
-      "drivers": "AI 데이터센터 투자 지속 vs 부채 부담 우려",
+      "trend": "필라델피아 반도체 지수가 6.72% 급락하며 7월 이후 최저치를 기록했습니다. AI 투자 수익성에 대한 우려가 반도체주를 압박하고 있습니다.",
+      "drivers": "메타의 CapEx 전망 상향(연간 1,350~1,450억 달러)과 FCF 적자가 촉매. 엔비디아(-4.4%), AMD(-8.1%), 마이크론(-6.3%) 등.",
       "tickers": [
         "NVDA",
-        "TSM",
-        "AVGO",
-        "AMD"
-      ],
-      "tier": "news",
-      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-rise-nasdaq-trims-losses-as-treasury-yields-sink-153611834.html",
-      "source_name": "Yahoo Finance"
-    },
-    {
-      "sector": "빅테크",
-      "trend": "기술주에서 방어주(경기 방어적 업종)로 자금이 이동하는 로테이션이 관찰됐습니다. 다우는 금주 상승한 반면 나스닥은 약 4.5% 하락했습니다.",
-      "drivers": "금리 상승에 따른 성장주 밸류에이션 부담",
-      "tickers": [
-        "AAPL",
-        "MSFT",
-        "GOOGL",
+        "AMD",
+        "MU",
         "META"
       ],
       "tier": "news",
-      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-21-dow-sp-500-nasdaq-100000105.html",
-      "source_name": "Yahoo Finance"
+      "source_url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10222026-12187670",
+      "source_name": "Investopedia"
     },
     {
-      "sector": "에너지",
-      "trend": "브렌트유가 배럴당 110달러에 근접하면서 에너지 섹터가 상대적으로 강세를 보였습니다.",
-      "drivers": "이란의 호르무즈 해협 긴장 고조",
-      "tickers": [],
+      "sector": "바이오·헬스케어",
+      "trend": "모더나가 암 백신 데이터 유출 사건으로 18% 급락해 S&P 500 최악의 종목이 되었습니다.",
+      "tickers": [
+        "MRNA"
+      ],
       "tier": "news",
-      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-sink-as-tech-sell-off-caps-volatile-week-112939401.html",
-      "source_name": "Yahoo Finance"
+      "source_url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10222026-12187670",
+      "source_name": "Investopedia"
+    },
+    {
+      "sector": "방산·산업재",
+      "trend": "록히드마틴(+7%)·프록터앤드갬블(+5.5%) 등 전통 산업주가 실적 호조로 강세를 보이며 기술주 매도와 대조를 이뤘습니다.",
+      "tickers": [
+        "LMT",
+        "PG"
+      ],
+      "tier": "news",
+      "source_url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10222026-12187670",
+      "source_name": "Investopedia"
     }
   ],
   "notable_stocks": [
     {
-      "name": "NVIDIA",
+      "name": "엔비디아(NVIDIA)",
       "ticker": "NVDA",
-      "note": "애널리스트 59명 중 49명이 매수 의견을 유지하고 있으며, 평균 목표가는 328.72달러입니다. 현재가 213.71달러 대비 상승 여력이 있다는 분석입니다. CEO 젠슨 황이 CoreWeave에 대한 낙관론을 밝혀 반등을 도왔습니다.",
+      "note": "4.4% 하락. 월가 애널리스트 컨센서스는 여전히 강력 매수(strongBuy 10, buy 49)이며, 평균 목표가 328.7달러(현재가 212달러 대비 상승 여력)입니다.",
       "tier": "analyst_data",
-      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-rise-nasdaq-trims-losses-as-treasury-yields-sink-153611834.html",
-      "source_name": "Yahoo Finance"
+      "source_url": "https://finance.yahoo.com/quote/NVDA/",
+      "source_name": "Yahoo Finance(애널리스트 컨센서스)"
     },
     {
-      "name": "Alphabet",
-      "ticker": "GOOGL",
-      "note": "애널리스트 61명 중 56명이 매수 의견이며, 평균 목표가 429.13달러 대비 현재가 327.15달러로 할인 거래 중입니다. 조지아주 원자력 발전소 확장 지원 소식도 있었습니다.",
-      "tier": "analyst_data",
-      "source_url": "https://finance.yahoo.com/energy/articles/google-backs-nuclear-expansion-georgia-023155220.html",
-      "source_name": "Yahoo Finance"
+      "name": "메타(Meta Platforms)",
+      "ticker": "META",
+      "note": "7% 하락. 3분기 매출 646억 달러(+26%)는 호조였으나 CapEx 349억 달러, FCF -21억 달러가 투자 심리를 눌렀습니다. Muse(AI 서비스) 이용자 1,000만 명 돌파.",
+      "tier": "news",
+      "source_url": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
+      "source_name": "CNBC"
     },
     {
-      "name": "Amazon",
-      "ticker": "AMZN",
-      "note": "애널리스트 60명 중 58명이 매수 의견이며, 평균 목표가 331.72달러 대비 현재가 252.28달러입니다. AI 클라우드(AWS) 성장 기대가 유지되고 있습니다.",
+      "name": "AMD",
+      "ticker": "AMD",
+      "note": "8.1% 하락. 반도체 업종 전반의 매도세에 동반 하락. 애널리스트 컨센서스는 buy 39, strongBuy 5로 긍정적 평가 유지 중.",
       "tier": "analyst_data",
-      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-rise-nasdaq-trims-losses-as-treasury-yields-sink-153611834.html",
-      "source_name": "Yahoo Finance"
+      "source_url": "https://finance.yahoo.com/quote/AMD/",
+      "source_name": "Yahoo Finance(애널리스트 컨센서스)"
     },
     {
-      "name": "Broadcom",
-      "ticker": "AVGO",
-      "note": "애널리스트 50명 중 47명이 매수 의견이며, 평균 목표가 527.59달러로 현재가 324.42달러 대비 큰 괴리가 있습니다. AI 네트워킹 칩 수요가 성장 동력입니다.",
-      "tier": "analyst_data",
-      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-rise-nasdaq-trims-losses-as-treasury-yields-sink-153611834.html",
-      "source_name": "Yahoo Finance"
+      "name": "스포티파이(Spotify)",
+      "ticker": "SPOT",
+      "note": "실적 발표 후 11% 급등. 보도에 따르면 구독자 성장과 수익성 개선이 호평을 받았습니다.",
+      "tier": "news",
+      "source_url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-10222026-12187670",
+      "source_name": "Investopedia"
+    }
+  ],
+  "broker_views": [
+    {
+      "firm": "AP News / 시장 종합",
+      "view": "보도에 따르면 AI 주식들이 높은 금리로 인해 붐이 위협받을 수 있다는 우려로 흔들리고 있으며, 시장 불안이 국채 금리를 크게 끌어내렸습니다.",
+      "date": "2026-10-22",
+      "tier": "news",
+      "source_url": "https://apnews.com/article/stocks-wall-street-nasdaq-dow-1970e79d013cbddcae89c53b4b98f384"
+    },
+    {
+      "firm": "WSJ",
+      "view": "보도에 따르면 기술 업종과 채권 금리가 동시에 급락한 것은 투자자들의 안전자산 선호(flight to safety) 심리가 강해졌음을 보여준다고 분석했습니다.",
+      "date": "2026-10-22",
+      "tier": "news",
+      "source_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-22-2026"
+    },
+    {
+      "firm": "iM증권(국내 시각)",
+      "view": "테슬라 어닝 콜에서 Optimus 양산 시작이 확인되었으며, 관련 부품 유니버스를 점검할 필요가 있다고 밝혔습니다.",
+      "date": "2026-10-23",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653251"
     }
   ],
   "key_reports": [],
-  "broker_views": [
-    {
-      "firm": "Goldman Sachs",
-      "view": "보도에 따르면 CoreWeave에 대해 매수 등급으로 상향했으며, 차입 비용 상승이 100~200bp(베이시스포인트) 수준에 그칠 것으로 전망.",
-      "date": "2026-10-19",
-      "tier": "ib_news",
-      "source_url": "https://news.leodex.io/news/coreweave-shares-fall-up-to-25-as-investors-weigh-50-billion-debt-load"
-    },
-    {
-      "firm": "Vital Knowledge",
-      "view": "보도에 따르면 CoreWeave 등 네오클라우드 기업들이 현금흐름이 아닌 부채와 주식 발행으로 설비투자를 조달하고 있어 투자자 우려가 커지고 있다고 분석.",
-      "date": "2026-10-22",
-      "tier": "ib_news",
-      "source_url": "https://finance.yahoo.com/video/the-great-ai-sell-off-winners-losers--coreweaves-debt-warning-135530588.html"
-    },
-    {
-      "firm": "Angeles Investments",
-      "view": "보도에 따르면 AI 관련 부채 증가를 주시해야 하지만, 시스템적 위험 수준에는 아직 '원격적으로도 근접하지 않았다'는 판단.",
-      "date": "2026-10-22",
-      "tier": "ib_news",
-      "source_url": "http://pensionpulse.blogspot.com/2026/10/ai-debt-fears-rattle-wall-street.html"
-    }
-  ],
   "glossary": [
     {
-      "term": "네오클라우드",
-      "meaning": "NVIDIA GPU를 대량 임대하여 AI 연산 능력을 제공하는 신생 클라우드 기업(예: CoreWeave). 기존 빅테크 클라우드와 구별됨."
+      "term": "CapEx(설비투자)",
+      "meaning": "회사가 서버·데이터센터 등 설비에 쓰는 돈"
     },
     {
-      "term": "CDS 스프레드",
-      "meaning": "부도보험(Credit Default Swap) 가격. 이 수치가 높을수록 시장이 해당 기업의 부도 가능성을 높게 보는 것."
+      "term": "FCF(잉여현금흐름)",
+      "meaning": "영업으로 번 돈에서 설비투자를 뺀 실제 남는 현금. 마이너스면 투자가 벌이보다 많다는 뜻"
     },
     {
-      "term": "밸류에이션",
-      "meaning": "주가가 기업의 이익·자산에 비해 비싼지 싼지를 나타내는 척도. PER(주가수익비율) 등이 대표적."
+      "term": "필라델피아 반도체 지수(SOX)",
+      "meaning": "미국 주요 반도체 기업 30개의 주가를 모은 대표 지수"
     },
     {
-      "term": "섹터 로테이션",
-      "meaning": "투자자금이 한 업종(예: 기술주)에서 다른 업종(예: 금융·에너지)으로 옮겨가는 현상."
+      "term": "국채 금리와 주가",
+      "meaning": "국채 금리가 오르면 주식의 매력이 줄고, 내리면 주식에 유리해질 수 있음"
+    },
+    {
+      "term": "bp(베이시스 포인트)",
+      "meaning": "금리 변동 단위. 1bp = 0.01%포인트"
     }
   ]
 }
