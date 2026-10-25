@@ -1,0 +1,168 @@
+{
+  "market": "US",
+  "as_of_date": "2026-10-26",
+  "plain_summary": [
+    "필라델피아 반도체 지수가 하루에 6.72% 급락하며 약 2,000억 달러 규모의 시가총액이 사라졌고, 나스닥도 2.60% 내렸습니다.",
+    "반도체 장비업체 램리서치가 실적은 좋았지만 '공급 차질' 우려를 언급한 것이 반도체주 전반의 매도를 촉발했고, 엔비디아 CEO가 AI 수요는 강하지만 자본이 부족하다고 밝혔습니다.",
+    "⚠️ 테슬라가 옵티머스(인간형 로봇) 양산을 시작했으나 3분기 이익은 43% 줄었고, 메타의 잉여현금흐름이 거의 제로에 가까워 빅테크의 AI 투자 부담이 커지고 있습니다."
+  ],
+  "market_tone": "S&P 500은 7,663.43으로 1.2% 하락하며 7월 이후 최악의 하루를 기록했습니다. 반도체 섹터가 가장 큰 타격을 받았고, 필라델피아 반도체 지수는 6.72% 급락했습니다. 엔비디아(-4.40%), AMD(-8.10%), 마벨(-8% 이상) 등이 일제히 하락했습니다. AI 수요 자체는 강하지만, 그 수요를 뒷받침할 공급망과 자본 조달 능력에 대한 의문이 커지는 국면입니다. 골드만삭스에 따르면 미국 반도체 지수는 고점 대비 약 25% 하락해 역사적으로 반등이 나왔던 수준에 접근하고 있습니다.",
+  "news": [
+    {
+      "title": "램리서치 실적 호조에도 공급 차질 언급, 반도체주 폭락 촉발",
+      "summary_plain": "반도체 장비업체 램리서치가 1분기(회계연도) 매출 82.2억 달러(+54% YoY)의 기록적 실적을 발표했지만, CFO가 '공급 차질로 가이던스가 더 높을 수 있었다'고 밝히면서 반도체주 전반이 급락했습니다.",
+      "why_it_matters": "램리서치는 반도체를 만드는 데 필요한 장비를 공급하는 회사입니다. 여기서 병목이 생기면 칩 생산 전체에 영향을 줄 수 있어 시장이 크게 반응했습니다.",
+      "tickers": [
+        "NVDA",
+        "AMD",
+        "AVGO",
+        "ASML"
+      ],
+      "date": "2026-10-22",
+      "tier": "news",
+      "source_url": "https://techtimes.com/articles/329406/20261023/chip-stocks-lose-200-billion-equipment-makers-warning-counters-nvidias-ai-optimism.htm",
+      "source_name": "TechTimes"
+    },
+    {
+      "title": "엔비디아 CEO 젠슨 황 'AI 수요는 폭발적이지만 자본이 부족'",
+      "summary_plain": "엔비디아 CEO가 베를린 GTC 행사에서 네오클라우드(AI 전문 클라우드) 수요가 '차트를 벗어났다'고 밝혔지만, 자본 조달이 수요를 따라가지 못한다고 설명했습니다.",
+      "why_it_matters": "AI 칩을 사려는 수요는 넘치지만 돈이 부족하다는 뜻입니다. 이 발언이 AI 인프라 투자의 지속 가능성에 대한 우려를 키웠습니다.",
+      "tickers": [
+        "NVDA"
+      ],
+      "date": "2026-10-22",
+      "tier": "news",
+      "source_url": "https://kalkine.com/news/artificial-intelligence/why-nvidia-nasdaqnvda-slid-on-the-dow-its-ceo-said-capital-not-demand-is-the-bottleneck",
+      "source_name": "Kalkine"
+    },
+    {
+      "title": "테슬라, 옵티머스 로봇 양산 시작 — 3분기 이익은 43% 감소",
+      "summary_plain": "테슬라가 프리몬트 공장에서 인간형 로봇 옵티머스의 초기 양산을 시작했습니다. 다만 3분기 영업이익은 7.18억 달러로 전년 대비 43% 줄었습니다.",
+      "why_it_matters": "옵티머스 양산은 테슬라의 새 성장 동력이지만, 기존 자동차 사업의 이익 감소폭이 큽니다. 로봇 수익화까지는 시간이 걸릴 전망입니다.",
+      "tickers": [
+        "TSLA"
+      ],
+      "date": "2026-10-21",
+      "tier": "news",
+      "source_url": "https://qz.com/tesla-optimus-robot-production-fremont-profit-drop-102226",
+      "source_name": "Quartz"
+    }
+  ],
+  "hot_sectors": [
+    {
+      "sector": "AI 반도체",
+      "trend": "필라델피아 반도체 지수가 6.72% 급락하며 7월 이후 최저치를 기록했습니다. 엔비디아(-4.40%), AMD(-8.10%), ASML(-6.93%) 등 주요 종목이 일제히 하락.",
+      "drivers": "램리서치의 공급 차질 언급, 엔비디아 CEO의 자본 부족 발언, 메타의 AI 투자에 따른 잉여현금흐름 악화 등이 복합 작용.",
+      "tickers": [
+        "NVDA",
+        "AMD",
+        "AVGO",
+        "ASML",
+        "TSM"
+      ],
+      "tier": "news",
+      "source_url": "https://techtimes.com/articles/329406/20261023/chip-stocks-lose-200-billion-equipment-makers-warning-counters-nvidias-ai-optimism.htm",
+      "source_name": "TechTimes"
+    },
+    {
+      "sector": "빅테크/AI 인프라",
+      "trend": "메타의 AI 인프라 투자 확대로 잉여현금흐름이 거의 제로에 가까워졌고, 알파벳도 AI 투자로 현금흐름이 악화되고 있습니다.",
+      "drivers": "빅테크 기업들이 AI 데이터센터에 막대한 자본을 쏟고 있지만, 투자 수익이 언제 돌아올지 불확실성이 커지고 있습니다.",
+      "tickers": [
+        "META",
+        "GOOGL",
+        "MSFT"
+      ],
+      "tier": "news",
+      "source_url": "https://techtimes.com/articles/329406/20261023/chip-stocks-lose-200-billion-equipment-makers-warning-counters-nvidias-ai-optimism.htm",
+      "source_name": "TechTimes"
+    },
+    {
+      "sector": "로보틱스",
+      "trend": "테슬라가 옵티머스 인간형 로봇의 초기 양산을 시작하며 관련 밸류체인에 관심이 쏠리고 있습니다.",
+      "drivers": "프리몬트 생산 라인 가동 시작, 연간 100만 대 목표 유지. 다만 초기 램프업은 느릴 전망.",
+      "tickers": [
+        "TSLA"
+      ],
+      "tier": "news",
+      "source_url": "https://qz.com/tesla-optimus-robot-production-fremont-profit-drop-102226",
+      "source_name": "Quartz"
+    }
+  ],
+  "notable_stocks": [
+    {
+      "name": "NVIDIA",
+      "ticker": "NVDA",
+      "note": "10월 23일 $210.96 마감. 10월 고점 대비 약 13% 하락. CEO가 AI 수요는 강하지만 자본 부족이 병목이라 밝힘.",
+      "tier": "analyst_data",
+      "source_url": "https://kalkine.com/news/artificial-intelligence/why-nvidia-nasdaqnvda-slid-on-the-dow-its-ceo-said-capital-not-demand-is-the-bottleneck",
+      "source_name": "Kalkine"
+    },
+    {
+      "name": "Tesla",
+      "ticker": "TSLA",
+      "note": "옵티머스 로봇 양산 시작, 3Q26 영업이익 7.18억 달러(-43% YoY). 현재가 $372.22, 애널리스트 목표가 평균 $407.",
+      "tier": "analyst_data",
+      "source_url": "https://qz.com/tesla-optimus-robot-production-fremont-profit-drop-102226",
+      "source_name": "Quartz"
+    },
+    {
+      "name": "Broadcom",
+      "ticker": "AVGO",
+      "note": "현재가 $321.68, 애널리스트 목표가 평균 $529. 반도체 섹터 전반 약세 속에서 하락했으나 'Strong Buy' 컨센서스 유지.",
+      "tier": "analyst_data",
+      "source_url": "https://techtimes.com/articles/329406/20261023/chip-stocks-lose-200-billion-equipment-makers-warning-counters-nvidias-ai-optimism.htm",
+      "source_name": "TechTimes"
+    },
+    {
+      "name": "AMD",
+      "ticker": "AMD",
+      "note": "현재가 $516.79, 애널리스트 목표가 평균 $637. 10월 22일 8.10% 급락. AI 추론(inference) 시장 확대로 장기 성장 기대는 유지.",
+      "tier": "analyst_data",
+      "source_url": "https://startupfortune.com/chip-stocks-rebound-after-their-worst-weekly-selloff-since-march",
+      "source_name": "StartupFortune"
+    }
+  ],
+  "key_reports": [],
+  "broker_views": [
+    {
+      "firm": "골드만삭스",
+      "view": "보도에 따르면 미국 반도체 지수가 S&P 500 대비 약 25% 하락해, 과거 20년간 순환적 저점과 반등이 나왔던 수준에 접근하고 있다고 분석합니다.",
+      "date": "2026-10-22",
+      "tier": "ib_news",
+      "source_url": "https://techtimes.com/articles/329406/20261023/chip-stocks-lose-200-billion-equipment-makers-warning-counters-nvidias-ai-optimism.htm"
+    },
+    {
+      "firm": "노무라증권",
+      "view": "보도에 따르면 메모리 시장의 공급망 병목이 적어도 2028년까지 이어질 전망이며, 삼성전자와 SK하이닉스를 주목 종목으로 유지합니다.",
+      "date": "2026-10-19",
+      "tier": "ib_news",
+      "source_url": "https://www.mt.co.kr/stock/2026/10/21/2026102116250652717"
+    },
+    {
+      "firm": "SK증권",
+      "view": "리포트에 따르면 메타의 AI 에이전트 'Muse'가 출시 1.5개월 만에 1,000만 다운로드를 기록하며, 소비자향 AI 에이전트 시장의 성장 가능성을 보여주고 있다고 분석합니다.",
+      "date": "2026-10-23",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653241"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "필라델피아 반도체 지수(SOX)",
+      "meaning": "미국 필라델피아 거래소에 상장된 주요 반도체 기업 30개의 주가를 모은 지수입니다."
+    },
+    {
+      "term": "네오클라우드",
+      "meaning": "AI 연산에 특화된 클라우드 서비스 제공업체를 뜻합니다. 코어위브 등이 대표적입니다."
+    },
+    {
+      "term": "잉여현금흐름(Free Cash Flow)",
+      "meaning": "기업이 영업으로 벌어들인 현금에서 설비투자 등을 뺀 나머지 돈으로, 마이너스면 투자가 벌이보다 많다는 뜻입니다."
+    },
+    {
+      "term": "램프업(Ramp-up)",
+      "meaning": "새 공장이나 제품의 생산량을 점진적으로 늘려가는 과정입니다."
+    }
+  ]
+}

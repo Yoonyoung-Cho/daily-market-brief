@@ -1,0 +1,225 @@
+{
+  "market": "KR",
+  "as_of_date": "2026-10-26",
+  "plain_summary": [
+    "코스피(한국 대표 주가지수)는 SK하이닉스가 4.42% 오르며 끌어올려 5,550선에서 마감했지만, 코스닥(중소형주 중심 지수)은 1.62% 내렸습니다.",
+    "삼성E&A가 3분기 영업이익 5,006억 원으로 시장 예상의 약 두 배를 기록하며 어닝 서프라이즈(예상을 크게 웃도는 실적)를 냈고, 삼성바이오로직스도 7.71% 올랐습니다.",
+    "⚠️ 한국은행이 기준금리를 3.00%로 동결했지만 11월 추가 인상 가능성이 남아 있어, 대출 이자 부담이 더 늘어날 수 있다는 점은 유의할 필요가 있습니다."
+  ],
+  "market_tone": "코스피는 SK하이닉스(+4.42%)와 삼성바이오로직스(+7.71%) 등 시총 상위 종목이 지수를 끌어올려 0.30% 소폭 상승했습니다. 반면 KB금융(-3.29%), 삼성SDI(-4.20%), 한화시스템(-10.28%) 등 금융·배터리·방산주가 지수 하락 요인으로 작용했습니다. 코스닥은 1.62% 하락하며 부진했습니다. 한 주간 반도체 대장주가 하루 4~5%씩 오르내리는 변동성이 컸고, 한국은행의 매파적(금리를 올리려는 방향) 금리 동결이 시장 심리에 부담을 주었습니다.",
+  "news": [
+    {
+      "title": "SK하이닉스, 솔리다임 나스닥 상장 검토 중단 공시",
+      "summary_plain": "SK하이닉스가 자회사 솔리다임의 미국 나스닥 별도 상장 검토를 중단한다고 공시했습니다. 중복상장 우려가 해소되면서 하이닉스 주가가 4.42% 올랐습니다.",
+      "why_it_matters": "솔리다임이 별도 상장되면 SK하이닉스의 기업가치가 쪼개질 수 있다는 우려가 있었는데, 이 부담이 사라진 것입니다.",
+      "tickers": [
+        "000660"
+      ],
+      "date": "2026-10-23",
+      "tier": "news",
+      "source_url": "https://www.clien.net/service/board/cm_stock/19282579",
+      "source_name": "클리앙 주간 증시 요약"
+    },
+    {
+      "title": "삼성E&A, 3분기 영업이익 5,006억 원 어닝 서프라이즈",
+      "summary_plain": "삼성E&A가 3분기 매출 2조 9,105억 원, 영업이익 5,006억 원을 기록했습니다. 영업이익은 전년 대비 183.6% 늘어 시장 예상치(약 2,526억 원)의 거의 두 배였습니다.",
+      "why_it_matters": "삼성전자 반도체 공장 건설과 해외 화공 프로젝트가 매출을 크게 끌어올렸고, 일회성 정산이익도 반영되었습니다. 건설주 중 돋보이는 실적입니다.",
+      "tickers": [
+        "028050"
+      ],
+      "date": "2026-10-23",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653261",
+      "source_name": "iM증권 리포트(한경 컨센서스)"
+    },
+    {
+      "title": "한국은행, 기준금리 3.00% 만장일치 동결",
+      "summary_plain": "한국은행 금통위가 기준금리를 연 3.00%로 동결했습니다. 7·8월 두 차례 연속 인상 후 효과를 지켜보겠다는 '숨 고르기'입니다.",
+      "why_it_matters": "전문가 다수는 11월 추가 인상(3.25%)을 예상하고 있어, 대출 금리가 더 올라갈 가능성이 있습니다. 주식시장에는 금리 인상이 부담 요인입니다.",
+      "tickers": [],
+      "date": "2026-10-22",
+      "tier": "news",
+      "source_url": "https://www.mt.co.kr/economy/2026/10/22/2026102209323421102",
+      "source_name": "머니투데이"
+    },
+    {
+      "title": "방산주 일제히 급락, 한화시스템 -10.28%",
+      "summary_plain": "한화에어로스페이스(-2.34%), 한화시스템(-10.28%) 등 방산주가 큰 폭으로 하락했습니다. 3분기 실적 부진 우려와 원화 강세가 겹친 영향입니다.",
+      "why_it_matters": "방산 기업은 해외 수출 비중이 높아 환율 하락 시 원화 기준 매출이 줄어듭니다. 한화에어로스페이스는 10월 들어 약 20% 밀렸습니다.",
+      "tickers": [
+        "272210",
+        "012450"
+      ],
+      "date": "2026-10-23",
+      "tier": "news",
+      "source_url": "https://www.hankyung.com/article/2026102147666",
+      "source_name": "한국경제"
+    },
+    {
+      "title": "삼성바이오로직스, 3분기 매출 1조 4,903억 원 기록",
+      "summary_plain": "삼성바이오로직스가 3분기 매출 1조 4,903억 원(+18.5% YoY), 영업이익 6,401억 원을 기록하고 연간 매출 가이던스(안내치)를 '20% 성장'으로 상향했습니다.",
+      "why_it_matters": "5공장 가동과 미국 록빌 공장 매출이 본격화되면서 외형 성장이 이어지고 있습니다. 주가는 하루 7.71% 올랐습니다.",
+      "tickers": [
+        "207940"
+      ],
+      "date": "2026-10-21",
+      "tier": "news",
+      "source_url": "https://samsungbiologics.com/kr/media/company-news/samsung-biologics-reports-third-quarter-2026-financial-results",
+      "source_name": "삼성바이오로직스 공식"
+    }
+  ],
+  "hot_sectors": [
+    {
+      "sector": "반도체",
+      "trend": "SK하이닉스(+4.42%)와 삼성전자(+0.47%)가 지수를 끌어올렸으나, 한 주간 4~5%씩 급등락을 반복하며 변동성이 매우 높았습니다.",
+      "drivers": "AI 수요는 여전히 강하지만, 글로벌 장비업체 공급 차질 소식과 AI 투자 수익성 우려가 교차하는 상황입니다.",
+      "tickers": [
+        "000660",
+        "005930"
+      ],
+      "tier": "market_data",
+      "source_url": "https://www.yna.co.kr/view/AKR20261021039351008",
+      "source_name": "연합뉴스"
+    },
+    {
+      "sector": "바이오/헬스케어",
+      "trend": "삼성바이오로직스가 3분기 실적 호조와 가이던스 상향으로 7.71% 급등하며 섹터를 주도했습니다.",
+      "drivers": "글로벌 바이오 위탁생산(CMO) 수요가 늘면서 공장 가동률이 높게 유지되고 있습니다.",
+      "tickers": [
+        "207940"
+      ],
+      "tier": "market_data",
+      "source_url": "https://samsungbiologics.com/kr/media/company-news/samsung-biologics-reports-third-quarter-2026-financial-results",
+      "source_name": "삼성바이오로직스 공식"
+    },
+    {
+      "sector": "건설/엔지니어링",
+      "trend": "삼성E&A가 어닝 서프라이즈(영업이익 시장 예상 대비 약 2배)를 기록하며 주간 30% 넘게 상승했습니다.",
+      "drivers": "삼성전자 반도체 팹(공장) 건설 물량 급증과 해외 화공·신에너지 프로젝트 매출 본격화가 원인입니다.",
+      "tickers": [
+        "028050"
+      ],
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653261",
+      "source_name": "iM증권 리포트"
+    }
+  ],
+  "notable_stocks": [
+    {
+      "name": "SK하이닉스",
+      "ticker": "000660",
+      "note": "솔리다임 상장 검토 중단 공시로 중복상장 우려가 해소되며 4.42% 상승. 한 주간 4% 넘는 등락을 4거래일 연속 반복.",
+      "tier": "market_data",
+      "source_url": "https://www.clien.net/service/board/cm_stock/19282579",
+      "source_name": "클리앙 주간 증시 요약"
+    },
+    {
+      "name": "삼성바이오로직스",
+      "ticker": "207940",
+      "note": "3분기 매출 1조 4,903억 원(+18.5%), 영업이익 6,401억 원 기록. 연간 매출 가이던스를 '20% 성장'으로 상향. 주가 7.71% 급등.",
+      "tier": "market_data",
+      "source_url": "https://samsungbiologics.com/kr/media/company-news/samsung-biologics-reports-third-quarter-2026-financial-results",
+      "source_name": "삼성바이오로직스 공식"
+    },
+    {
+      "name": "삼성E&A",
+      "ticker": "028050",
+      "note": "3분기 영업이익 5,006억 원(+183.6% YoY)으로 컨센서스의 약 두 배. 리포트에 따르면 목표주가를 75,000~84,000원으로 상향하는 증권사가 다수.",
+      "report_summary": "iM증권은 목표주가를 78,000원으로 상향하며 반복적 수행혁신에 의한 마진 개선으로 평가. 한화투자증권은 84,000원, 대신증권은 75,000원 제시.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653261",
+      "source_name": "iM증권 리포트"
+    },
+    {
+      "name": "삼성전자",
+      "ticker": "005930",
+      "note": "한 주간 큰 변동 끝에 제자리(215,500원, +0.47%). 증권가는 목표주가(미래에셋 40만 원, 노무라 67만 원)를 유지하며 매수 의견 고수.",
+      "tier": "market_data",
+      "source_url": "https://www.mt.co.kr/stock/2026/10/21/2026102116250652717",
+      "source_name": "머니투데이"
+    }
+  ],
+  "key_reports": [
+    {
+      "title": "삼성E&A — 반복되는 서프라이즈, 그리고 훌륭한 주주환원",
+      "broker": "iM증권",
+      "ticker": "028050",
+      "opinion": "Buy 유지",
+      "target_price": "78,000원(상향)",
+      "summary": "3Q26 영업이익 5,006억 원(+183.6% YoY). 사우디 얀부 프로젝트 충당금 환입 약 1,000억 원, VE 인센티브 반영. 6,900억 원 자사주 소각으로 ROE 상향.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653261"
+    },
+    {
+      "title": "로보틱스 — Optimus 양산 시작 확인: 관련 유니버스 점검",
+      "broker": "iM증권",
+      "ticker": null,
+      "summary": "테슬라 3Q26 컨콜에서 프리몬트 라인의 Optimus 초기 양산 착수 확인. 연간 100만 대 생산 목표 유지하나 초기 램프업은 느릴 전망.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653251"
+    },
+    {
+      "title": "삼성바이오로직스 — 3Q26 신규 시설 매출 인식 개시",
+      "broker": "iM증권",
+      "ticker": "207940",
+      "opinion": "BUY 유지",
+      "target_price": "2,000,000원",
+      "summary": "3Q26 매출 1조 4,903억 원(+18.5% YoY), 영업이익 6,401억 원(+1.0%). 5공장 PPQ 배치 생산 본격화, 록빌 공장 안정적 상업 생산.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653214"
+    },
+    {
+      "title": "유가 안정이 절실히 필요한 시점",
+      "broker": "IBK투자증권",
+      "ticker": null,
+      "summary": "중동 리스크 재고조로 유가 상승세 지속. AI 업황 우려와 유가 상승이 동시에 반영되는 상황이며, 의미 있는 반등에는 둘 중 하나의 완화가 필요.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653250"
+    }
+  ],
+  "broker_views": [
+    {
+      "firm": "IBK투자증권",
+      "view": "리포트에 따르면 유가 상승과 AI 투자 수익성 우려가 동시에 작용 중이며, 시장 반등에는 유가 안정 또는 AI 업황 우려 완화 중 최소 하나가 필요하다고 분석합니다.",
+      "date": "2026-10-23",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653250"
+    },
+    {
+      "firm": "LS증권",
+      "view": "리포트에 따르면 최근 급락은 펀더멘털(기초체력) 훼손이 아닌 매크로 부담과 AI 우려 중첩의 결과이며, 전력기기·바이오 등 확인된 이익에만 시장이 반응하는 국면이라고 봅니다.",
+      "date": "2026-10-23",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653231"
+    },
+    {
+      "firm": "IBK투자증권",
+      "view": "리포트에 따르면 AI 기업이 직접 도화선이 되기보다 소외된 부실기업이 금융시스템의 약한 고리를 통해 투자를 위축시키는 경로가 더 가능성 높다고 분석합니다.",
+      "date": "2026-10-23",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653247"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "어닝 서프라이즈",
+      "meaning": "기업 실적이 증권사·시장의 예상치를 크게 웃도는 것을 뜻합니다."
+    },
+    {
+      "term": "금통위(금융통화위원회)",
+      "meaning": "한국은행에서 기준금리를 결정하는 최고 의사결정 기구입니다."
+    },
+    {
+      "term": "백투백 인상",
+      "meaning": "연속 두 차례 금리를 올리는 것을 말합니다."
+    },
+    {
+      "term": "CMO(위탁생산)",
+      "meaning": "다른 회사의 의약품을 대신 만들어 주는 사업 모델입니다."
+    },
+    {
+      "term": "VE(Value Engineering) 인센티브",
+      "meaning": "설계를 효율화해 고객의 비용을 절감한 대가로 받는 보너스 수익입니다."
+    }
+  ]
+}
