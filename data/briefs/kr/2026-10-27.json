@@ -1,0 +1,231 @@
+{
+  "market": "KR",
+  "as_of_date": "2026-10-27",
+  "plain_summary": [
+    "코스피가 외국인 매도에 밀려 1.46% 내린 5,469에 마감했고, 코스닥은 3.26% 급락했습니다.",
+    "이번 주 삼성전자·SK하이닉스 실적 발표와 미국 FOMC(금리를 결정하는 회의)를 앞두고 방산·반도체 대형주가 일제히 빠졌습니다.",
+    "⚠️ 외국인이 하루에 6,972억 원어치를 팔아 시장을 끌어내렸으니, 실적 발표 전후 변동성에 주의가 필요합니다."
+  ],
+  "market_tone": "코스피는 5,500선을 내주며 6개월여 만의 최저치를 기록했습니다. 외국인이 6,972억 원을 순매도하며 지수 하락을 주도했고, 기관은 6,047억 원을 순매수하며 방어에 나섰지만 역부족이었습니다. 시총 기여도 기준으로 삼성전자(-1.62%), SK하이닉스(-0.39%), 한화에어로스페이스(-5.43%), KB금융(-3.79%), 현대차(-3.05%) 등 대형주가 지수를 끌어내렸습니다. 삼성물산(+0.69%)이 유일하게 지수에 양(+)의 기여를 했습니다. 코스닥은 반도체 장비·바이오 대형주가 동반 급락하며 3.26% 하락한 727로 마감했습니다.",
+  "news": [
+    {
+      "title": "FOMC·대형 실적 발표 줄줄이 대기, 관망 심리 확대",
+      "summary_plain": "10월 FOMC가 27~28일 열리고, 삼성전자·SK하이닉스 3분기 실적도 이번 주 발표됩니다.",
+      "why_it_matters": "금리 결정과 반도체 실적이 같은 주에 나오면 시장 변동성이 커질 수 있습니다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "date": "2026-10-26",
+      "tier": "news",
+      "source_url": "https://biz.chosun.com/stock/stock_general/2026/10/26/AVKT6KZJ75GFPIWTTXRHZATJ74",
+      "source_name": "조선비즈"
+    },
+    {
+      "title": "외국인 6,972억 원 순매도, 코스피 5,500선 하회",
+      "summary_plain": "외국인이 대규모 매도에 나서면서 코스피가 4월 이후 가장 낮은 종가를 기록했습니다.",
+      "why_it_matters": "외국인 매도가 이어지면 대형주 중심으로 추가 하락 압력이 생길 수 있습니다.",
+      "tickers": [],
+      "date": "2026-10-26",
+      "tier": "news",
+      "source_url": "https://etnews.com/20261026000392",
+      "source_name": "전자신문"
+    },
+    {
+      "title": "방산주 동반 약세 지속, 한화에어로 -5.4%·LIG D&A -10.9%",
+      "summary_plain": "원화 강세와 수주 지연 우려로 방산 대형주가 10월 들어 큰 폭으로 빠지고 있습니다.",
+      "why_it_matters": "방산주는 올해 상반기 주도주였는데, 실적이 기대에 못 미치면서 조정받는 흐름입니다.",
+      "tickers": [
+        "012450",
+        "079550"
+      ],
+      "date": "2026-10-26",
+      "tier": "news",
+      "source_url": "https://www.fnnews.com/news/202610261056045308",
+      "source_name": "파이낸셜뉴스"
+    },
+    {
+      "title": "SK하이닉스 3분기 실적 발표 임박, 영업이익 77조 원 전망",
+      "summary_plain": "SK하이닉스가 28일 3분기 실적을 발표하며, 에프앤가이드 기준 영업이익 76.9조 원이 예상됩니다.",
+      "why_it_matters": "HBM(고대역폭메모리) 수요 확대로 사상 최대 실적이 예상되지만, 원화 강세가 변수입니다.",
+      "tickers": [
+        "000660"
+      ],
+      "date": "2026-10-26",
+      "tier": "news",
+      "source_url": "https://onblanc.com/sk-hynix-q3-earnings-consensus-buyback/",
+      "source_name": "onblanc"
+    },
+    {
+      "title": "메타 AI 설비투자 우려로 글로벌 기술주 동반 하락",
+      "summary_plain": "메타가 3분기에 잉여현금흐름(FCF, 기업이 자유롭게 쓸 수 있는 현금) -21억 달러를 기록하면서 AI 투자 비용 부담 우려가 커졌습니다.",
+      "why_it_matters": "미국 빅테크의 AI 투자 부담이 한국 반도체·IT주에도 투자심리를 위축시킵니다.",
+      "tickers": [],
+      "date": "2026-10-22",
+      "tier": "news",
+      "source_url": "https://mt.co.kr/stock/2026/10/25/2026102510413168261",
+      "source_name": "머니투데이"
+    }
+  ],
+  "hot_sectors": [
+    {
+      "sector": "반도체",
+      "trend": "삼성전자·SK하이닉스 모두 하락했지만, 3분기 사상 최대 실적 발표를 앞두고 있습니다.",
+      "drivers": "SK하이닉스 HBM4 출하 확대, 삼성전자 3분기 실적 발표",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "tier": "market_data",
+      "source_url": "https://etnews.com/20261026000392",
+      "source_name": "전자신문"
+    },
+    {
+      "sector": "방산·우주항공",
+      "trend": "원화 강세와 3분기 실적 부진 우려로 큰 폭 조정이 이어지고 있습니다.",
+      "drivers": "환율 하락에 따른 수출 수익성 악화, 현대로템 실적 미스, 수주 지연",
+      "tickers": [
+        "012450",
+        "329180"
+      ],
+      "tier": "news",
+      "source_url": "https://www.hankyung.com/article/2026102147666",
+      "source_name": "한국경제"
+    },
+    {
+      "sector": "금융",
+      "trend": "KB금융(-3.79%), 하나금융(-3.10%) 등 금융주가 약세를 보였으나, 리포트에 따르면 실적은 견조합니다.",
+      "drivers": "하나금융 CET1비율 개선, 우리금융 대손비용 감소로 호실적",
+      "tickers": [
+        "105560",
+        "086790",
+        "316140"
+      ],
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/",
+      "source_name": "한경 컨센서스"
+    }
+  ],
+  "notable_stocks": [
+    {
+      "name": "삼성전자",
+      "ticker": "005930",
+      "note": "212,000원(-1.62%)에 마감. 시총 기여도 기준 코스피 하락 최대 요인. 이번 주 3분기 실적 발표 예정.",
+      "tier": "market_data",
+      "source_url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279681",
+      "source_name": "Business Korea"
+    },
+    {
+      "name": "SK하이닉스",
+      "ticker": "000660",
+      "note": "1,272,000원(-0.39%)으로 소폭 하락. 28일 3분기 실적 발표 예정으로, 리포트에 따르면 영업이익 76.9조 원 컨센서스.",
+      "tier": "consensus",
+      "source_url": "https://onblanc.com/sk-hynix-q3-earnings-consensus-buyback/",
+      "source_name": "onblanc"
+    },
+    {
+      "name": "한화에어로스페이스",
+      "ticker": "012450",
+      "note": "749,000원(-5.43%). 시총 기여도 기준 지수 하락 요인 중 하나. 증권사들이 목표주가를 잇따라 하향 조정 중.",
+      "tier": "news",
+      "source_url": "https://www.hankyung.com/article/2026102147666",
+      "source_name": "한국경제"
+    },
+    {
+      "name": "하나금융지주",
+      "ticker": "086790",
+      "note": "리포트에 따르면 CET1비율(은행 핵심자본 비율)이 전분기 대비 +18bp 개선되어 주주환원 여력이 유효합니다.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653285",
+      "source_name": "한화투자증권 via 한경 컨센서스"
+    },
+    {
+      "name": "삼성바이오로직스",
+      "ticker": "207940",
+      "note": "1,435,000원(-2.11%). 리포트에 따르면 3분기 매출 1조 4,903억 원(+18.5% YoY), 영업이익 6,401억 원으로 컨센서스 상회.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653214",
+      "source_name": "증권사 리포트 via 한경 컨센서스"
+    }
+  ],
+  "broker_views": [
+    {
+      "firm": "KB증권",
+      "view": "이번 주 FOMC, PCE 물가지수, 삼성전자·SK하이닉스 실적 등 대형 이벤트가 몰려 있어 AI 투자 수익성 기대와 금리 경로를 함께 지켜봐야 한다고 분석.",
+      "date": "2026-10-26",
+      "tier": "ib_news",
+      "source_url": "https://www.asiae.co.kr/en/article/2026102615583209463"
+    },
+    {
+      "firm": "한화투자증권",
+      "view": "하나금융지주의 CET1비율이 전분기 대비 +18bp 개선되어 배당·자사주 소각 등 주주환원 여력이 유효하다고 평가.",
+      "date": "2026-10-26",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653285"
+    },
+    {
+      "firm": "유진투자증권",
+      "view": "방산 업종 주가 하락은 3분기 실적 우려를 선제 반영한 것으로, 연말~내년 대규모 수주 이벤트가 반등 열쇠라고 분석.",
+      "date": "2026-10-26",
+      "tier": "news",
+      "source_url": "https://www.fnnews.com/news/202610261056045308"
+    }
+  ],
+  "key_reports": [
+    {
+      "title": "하나금융지주 — CET1비율 +18bp QoQ, 환원 여력은 유효",
+      "broker": "한화투자증권",
+      "ticker": "086790",
+      "summary": "CET1비율(은행의 핵심자본 비율)이 전분기 대비 18bp 올라 주주환원 여력이 충분하다는 평가.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653285"
+    },
+    {
+      "title": "우리금융지주 — 대손비용 감소로 호실적 기록",
+      "broker": "한화투자증권",
+      "ticker": "316140",
+      "summary": "대손비용(떼일 것에 대비해 쌓는 비용)이 줄면서 양호한 3분기 실적을 기록했다는 분석.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653284"
+    },
+    {
+      "title": "삼성바이오로직스 — 3Q26 신규 시설 매출 인식 개시",
+      "broker": "증권사",
+      "ticker": "207940",
+      "opinion": "BUY",
+      "target_price": "2,000,000원",
+      "summary": "3분기 매출 1조 4,903억 원(+18.5% YoY), 영업이익 6,401억 원(OPM 42.9%)으로 컨센서스를 상회. 5공장 PPQ 배치 생산이 본격화.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653214"
+    },
+    {
+      "title": "방산, 낙폭 과대 구간 점검",
+      "broker": "유진투자증권",
+      "summary": "방산주가 환율 하락과 수주 지연으로 큰 폭 조정. 연말~내년 중동·폴란드 수주가 반등 열쇠라는 분석.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653272"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "FOMC",
+      "meaning": "미국 연방공개시장위원회. 기준금리를 결정하는 회의로, 금리가 오르면 주식시장에 부담이 됩니다."
+    },
+    {
+      "term": "CET1비율",
+      "meaning": "보통주자본비율. 은행이 손실을 버틸 수 있는 핵심 자본의 비율로, 높을수록 배당 여력이 큽니다."
+    },
+    {
+      "term": "HBM(고대역폭메모리)",
+      "meaning": "AI 연산에 필요한 초고속 메모리 반도체. SK하이닉스가 세계 1위입니다."
+    },
+    {
+      "term": "FCF(잉여현금흐름)",
+      "meaning": "기업이 영업으로 벌어들인 현금에서 설비투자를 뺀 나머지. 마이너스면 투자가 번 돈보다 많다는 뜻입니다."
+    },
+    {
+      "term": "컨센서스",
+      "meaning": "증권사 애널리스트들의 실적 예상치 평균. 실제 실적이 이보다 좋으면 '어닝 서프라이즈'라고 합니다."
+    }
+  ]
+}
