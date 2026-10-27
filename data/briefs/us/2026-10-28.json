@@ -1,0 +1,157 @@
+{
+  "market": "US",
+  "as_of_date": "2026-10-28",
+  "plain_summary": [
+    "Anthropic(AI 기업)이 기업공개(IPO) 서류를 제출하며 AI 투자 열기가 되살아났고, 다우지수는 0.28% 올라 52,362에 마감했습니다.",
+    "Anthropic의 상반기 매출이 163억 달러(전년비 14배)로 급증했고, 향후 10년간 4,500억 달러 이상의 클라우드 투자를 약속해 반도체·클라우드 업종에 호재로 작용했습니다.",
+    "⚠️ 오늘 FOMC(미국 중앙은행 금리 결정 회의) 결과가 나오는데, 90% 확률로 금리 동결(3.75~4.00%)이 예상되지만 향후 추가 인상 신호에 주의가 필요합니다."
+  ],
+  "market_tone": "10월 26일(월) 미국 증시는 Anthropic S-1 공개에 힘입어 소폭 상승했습니다. 다우지수는 0.28% 올랐고, S&P 500은 7,683으로 보합 수준, 나스닥은 전주 AI 투자 우려 여파로 소폭 약세를 보였습니다. Anthropic의 매출 급증과 4,500억 달러 클라우드 투자 계획이 AI 수요 지속 기대를 높인 반면, 연준 회의와 바쁜 실적 시즌 앞둔 관망 심리도 작용했습니다.",
+  "news": [
+    {
+      "title": "Anthropic S-1 공개 — 상반기 매출 163억 달러, 클라우드 투자 4,500억 달러",
+      "summary_plain": "AI 기업 Anthropic이 나스닥 상장을 위한 S-1 서류를 공개했습니다. 2026년 상반기 매출 163억 달러(전년비 14배), 순손실 807억 달러(대부분 전환사채 회계 처리)를 기록했습니다.",
+      "why_it_matters": "AI 기업이 이 속도로 매출을 키울 수 있다는 것은 AI 서비스 수요가 폭발적이란 뜻이고, 반도체·클라우드 업체들의 매출 전망에도 긍정적입니다.",
+      "tickers": [
+        "NVDA",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+      ],
+      "date": "2026-10-27",
+      "tier": "news",
+      "source_url": "https://technology.org/2026/10/27/anthropic-s-1-ipo-nasdaq-ant-16-3-billion-revenue",
+      "source_name": "Technology.org"
+    },
+    {
+      "title": "FOMC 10월 회의 — 금리 동결 유력, 연내 추가 인상 가능성은 75%",
+      "summary_plain": "연준이 10월 27~28일 회의에서 금리를 3.75~4.00%로 유지할 것이 90% 확률로 예상됩니다. 다만 시장 참여자 75%는 연말까지 한 차례 더 인상을 예상하고 있습니다.",
+      "why_it_matters": "금리를 올리면 대출 이자가 올라가고 주식 투자 매력이 떨어질 수 있습니다. 오늘 결정 후 기자회견에서 나올 향후 방향 힌트가 중요합니다.",
+      "date": "2026-10-28",
+      "tier": "news",
+      "source_url": "https://www.cnbc.com/2026/10/26/fed-decision-expectations-october-meeting.html",
+      "source_name": "CNBC"
+    },
+    {
+      "title": "Microsoft, 6만 명 대상 자발적 퇴직 프로그램 제안",
+      "summary_plain": "마이크로소프트가 직원 6만 명을 대상으로 자발적 퇴직 프로그램을 제안했다는 보도가 나왔습니다.",
+      "why_it_matters": "빅테크 기업들이 AI 투자에 집중하면서 다른 부문의 비용을 줄이는 움직임이 이어지고 있습니다.",
+      "tickers": [
+        "MSFT"
+      ],
+      "date": "2026-10-27",
+      "tier": "news",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rally-as-investors-parse-anthropic-ipo-filing-busy-week-of-tech-earnings-153428995.html",
+      "source_name": "Yahoo Finance"
+    }
+  ],
+  "hot_sectors": [
+    {
+      "sector": "AI 반도체",
+      "trend": "Anthropic의 IPO 서류에 담긴 4,500억 달러 클라우드 투자 계획이 NVIDIA, Broadcom 등 AI 칩 업체들의 장기 수요 전망을 밝혀줌.",
+      "drivers": "NVIDIA 애널리스트 59명 중 49명이 매수 의견. Broadcom은 목표주가 평균 530달러로 현재가(343달러) 대비 55% 상승 여력.",
+      "tickers": [
+        "NVDA",
+        "AVGO",
+        "AMD",
+        "TSM"
+      ],
+      "tier": "analyst_data",
+      "source_url": "https://technology.org/2026/10/27/anthropic-s-1-ipo-nasdaq-ant-16-3-billion-revenue",
+      "source_name": "Technology.org / yfinance 컨센서스"
+    },
+    {
+      "sector": "빅테크",
+      "trend": "실적 시즌 본격화. Anthropic IPO로 AI 투자 심리는 회복되었으나, 높은 밸류에이션(주가 대비 이익 비율)에 대한 부담도 병존.",
+      "drivers": "Alphabet 애널리스트 목표주가 평균 429달러(현재가 321달러 대비 34% 상승 여력). Amazon 목표주가 332달러(현재가 252달러).",
+      "tickers": [
+        "GOOGL",
+        "AMZN",
+        "META",
+        "MSFT"
+      ],
+      "tier": "analyst_data",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rally-as-investors-parse-anthropic-ipo-filing-busy-week-of-tech-earnings-153428995.html",
+      "source_name": "Yahoo Finance / yfinance 컨센서스"
+    },
+    {
+      "sector": "메모리 반도체",
+      "trend": "Anthropic 클라우드 투자 소식에 Micron 시간외 1% 상승. AI 서버에 쓰이는 고대역폭 메모리(HBM) 수요 기대 지속.",
+      "drivers": "Micron 목표주가 평균 1,562달러(현재가 933달러). 애널리스트 45명 중 36명 매수 의견.",
+      "tickers": [
+        "MU"
+      ],
+      "tier": "analyst_data",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/mu-skhy-stocks-rise-anthropic-071332888.html",
+      "source_name": "Yahoo Finance / yfinance 컨센서스"
+    }
+  ],
+  "notable_stocks": [
+    {
+      "name": "NVIDIA",
+      "ticker": "NVDA",
+      "note": "Anthropic이 향후 Nscale·Lambda를 통해 NVIDIA 칩에 860억 달러를 지출할 계획. 애널리스트 62명 중 59명이 매수 의견, 목표주가 평균 329달러(현재가 219달러).",
+      "tier": "analyst_data",
+      "source_url": "https://technology.org/2026/10/27/anthropic-s-1-ipo-nasdaq-ant-16-3-billion-revenue",
+      "source_name": "Technology.org / yfinance"
+    },
+    {
+      "name": "Alphabet (Google)",
+      "ticker": "GOOGL",
+      "note": "Anthropic의 Google Cloud 계약이 1,115억 달러로 최대 규모. 시간외 0.3% 상승. 목표주가 평균 429달러(현재가 321달러).",
+      "tier": "analyst_data",
+      "source_url": "https://investing.com/news/stock-market-news/anthropic-revenue-hits-163-billion-as-preliminary-s1-outlines-ipo-risks--wsj-4960928",
+      "source_name": "Investing.com / yfinance"
+    },
+    {
+      "name": "Broadcom",
+      "ticker": "AVGO",
+      "note": "AI 네트워킹 칩 수요 증가 수혜. 애널리스트 51명 중 49명 매수 의견, 목표주가 평균 530달러(현재가 343달러).",
+      "tier": "analyst_data",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/mu-skhy-stocks-rise-anthropic-071332888.html",
+      "source_name": "Yahoo Finance / yfinance"
+    },
+    {
+      "name": "Micron",
+      "ticker": "MU",
+      "note": "AI 서버용 고대역폭 메모리(HBM) 수요 확대 기대에 시간외 1% 상승. 목표주가 평균 1,562달러(현재가 933달러).",
+      "tier": "analyst_data",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/mu-skhy-stocks-rise-anthropic-071332888.html",
+      "source_name": "Yahoo Finance / yfinance"
+    }
+  ],
+  "broker_views": [
+    {
+      "firm": "Deutsche Bank",
+      "view": "보도에 따르면 연준이 9월 인상 후 금융여건 긴축 효과를 지켜보기 위해 10월은 동결할 것이며, 중립금리 불확실성을 감안해 점진적 접근이 합리적이라고 분석.",
+      "date": "2026-10-27",
+      "tier": "ib_news",
+      "source_url": "https://finance.yahoo.com/economy/policy/articles/october-fed-meeting-live-updates-204129908.html"
+    },
+    {
+      "firm": "SK증권 (해외주식)",
+      "view": "리포트에 따르면 Meta의 AI 에이전트 Muse가 출시 1.5개월 만에 1,000만 다운로드를 기록했으며, 구독과 커머스 수수료 두 가지 비즈니스 모델이 핵심이라고 분석.",
+      "date": "2026-10-23",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653241"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "S-1",
+      "meaning": "미국 기업이 상장(IPO)할 때 증권거래위원회(SEC)에 제출하는 서류. 매출·비용·리스크 등 회사 정보가 담겨 있습니다."
+    },
+    {
+      "term": "FOMC",
+      "meaning": "미국 연방공개시장위원회. 미국 중앙은행의 금리를 결정하는 기구로, 연 8회 정기 회의를 엽니다."
+    },
+    {
+      "term": "전환사채(Convertible Note)",
+      "meaning": "나중에 주식으로 바꿀 수 있는 채권. Anthropic의 807억 달러 손실 대부분은 이 채권의 회계 평가 변동 때문입니다."
+    },
+    {
+      "term": "HBM(고대역폭 메모리)",
+      "meaning": "AI 서버에 쓰이는 초고속 메모리 반도체. SK하이닉스와 Micron이 주요 생산업체입니다."
+    }
+  ]
+}

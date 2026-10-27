@@ -1,0 +1,235 @@
+{
+  "market": "KR",
+  "as_of_date": "2026-10-28",
+  "plain_summary": [
+    "코스피가 3.09% 올라 5,638에 마감했는데, Anthropic(앤스로픽, AI 기업)의 기업공개(IPO) 서류에 4,500억 달러 규모 클라우드 투자 계획이 담기면서 반도체주가 크게 뛰었습니다.",
+    "SK하이닉스(+6.35%)와 삼성전자(+4.46%)가 시가총액(회사 전체 주식 가치) 기준으로 코스피 상승을 이끌었고, 삼성E&A는 역대급 실적 발표 이후에도 관심이 이어졌습니다.",
+    "⚠️ 다만 삼성바이오로직스는 노사 갈등 우려로 5.72% 하락했고, 오늘 저녁 미국 연준(Fed) 금리 결정과 SK하이닉스 3분기 실적 발표가 예정돼 있어 변동성에 유의가 필요합니다."
+  ],
+  "market_tone": "Anthropic의 IPO 서류(S-1) 공개가 AI 투자 심리를 되살리며 코스피가 3.09% 반등했습니다. 선물이 급등하면서 장중 매수 사이드카(프로그램 매매 일시 중단 장치)가 발동되기도 했습니다. 시가총액 기여도 기준으로 SK하이닉스(+6.35%), 삼성전자(+4.46%), SK스퀘어(+9.36%), 삼성전기(+8.05%)가 지수 상승을 주도했습니다. 반면 삼성바이오로직스(-5.72%)는 노조 파업 이슈로, 셀트리온(-1.05%)과 메리츠금융지주(-2.08%)도 지수에 부담을 줬습니다. 코스닥도 2.29% 올랐습니다.",
+  "news": [
+    {
+      "title": "Anthropic IPO 서류 공개 — AI 클라우드 투자 4,500억 달러 규모",
+      "summary_plain": "AI 기업 Anthropic이 기업공개 서류(S-1)를 공개했는데, 올해 상반기 매출이 163억 달러로 전년 동기 대비 14배 늘었고, 향후 10년간 클라우드 컴퓨팅에 4,500억 달러를 쓸 계획입니다.",
+      "why_it_matters": "이 규모의 투자 계획은 AI 반도체 수요가 계속될 것이란 기대를 키워서, SK하이닉스·삼성전자 같은 메모리 반도체 기업 주가를 끌어올렸습니다.",
+      "tickers": [
+        "000660",
+        "005930"
+      ],
+      "date": "2026-10-27",
+      "tier": "news",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/mu-skhy-stocks-rise-anthropic-071332888.html",
+      "source_name": "Yahoo Finance"
+    },
+    {
+      "title": "SK하이닉스 오늘 3분기 실적 발표 — 6분기 연속 역대 최대 전망",
+      "summary_plain": "SK하이닉스가 28일 3분기 확정 실적을 발표합니다. 증권사들은 6분기 연속 역대 최대 실적을 예상하며, 장기공급계약(LTA) 확보 규모가 핵심 관전 포인트입니다.",
+      "why_it_matters": "SK하이닉스는 코스피 시가총액 2위 종목이라 실적 발표 결과가 시장 전체 분위기를 좌우할 수 있습니다.",
+      "tickers": [
+        "000660"
+      ],
+      "date": "2026-10-28",
+      "tier": "news",
+      "source_url": "https://www.yna.co.kr/view/AKR20261026155100003",
+      "source_name": "연합뉴스"
+    },
+    {
+      "title": "삼성바이오로직스 노조 파업 불확실성 — 28일 교섭 재개",
+      "summary_plain": "삼성바이오로직스 노조가 법원의 파업 제한 결정에 재항고하며 갈등이 이어지고 있고, 28일 사측과 만나 향후 교섭 방향을 논의합니다.",
+      "why_it_matters": "삼성바이오로직스는 시가총액 약 64조원의 대형주인데, 노사 갈등이 지속되면 생산 차질 우려로 주가에 부담이 됩니다. 오늘 하루만 5.72% 빠졌습니다.",
+      "tickers": [
+        "207940"
+      ],
+      "date": "2026-10-28",
+      "tier": "news",
+      "source_url": "https://www.dailian.co.kr/news/view/1706065",
+      "source_name": "데일리안"
+    },
+    {
+      "title": "미국 FOMC 금리 결정 오늘 발표 — 동결 유력",
+      "summary_plain": "미국 연방준비제도(Fed)가 10월 27~28일 회의를 열고 오늘 금리를 발표합니다. 시장에서는 90% 확률로 현재 3.75~4.00%를 유지할 것으로 보고 있습니다.",
+      "why_it_matters": "미국 금리는 전 세계 자산 가격에 영향을 줍니다. 동결이면 시장에 큰 충격은 없겠지만, 향후 추가 인상 시사 여부가 관건입니다.",
+      "date": "2026-10-28",
+      "tier": "news",
+      "source_url": "https://www.reuters.com/business/fed-hit-pause-rate-hikes-maybe-not-for-long-2026-10-26/",
+      "source_name": "Reuters"
+    },
+    {
+      "title": "삼성E&A 3분기 영업이익 5,006억원 — 컨센서스 98% 상회 어닝 서프라이즈",
+      "summary_plain": "삼성E&A가 3분기 영업이익 5,006억원을 기록해 시장 기대치(2,526억원)를 거의 두 배 상회했습니다. 충당금 환입과 설계 효율화 인센티브가 실적을 끌어올렸습니다.",
+      "why_it_matters": "건설·엔지니어링 업종에서 이례적인 실적 서프라이즈로, 반도체 팹 건설과 에너지 프로젝트 증가가 회사 성장을 이끌고 있음을 보여줍니다.",
+      "tickers": [
+        "028050"
+      ],
+      "date": "2026-10-23",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653232",
+      "source_name": "한경 컨센서스 (LS증권)"
+    }
+  ],
+  "hot_sectors": [
+    {
+      "sector": "반도체",
+      "trend": "Anthropic IPO 서류에 담긴 대규모 클라우드 투자 계획이 AI 반도체 수요 기대를 높이며 강세.",
+      "drivers": "SK하이닉스(+6.35%), 삼성전자(+4.46%), 삼성전기(+8.05%), SK스퀘어(+9.36%) 등 대형주 동반 급등.",
+      "tickers": [
+        "000660",
+        "005930",
+        "009150",
+        "402340"
+      ],
+      "tier": "market_data",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/mu-skhy-stocks-rise-anthropic-071332888.html",
+      "source_name": "Yahoo Finance / KRX 시장데이터"
+    },
+    {
+      "sector": "건설·엔지니어링",
+      "trend": "삼성E&A의 역대급 실적 서프라이즈가 업종 전반의 이익 체력 재평가를 이끌고 있음.",
+      "drivers": "삼성E&A 3분기 영업이익 5,006억원(+183.6% YoY). 반도체 팹 건설과 에너지 프로젝트 확대.",
+      "tickers": [
+        "028050"
+      ],
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653232",
+      "source_name": "한경 컨센서스 (LS증권)"
+    },
+    {
+      "sector": "금융(은행·증권)",
+      "trend": "기업은행·NH투자증권·BNK금융 등 3분기 실적 리포트 쏠림. 배당 매력 부각.",
+      "drivers": "기업은행 3분기 NIM(순이자마진) 상승 긍정적, 배당매력 고조 평가. 3개 증권사가 동시 커버.",
+      "tickers": [
+        "024110",
+        "005940",
+        "138930"
+      ],
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653317",
+      "source_name": "한경 컨센서스 (SK증권)"
+    }
+  ],
+  "notable_stocks": [
+    {
+      "name": "SK하이닉스",
+      "ticker": "000660",
+      "note": "Anthropic IPO발 AI 반도체 기대감에 6.35% 급등. 오늘 3분기 실적 발표 예정으로 장기공급계약(LTA) 확보 규모가 관건.",
+      "tier": "market_data",
+      "source_url": "https://www.yna.co.kr/view/AKR20261026155100003",
+      "source_name": "연합뉴스"
+    },
+    {
+      "name": "삼성전자",
+      "ticker": "005930",
+      "note": "4.46% 상승하며 코스피 시총 기여 1위. 29일 컨퍼런스콜 예정으로 메모리 업황 전망에 주목.",
+      "tier": "market_data",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/mu-skhy-stocks-rise-anthropic-071332888.html",
+      "source_name": "Yahoo Finance"
+    },
+    {
+      "name": "삼성E&A",
+      "ticker": "028050",
+      "note": "3분기 영업이익 5,006억원으로 컨센서스를 98% 상회하는 어닝 서프라이즈. 증권사들이 목표주가를 일제히 상향 조정.",
+      "report_summary": "리포트에 따르면 사우디 얀부 프로젝트 충당금 환입(약 1,000억원)과 설계 효율화 인센티브가 실적을 끌어올렸고, 연간 가이던스도 대폭 상향했다고 합니다.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653229",
+      "source_name": "한경 컨센서스 (LS증권)"
+    },
+    {
+      "name": "삼성바이오로직스",
+      "ticker": "207940",
+      "note": "노조 파업 불확실성으로 5.72% 하락. 시총 기여 기준 코스피 최대 하락 요인.",
+      "report_summary": "실적은 고공행진(매출 1.49조원, +18.5% YoY)이나, 노사 갈등이 5월 이후 주가를 끌어내리고 있다고 보도.",
+      "tier": "news",
+      "source_url": "https://www.dailian.co.kr/news/view/1706065",
+      "source_name": "데일리안"
+    },
+    {
+      "name": "기업은행",
+      "ticker": "024110",
+      "note": "3분기 실적에 LS증권·SK증권·유안타증권 3곳이 동시에 리포트를 냄. NIM 상승과 배당 매력을 긍정 평가.",
+      "report_summary": "리포트에 따르면 3분기 환율 하락 수혜와 NIM(순이자마진, 은행이 대출·예금 금리 차이로 버는 수익률) 상승이 긍정적이라고 합니다.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653317",
+      "source_name": "한경 컨센서스 (SK증권)"
+    }
+  ],
+  "key_reports": [
+    {
+      "title": "삼성E&A 3Q26 Review: 영업이익 컨센서스 +98% 상회",
+      "broker": "LS증권",
+      "ticker": "028050",
+      "opinion": "BUY",
+      "target_price": "77,000원",
+      "summary": "3분기 매출 2.9조원(+45.8% YoY), 영업이익 5,006억원(+183.6% YoY). 사우디 얀부 충당금 환입 약 1,000억원과 설계 효율화 인센티브 반영. 연간 가이던스 1.4조원으로 상향.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653229"
+    },
+    {
+      "title": "기업은행 3Q26 Review: NIM 상승 긍정적",
+      "broker": "SK증권",
+      "ticker": "024110",
+      "summary": "3분기 환율 하락의 최대 수혜. NIM 상승 흐름이 긍정적이며 양호한 실적과 배당매력 부각.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653317"
+    },
+    {
+      "title": "AI 인터커넥트 트렌드",
+      "broker": "LS증권",
+      "summary": "AI 서버 간 데이터 전송 속도를 높이는 인터커넥트(연결) 기술 동향을 분석한 산업 리포트.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653330"
+    },
+    {
+      "title": "HD현대마린솔루션 3Q26 Review: 핵심사업 이상 무, 과도한 조정은 기회",
+      "broker": "SK증권",
+      "ticker": "443060",
+      "summary": "3분기 실적에서 명과 암이 공존했으나, 핵심 해양서비스 사업은 견조. 리포트에 따르면 과도한 주가 조정은 매수 기회라는 시각.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653319"
+    }
+  ],
+  "broker_views": [
+    {
+      "firm": "LS증권",
+      "view": "리포트에 따르면 '크기보다 신뢰'가 이번 어닝 시즌의 키워드이며, 시장이 기대보다 확인된 이익에만 반응하고 있다고 분석. 유가 안정이 절실히 필요한 시점이라고 판단.",
+      "date": "2026-10-23",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653231"
+    },
+    {
+      "firm": "IBK투자증권",
+      "view": "리포트에 따르면 AI 투자 우려와 유가 상승이 동시에 작용 중이며, 두 가지 부담 중 하나라도 완화돼야 시장 반등이 가능하다고 분석.",
+      "date": "2026-10-23",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653250"
+    },
+    {
+      "firm": "대신증권",
+      "view": "리포트에 따르면 최근 급락은 펀더멘털(기업 기초체력) 훼손이 아닌 매크로(거시경제) 부담과 AI 우려가 중첩된 결과이며, 주요 기업 실적 발표가 심리 회복의 계기가 될 수 있다고 진단.",
+      "date": "2026-10-23",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653219"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "IPO(기업공개)",
+      "meaning": "비상장 기업이 처음으로 주식을 일반 투자자에게 공개 매각하는 것. Anthropic이 미국 나스닥에 상장을 준비 중입니다."
+    },
+    {
+      "term": "사이드카",
+      "meaning": "선물 가격이 5% 이상 급등·급락하면 발동되는 프로그램 매매 일시 중단 장치. 시장 과열을 식히는 역할을 합니다."
+    },
+    {
+      "term": "NIM(순이자마진)",
+      "meaning": "은행이 대출 금리와 예금 금리의 차이로 벌어들이는 수익률. 높을수록 은행의 이자 수익이 큽니다."
+    },
+    {
+      "term": "LTA(장기공급계약)",
+      "meaning": "반도체 고객사가 일정 기간 물량을 보장하는 계약. SK하이닉스의 미래 수요 안정성을 가늠하는 핵심 지표입니다."
+    },
+    {
+      "term": "FOMC(연방공개시장위원회)",
+      "meaning": "미국 중앙은행(Fed)의 금리 결정 기구. 금리를 올리면 돈 빌리는 비용이 올라 경제 전체에 영향을 줍니다."
+    }
+  ]
+}
