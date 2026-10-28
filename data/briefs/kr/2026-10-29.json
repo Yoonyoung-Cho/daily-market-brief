@@ -1,0 +1,210 @@
+{
+  "market": "KR",
+  "as_of_date": "2026-10-29",
+  "plain_summary": [
+    "SK하이닉스가 분기 매출 100조 원을 처음 넘기며 사상 최대 실적을 발표했고, 삼성전자와 함께 코스피를 6.63% 끌어올려 6,012선을 되찾았습니다.",
+    "증권사 리포트에서는 한화시스템의 방산 수출 호조, 신한지주·하나금융의 주주환원 확대, 대우건설의 수익성 개선이 눈에 띄었습니다.",
+    "⚠️ 미국 금리(기준금리 3.75~4.0%) 동결 여부를 지켜봐야 하고, LG에너지솔루션 등 2차전지주는 약세를 보여 업종별 온도 차가 컸습니다."
+  ],
+  "market_tone": "코스피가 하루 만에 6.63% 급등하며 10거래일 만에 6,000선을 회복했습니다. SK하이닉스(+11.71%)와 삼성전자(+9.91%)가 시가총액 기여도 1·2위를 차지하며 지수 상승을 이끌었습니다. 삼성전자우(+11.86%), SK스퀘어(+11.71%), 삼성전기(+8.99%), 삼성생명(+8.63%) 등 삼성·SK 그룹주가 동반 강세였습니다. 반면 LG에너지솔루션(-2.35%), HD현대중공업(-2.23%) 등은 하락하며 반도체와 비반도체 업종 간 온도 차가 뚜렷했습니다. 앤트로픽 IPO 신청 소식과 뉴욕 반도체 지수 강세가 투자 심리를 개선했습니다.",
+  "news": [
+    {
+      "title": "SK하이닉스, 3분기 매출 104.6조 원·영업이익 83.3조 원 사상 최대",
+      "summary_plain": "SK하이닉스가 3분기 매출 104조 6,155억 원, 영업이익 83조 3,338억 원을 기록해 분기 매출이 처음 100조 원을 넘었습니다. 영업이익률(매출 대비 영업이익 비율)은 80%입니다.",
+      "why_it_matters": "HBM(고대역폭메모리, AI 칩에 꼭 필요한 초고속 메모리) 수요가 계속 늘고 있다는 뜻이고, 100조 원 규모 주주환원 계획까지 나오면서 반도체주 전체가 급등했습니다.",
+      "tickers": [
+        "000660"
+      ],
+      "date": "2026-10-28",
+      "tier": "market_data",
+      "source_url": "https://news.skhynix.co.kr/q3-2026-business-results/",
+      "source_name": "SK하이닉스 뉴스룸"
+    },
+    {
+      "title": "앤트로픽, 나스닥 상장 신청서(S-1) SEC에 제출",
+      "summary_plain": "AI 기업 앤트로픽(Claude 개발사)이 미국 증권거래위원회에 기업공개(IPO) 서류를 제출했습니다. 2026년 상반기 매출은 163억 달러로 전년 동기 대비 13배 이상 늘었습니다.",
+      "why_it_matters": "AI 산업이 실제로 돈을 벌고 있다는 신호로 읽히면서 글로벌 반도체·기술주 투자 심리가 개선됐습니다.",
+      "tickers": [],
+      "date": "2026-10-26",
+      "tier": "news",
+      "source_url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut",
+      "source_name": "TechCrunch"
+    },
+    {
+      "title": "미국 FOMC 10월 회의, 금리 동결 예상",
+      "summary_plain": "미국 연방준비제도(Fed, 미국의 중앙은행)가 10월 27~28일 회의를 열었습니다. 시장에서는 기준금리를 3.75~4.0%로 유지할 가능성을 약 90%로 봤습니다.",
+      "why_it_matters": "금리가 오르면 기업의 자금 조달 비용이 커지고 주식 투자 매력이 줄어듭니다. 동결이면 당장은 부담이 안 늘어난다는 뜻입니다.",
+      "tickers": [],
+      "date": "2026-10-28",
+      "tier": "news",
+      "source_url": "https://www.cnbc.com/2026/10/26/fed-decision-expectations-october-meeting.html",
+      "source_name": "CNBC"
+    },
+    {
+      "title": "한화투자증권 '바닥 친 가격, 정점 지난 매도'",
+      "summary_plain": "한화투자증권은 최근 급락으로 가격이 바닥 수준에 근접했고, 외국인 매도세도 정점을 지났다는 분석을 내놓았습니다.",
+      "why_it_matters": "증권사가 지수 반등 가능성을 언급한 시점에 실제로 큰 폭의 반등이 나왔다는 점에서, 향후 시장 방향에 관심이 모입니다.",
+      "tickers": [],
+      "date": "2026-10-28",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653397",
+      "source_name": "한화투자증권 (한경 컨센서스)"
+    }
+  ],
+  "hot_sectors": [
+    {
+      "sector": "반도체",
+      "trend": "SK하이닉스 사상 최대 실적과 앤트로픽 IPO 소식에 삼성전자·SK하이닉스가 10% 넘게 급등하며 섹터 전체가 강세를 보였습니다.",
+      "drivers": "AI용 HBM 메모리 수요 급증, 메모리 공급 부족 전망",
+      "tickers": [
+        "000660",
+        "005930",
+        "009150"
+      ],
+      "tier": "market_data",
+      "source_url": "https://news.skhynix.co.kr/q3-2026-business-results/",
+      "source_name": "SK하이닉스 뉴스룸"
+    },
+    {
+      "sector": "방산",
+      "trend": "한화시스템이 3분기 영업이익 991억 원으로 컨센서스를 크게 웃돌았고, 이라크·UAE·사우디 수출이 본격 매출로 잡혔습니다.",
+      "drivers": "중동 수출 확대, 필리조선소 중단영업 분류로 본업 수익성 부각",
+      "tickers": [
+        "272210"
+      ],
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653400",
+      "source_name": "상상인증권 (한경 컨센서스)"
+    },
+    {
+      "sector": "금융(은행·지주)",
+      "trend": "신한지주와 하나금융 모두 주주환원(배당·자사주 매입) 확대를 발표하면서 리포트가 쏟아졌습니다.",
+      "drivers": "주주환원 정책 강화, 금리 환경 속 순이자마진(NIM) 관리",
+      "tickers": [
+        "055550",
+        "086790"
+      ],
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653393",
+      "source_name": "한화투자증권 (한경 컨센서스)"
+    }
+  ],
+  "notable_stocks": [
+    {
+      "name": "SK하이닉스",
+      "ticker": "000660",
+      "note": "3분기 매출 104.6조 원(첫 100조 돌파), 영업이익 83.3조 원으로 사상 최대. 100조 원 규모 주주환원 발표. 주가 +11.71%.",
+      "report_summary": "D램·HBM 완판 상태가 3년 이상 이어질 것으로 보도. 메모리 공급 부족이 2030년까지 지속될 수 있다는 전망.",
+      "tier": "market_data",
+      "source_url": "https://news.skhynix.co.kr/q3-2026-business-results/",
+      "source_name": "SK하이닉스 뉴스룸"
+    },
+    {
+      "name": "삼성전자",
+      "ticker": "005930",
+      "note": "시가총액 기여도 1위로 지수 상승을 주도. 주가 +9.91%로 24만 4,000원 마감.",
+      "report_summary": "SK하이닉스 실적 호조와 앤트로픽 IPO 소식에 동반 수혜. 반도체 업황 훼손은 없다는 증권사 분석.",
+      "tier": "market_data",
+      "source_url": "https://finji.ai/finji/kr/premarket-report/",
+      "source_name": "Finji 장전 리포트"
+    },
+    {
+      "name": "한화시스템",
+      "ticker": "272210",
+      "note": "3분기 영업이익 991억 원(+60% YoY), 컨센서스 619억 원 대폭 상회.",
+      "report_summary": "리포트에 따르면 이라크·UAE·사우디 3개국 수출이 모두 매출화 시작. 필리조선소 분리 후 방산 본업 수익성이 부각됨.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653343",
+      "source_name": "유진투자증권 (한경 컨센서스)"
+    },
+    {
+      "name": "신한지주",
+      "ticker": "055550",
+      "note": "대손(빌려준 돈을 못 받을 위험) 및 연체 지표가 잘 관리되고 있다는 평가.",
+      "report_summary": "한화투자증권·유안타증권 모두 리포트 발간. 리포트에 따르면 비이자이익은 부진했으나 주주환원이 기대 이상.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653393",
+      "source_name": "한화투자증권 (한경 컨센서스)"
+    },
+    {
+      "name": "KB금융",
+      "ticker": "105560",
+      "note": "시가총액 기여 상위 종목으로 +3.93% 상승. 시총 약 54.6조 원.",
+      "report_summary": "금융주 전반의 주주환원 기대감과 함께 지수 상승에 동참.",
+      "tier": "market_data",
+      "source_url": "https://finji.ai/finji/kr/premarket-report/",
+      "source_name": "Finji 장전 리포트"
+    }
+  ],
+  "key_reports": [
+    {
+      "title": "한화시스템 3Q26 Review: 필리를 걷어내고 나니 보이는 진짜 실력",
+      "broker": "유진투자증권",
+      "ticker": "272210",
+      "opinion": "BUY",
+      "target_price": "100,000원",
+      "summary": "3분기 매출 8,316억 원(+30% YoY), 영업이익 991억 원(+60% YoY). 이라크 M-SAM MFR 매출 본격 인식. 방산 수출 비중 확대로 수익성 개선 지속 전망.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653343"
+    },
+    {
+      "title": "대우건설 3Q26 Review: 양호한 실적, 예고한 수주를 기다리며",
+      "broker": "유진투자증권",
+      "ticker": "047040",
+      "opinion": "BUY",
+      "target_price": "19,000원",
+      "summary": "매출 1.84조 원, 영업이익 1,832억 원(+223.8% YoY). 건축 부문 준공 일회성 이익 960억 원 반영. 매출총이익률 20%로 전분기 대비 개선.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653339"
+    },
+    {
+      "title": "10월 FOMC Preview: 매파적 동결은 중립 이상 재료",
+      "broker": "상상인증권",
+      "ticker": null,
+      "summary": "10월 FOMC에서 금리 동결이 예상되나 매파적(긴축 성향) 신호가 나올 수 있다는 분석. 리포트에 따르면 채권 시장에는 중립 이상의 재료로 작용 가능.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653399"
+    }
+  ],
+  "broker_views": [
+    {
+      "firm": "한화투자증권",
+      "view": "'바닥 친 가격, 정점 지난 매도'라는 제목으로 최근 급락이 과도했다는 판단을 제시. 외국인 매도세가 정점을 지났다고 분석.",
+      "date": "2026-10-28",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653397"
+    },
+    {
+      "firm": "IBK투자증권",
+      "view": "유가 안정이 시장 반등의 핵심 조건이라고 분석. 현재 AI 업황 우려와 유가 상승이 동시에 반영되고 있으며, 둘 중 하나가 완화돼야 의미 있는 반등이 가능하다는 견해.",
+      "date": "2026-10-23",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653250"
+    },
+    {
+      "firm": "LS증권",
+      "view": "'크기보다 신뢰, 어닝 시즌 본격 시작'이라는 제목으로 시장이 기대보다 확인된 이익에만 반응하고 있음을 지적. 삼성E&A·전력기기·바이오 등 실적 확인 종목은 주간 상승을 유지.",
+      "date": "2026-10-23",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653231"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "HBM (고대역폭메모리)",
+      "meaning": "AI 반도체(GPU) 옆에 쌓아 올리는 초고속 메모리 칩. AI 학습과 추론에 대량으로 필요해 수요가 급증하고 있습니다."
+    },
+    {
+      "term": "영업이익률 (OPM)",
+      "meaning": "매출 중 영업이익이 차지하는 비율. SK하이닉스의 80%는 100원 벌면 80원이 영업이익이라는 뜻으로, 매우 높은 수치입니다."
+    },
+    {
+      "term": "FOMC (연방공개시장위원회)",
+      "meaning": "미국 중앙은행(Fed)이 기준금리를 결정하는 회의체. 금리 결정은 전 세계 금융시장에 영향을 줍니다."
+    },
+    {
+      "term": "시가총액 기여도 (index_drivers)",
+      "meaning": "지수 등락에 실제로 얼마나 영향을 줬는지를 시가총액(회사의 전체 주식 가치) 크기로 측정한 것. 소형주가 많이 올라도 대형주 하나가 지수를 더 많이 움직입니다."
+    }
+  ]
+}
