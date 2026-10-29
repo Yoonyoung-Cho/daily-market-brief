@@ -1,0 +1,165 @@
+{
+  "market": "US",
+  "as_of_date": "2026-10-30",
+  "plain_summary": [
+    "구글의 모회사 알파벳이 3분기 실적 부진으로 12% 급락하면서 나스닥이 1% 내렸습니다.",
+    "마이크로소프트는 애저(Azure) 클라우드 성장에 힘입어 실적이 예상을 웃돌았지만, 장 마감에는 소폭 하락했습니다.",
+    "⚠️ 연준(Fed)이 금리를 동결했으나 물가가 여전히 높다는 점을 강조해, AI 투자 비용 부담과 함께 시장에 부담을 줬습니다."
+  ],
+  "market_tone": "10월 29일 S&P 500은 약 0.2% 하락하며 4거래일 만에 하락 전환했습니다. 나스닥은 1% 빠졌고, 다우지수는 103포인트(0.2%) 내렸습니다. 전날 연준이 금리를 3.75~4.00%로 유지한 뒤, 알파벳의 실적 부진이 AI 투자 비용에 대한 우려를 다시 불러일으켰습니다. 마이크로소프트는 호실적에도 장 후반 하락 전환했습니다.",
+  "news": [
+    {
+      "title": "알파벳(구글), 3분기 실적 예상치 하회…주가 12% 급락",
+      "summary_plain": "알파벳이 3분기 매출 1,275.8억 달러, 조정 주당순이익(EPS) 2.67달러를 기록해 시장 예상(매출 1,282억, EPS 3.02달러)을 밑돌았습니다. 잉여현금흐름은 -90.7억 달러로 적자였습니다.",
+      "why_it_matters": "구글 검색 매출 성장이 17%에서 12%로 둔화됐고, AI에 대규모 투자(연간 1,950~2,050억 달러)를 하는데 돈이 나가기만 한다는 우려가 커졌습니다.",
+      "tickers": [
+        "GOOGL"
+      ],
+      "date": "2026-10-29",
+      "tier": "news",
+      "source_url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
+      "source_name": "CNBC"
+    },
+    {
+      "title": "마이크로소프트, 애저(Azure) 48% 성장으로 실적 예상 상회",
+      "summary_plain": "마이크로소프트가 2027회계연도 1분기 실적에서 애저 클라우드 매출이 전년 대비 48% 성장해 예상을 웃돌았습니다.",
+      "why_it_matters": "같은 날 발표된 알파벳과 대조적으로, AI 투자가 실제 매출로 이어지고 있는지를 보여주는 사례입니다. 다만 장 후반에는 소폭 하락 전환했습니다.",
+      "tickers": [
+        "MSFT"
+      ],
+      "date": "2026-10-29",
+      "tier": "news",
+      "source_url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+      "source_name": "CNBC"
+    },
+    {
+      "title": "연준(Fed), 기준금리 3.75~4.00% 동결…인플레이션 '여전히 높다'",
+      "summary_plain": "미국 연방준비제도가 10-2 투표로 금리를 동결했습니다. 인플레이션이 여전히 높다고 밝혔고, 추가 정보를 기다리겠다는 입장입니다.",
+      "why_it_matters": "금리 인상을 원하는 위원이 2명이나 있다는 점은 앞으로 추가 인상 가능성이 남아있음을 뜻합니다. 이는 주식 시장에 부담이 될 수 있습니다.",
+      "tickers": [],
+      "date": "2026-10-28",
+      "tier": "news",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+      "source_name": "Federal Reserve"
+    },
+    {
+      "title": "아마존, 10월 29일 장 마감 후 3분기 실적 발표 예정",
+      "summary_plain": "아마존이 3분기 실적을 발표할 예정입니다. 시장 예상 매출은 약 2,022억 달러, 주당순이익은 1.96달러입니다. AWS 클라우드 매출 성장률이 핵심 관전 포인트입니다.",
+      "why_it_matters": "알파벳 실적 부진 이후, AI 투자가 수익으로 이어지는지 확인하는 다음 시험대입니다.",
+      "tickers": [
+        "AMZN"
+      ],
+      "date": "2026-10-29",
+      "tier": "news",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/amazon-eps-absolutely-exploding-says-172611607.html",
+      "source_name": "Yahoo Finance"
+    }
+  ],
+  "hot_sectors": [
+    {
+      "sector": "빅테크(Big Tech)",
+      "trend": "알파벳 -12% 급락 vs 마이크로소프트 호실적. AI 투자 수익성에 대한 선별적 평가가 시작됐다는 분석.",
+      "drivers": "알파벳 검색 성장 둔화, 마이크로소프트 애저 48% 성장",
+      "tickers": [
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+      ],
+      "tier": "news",
+      "source_url": "https://www.cnbc.com/2026/10/28/stock-market-today-live-updates.html",
+      "source_name": "CNBC"
+    },
+    {
+      "sector": "AI 반도체",
+      "trend": "반도체 ETF(SOXX)가 약 1% 하락. 알파벳의 AI 투자 비용 우려가 반도체주에도 영향.",
+      "drivers": "삼성전자 HBM4 호조에도 AI capex 부담 우려 부각",
+      "tickers": [
+        "NVDA",
+        "AVGO",
+        "AMD"
+      ],
+      "tier": "news",
+      "source_url": "https://www.cnbc.com/2026/10/28/stock-market-today-live-updates.html",
+      "source_name": "CNBC"
+    },
+    {
+      "sector": "클라우드 인프라",
+      "trend": "마이크로소프트 애저 48% 성장은 긍정적이나, 네오클라우드(신생 클라우드) 업체는 capex 우려에 하락.",
+      "tickers": [
+        "MSFT"
+      ],
+      "tier": "news",
+      "source_url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+      "source_name": "CNBC"
+    }
+  ],
+  "notable_stocks": [
+    {
+      "name": "Alphabet (구글)",
+      "ticker": "GOOGL",
+      "note": "3분기 조정 EPS $2.67(예상 $3.02 하회), 매출 $1,275.8억(예상 $1,282억 하회). 잉여현금흐름 -$90.7억. 주가 약 12% 하락.",
+      "tier": "news",
+      "source_url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
+      "source_name": "CNBC"
+    },
+    {
+      "name": "Microsoft",
+      "ticker": "MSFT",
+      "note": "FY2027 Q1 실적에서 애저 48% 성장, 실적 예상 상회. 장 후반 소폭 하락 전환.",
+      "tier": "news",
+      "source_url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+      "source_name": "CNBC"
+    },
+    {
+      "name": "NVIDIA",
+      "ticker": "NVDA",
+      "note": "애널리스트 59명 중 매수(Buy) 이상 의견이 다수. 평균 목표가 $329로 현재가($214) 대비 상승 여력 제시.",
+      "tier": "analyst_data",
+      "source_url": "https://finance.yahoo.com/quote/NVDA/",
+      "source_name": "Yahoo Finance(yfinance)"
+    },
+    {
+      "name": "Amazon",
+      "ticker": "AMZN",
+      "note": "10월 29일 장 마감 후 3분기 실적 발표 예정. 매출 예상 $2,022억, EPS 예상 $1.96.",
+      "tier": "news",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/amazon-eps-absolutely-exploding-says-172611607.html",
+      "source_name": "Yahoo Finance"
+    }
+  ],
+  "key_reports": [],
+  "broker_views": [
+    {
+      "firm": "B. Riley Wealth",
+      "view": "보도에 따르면, '10월 테크 트레이드가 8~9월보다 안정적이지만, 투자자들이 훨씬 선별적으로 변하고 있다'고 분석.",
+      "date": "2026-10-29",
+      "tier": "ib_news",
+      "source_url": "https://www.cnbc.com/2026/10/28/stock-market-today-live-updates.html"
+    },
+    {
+      "firm": "TheStreet 시장 분석",
+      "view": "보도에 따르면, '시장은 더 이상 AI에 투자하는 것만으로 보상하지 않고, 지출이 지속 가능한 이익을 만드는지 증거를 요구하고 있다'는 평가.",
+      "date": "2026-10-29",
+      "tier": "ib_news",
+      "source_url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-29-2026"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "잉여현금흐름(Free Cash Flow)",
+      "meaning": "영업으로 벌어들인 현금에서 설비투자를 뺀 나머지. 마이너스이면 벌어들인 것보다 투자에 더 많이 쓴 것."
+    },
+    {
+      "term": "애저(Azure)",
+      "meaning": "마이크로소프트의 클라우드 컴퓨팅 서비스. 기업들이 서버를 직접 안 두고 인터넷을 통해 컴퓨터 자원을 빌려 쓰는 것."
+    },
+    {
+      "term": "FOMC(연방공개시장위원회)",
+      "meaning": "미국 중앙은행(Fed)에서 기준금리를 결정하는 회의체. 연 8회 회의를 열어 경제 전망과 금리 방향을 결정."
+    },
+    {
+      "term": "EPS(주당순이익)",
+      "meaning": "회사의 순이익을 발행 주식 수로 나눈 값. 한 주당 얼마나 벌었는지 보여줌."
+    }
+  ]
+}

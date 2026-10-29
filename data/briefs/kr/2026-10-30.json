@@ -1,0 +1,247 @@
+{
+  "market": "KR",
+  "as_of_date": "2026-10-30",
+  "plain_summary": [
+    "코스피가 삼성전자의 세부 실적 발표 후 하락 전환해 1.2% 내렸고, 코스닥은 2.3% 빠졌습니다.",
+    "삼성전자는 3분기 영업이익 107조원으로 사상 최대를 기록했지만, 가전(DX) 부문 적자와 체코 원전 협상 결렬 소식이 시장 심리를 눌렀습니다.",
+    "⚠️ 금융주는 강세를 보였지만, 반도체·에너지·건설 등 대형주 약세로 전체 시장은 하락 마감했습니다."
+  ],
+  "market_tone": "코스피는 5,937.66(-1.24%), 코스닥은 753.23(-2.34%)으로 마감했습니다. 삼성전자(-4.75%)가 세부 실적 발표 후 '실적은 좋지만 DX 적자·환율 악영향' 우려로 하락하면서 지수를 끌어내렸습니다. LG에너지솔루션(-8.73%), 한화에어로스페이스(-6.35%), 두산에너빌리티(-8.31%)도 대형주 약세에 동참했습니다. 반면 SK하이닉스(+2.02%)는 AI 메모리 수요 기대에 상승했고, 메리츠금융(+6.56%)·하나금융(+4.16%)·KB금융(+1.88%) 등 금융주가 강세를 보였습니다.",
+  "news": [
+    {
+      "title": "삼성전자, 3분기 영업이익 107.4조원 사상 최대…반도체(DS)만 106.5조원",
+      "summary_plain": "삼성전자가 3분기 매출 195.3조원, 영업이익 107.4조원을 기록하며 글로벌 테크 기업 최초로 분기 영업이익 100조원을 넘겼습니다. HBM4 매출이 전분기 대비 3배 이상 늘었습니다.",
+      "why_it_matters": "반도체 호황이 얼마나 강한지 보여주는 숫자입니다. 다만 가전(DX) 부문은 8천억원 적자를 냈고, 환율 하락으로 약 10조원의 부정적 영향이 있었다는 점은 주의할 부분입니다.",
+      "tickers": [
+        "005930"
+      ],
+      "date": "2026-10-29",
+      "tier": "news",
+      "source_url": "https://www.hankyung.com/article/202610292686g",
+      "source_name": "한국경제"
+    },
+    {
+      "title": "체코 원전 시공계약 협상 결렬…대우건설 -19%, 두산에너빌리티 -8%",
+      "summary_plain": "한국수력원자력이 대우건설·두산에너빌리티 컨소시엄과 체코 두코바니 원전 시공계약 협상을 종료한다고 밝혔습니다. 약 25조원 규모 사업의 시공 계약 조건에서 이견을 좁히지 못했습니다.",
+      "why_it_matters": "한국 원전 첫 수출 사업에 차질이 생긴 것으로, 원전 테마 건설주 전반에 매도세가 확산했습니다. 한수원은 신규 시공사 선정 절차를 준비 중입니다.",
+      "tickers": [
+        "047040",
+        "034020"
+      ],
+      "date": "2026-10-29",
+      "tier": "news",
+      "source_url": "https://www.yna.co.kr/view/AKR20261029057451008",
+      "source_name": "연합뉴스"
+    },
+    {
+      "title": "미국 연준(Fed), 기준금리 3.75~4.00% 동결…위원 2명은 인상 주장",
+      "summary_plain": "미국 연방준비제도(Fed)가 10월 FOMC에서 기준금리를 현행 3.75~4.00%로 유지했습니다. 10대 2 투표로 결정됐는데, 쿡 이사와 해맥 총재는 0.25%포인트 인상을 원했습니다.",
+      "why_it_matters": "금리가 높은 상태로 유지되면 기업의 이자 부담이 커지고 주식 시장에 부담이 될 수 있습니다. 인플레이션(물가 상승)이 여전히 높다는 점이 부각됐습니다.",
+      "tickers": [],
+      "date": "2026-10-28",
+      "tier": "news",
+      "source_url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+      "source_name": "CNBC"
+    },
+    {
+      "title": "금융주 강세…메리츠금융 +6.5%, 하나금융 +4.2%",
+      "summary_plain": "메리츠금융지주(+6.56%), 하나금융지주(+4.16%), 우리금융지주(+4.01%) 등 금융주가 일제히 강세를 보이며 지수 하락을 방어했습니다.",
+      "why_it_matters": "기술주와 건설주가 약세인 날, 금리가 높은 환경에서 이자 수익이 좋은 은행·보험주가 상대적으로 주목받는 모습입니다.",
+      "tickers": [
+        "138040",
+        "086790",
+        "316140"
+      ],
+      "date": "2026-10-29",
+      "tier": "market_data",
+      "source_url": "https://data.krx.co.kr/",
+      "source_name": "KRX"
+    }
+  ],
+  "hot_sectors": [
+    {
+      "sector": "반도체(메모리)",
+      "trend": "삼성전자는 사상 최대 실적에도 주가 하락, SK하이닉스는 AI 메모리 기대에 상승. 실적과 주가가 엇갈린 하루.",
+      "drivers": "삼성전자 3분기 메모리 매출 140.7조원, HBM4 매출 3배 급증",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653446",
+      "source_name": "한경 컨센서스(IBK투자증권)"
+    },
+    {
+      "sector": "조선",
+      "trend": "HD현대중공업에 증권사 리포트 3건 집중. '피크아웃(고점 통과) 우려를 이겨낼 조선사'라는 평가가 나왔으나 주가는 -5.08%.",
+      "drivers": "3Q26 실적 리뷰 시즌, 조선사 수주잔고 긍정적 평가",
+      "tickers": [
+        "329180",
+        "009540"
+      ],
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653461",
+      "source_name": "한경 컨센서스(유진투자증권)"
+    },
+    {
+      "sector": "금융",
+      "trend": "은행·보험·금융지주 전반 강세. 높은 금리 환경에서 이자 수익 개선 기대.",
+      "drivers": "메리츠금융 +6.56%, 하나금융 +4.16%, KB금융 +1.88%",
+      "tickers": [
+        "138040",
+        "086790",
+        "105560"
+      ],
+      "tier": "market_data",
+      "source_url": "https://data.krx.co.kr/",
+      "source_name": "KRX"
+    }
+  ],
+  "notable_stocks": [
+    {
+      "name": "삼성전자",
+      "ticker": "005930",
+      "note": "3분기 영업이익 107.4조원(사상 최대)에도 세부 실적 발표 후 하락. DX 부문 8천억원 적자, 환율 역풍 약 10조원.",
+      "report_summary": "DS 부문 매출 147.1조원, 메모리 매출 140.7조원. HBM4 매출 전분기 대비 3배 이상 증가. 내년 HBM 공급 물량 솔드아웃(판매 완료). 30조원 현금배당안 의결.",
+      "tier": "news",
+      "source_url": "https://www.hankyung.com/article/2026102944201",
+      "source_name": "한국경제"
+    },
+    {
+      "name": "SK하이닉스",
+      "ticker": "000660",
+      "note": "시총 기여 상승 1위. AI 메모리 수요 기대에 +2.02% 상승.",
+      "report_summary": "IBK투자증권은 '실적은 우려를 불식시킬 것'이라는 제목의 리포트를 발간.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653446",
+      "source_name": "한경 컨센서스(IBK투자증권)"
+    },
+    {
+      "name": "HD현대중공업",
+      "ticker": "329180",
+      "note": "증권사 3곳이 동시에 리포트를 발간한 주목 종목. 주가는 -5.08%로 하락.",
+      "report_summary": "유진투자증권·iM증권·IBK투자증권이 3Q26 실적 리뷰를 발간. '피크아웃 우려를 이겨낼 조선사', '악재 소멸' 등의 평가.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653450",
+      "source_name": "한경 컨센서스(IBK투자증권)"
+    },
+    {
+      "name": "삼성전기",
+      "ticker": "009150",
+      "note": "증권사 2곳 리포트. 주가 -1.68%, 시총 약 97조원.",
+      "report_summary": "iM증권은 '2027년까지 매 분기 QoQ 증익 구간', IBK투자증권은 '부진한 주가를 날려버릴 실적과 전망'이라는 제목으로 리포트 발간.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653454",
+      "source_name": "한경 컨센서스(iM증권)"
+    },
+    {
+      "name": "메리츠금융지주",
+      "ticker": "138040",
+      "note": "시총 기여 상승 3위, +6.56% 급등. 시총 약 22조원.",
+      "tier": "market_data",
+      "source_url": "https://data.krx.co.kr/",
+      "source_name": "KRX"
+    }
+  ],
+  "key_reports": [
+    {
+      "title": "SK하이닉스 — 실적은 우려를 불식시킬 것",
+      "broker": "IBK투자증권",
+      "ticker": "000660",
+      "summary": "AI 반도체 수요 지속으로 SK하이닉스 실적 전망 긍정적이라는 분석.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653446"
+    },
+    {
+      "title": "HD현대중공업 — 피크아웃 우려를 이겨낼 조선사",
+      "broker": "유진투자증권",
+      "ticker": "329180",
+      "summary": "조선 업황 피크아웃(고점 통과) 우려에도 불구하고 HD현대중공업이 경쟁력을 유지할 것이라는 분석.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653461"
+    },
+    {
+      "title": "HD현대중공업 — 3Q26 Review: 악재 소멸",
+      "broker": "IBK투자증권",
+      "ticker": "329180",
+      "summary": "3분기 실적 리뷰에서 기존 우려 요인이 해소됐다고 평가.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653450"
+    },
+    {
+      "title": "삼성전기 — 2027년까지 매 분기 QoQ 증익 구간",
+      "broker": "iM증권",
+      "ticker": "009150",
+      "summary": "삼성전기가 2027년까지 분기마다 전분기 대비 이익 개선이 이어질 것이라는 전망.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653454"
+    },
+    {
+      "title": "삼성물산 — 바이오 부문 감익 불구 컨센서스 상회한 실적",
+      "broker": "LS증권",
+      "ticker": "028260",
+      "summary": "바이오 부문 이익은 줄었으나 전체적으로는 시장 예상을 웃도는 실적을 기록했다는 분석.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653459"
+    },
+    {
+      "title": "10월 FOMC Review: 금리동결과 커뮤니케이션 변화",
+      "broker": "상상인증권",
+      "summary": "10월 FOMC는 기준금리를 3.75~4.00%로 동결. 인플레이션이 여전히 높다는 판단 유지.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653406"
+    }
+  ],
+  "broker_views": [
+    {
+      "firm": "IBK투자증권",
+      "view": "SK하이닉스에 대해 '실적은 우려를 불식시킬 것'이라며 AI 반도체 수요 지속을 긍정적으로 평가.",
+      "date": "2026-10-29",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653446"
+    },
+    {
+      "firm": "유진투자증권",
+      "view": "HD현대중공업에 대해 '피크아웃 우려를 이겨낼 조선사'라며, 조선 업황이 고점을 지났다는 우려에도 경쟁력을 유지할 것으로 분석.",
+      "date": "2026-10-29",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653461"
+    },
+    {
+      "firm": "한화투자증권",
+      "view": "삼성물산에 대해 투자의견 Buy, 목표주가 52만원 유지. '전자가 좋으면 나도 좋다'며 삼성전자 호실적의 수혜 기대.",
+      "date": "2026-10-29",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653410"
+    },
+    {
+      "firm": "상상인증권",
+      "view": "10월 FOMC에서 기준금리 동결(3.75~4.00%). 인플레이션이 여전히 높다는 판단이나, 추가 정보를 기다리겠다는 신중한 태도.",
+      "date": "2026-10-29",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653406"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "HBM(고대역폭메모리)",
+      "meaning": "AI 연산에 필요한 초고속 메모리 반도체. 여러 D램 칩을 수직으로 쌓아 데이터를 빠르게 주고받는 기술."
+    },
+    {
+      "term": "피크아웃(Peak-out)",
+      "meaning": "업황이나 실적이 가장 좋은 시점(고점)을 지나 하향세로 접어드는 것."
+    },
+    {
+      "term": "FOMC",
+      "meaning": "미국 연방공개시장위원회. 미국의 기준금리를 결정하는 기구."
+    },
+    {
+      "term": "영업이익률",
+      "meaning": "매출 대비 영업이익의 비율. 회사가 영업활동으로 얼마나 효율적으로 수익을 내는지 보여주는 지표."
+    },
+    {
+      "term": "시총 기여(Index Drivers)",
+      "meaning": "시가총액이 큰 종목이 지수 변동에 미치는 영향. 대형주일수록 지수를 더 크게 움직입니다."
+    }
+  ]
+}
