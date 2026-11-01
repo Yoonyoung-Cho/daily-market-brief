@@ -1,165 +1,150 @@
 {
   "market": "US",
-  "as_of_date": "2026-10-30",
+  "as_of_date": "2026-11-02",
   "plain_summary": [
-    "구글의 모회사 알파벳이 3분기 실적 부진으로 12% 급락하면서 나스닥이 1% 내렸습니다.",
-    "마이크로소프트는 애저(Azure) 클라우드 성장에 힘입어 실적이 예상을 웃돌았지만, 장 마감에는 소폭 하락했습니다.",
-    "⚠️ 연준(Fed)이 금리를 동결했으나 물가가 여전히 높다는 점을 강조해, AI 투자 비용 부담과 함께 시장에 부담을 줬습니다."
+    "S&P 500이 1.82% 하락해 7,580으로 마감했고, 나스닥 100은 3.46% 급락하며 기술주 중심의 매도세가 두드러졌습니다.",
+    "인텔의 4분기 매출 전망이 시장 기대를 크게 밑돌면서 필라델피아 반도체지수가 7.2% 급락했고, 아마존도 전체 매출이 예상에 미달해 시간외 거래에서 10% 넘게 빠졌습니다.",
+    "⚠️ 11월 3일 미국 중간선거가 코앞이며, 선거 결과에 따라 AI 규제 강화 가능성 등 정책 방향이 달라질 수 있어 단기 변동성(주가 출렁임)에 유의해야 합니다."
   ],
-  "market_tone": "10월 29일 S&P 500은 약 0.2% 하락하며 4거래일 만에 하락 전환했습니다. 나스닥은 1% 빠졌고, 다우지수는 103포인트(0.2%) 내렸습니다. 전날 연준이 금리를 3.75~4.00%로 유지한 뒤, 알파벳의 실적 부진이 AI 투자 비용에 대한 우려를 다시 불러일으켰습니다. 마이크로소프트는 호실적에도 장 후반 하락 전환했습니다.",
+  "market_tone": "S&P 500은 140.32포인트(-1.82%) 하락한 7,580.07에 마감했습니다. 나스닥 100은 3.46% 급락했고, 필라델피아 반도체지수는 7.20% 폭락했습니다. 인텔이 4분기 매출 전망치를 150억~160억 달러로 제시해 시장 기대치(170억 달러)를 크게 하회했고, 아마존도 3분기 전체 매출이 예상에 못 미치면서 기술주 전반에 매도 압력이 확대됐습니다. VIX(변동성 지수)는 19.42로 전일 대비 12.9% 상승하며 시장 불안 심리를 반영했습니다.",
   "news": [
     {
-      "title": "알파벳(구글), 3분기 실적 예상치 하회…주가 12% 급락",
-      "summary_plain": "알파벳이 3분기 매출 1,275.8억 달러, 조정 주당순이익(EPS) 2.67달러를 기록해 시장 예상(매출 1,282억, EPS 3.02달러)을 밑돌았습니다. 잉여현금흐름은 -90.7억 달러로 적자였습니다.",
-      "why_it_matters": "구글 검색 매출 성장이 17%에서 12%로 둔화됐고, AI에 대규모 투자(연간 1,950~2,050억 달러)를 하는데 돈이 나가기만 한다는 우려가 커졌습니다.",
-      "tickers": [
-        "GOOGL"
-      ],
-      "date": "2026-10-29",
-      "tier": "news",
-      "source_url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
-      "source_name": "CNBC"
-    },
-    {
-      "title": "마이크로소프트, 애저(Azure) 48% 성장으로 실적 예상 상회",
-      "summary_plain": "마이크로소프트가 2027회계연도 1분기 실적에서 애저 클라우드 매출이 전년 대비 48% 성장해 예상을 웃돌았습니다.",
-      "why_it_matters": "같은 날 발표된 알파벳과 대조적으로, AI 투자가 실제 매출로 이어지고 있는지를 보여주는 사례입니다. 다만 장 후반에는 소폭 하락 전환했습니다.",
-      "tickers": [
-        "MSFT"
-      ],
-      "date": "2026-10-29",
-      "tier": "news",
-      "source_url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-      "source_name": "CNBC"
-    },
-    {
-      "title": "연준(Fed), 기준금리 3.75~4.00% 동결…인플레이션 '여전히 높다'",
-      "summary_plain": "미국 연방준비제도가 10-2 투표로 금리를 동결했습니다. 인플레이션이 여전히 높다고 밝혔고, 추가 정보를 기다리겠다는 입장입니다.",
-      "why_it_matters": "금리 인상을 원하는 위원이 2명이나 있다는 점은 앞으로 추가 인상 가능성이 남아있음을 뜻합니다. 이는 주식 시장에 부담이 될 수 있습니다.",
+      "title": "인텔 4분기 가이던스 쇼크, 반도체지수 7.2% 급락",
+      "summary_plain": "인텔이 4분기 매출 전망을 150억~160억 달러로 제시해 시장 기대치 170억 달러를 크게 밑돌았습니다. PC 수요 둔화와 이스라엘 공장 사고에 따른 생산 차질이 원인입니다.",
+      "why_it_matters": "반도체 업종 전체에 매도세가 번지면서 필라델피아 반도체지수가 하루 만에 7.2% 급락했습니다. 한국 반도체 수출에도 영향을 줄 수 있는 신호입니다.",
       "tickers": [],
-      "date": "2026-10-28",
+      "date": "2026-10-30",
       "tier": "news",
-      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
-      "source_name": "Federal Reserve"
+      "source_url": "https://swingfolio.com/daily/us/2026-10-31/weekend",
+      "source_name": "Swingfolio"
     },
     {
-      "title": "아마존, 10월 29일 장 마감 후 3분기 실적 발표 예정",
-      "summary_plain": "아마존이 3분기 실적을 발표할 예정입니다. 시장 예상 매출은 약 2,022억 달러, 주당순이익은 1.96달러입니다. AWS 클라우드 매출 성장률이 핵심 관전 포인트입니다.",
-      "why_it_matters": "알파벳 실적 부진 이후, AI 투자가 수익으로 이어지는지 확인하는 다음 시험대입니다.",
-      "tickers": [
-        "AMZN"
-      ],
-      "date": "2026-10-29",
+      "title": "아마존 3분기 매출 기대 미달, 시간외 10% 하락",
+      "summary_plain": "아마존의 3분기 전체 매출이 시장 전망을 밑돌았고, AI 인프라 투자 확대로 최근 12개월 잉여현금흐름이 424억 달러 적자를 기록했습니다.",
+      "why_it_matters": "AWS 클라우드 매출은 39% 성장했지만, 번 돈보다 AI 투자에 쓴 돈이 훨씬 많아 빅테크의 현금 소진 우려가 커지고 있습니다.",
+      "tickers": [],
+      "date": "2026-10-30",
       "tier": "news",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/amazon-eps-absolutely-exploding-says-172611607.html",
-      "source_name": "Yahoo Finance"
+      "source_url": "https://www.etnews.com/20261030000308",
+      "source_name": "전자신문"
+    },
+    {
+      "title": "미국 중간선거 D-2, 블루 스윕 시 AI 규제 강화 우려",
+      "summary_plain": "11월 3일 미국 중간선거에서 민주당 양원 장악('블루 스윕') 가능성이 대두되고 있으며, 이 경우 데이터센터 건설 규제 등 AI 산업에 역풍이 불 수 있다는 전망이 나옵니다.",
+      "why_it_matters": "역사적으로 중간선거 후 12개월간 S&P500은 평균 15.1% 상승했으나, 현재 금리 인상기라는 점에서 과거와 다를 수 있어 선거 결과와 금리를 함께 봐야 합니다.",
+      "tickers": [],
+      "date": "2026-11-01",
+      "tier": "news",
+      "source_url": "https://www.fnnews.com/news/202611010601303873",
+      "source_name": "파이낸셜뉴스"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "VIX",
+      "meaning": "S&P 500 옵션 가격으로 산출하는 '공포 지수'. 숫자가 클수록 시장이 큰 변동을 예상한다는 뜻"
+    },
+    {
+      "term": "가이던스",
+      "meaning": "기업이 다음 분기나 연간 실적을 미리 전망해 투자자에게 알려주는 것. 기대보다 낮으면 주가 하락 요인"
+    },
+    {
+      "term": "잉여현금흐름(FCF)",
+      "meaning": "사업으로 번 현금에서 설비투자 등 필수 지출을 뺀 나머지 돈. 마이너스면 투자 속도가 수익을 앞서고 있다는 의미"
     }
   ],
   "hot_sectors": [
     {
-      "sector": "빅테크(Big Tech)",
-      "trend": "알파벳 -12% 급락 vs 마이크로소프트 호실적. AI 투자 수익성에 대한 선별적 평가가 시작됐다는 분석.",
-      "drivers": "알파벳 검색 성장 둔화, 마이크로소프트 애저 48% 성장",
-      "tickers": [
-        "GOOGL",
-        "MSFT",
-        "AMZN"
-      ],
-      "tier": "news",
-      "source_url": "https://www.cnbc.com/2026/10/28/stock-market-today-live-updates.html",
-      "source_name": "CNBC"
-    },
-    {
       "sector": "AI 반도체",
-      "trend": "반도체 ETF(SOXX)가 약 1% 하락. 알파벳의 AI 투자 비용 우려가 반도체주에도 영향.",
-      "drivers": "삼성전자 HBM4 호조에도 AI capex 부담 우려 부각",
+      "trend": "필라델피아 반도체지수가 7.20% 급락했습니다. 인텔 가이던스 쇼크와 알파벳 매출 부진에 이어 AI 투자 회수 우려가 반도체 업종 전반을 압박했습니다.",
+      "drivers": "인텔 4분기 가이던스 하회, 알파벳 현금흐름 악화",
       "tickers": [
         "NVDA",
         "AVGO",
         "AMD"
       ],
       "tier": "news",
-      "source_url": "https://www.cnbc.com/2026/10/28/stock-market-today-live-updates.html",
-      "source_name": "CNBC"
+      "source_url": "https://swingfolio.com/daily/us/2026-10-31/weekend",
+      "source_name": "Swingfolio"
     },
     {
-      "sector": "클라우드 인프라",
-      "trend": "마이크로소프트 애저 48% 성장은 긍정적이나, 네오클라우드(신생 클라우드) 업체는 capex 우려에 하락.",
+      "sector": "빅테크·클라우드",
+      "trend": "아마존 시간외 10%+ 하락, 알파벳 정규장 12.6% 급락. 클라우드 매출 성장에도 AI 인프라 투자 부담이 부각되며 빅테크 전반이 하락했습니다.",
+      "drivers": "아마존·알파벳의 잉여현금흐름 악화와 AI 데이터센터 자본지출 확대",
       "tickers": [
-        "MSFT"
+        "GOOGL",
+        "AMZN",
+        "META"
       ],
       "tier": "news",
-      "source_url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-      "source_name": "CNBC"
+      "source_url": "https://www.etnews.com/20261030000308",
+      "source_name": "전자신문"
+    },
+    {
+      "sector": "헬스케어",
+      "trend": "기술주 매도세 속에서 방어적 성격의 헬스케어 업종은 상대적으로 선방했습니다.",
+      "drivers": "하락장에서 자금이 경기 방어주로 이동하는 흐름",
+      "tickers": [],
+      "tier": "llm",
+      "source_url": "https://swingfolio.com/daily/us/2026-10-31/weekend",
+      "source_name": "Swingfolio"
     }
   ],
   "notable_stocks": [
     {
-      "name": "Alphabet (구글)",
-      "ticker": "GOOGL",
-      "note": "3분기 조정 EPS $2.67(예상 $3.02 하회), 매출 $1,275.8억(예상 $1,282억 하회). 잉여현금흐름 -$90.7억. 주가 약 12% 하락.",
-      "tier": "news",
-      "source_url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
-      "source_name": "CNBC"
+      "name": "NVIDIA",
+      "ticker": "NVDA",
+      "note": "현재가 204.64달러. 애널리스트 59명 중 매수 의견이 대다수이며 평균 목표가는 328.95달러이나, 반도체지수 급락과 함께 하락 압력을 받고 있습니다.",
+      "tier": "analyst_data",
+      "source_url": "https://finance.yahoo.com/quote/NVDA/",
+      "source_name": "Yahoo Finance (via yfinance)"
+    },
+    {
+      "name": "Broadcom",
+      "ticker": "AVGO",
+      "note": "현재가 326.08달러. 애널리스트 49명 중 대부분 매수 의견, 평균 목표가 530.14달러. AI 커스텀 칩 수요 확대 수혜가 기대되지만 단기적으로는 반도체 섹터 약세에 동조 중입니다.",
+      "tier": "analyst_data",
+      "source_url": "https://finance.yahoo.com/quote/AVGO/",
+      "source_name": "Yahoo Finance (via yfinance)"
     },
     {
       "name": "Microsoft",
       "ticker": "MSFT",
-      "note": "FY2027 Q1 실적에서 애저 48% 성장, 실적 예상 상회. 장 후반 소폭 하락 전환.",
-      "tier": "news",
-      "source_url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-      "source_name": "CNBC"
-    },
-    {
-      "name": "NVIDIA",
-      "ticker": "NVDA",
-      "note": "애널리스트 59명 중 매수(Buy) 이상 의견이 다수. 평균 목표가 $329로 현재가($214) 대비 상승 여력 제시.",
+      "note": "현재가 521.91달러. 52명 애널리스트 중 매수 의견이 압도적이며 평균 목표가 632.90달러. Azure 클라우드 성장이 핵심이나 AI 인프라 투자 부담이 공통 과제입니다.",
       "tier": "analyst_data",
-      "source_url": "https://finance.yahoo.com/quote/NVDA/",
-      "source_name": "Yahoo Finance(yfinance)"
+      "source_url": "https://finance.yahoo.com/quote/MSFT/",
+      "source_name": "Yahoo Finance (via yfinance)"
     },
     {
-      "name": "Amazon",
-      "ticker": "AMZN",
-      "note": "10월 29일 장 마감 후 3분기 실적 발표 예정. 매출 예상 $2,022억, EPS 예상 $1.96.",
-      "tier": "news",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/amazon-eps-absolutely-exploding-says-172611607.html",
-      "source_name": "Yahoo Finance"
+      "name": "Alphabet",
+      "ticker": "GOOGL",
+      "note": "현재가 279.84달러. 3분기 매출 기대 미달과 AI 데이터센터 투자에 따른 현금흐름 악화로 12.6% 급락. 53명 애널리스트 평균 목표가는 406.55달러입니다.",
+      "tier": "analyst_data",
+      "source_url": "https://finance.yahoo.com/quote/GOOGL/",
+      "source_name": "Yahoo Finance (via yfinance)"
     }
   ],
-  "key_reports": [],
   "broker_views": [
     {
-      "firm": "B. Riley Wealth",
-      "view": "보도에 따르면, '10월 테크 트레이드가 8~9월보다 안정적이지만, 투자자들이 훨씬 선별적으로 변하고 있다'고 분석.",
-      "date": "2026-10-29",
+      "firm": "SK증권",
+      "view": "메타의 Muse가 출시 1.5개월 만에 1,000만 다운로드를 기록하며 소비자용 AI 에이전트 시장을 열었다고 평가. 구독 모델과 커머스 수수료가 핵심 수익원이 될 전망.",
+      "date": "2026-10-23",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653241"
+    },
+    {
+      "firm": "IBK투자증권",
+      "view": "코어위브 사태를 계기로 AI 기업의 신용위험에 관심이 높아졌으나, AI 투자 중심 기업들은 여전히 막대한 현금흐름을 유지하고 있어 당장의 부도위험은 낮다고 판단.",
+      "date": "2026-10-23",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653247"
+    },
+    {
+      "firm": "대신증권",
+      "view": "미국 중간선거 후 불확실성 해소가 증시에 더 중요한 변수. 1950년 이후 19번의 중간선거에서 S&P500은 12개월 뒤 예외 없이 상승했으며 평균 15.1% 올랐다고 분석.",
+      "date": "2026-10-31",
       "tier": "ib_news",
-      "source_url": "https://www.cnbc.com/2026/10/28/stock-market-today-live-updates.html"
-    },
-    {
-      "firm": "TheStreet 시장 분석",
-      "view": "보도에 따르면, '시장은 더 이상 AI에 투자하는 것만으로 보상하지 않고, 지출이 지속 가능한 이익을 만드는지 증거를 요구하고 있다'는 평가.",
-      "date": "2026-10-29",
-      "tier": "ib_news",
-      "source_url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-29-2026"
-    }
-  ],
-  "glossary": [
-    {
-      "term": "잉여현금흐름(Free Cash Flow)",
-      "meaning": "영업으로 벌어들인 현금에서 설비투자를 뺀 나머지. 마이너스이면 벌어들인 것보다 투자에 더 많이 쓴 것."
-    },
-    {
-      "term": "애저(Azure)",
-      "meaning": "마이크로소프트의 클라우드 컴퓨팅 서비스. 기업들이 서버를 직접 안 두고 인터넷을 통해 컴퓨터 자원을 빌려 쓰는 것."
-    },
-    {
-      "term": "FOMC(연방공개시장위원회)",
-      "meaning": "미국 중앙은행(Fed)에서 기준금리를 결정하는 회의체. 연 8회 회의를 열어 경제 전망과 금리 방향을 결정."
-    },
-    {
-      "term": "EPS(주당순이익)",
-      "meaning": "회사의 순이익을 발행 주식 수로 나눈 값. 한 주당 얼마나 벌었는지 보여줌."
+      "source_url": "https://www.hankyung.com/article/2026103175746"
     }
   ]
 }

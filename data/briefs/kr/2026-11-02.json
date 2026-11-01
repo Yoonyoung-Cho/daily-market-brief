@@ -1,0 +1,250 @@
+{
+  "market": "KR",
+  "as_of_date": "2026-11-02",
+  "plain_summary": [
+    "코스피가 3.48% 급락해 5,730선으로 내려앉았고, 코스닥도 3.83% 빠지며 두 시장 모두 큰 폭으로 하락했습니다.",
+    "미국 빅테크 기업들의 AI 투자 수익성 우려가 번지면서 반도체 대형주인 SK하이닉스(-8.7%)와 삼성전자(-4.7%)가 지수를 끌어내렸고, 반면 삼성바이오로직스(+4.8%)와 바이오·금융주는 올랐습니다.",
+    "⚠️ 11월 3일 미국 중간선거를 앞두고 외국인이 하루에 1.5조 원 넘게 팔아치우는 등 수급(사고파는 힘의 균형) 불안이 이어지고 있어 당분간 변동성(주가가 크게 출렁이는 정도)에 유의할 필요가 있습니다."
+  ],
+  "market_tone": "코스피는 전 거래일 대비 206.92포인트(-3.48%) 하락한 5,730.74에 마감했습니다. 코스닥도 28.86포인트(-3.83%) 내린 724.38을 기록했습니다. 시총 기여도(지수에 미치는 영향) 기준으로 SK하이닉스(-8.72%), 삼성전자(-4.74%), SK스퀘어(-8.39%), 삼성전기(-9.51%), 기아(-12.28%) 등이 하락을 주도했고, 삼성바이오로직스(+4.83%), HMM(+4.26%), 신한지주(+1.13%) 등이 상승 쪽에서 방어했습니다. 외국인은 코스피에서 1조 5,112억 원을 순매도했고, 개인이 6,828억 원을 순매수하며 낙폭을 일부 줄였습니다. 장중 매도 사이드카(프로그램 매매 일시 정지 제도)가 발동되기도 했습니다.",
+  "news": [
+    {
+      "title": "알파벳 12.6% 급락, AI 투자 수익성 우려 확산",
+      "summary_plain": "구글 모회사 알파벳이 3분기 실적에서 전체 매출이 시장 예상을 밑돌고, AI 데이터센터 투자로 잉여현금흐름(사업으로 번 돈에서 투자금을 뺀 것)이 적자를 기록하면서 주가가 12.6% 폭락했습니다.",
+      "why_it_matters": "미국 빅테크들이 AI에 막대한 돈을 쏟고 있는데, 그만큼 돈을 벌 수 있을지 의문이 커지면 한국 반도체 기업들의 수요 전망에도 영향을 줍니다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "date": "2026-10-30",
+      "tier": "news",
+      "source_url": "https://biz.chosun.com/en/en-finance/2026/10/30/FA5PP3BT7BDSVKKHVEMJKD7MUU/",
+      "source_name": "조선비즈"
+    },
+    {
+      "title": "아마존·인텔 실적 실망, 나스닥 추가 하락",
+      "summary_plain": "아마존은 AWS 매출이 39% 늘었지만 전체 매출이 시장 예상에 못 미쳤고, 인텔은 4분기 매출 전망이 예상치를 크게 하회하면서 시간외 거래에서 20% 넘게 급락했습니다.",
+      "why_it_matters": "인텔의 PC 반도체 수요 둔화와 이스라엘 공장 사고는 글로벌 반도체 업황 우려를 키우고, 국내 반도체 관련주에도 매도 압력이 될 수 있습니다.",
+      "tickers": [],
+      "date": "2026-10-30",
+      "tier": "news",
+      "source_url": "https://www.etnews.com/20261030000308",
+      "source_name": "전자신문"
+    },
+    {
+      "title": "미국 중간선거 D-2, 증시 최대 분수령",
+      "summary_plain": "11월 3일 미국 중간선거에서 민주당이 상·하원을 모두 장악하는 '블루 스윕' 가능성이 63%로 전망되고 있으며, 선거 결과에 따라 AI 규제와 통상정책 방향이 달라질 수 있습니다.",
+      "why_it_matters": "역사적으로 중간선거 후 12개월간 S&P500은 예외 없이 올랐지만, 금리 인상기에는 반등이 제한적이었으므로 선거 결과와 함께 금리 흐름도 살펴야 합니다.",
+      "tickers": [],
+      "date": "2026-11-01",
+      "tier": "news",
+      "source_url": "https://www.hankyung.com/article/2026103175746",
+      "source_name": "한국경제"
+    },
+    {
+      "title": "체코 원전 시공계약 협상 결렬, 신규 입찰 추진",
+      "summary_plain": "한수원이 대우건설·두산에너빌리티 컨소시엄과의 체코 원전 시공계약 협상을 종료하고 2027년 7월까지 신규 경쟁입찰을 추진하겠다고 밝혔습니다.",
+      "why_it_matters": "체코 원전 사업은 국내 원전·건설주의 핵심 모멘텀(주가를 움직이는 요인)이었는데, 협상 결렬로 관련 종목에 단기 부담이 생길 수 있습니다.",
+      "tickers": [
+        "047040",
+        "034020"
+      ],
+      "date": "2026-10-30",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653483",
+      "source_name": "대신증권 리포트"
+    },
+    {
+      "title": "아모레퍼시픽 3분기 호실적, 국내 수익성 개선",
+      "summary_plain": "아모레퍼시픽은 3분기 매출 1조 1,295억 원(+11%), 영업이익 1,152억 원(+25%)을 기록하며 컨센서스(증권사 평균 전망치)에 부합했습니다. 방한 외국인 증가로 면세 매출이 18% 늘었습니다.",
+      "why_it_matters": "화장품은 내수와 인바운드 관광에 민감한 업종으로, 방한 관광객 증가 추세가 이어지면 관련 기업의 실적 개선이 지속될 수 있습니다.",
+      "tickers": [
+        "090430"
+      ],
+      "date": "2026-10-30",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653489",
+      "source_name": "메리츠증권 리포트"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "사이드카",
+      "meaning": "주가가 급변할 때 프로그램 매매 주문을 5분간 멈추는 제도. 시장 과열이나 폭락을 잠시 식히는 역할"
+    },
+    {
+      "term": "잉여현금흐름(FCF)",
+      "meaning": "사업으로 벌어들인 현금에서 설비 투자 등 필수 지출을 뺀 나머지. 마이너스면 번 것보다 쓴 돈이 더 많다는 뜻"
+    },
+    {
+      "term": "시총 기여도",
+      "meaning": "특정 종목의 시가총액 변화가 전체 지수 등락에 얼마나 영향을 미쳤는지를 나타내는 지표"
+    },
+    {
+      "term": "블루 스윕",
+      "meaning": "미국 중간선거에서 민주당이 상원과 하원 모두 과반 의석을 확보하는 것"
+    },
+    {
+      "term": "컨센서스",
+      "meaning": "여러 증권사 애널리스트들이 내놓은 실적 전망치의 평균. 실제 실적이 이보다 높으면 '서프라이즈', 낮으면 '쇼크'라 부름"
+    }
+  ],
+  "hot_sectors": [
+    {
+      "sector": "반도체",
+      "trend": "AI 투자 수익성 우려 확산으로 대형 반도체주가 일제히 급락했습니다. SK하이닉스 -8.72%, 삼성전자 -4.74%, 삼성전기 -9.51% 하락했습니다.",
+      "drivers": "미국 알파벳·인텔 실적 부진으로 AI 투자 지속성에 대한 의문이 커지며 외국인 매도가 집중",
+      "tickers": [
+        "000660",
+        "005930",
+        "009150"
+      ],
+      "tier": "market_data",
+      "source_url": "https://biz.chosun.com/en/en-finance/2026/10/30/O2RKCBIJYFE3HJTA5PIPZATFVM/",
+      "source_name": "조선비즈"
+    },
+    {
+      "sector": "바이오·헬스케어",
+      "trend": "반도체 급락 속에서 바이오 대형주는 오히려 상승했습니다. 삼성바이오로직스 +4.83%, 한미약품 +5.15%로 방어주 역할을 했습니다.",
+      "drivers": "대규모 특허 만료에 따른 바이오시밀러 시장 확대 기대와 하락장에서의 자금 이동",
+      "tickers": [
+        "207940",
+        "128940",
+        "068270"
+      ],
+      "tier": "market_data",
+      "source_url": "https://marketbrief.kr/kr/",
+      "source_name": "MarketBrief"
+    },
+    {
+      "sector": "방산·조선",
+      "trend": "한화에어로스페이스 -9.87%, 3분기 실적이 컨센서스를 크게 하회하며 어닝 쇼크를 기록했습니다. 수출 물량 이연과 일회성 비용이 원인입니다.",
+      "drivers": "3분기 실적 부진과 시장 전반의 위험회피 심리",
+      "tickers": [
+        "012450"
+      ],
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653487",
+      "source_name": "SK증권 리포트"
+    },
+    {
+      "sector": "금융",
+      "trend": "KB금융은 3분기 지배주주 순이익 1.91조 원(+13.1%)으로 컨센서스를 소폭 상회하며 은행주 중 선방했습니다.",
+      "drivers": "NIM(순이자마진) 방어와 비이자이익 안정이 긍정적",
+      "tickers": [
+        "105560",
+        "055550"
+      ],
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653484",
+      "source_name": "SK증권 리포트"
+    }
+  ],
+  "notable_stocks": [
+    {
+      "name": "SK하이닉스",
+      "ticker": "000660",
+      "note": "시총 기여도 기준 코스피 하락 최대 주도주. 8.72% 급락해 139만 3,000원에 마감했습니다. 역대 최고 실적에도 미국발 AI 투자 우려에 외국인 매도가 집중됐습니다.",
+      "tier": "market_data",
+      "source_url": "https://www.etnews.com/20261030000308",
+      "source_name": "전자신문"
+    },
+    {
+      "name": "삼성전자",
+      "ticker": "005930",
+      "note": "4.74% 하락해 22만 1,000원에 마감. 리포트에 따르면 메모리 반도체 이익 폭증으로 가격 매력이 있으나, 자사주 매입 종료 후 수급 공백이 부담 요인으로 작용 중입니다.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653481",
+      "source_name": "대신증권 리포트"
+    },
+    {
+      "name": "삼성바이오로직스",
+      "ticker": "207940",
+      "note": "4.83% 상승해 143만 2,000원에 마감. 5공장 PPQ 생산 본격화와 Rockville 공장 안정 가동으로 매출 성장이 이어지고 있습니다.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653214",
+      "source_name": "증권사 리포트"
+    },
+    {
+      "name": "한화에어로스페이스",
+      "ticker": "012450",
+      "note": "9.87% 급락해 68만 5,000원에 마감. 3분기 영업이익 4,520억 원으로 컨센서스(1조 1,615억 원)를 크게 하회하는 어닝 쇼크. 리포트에 따르면 수출 물량 이연과 대전사업장 복구 비용 등 일회성 요인이 겹쳤으며, 4분기부터 회복을 전망합니다.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653470",
+      "source_name": "유진투자증권 리포트"
+    },
+    {
+      "name": "삼성SDI",
+      "ticker": "006400",
+      "note": "리포트에 따르면 3분기 영업이익 4,078억 원으로 컨센서스를 크게 상회했습니다. ESS(에너지저장장치) 수주 확대와 AMPC 효과가 실적을 견인했습니다.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653467",
+      "source_name": "유진투자증권 리포트"
+    }
+  ],
+  "key_reports": [
+    {
+      "title": "삼성E&A: 입이 떡 벌어졌다면, 일단 매수",
+      "broker": "한화투자증권",
+      "ticker": "028050",
+      "opinion": "Buy",
+      "target_price": "84,000원",
+      "summary": "3분기 영업이익 5,006억 원(+184% YoY)으로 컨센서스를 98% 상회하는 어닝 서프라이즈. 화공 프로젝트와 삼성전자 반도체 Fab 매출이 실적을 견인했고, 연간 가이던스도 상향했습니다.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653225"
+    },
+    {
+      "title": "한화에어로스페이스: 3Q26 Review - 일시적 부진, 4분기부터 회복",
+      "broker": "SK증권",
+      "ticker": "012450",
+      "opinion": "Buy",
+      "target_price": "1,300,000원",
+      "summary": "3분기 영업이익 4,520억 원으로 컨센서스를 대폭 하회. 폴란드 수출 물량 4분기 이연과 대전사업장 복구 비용 약 500억 원이 일회성 요인이며, 4분기부터 수출 물량 회복을 전망합니다.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653487"
+    },
+    {
+      "title": "삼성SDI: 훌륭한 실적과 미래에 대한 기대감",
+      "broker": "유진투자증권",
+      "ticker": "006400",
+      "opinion": "Buy",
+      "target_price": "700,000원",
+      "summary": "3분기 영업이익 4,078억 원(+100% QoQ), AMPC 효과 1,225억 원과 고객 보상금 3천억 원 포함. ESS 수주 가시성 확대와 SDC 지분 매각에 따른 재무구조 개선을 반영해 목표가 상향.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653467"
+    },
+    {
+      "title": "두산에너빌리티: 펀더멘털은 견고, 체코 노이즈로 일시 하락",
+      "broker": "유진투자증권",
+      "ticker": "034020",
+      "opinion": "Buy",
+      "target_price": "80,000원",
+      "summary": "3분기 영업이익 2,612억 원(+91% YoY), 원자력·가스터빈 중심 고수익 믹스 개선이 확인됨. 체코 시공 결렬은 노이즈이며 2027년 재입찰 가능성 높다는 판단.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653471"
+    }
+  ],
+  "broker_views": [
+    {
+      "firm": "대신증권",
+      "view": "알파벳·인텔·아마존 실적에서 AI 투자 지속성과 수익성에 대한 의구심이 확대됐으며, 실적 전망 부진과 대규모 자본지출 부담이 동시에 부각되면서 AI와 반도체 투자심리가 위축됐다고 분석.",
+      "date": "2026-10-30",
+      "tier": "ib_news",
+      "source_url": "https://www.etnews.com/20261030000308"
+    },
+    {
+      "firm": "IBK투자증권",
+      "view": "유가 상승세 지속으로 27년 경기 우려가 점증하고 있으며, 시장이 의미 있는 반등을 위해서는 유가와 AI 업황 우려가 동반 완화되어야 한다고 진단.",
+      "date": "2026-10-23",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653250"
+    },
+    {
+      "firm": "대신증권",
+      "view": "미국 중간선거에서 민주당 '블루 스윕' 가능성을 63%로 전망. 블루 스윕 시 4분기 코스피 전망 5200~6700 유지, 레드 스윕 시 하단 4950까지 하향 가능.",
+      "date": "2026-10-31",
+      "tier": "ib_news",
+      "source_url": "https://www.hankyung.com/article/2026103175746"
+    }
+  ]
+}

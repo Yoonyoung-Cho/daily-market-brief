@@ -1,5 +1,5 @@
 {
-  "_as_of": "2026-10-30",
+  "_as_of": "2026-11-02",
   "AAPL": {
     "name": "Apple",
     "theme": "빅테크",
@@ -9,56 +9,53 @@
     "sell": 3,
     "strongSell": 3,
     "buy_trend": [
-      28,
+      null,
       25,
       25,
       24
     ],
-    "prev_buy": 28,
     "pt_mean": 332.3858,
     "pt_high": 405.0,
     "pt_low": 245.0,
-    "price": 348.745
+    "price": 344.63
   },
   "MSFT": {
     "name": "Microsoft",
     "theme": "빅테크",
     "strongBuy": 12,
-    "buy": 39,
+    "buy": 40,
     "hold": 5,
     "sell": 0,
     "strongSell": 0,
     "buy_trend": [
-      54,
+      null,
       52,
       53,
-      51
+      52
     ],
-    "prev_buy": 54,
-    "pt_mean": 627.72766,
+    "pt_mean": 632.89825,
     "pt_high": 870.0,
     "pt_low": 440.0,
-    "price": 523.455
+    "price": 521.91
   },
   "GOOGL": {
     "name": "Alphabet",
     "theme": "빅테크",
-    "strongBuy": 11,
-    "buy": 42,
+    "strongBuy": 10,
+    "buy": 43,
     "hold": 5,
     "sell": 0,
     "strongSell": 0,
     "buy_trend": [
-      58,
+      null,
       58,
       57,
       53
     ],
-    "prev_buy": 58,
-    "pt_mean": 408.08655,
+    "pt_mean": 406.54807,
     "pt_high": 500.0,
     "pt_low": 325.0,
-    "price": 280.925
+    "price": 279.84
   },
   "AMZN": {
     "name": "Amazon",
@@ -69,16 +66,15 @@
     "sell": 0,
     "strongSell": 0,
     "buy_trend": [
-      61,
+      null,
       61,
       59,
       58
     ],
-    "prev_buy": 61,
-    "pt_mean": 332.4093,
+    "pt_mean": 326.92102,
     "pt_high": 405.0,
     "pt_low": 230.0,
-    "price": 239.465
+    "price": 240.35
   },
   "META": {
     "name": "Meta Platforms",
@@ -89,16 +85,15 @@
     "sell": 1,
     "strongSell": 0,
     "buy_trend": [
-      55,
+      null,
       55,
       55,
       55
     ],
-    "prev_buy": 55,
     "pt_mean": 848.3765,
     "pt_high": 1050.0,
     "pt_low": 629.06,
-    "price": 623.23
+    "price": 614.99
   },
   "TSLA": {
     "name": "Tesla",
@@ -109,16 +104,15 @@
     "sell": 2,
     "strongSell": 0,
     "buy_trend": [
-      23,
+      null,
       22,
       19,
       20
     ],
-    "prev_buy": 23,
     "pt_mean": 411.8155,
     "pt_high": 600.0,
     "pt_low": 128.11,
-    "price": 402.208
+    "price": 399.81
   },
   "NVDA": {
     "name": "NVIDIA",
@@ -129,16 +123,15 @@
     "sell": 1,
     "strongSell": 0,
     "buy_trend": [
-      58,
+      null,
       57,
       59,
       59
     ],
-    "prev_buy": 58,
     "pt_mean": 328.95346,
     "pt_high": 515.0,
     "pt_low": 180.0,
-    "price": 207.235
+    "price": 204.64
   },
   "AVGO": {
     "name": "Broadcom",
@@ -149,16 +142,15 @@
     "sell": 0,
     "strongSell": 0,
     "buy_trend": [
-      44,
+      null,
       45,
       47,
       49
     ],
-    "prev_buy": 44,
     "pt_mean": 530.14166,
     "pt_high": 660.0,
     "pt_low": 215.88,
-    "price": 327.6243
+    "price": 326.08
   },
   "AMD": {
     "name": "AMD",
@@ -169,16 +161,15 @@
     "sell": 0,
     "strongSell": 0,
     "buy_trend": [
-      42,
+      null,
       44,
       45,
       44
     ],
-    "prev_buy": 42,
     "pt_mean": 640.208,
     "pt_high": 1250.0,
     "pt_low": 365.0,
-    "price": 517.04
+    "price": 504.8
   },
   "TSM": {
     "name": "TSMC",
@@ -189,16 +180,15 @@
     "sell": 0,
     "strongSell": 0,
     "buy_trend": [
-      18,
+      null,
       18,
       20,
       20
     ],
-    "prev_buy": 18,
     "pt_mean": 584.39294,
     "pt_high": 1000.0,
     "pt_low": 440.0,
-    "price": 413.98
+    "price": 406.13
   },
   "MU": {
     "name": "Micron",
@@ -209,16 +199,15 @@
     "sell": 0,
     "strongSell": 1,
     "buy_trend": [
-      40,
+      null,
       44,
       45,
       45
     ],
-    "prev_buy": 40,
     "pt_mean": 1561.9111,
     "pt_high": 3000.0,
     "pt_low": 361.0,
-    "price": 896.5
+    "price": 884.74
   },
   "ASML": {
     "name": "ASML",
@@ -229,16 +218,15 @@
     "sell": 1,
     "strongSell": 0,
     "buy_trend": [
-      40,
+      null,
       38,
       38,
       38
     ],
-    "prev_buy": 40,
-    "pt_mean": 2140.591,
-    "pt_high": 2836.3447,
-    "pt_low": 863.43744,
-    "price": 1595.425
+    "pt_mean": 2141.547,
+    "pt_high": 2837.6116,
+    "pt_low": 863.8231,
+    "price": 1565.9
   },
   "ARM": {
     "name": "Arm Holdings",
@@ -249,16 +237,15 @@
     "sell": 1,
     "strongSell": 1,
     "buy_trend": [
-      27,
+      null,
       27,
       29,
       28
     ],
-    "prev_buy": 27,
     "pt_mean": 290.705,
     "pt_high": 500.0,
     "pt_low": 125.0,
-    "price": 205.915
+    "price": 205.97
   },
   "MRVL": {
     "name": "Marvell",
@@ -269,16 +256,15 @@
     "sell": 0,
     "strongSell": 0,
     "buy_trend": [
-      38,
+      null,
       39,
       40,
       43
     ],
-    "prev_buy": 38,
     "pt_mean": 340.56198,
     "pt_high": 450.0,
     "pt_low": 229.95,
-    "price": 202.24
+    "price": 196.4
   },
   "QCOM": {
     "name": "Qualcomm",
@@ -289,15 +275,14 @@
     "sell": 1,
     "strongSell": 2,
     "buy_trend": [
-      11,
+      null,
       11,
       11,
       11
     ],
-    "prev_buy": 11,
     "pt_mean": 196.3,
     "pt_high": 400.0,
     "pt_low": 100.0,
-    "price": 167.87
+    "price": 164.79
   }
 }
