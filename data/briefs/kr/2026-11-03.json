@@ -1,0 +1,232 @@
+{
+  "market": "KR",
+  "as_of_date": "2026-11-03",
+  "plain_summary": [
+    "코스피가 2.24% 올라 5,859에 마감했는데, 미국 기술주 급락에도 기관이 1조 2천억 원 넘게 사들이며 반등에 성공했습니다.",
+    "반도체 대장주인 SK하이닉스(+3.81%)와 삼성전자(+1.78%)가 지수 상승을 이끌었고, 전력기기·조선·방산 관련 종목도 강세를 보였습니다.",
+    "⚠️ 다만 금융주(신한지주·KB금융·하나금융지주)와 삼성바이오로직스는 하락해, 업종별 온도 차가 뚜렷했습니다."
+  ],
+  "market_tone": "코스피는 전 거래일 미국 나스닥 2.86% 급락(인텔 28.6% 폭락)의 영향으로 1.62% 하락 출발했으나, 기관의 1조 2,331억 원 순매수에 힘입어 장중 상승 전환에 성공했습니다. 시총 기여도 기준으로 SK하이닉스(+3.81%, 시총 약 1,075조)와 삼성전자(+1.78%, 시총 약 1,339조)가 지수 상승을 주도했습니다. 반면 삼성바이오로직스(-4.37%), 신한지주(-3.13%), KB금융(-1.35%) 등 바이오·금융 대형주는 하락하며 지수 상승을 제한했습니다. 코스닥도 1.38% 올라 734.36으로 마감했습니다. 원·달러 환율은 1,340원대에서 거래됐습니다.",
+  "news": [
+    {
+      "title": "인텔 쇼크에도 코스피 반등 — 기관 1.2조 순매수",
+      "summary_plain": "미국 인텔이 PC시장 부진으로 28.6% 폭락하며 나스닥이 2.86% 하락했지만, 국내 증시는 기관 매수세에 힘입어 상승 전환했습니다.",
+      "why_it_matters": "해외 악재에도 국내 반도체주가 버텼다는 것은 투자 심리가 아직 크게 무너지지 않았다는 뜻입니다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "date": "2026-11-02",
+      "tier": "news",
+      "source_url": "https://www.ytn.co.kr/_ln/0102_202611021621389187",
+      "source_name": "YTN"
+    },
+    {
+      "title": "SK하이닉스 100조 원 규모 주주환원 발표",
+      "summary_plain": "SK하이닉스가 올해 현금배당 30조 원, 자사주 매입·소각 60조 원 이상 등 총 100조 원 규모의 주주환원(회사가 번 돈을 주주에게 돌려주는 것)에 나선다고 밝혔습니다.",
+      "why_it_matters": "역대 최대 규모의 주주환원으로, SK하이닉스뿐 아니라 지주사 SK스퀘어의 가치에도 영향을 줍니다.",
+      "tickers": [
+        "000660",
+        "402340"
+      ],
+      "date": "2026-10-28",
+      "tier": "news",
+      "source_url": "https://www.yonhapnewstv.co.kr/news/MYH20261028171751OrQ",
+      "source_name": "연합뉴스TV"
+    },
+    {
+      "title": "효성중공업, 북미 전력기기 수요 확대에 13.3% 급등",
+      "summary_plain": "효성중공업이 글로벌 전력망 투자 확대와 AI 데이터센터 변압기 수요 증가 기대로 13.32% 상승했습니다.",
+      "why_it_matters": "전력기기 업종은 AI 데이터센터 건설이 늘수록 수혜를 받는 분야로, 관련 종목(LS ELECTRIC, HD현대일렉트릭 등)도 함께 올랐습니다.",
+      "tickers": [
+        "298040"
+      ],
+      "date": "2026-11-02",
+      "tier": "news",
+      "source_url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500611",
+      "source_name": "핀포인트뉴스"
+    },
+    {
+      "title": "현대글로비스, 역대 최대 3분기 실적에 11.3% 급등",
+      "summary_plain": "현대글로비스가 3분기 매출 9조 536억 원, 영업이익 5,665억 원으로 분기 최대 실적을 기록했습니다.",
+      "why_it_matters": "완성차 해상운송(PCTC) 호황이 지속되고 있어, 물류·운송 관련 기업들의 실적 개선 흐름을 보여줍니다.",
+      "tickers": [
+        "086280"
+      ],
+      "date": "2026-11-02",
+      "tier": "news",
+      "source_url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500611",
+      "source_name": "핀포인트뉴스"
+    }
+  ],
+  "hot_sectors": [
+    {
+      "sector": "반도체",
+      "trend": "SK하이닉스와 삼성전자가 인텔 쇼크를 딛고 반등하며 지수 상승을 주도했습니다. SK하이닉스의 사상 최대 실적과 100조 원 주주환원이 투자 심리를 지탱했습니다.",
+      "drivers": "AI 메모리(HBM) 수요 호조, SK하이닉스 주주환원",
+      "tickers": [
+        "000660",
+        "005930",
+        "402340"
+      ],
+      "tier": "market_data",
+      "source_url": "https://www.ytn.co.kr/_ln/0102_202611021621389187",
+      "source_name": "YTN"
+    },
+    {
+      "sector": "전력기기",
+      "trend": "효성중공업(+13.3%), LS ELECTRIC(+7.4%), HD현대중공업(+5.1%) 등 전력 인프라 종목이 일제히 강세를 보였습니다.",
+      "drivers": "AI 데이터센터 건설 확대에 따른 변압기·배전 수요 증가",
+      "tickers": [
+        "298040",
+        "010120"
+      ],
+      "tier": "news",
+      "source_url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500611",
+      "source_name": "핀포인트뉴스"
+    },
+    {
+      "sector": "조선·방산",
+      "trend": "한화오션(+9.8%), 한화에어로스페이스(+6.3%), HD현대중공업(+5.1%) 등 방산·조선주가 강세를 보였습니다. 글로벌 국방비 지출 확대와 수출 경쟁력이 부각됐습니다.",
+      "drivers": "글로벌 국방비 확대, 조선 수주 호조",
+      "tickers": [
+        "042660",
+        "012450",
+        "329180"
+      ],
+      "tier": "news",
+      "source_url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500611",
+      "source_name": "핀포인트뉴스"
+    }
+  ],
+  "notable_stocks": [
+    {
+      "name": "SK하이닉스",
+      "ticker": "000660",
+      "note": "3.81% 상승. 3분기 사상 최대 실적(매출 104.6조, 영업이익 83.3조)과 100조 원 주주환원 발표 효과가 지속되고 있습니다.",
+      "tier": "market_data",
+      "source_url": "https://www.yonhapnewstv.co.kr/news/MYH20261028171751OrQ",
+      "source_name": "연합뉴스TV"
+    },
+    {
+      "name": "삼성전자",
+      "ticker": "005930",
+      "note": "1.78% 상승. 인텔 쇼크에도 시총 기여도 기준 지수 상승을 주도했습니다. 리포트에 따르면 메모리 이익 폭증으로 가격 매력이 부각된다는 평가입니다.",
+      "report_summary": "대신증권은 메모리반도체 이익 폭증에 따른 가격 매력을 근거로 매수 의견과 목표주가 50만 원을 유지했습니다.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653481",
+      "source_name": "대신증권 리포트(한경 컨센서스)"
+    },
+    {
+      "name": "효성중공업",
+      "ticker": "298040",
+      "note": "13.32% 급등. 북미 전력기기 매출 확대 전망과 AI 데이터센터 변압기 수요 증가가 부각됐습니다.",
+      "tier": "news",
+      "source_url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500611",
+      "source_name": "핀포인트뉴스"
+    },
+    {
+      "name": "한화에어로스페이스",
+      "ticker": "012450",
+      "note": "6.32% 상승. 3분기 실적은 수출 물량 이연으로 기대에 못 미쳤으나, 리포트에 따르면 4분기부터 수출 회복이 예상됩니다.",
+      "report_summary": "SK증권은 3분기 어닝 쇼크에도 4분기~내년 수출 물량 회복과 중동 수주 기대를 근거로 매수 의견과 목표주가 130만 원을 유지했습니다.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653487",
+      "source_name": "SK증권 리포트(한경 컨센서스)"
+    },
+    {
+      "name": "현대글로비스",
+      "ticker": "086280",
+      "note": "11.26% 급등. 3분기 역대 최대 실적(매출 9.1조, 영업이익 5,665억)을 기록했습니다.",
+      "report_summary": "iM증권은 PCC(자동차운반선) 부족 장기화에 따른 선대 확대 전략이 유효하다고 분석했습니다.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653645",
+      "source_name": "iM증권 리포트(한경 컨센서스)"
+    }
+  ],
+  "key_reports": [
+    {
+      "title": "삼성전자 — 결국 제자리를 찾아갈 것",
+      "broker": "대신증권",
+      "ticker": "005930",
+      "opinion": "매수",
+      "target_price": "500,000원",
+      "summary": "메모리반도체 주도 이익 폭증으로 가격 매력이 부각. 주주환원은 시점의 문제일 뿐 강화 방향성은 유효하다는 판단.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653481"
+    },
+    {
+      "title": "한화에어로스페이스 — 여전히 비중확대, Top-Pick",
+      "broker": "유진투자증권",
+      "ticker": "012450",
+      "opinion": "매수",
+      "target_price": "1,660,000원",
+      "summary": "3분기 수출 물량 이연으로 어닝 쇼크이나, 일회성 비용 제외 시 수출 수익성은 유지. 4분기~27년 실적 상향 전망.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653470"
+    },
+    {
+      "title": "삼성SDI — 더 오를 수 있다",
+      "broker": "대신증권",
+      "ticker": "006400",
+      "opinion": "매수",
+      "target_price": "750,000원",
+      "summary": "3분기 일회성 포함 호실적. ESS 수주 60GWh 달성, 북미 ESS 출하로 1분기부터 수익성 개선 본격화 전망.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653478"
+    },
+    {
+      "title": "현대글로비스 — PCC 쇼티지 장기화 속 유효한 선대 확대 전략",
+      "broker": "iM증권",
+      "ticker": "086280",
+      "summary": "자동차운반선(PCC) 공급 부족이 장기화되면서 선대 확대 전략이 실적 개선으로 이어지고 있다는 분석.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653645"
+    }
+  ],
+  "broker_views": [
+    {
+      "firm": "IBK투자증권",
+      "view": "유가 안정이 절실히 필요한 시점. 중동 리스크로 국제유가 상승세가 지속되면서 내년 경기 우려가 점증하고 있다고 분석했습니다. AI 업황 우려와 유가 상승이 동시에 시장을 압박하는 상황.",
+      "date": "2026-10-23",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653250"
+    },
+    {
+      "firm": "대신증권",
+      "view": "최근 급락은 펀더멘털(기업의 기초 체력) 훼손이 아닌 매크로(거시경제) 부담과 AI 우려가 중첩된 결과라고 판단. 주요 기업 실적 발표에서 회복 실마리를 찾을 수 있다는 의견.",
+      "date": "2026-10-23",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653219"
+    },
+    {
+      "firm": "우리은행",
+      "view": "달러/원 환율은 1,320~1,340원대 박스권. 반도체 기업 네고(수출대금 환전) 물량이 오전 하락, 글로벌 위험선호 약화가 오후 상승을 유도하는 패턴이 반복되고 있다고 분석.",
+      "date": "2026-10-30",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653464"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "시총 기여도(index_drivers)",
+      "meaning": "시가총액(기업 전체 주식 가치)이 큰 종목일수록 지수 움직임에 미치는 영향이 크다는 뜻. 이 브리핑에서 '지수를 올린/내린 종목'은 이 기준으로만 판단합니다."
+    },
+    {
+      "term": "주주환원",
+      "meaning": "기업이 벌어들인 이익을 배당금 지급, 자사주(자기 회사 주식) 매입·소각 등의 방법으로 주주에게 돌려주는 것."
+    },
+    {
+      "term": "HBM(고대역폭메모리)",
+      "meaning": "AI 학습·추론에 필요한 초고속 메모리 반도체. 일반 메모리보다 데이터 처리 속도가 훨씬 빠릅니다."
+    },
+    {
+      "term": "PCC(PCTC, 자동차운반선)",
+      "meaning": "완성차를 실어 나르는 전용 화물선. 글로벌 자동차 수출이 늘면 선박 부족(쇼티지)으로 운임이 올라갑니다."
+    },
+    {
+      "term": "어닝 쇼크",
+      "meaning": "기업의 실적이 시장 예상치를 크게 밑돌아 주가가 급락하는 현상."
+    }
+  ]
+}

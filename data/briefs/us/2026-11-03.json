@@ -1,0 +1,166 @@
+{
+  "market": "US",
+  "as_of_date": "2026-11-03",
+  "plain_summary": [
+    "미국 증시는 인텔이 28.6% 폭락하고 아마존 실적이 기대에 못 미치면서, 나스닥이 2.86% 하락하며 10월을 마감했습니다.",
+    "AI 투자 비용 부담과 수익성에 대한 우려가 기술주 전반에 퍼지며, S&P 500도 1.82% 내렸습니다.",
+    "⚠️ 인텔은 PC 시장 부진과 메모리 가격 급등을 이유로 4분기 매출 전망을 대폭 낮춰, 1974년 이후 최악의 하루를 기록했습니다."
+  ],
+  "market_tone": "10월 30일(금) 미국 3대 지수가 모두 하락 마감했습니다. 다우(-1.09%, 51,770), S&P 500(-1.82%, 7,580), 나스닥(-2.86%, 25,437). 아마존의 3분기 매출(2,019억 달러)이 시장 예상(2,023억 달러)을 밑돌고, 인텔이 PC 사업 부진과 올해 양(+)의 현금흐름 달성 불가를 경고하며 28.6% 폭락한 것이 직격탄이었습니다. 필라델피아 반도체 지수도 7.2% 급락했습니다. AI 인프라에 쏟아부은 막대한 투자가 실제 수익으로 이어지는지에 대한 의문이 시장을 압박하고 있습니다.",
+  "news": [
+    {
+      "title": "인텔 28.6% 폭락 — 1974년 이후 최악의 하루",
+      "summary_plain": "인텔이 4분기 매출 전망(150~160억 달러)을 시장 기대(170.7억 달러)보다 크게 낮추며 28.6% 급락했습니다. PC용 칩 매출이 메모리 가격 급등의 여파로 5% 줄었습니다.",
+      "why_it_matters": "인텔은 미국 정부가 10% 지분을 보유한 기업으로, 하루 만에 120억 달러의 가치가 사라졌습니다. 반도체 업종 전체에 충격을 줬습니다.",
+      "tickers": [
+        "INTC"
+      ],
+      "date": "2026-10-30",
+      "tier": "news",
+      "source_url": "https://en.sedaily.com/international/2026/10/30/intel-plunges-30-percent-on-pc-worries-wiping-12-billion",
+      "source_name": "서울경제 영문판"
+    },
+    {
+      "title": "나스닥 2.86% 하락 — AI 투자 우려에 기술주 전면 매도",
+      "summary_plain": "아마존·인텔 실적 실망에 AI 투자 수익성 우려가 겹치며 나스닥이 2.86% 하락, 10월 월간 기준으로도 하락을 기록했습니다.",
+      "why_it_matters": "S&P 500 기업 중 82%가 3분기 실적 예상치를 상회했지만, AI 관련 기대가 너무 높았던 만큼 실망 매물이 집중됐습니다.",
+      "tickers": [],
+      "date": "2026-10-30",
+      "tier": "news",
+      "source_url": "https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/",
+      "source_name": "Reuters"
+    },
+    {
+      "title": "NVIDIA, 11월 17일 실적 발표 예정 — 시장의 관심 집중",
+      "summary_plain": "NVIDIA가 11월 17일 분기 실적을 발표할 예정입니다. 현재 주가는 10월 30일 기준 204.64달러로, 애널리스트 평균 목표가 328.95달러 대비 낮은 수준입니다.",
+      "why_it_matters": "AI 반도체 최대 수혜주인 NVIDIA의 실적이 AI 투자 우려를 해소할 수 있을지가 11월 증시의 최대 변수입니다.",
+      "tickers": [
+        "NVDA"
+      ],
+      "date": "2026-11-02",
+      "tier": "analyst_data",
+      "source_url": "https://finance.yahoo.com/quote/NVDA",
+      "source_name": "Yahoo Finance"
+    }
+  ],
+  "hot_sectors": [
+    {
+      "sector": "AI 반도체",
+      "trend": "인텔 폭락과 AI 투자 우려로 반도체주 전반이 하락했습니다. 필라델피아 반도체 지수가 7.2% 급락. 다만 애널리스트 62명 중 59명이 NVIDIA에 매수 의견을 유지하는 등 장기 전망은 여전히 긍정적입니다.",
+      "drivers": "AI 데이터센터 투자 지속 vs. 수익성 불확실",
+      "tickers": [
+        "NVDA",
+        "AVGO",
+        "AMD",
+        "TSM"
+      ],
+      "tier": "analyst_data",
+      "source_url": "https://finance.yahoo.com/quote/NVDA",
+      "source_name": "Yahoo Finance"
+    },
+    {
+      "sector": "빅테크",
+      "trend": "아마존 매출 기대치 하회, 알파벳(구글)도 12% 급락. 메타는 AI 에이전트 'Muse' 출시 1.5개월 만에 1천만 다운로드를 달성하며 차별화 행보.",
+      "drivers": "AI 투자비용 대비 수익화 속도에 대한 시장 의구심",
+      "tickers": [
+        "AMZN",
+        "GOOGL",
+        "META"
+      ],
+      "tier": "news",
+      "source_url": "https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/",
+      "source_name": "Reuters"
+    },
+    {
+      "sector": "메모리 반도체",
+      "trend": "HBM 수요 호조로 삼성전자·SK하이닉스의 메모리 영업이익률이 80%에 육박할 전망. 반면 메모리 가격 급등이 PC·스마트폰 등 하류 산업의 비용 부담을 키우고 있습니다.",
+      "drivers": "AI용 HBM 공급 부족, 메모리 슈퍼사이클",
+      "tickers": [
+        "MU",
+        "TSM"
+      ],
+      "tier": "analyst_data",
+      "source_url": "https://finance.yahoo.com/quote/NVDA",
+      "source_name": "Yahoo Finance"
+    }
+  ],
+  "notable_stocks": [
+    {
+      "name": "NVIDIA",
+      "ticker": "NVDA",
+      "note": "10월 30일 4.22% 하락(204.64달러). 11월 17일 실적 발표 예정. 애널리스트 62명 중 59명이 매수 의견, 평균 목표가 328.95달러.",
+      "tier": "analyst_data",
+      "source_url": "https://finance.yahoo.com/quote/NVDA",
+      "source_name": "Yahoo Finance"
+    },
+    {
+      "name": "Broadcom",
+      "ticker": "AVGO",
+      "note": "주가 332.06달러. 애널리스트 51명 중 49명이 매수 의견, 평균 목표가 530.14달러로 상승 여력이 큽니다.",
+      "tier": "analyst_data",
+      "source_url": "https://finance.yahoo.com/quote/NVDA",
+      "source_name": "Yahoo Finance (us_consensus 데이터)"
+    },
+    {
+      "name": "Amazon",
+      "ticker": "AMZN",
+      "note": "3분기 매출 2,019억 달러로 기대치(2,023억 달러) 소폭 하회. EPS도 1.89달러로 예상(1.96달러)에 못 미쳤습니다. 애널리스트 60명 중 58명이 매수 의견 유지.",
+      "tier": "news",
+      "source_url": "https://en.sedaily.com/international/2026/10/30/nasdaq-falls-29-percent-on-ai-spending-fears-intel-plunges",
+      "source_name": "서울경제 영문판"
+    },
+    {
+      "name": "Meta Platforms",
+      "ticker": "META",
+      "note": "주가 611.40달러. AI 에이전트 'Muse' 출시 1.5개월 만에 1천만 다운로드 달성. 리포트에 따르면 구독·커머스 수수료 기반 수익 모델이 가시화되고 있습니다.",
+      "report_summary": "SK증권은 Muse의 빠른 성장과 본업 개선을 근거로 긍정적 시각을 유지했습니다.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653241",
+      "source_name": "SK증권 리포트(한경 컨센서스)"
+    }
+  ],
+  "key_reports": [
+    {
+      "title": "메타 플랫폼스 — Muse의 업사이드는 어디까지일까?",
+      "broker": "SK증권",
+      "ticker": "META",
+      "summary": "AI 에이전트 Muse가 출시 1.5개월 만에 1천만 다운로드, DAU 25%. 구독과 커머스 수수료 기반의 비즈니스 모델을 평가.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653241"
+    }
+  ],
+  "broker_views": [
+    {
+      "firm": "IBK투자증권",
+      "view": "AI 업황 우려와 국제 유가 상승이 동시에 시장을 압박. 의미 있는 반등을 위해서는 유가와 AI 업황 우려가 동반 완화돼야 한다고 분석.",
+      "date": "2026-10-23",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653250"
+    },
+    {
+      "firm": "IBK투자증권",
+      "view": "AI 기업보다는 소외된 부실기업이 금융시스템의 약한 고리를 타고 이번 확장 사이클을 마무리시키는 경로가 더 가능성 높다고 판단.",
+      "date": "2026-10-23",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653247"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "나스닥(NASDAQ)",
+      "meaning": "미국의 기술주 중심 주식시장. 애플, 엔비디아, 아마존 등 IT 기업이 주로 상장돼 있습니다."
+    },
+    {
+      "term": "필라델피아 반도체 지수(SOX)",
+      "meaning": "미국에 상장된 주요 반도체 기업 30개의 주가를 합산한 지수. 반도체 업종 전체 흐름을 보여줍니다."
+    },
+    {
+      "term": "EPS(주당순이익)",
+      "meaning": "기업의 순이익을 발행 주식 수로 나눈 것. 주식 한 주가 벌어들인 이익을 뜻합니다."
+    },
+    {
+      "term": "컨센서스(시장 예상치)",
+      "meaning": "여러 증권사 애널리스트들의 실적 전망을 평균 낸 수치. 실제 실적이 이보다 높으면 '서프라이즈', 낮으면 '쇼크'라고 합니다."
+    }
+  ]
+}
