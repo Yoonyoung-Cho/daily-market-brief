@@ -1,0 +1,228 @@
+{
+  "market": "KR",
+  "as_of_date": "2026-11-05",
+  "plain_summary": [
+    "코스피가 0.62% 올라 5,683포인트로 마감했고, 코스닥은 1.50% 오른 714포인트를 기록했습니다.",
+    "미국 중간선거에서 민주당이 상·하원을 모두 장악하면서, 전기차·태양광 정책 수혜가 기대되는 2차전지(배터리)와 태양광 관련주가 크게 올랐습니다.",
+    "⚠️ 반면 민주당 의회 장악으로 AI 데이터센터 규제 우려가 커지면서 삼성전자·SK하이닉스 등 반도체주는 약세를 보였습니다."
+  ],
+  "market_tone": "미국 중간선거에서 민주당이 압승('블루 웨이브')하면서, 국내 증시는 섹터별로 극명하게 갈렸습니다. 코스피를 끌어올린 종목은 삼성SDI(+11.57%), LG에너지솔루션(+5.03%), 셀트리온(+5.32%), 크래프톤(+16.55%) 등 2차전지·바이오·게임 대형주였습니다. 반면 삼성전자(-0.68%), SK하이닉스(-0.14%)는 AI 규제 우려로 소폭 하락했고, 하이브(-11.48%)와 LG생활건강(-11.83%)은 실적 우려에 큰 폭으로 떨어졌습니다.",
+  "news": [
+    {
+      "title": "미국 중간선거 민주당 압승, '블루 웨이브' 현실화",
+      "summary_plain": "미국 중간선거에서 민주당이 상원과 하원을 모두 장악했습니다. 트럼프 대통령은 결과를 수용하겠다고 밝혔습니다.",
+      "why_it_matters": "민주당이 의회를 장악하면 전기차·태양광 지원 정책이 강화될 수 있어 한국 배터리·태양광 기업에 호재이지만, AI 데이터센터 규제가 강화되면 반도체 수요에 부담이 될 수 있습니다.",
+      "tickers": [
+        "373220",
+        "006400",
+        "009830"
+      ],
+      "date": "2026-11-04",
+      "tier": "news",
+      "source_url": "https://www.newsis.com/view/NISX20261104_0003854785",
+      "source_name": "뉴시스"
+    },
+    {
+      "title": "셀트리온, 4중 작용 비만약 동물실험 결과 공개",
+      "summary_plain": "셀트리온이 세계 최초로 4가지 기전(작용 방식)을 가진 비만 치료 후보물질의 동물실험 결과를 공개했습니다.",
+      "why_it_matters": "글로벌 비만약 시장이 빠르게 성장하는 가운데, 셀트리온이 차별화된 후보물질을 확보하면 바이오시밀러(복제약) 중심이던 사업에 새로운 성장 동력이 될 수 있습니다.",
+      "tickers": [
+        "068270"
+      ],
+      "date": "2026-11-04",
+      "tier": "news",
+      "source_url": "https://devtoolnote.com/stock-news-kr-2026-11-04/",
+      "source_name": "devtoolnote 종목뉴스"
+    },
+    {
+      "title": "LG에너지솔루션, 3분기 매출 9.6조원으로 분기 최대",
+      "summary_plain": "LG에너지솔루션의 3분기 매출이 9조 6,434억원으로 역대 최대를 기록했고, 영업이익은 7,560억원이었습니다.",
+      "why_it_matters": "ESS(에너지저장장치) 출하 급증이 실적을 이끌었고, 회사는 연간 매출 성장률 전망을 최대 40%로 올렸습니다. 미국 민주당 승리로 ESS 수요 확대도 기대됩니다.",
+      "tickers": [
+        "373220"
+      ],
+      "date": "2026-11-04",
+      "tier": "news",
+      "source_url": "https://kr.investing.com/news/stock-market-news/article-93CH-2158536",
+      "source_name": "인베스팅닷컴"
+    },
+    {
+      "title": "크래프톤, 자사주 약 165만주 매입 결정",
+      "summary_plain": "크래프톤이 발행주식의 약 3.6%에 해당하는 보통주 약 165만주를 장내 매입하겠다고 공시했습니다.",
+      "why_it_matters": "자사주 매입(회사가 자기 주식을 사들이는 것)은 유통 물량을 줄여 주가에 긍정적입니다. 주주환원(주주에게 이익을 돌려주는 것)을 강화하겠다는 신호입니다.",
+      "tickers": [
+        "259960"
+      ],
+      "date": "2026-11-04",
+      "tier": "news",
+      "source_url": "https://contents.premium.naver.com/stocksense/stock/contents/261104184137518yk",
+      "source_name": "네이버 프리미엄콘텐츠"
+    }
+  ],
+  "hot_sectors": [
+    {
+      "sector": "2차전지(배터리)",
+      "trend": "미국 민주당 의회 장악으로 IRA(인플레이션 감축법) 중심 전기차·ESS 지원 확대 기대. 삼성SDI, LG에너지솔루션 등이 10% 안팎 상승.",
+      "drivers": "미국 중간선거 민주당 압승 + LG에너지솔루션·삼성SDI 3분기 호실적",
+      "tickers": [
+        "006400",
+        "373220",
+        "003670"
+      ],
+      "tier": "news",
+      "source_url": "https://www.newsis.com/view/NISX20261104_0003854785",
+      "source_name": "뉴시스"
+    },
+    {
+      "sector": "바이오·제약",
+      "trend": "셀트리온이 비만약 후보물질 공개로 5% 상승, 삼성바이오로직스도 3% 올라 바이오 대형주 동반 강세.",
+      "drivers": "셀트리온 4중 작용 비만약 동물실험 결과 공개, 삼성바이오 ESG 최상위 등급",
+      "tickers": [
+        "068270",
+        "207940"
+      ],
+      "tier": "news",
+      "source_url": "https://devtoolnote.com/stock-news-kr-2026-11-04/",
+      "source_name": "devtoolnote 종목뉴스"
+    },
+    {
+      "sector": "태양광·신재생에너지",
+      "trend": "민주당 의회 장악으로 재생에너지 지원 확대 기대. 한화솔루션이 18.64% 급등하며 섹터를 이끌었습니다.",
+      "drivers": "미국 민주당 중간선거 승리에 따른 태양광 정책 수혜 기대",
+      "tickers": [
+        "009830"
+      ],
+      "tier": "news",
+      "source_url": "https://www.newsis.com/view/NISX20261104_0003854785",
+      "source_name": "뉴시스"
+    }
+  ],
+  "notable_stocks": [
+    {
+      "name": "삼성SDI",
+      "ticker": "006400",
+      "note": "3분기 영업이익 4,078억원으로 흑자전환에 성공하며 11.57% 급등. 미국 민주당 승리에 따른 배터리 수혜 기대도 더해졌습니다.",
+      "report_summary": "유진투자증권은 리포트에서 목표주가를 700,000원으로 상향하며, ESS 수주 가시성 확대와 SDC 지분 매각에 따른 재무구조 개선을 긍정적으로 평가했습니다.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653467",
+      "source_name": "유진투자증권 (한경 컨센서스)"
+    },
+    {
+      "name": "LG에너지솔루션",
+      "ticker": "373220",
+      "note": "3분기 매출 9.6조원(분기 최대), 영업이익 7,560억원 기록. 주가 5.03% 상승.",
+      "report_summary": "iM증권은 리포트에서 ESS 수주 모멘텀(성장 동력)이 이어진다고 분석했습니다. 회사는 연간 매출 성장률 전망을 최대 40%로 상향했습니다.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653745",
+      "source_name": "iM증권 (한경 컨센서스)"
+    },
+    {
+      "name": "셀트리온",
+      "ticker": "068270",
+      "note": "4중 작용 비만약 동물실험 결과 공개와 기관 순매수로 5.32% 상승. 시가총액 46.4조원.",
+      "report_summary": "iM증권은 리포트에서 옴리클로(졸레어 바이오시밀러)가 유럽·미국·일본 3대 시장에서 퍼스트무버(최초 진입자) 지위를 확보했다고 평가했습니다.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653237",
+      "source_name": "iM증권 (한경 컨센서스)"
+    },
+    {
+      "name": "현대차",
+      "ticker": "005380",
+      "note": "2.16% 상승. 3분기 영업이익이 컨센서스(시장 예상치)를 상회하며 원가 절감 효과가 확인됐습니다.",
+      "report_summary": "유진투자증권은 리포트에서 목표주가 600,000원을 유지하며, 판매보증충당금 축소와 원가 절감으로 수익성을 방어했다고 분석했습니다.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653466",
+      "source_name": "유진투자증권 (한경 컨센서스)"
+    },
+    {
+      "name": "한국항공우주",
+      "ticker": "047810",
+      "note": "11.82% 급등. 방산(국방산업) 수주 재개 기대감이 반영됐습니다. 시가총액 약 10.6조원.",
+      "report_summary": "iM증권은 리포트에서 3분기를 '방산 수주 재개의 서막'으로 평가했고, SK증권은 2027~2028년 성장이 유효하며 연말 수주 모멘텀을 기대한다고 분석했습니다.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653751",
+      "source_name": "iM증권 (한경 컨센서스)"
+    }
+  ],
+  "key_reports": [
+    {
+      "title": "삼성SDI — 훌륭한 실적과 미래에 대한 기대감",
+      "broker": "유진투자증권",
+      "ticker": "006400",
+      "opinion": "BUY 유지",
+      "target_price": "700,000원 (상향)",
+      "summary": "3분기 영업이익 4,078억원으로 흑자전환. AMPC 효과(1,225억원)와 고객 보상금(3천억원)이 기여. ESS 수주 가시성 확대와 SDC 지분 매각에 따른 재무구조 개선을 반영해 목표주가 상향.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653467"
+    },
+    {
+      "title": "한국항공우주 — 방산 수주 재개의 서막?",
+      "broker": "iM증권",
+      "ticker": "047810",
+      "summary": "3분기 실적과 함께 방산 수주 재개 기대. 스페인 자주포 양산 및 미국 자주포 시제 사업자 선정으로 현지화 전략의 유효성이 증명되고 있다고 분석.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653751"
+    },
+    {
+      "title": "LG에너지솔루션 — ESS 수주 모멘텀 이어진다",
+      "broker": "iM증권",
+      "ticker": "373220",
+      "summary": "3분기 매출 9.6조원(분기 최대), 영업이익 7,560억원. ESS 배터리 출하 급증과 빅테크 직접 공급계약이 핵심 성장 동력.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653745"
+    },
+    {
+      "title": "하이브 — 이제는 더 이상 물러설 곳이 없다",
+      "broker": "iM증권",
+      "ticker": "352820",
+      "summary": "주가가 큰 폭으로 하락한 가운데 증권사 리포트에서 '바닥론'을 제시. 다만 당일 주가는 11.48% 하락하며 시장의 우려가 반영됨.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653747"
+    }
+  ],
+  "broker_views": [
+    {
+      "firm": "IBK투자증권",
+      "view": "리포트에 따르면, 유가 안정이 절실히 필요한 시점이라고 분석. 중동 리스크 재고조로 유가 상승이 지속되면서 2027년 경기 우려가 점증하고 있다고 평가했습니다.",
+      "date": "2026-11-04",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653250"
+    },
+    {
+      "firm": "IBK투자증권",
+      "view": "리포트에 따르면, 신용위험의 경로에 주의가 필요하며, AI 기업보다는 소외된 부실기업이 금융시스템의 약한 고리가 될 수 있다고 분석했습니다.",
+      "date": "2026-10-23",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653247"
+    },
+    {
+      "firm": "뉴시스 (시장 반응 보도)",
+      "view": "미국 민주당 의회 장악으로 K태양광·배터리 기업의 수혜가 기대된다는 업계 관측을 보도했습니다. 다만 AI 데이터센터 규제 강화 우려도 함께 제기됐습니다.",
+      "date": "2026-11-04",
+      "tier": "news",
+      "source_url": "https://www.newsis.com/view/NISX20261104_0003854785"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "블루 웨이브",
+      "meaning": "미국 민주당이 선거에서 압승해 의회를 장악하는 현상을 뜻합니다."
+    },
+    {
+      "term": "ESS(에너지저장장치)",
+      "meaning": "태양광·풍력 등으로 만든 전기를 배터리에 저장했다가 필요할 때 쓸 수 있게 해주는 장치입니다."
+    },
+    {
+      "term": "IRA(인플레이션 감축법)",
+      "meaning": "미국이 2022년 만든 법으로, 전기차·태양광 등 친환경 산업에 대규모 보조금을 지원합니다."
+    },
+    {
+      "term": "자사주 매입",
+      "meaning": "회사가 시장에서 자기 주식을 사들이는 것. 유통 주식 수가 줄어 주가에 긍정적입니다."
+    },
+    {
+      "term": "바이오시밀러",
+      "meaning": "오리지널 바이오의약품의 복제약으로, 동일한 효과를 더 저렴하게 제공합니다."
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "market": "US",
+  "as_of_date": "2026-11-05",
+  "plain_summary": [
+    "미국 중간선거에서 민주당이 상·하원을 모두 장악하자, 다우지수가 1,000포인트 넘게 뛰며 약 1.9% 올랐습니다.",
+    "Apple과 Microsoft는 사상 최고가를 기록했고, 전기차·태양광 관련주도 정책 수혜 기대에 강세를 보였습니다.",
+    "⚠️ 다만 민주당 의회 장악이 AI 데이터센터 규제 강화로 이어질 수 있다는 우려에 일부 기술주는 초반 급락 후 반등하는 등 변동성이 컸습니다."
+  ],
+  "market_tone": "미국 중간선거에서 민주당이 상·하원을 모두 장악하는 '블루 웨이브'가 현실화됐습니다. 시장은 초반 선물 급락 후 극적으로 반등해 다우지수가 1,009포인트(약 1.9%) 뛰었습니다. S&P 500은 약 1.2%, 나스닥은 약 1.1% 올랐습니다. 투자자들은 정치적 분점(대통령과 의회가 다른 당) 상황이 급격한 정책 변동을 제한할 수 있다는 점에 주목했습니다.",
+  "news": [
+    {
+      "title": "미국 중간선거 민주당 상·하원 장악 — 다우 1,000포인트 급등",
+      "summary_plain": "민주당이 중간선거에서 상원과 하원 모두 다수당을 탈환했습니다. 다우지수는 장중 1,178포인트까지 올랐습니다.",
+      "why_it_matters": "분점 정부(대통령과 의회가 다른 당)가 되면서 급격한 정책 변화가 어려워져, 시장은 이를 안정 요인으로 해석했습니다. 다만 AI 규제 강화 가능성은 부담 요인입니다.",
+      "date": "2026-11-04",
+      "tier": "news",
+      "source_url": "https://ksbw.com/article/midterm-election-stock-market-november-4-2026/74333444",
+      "source_name": "KSBW/ABC News"
+    },
+    {
+      "title": "Apple·Microsoft 사상 최고가 — 나스닥 2% 급등",
+      "summary_plain": "나스닥이 2% 넘게 오르면서 Apple과 Microsoft가 사상 최고가를 기록했습니다.",
+      "why_it_matters": "빅테크 대형주가 선거 불확실성 해소와 함께 안전자산 역할을 하면서, 시장 전체의 반등을 이끌었습니다.",
+      "tickers": [
+        "AAPL",
+        "MSFT"
+      ],
+      "date": "2026-11-04",
+      "tier": "news",
+      "source_url": "https://finance.yahoo.com/markets/article/apple-microsoft-hit-all-time-highs-as-nasdaq-surges-2-in-post-election-rally-alphacheck-152548814.html",
+      "source_name": "Yahoo Finance"
+    },
+    {
+      "title": "AI 데이터센터 규제 우려로 관련주 압박",
+      "summary_plain": "민주당 의회 장악으로 AI 데이터센터 건설 규제가 강화될 수 있다는 우려에, 데이터센터 관련 종목이 하락 압박을 받았습니다.",
+      "why_it_matters": "민주당은 AI 안전성과 환경 규제를 강화하려는 입장이어서, 데이터센터 건설과 AI 인프라 투자에 속도 조절이 있을 수 있습니다.",
+      "date": "2026-11-04",
+      "tier": "news",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-opens-higher-democrats-143718057.html",
+      "source_name": "Reuters via Yahoo Finance"
+    }
+  ],
+  "hot_sectors": [
+    {
+      "sector": "빅테크",
+      "trend": "Apple·Microsoft가 사상 최고가를 기록하며 시장 반등을 주도. 선거 불확실성 해소가 대형 기술주에 긍정적으로 작용.",
+      "tickers": [
+        "AAPL",
+        "MSFT"
+      ],
+      "tier": "news",
+      "source_url": "https://finance.yahoo.com/markets/article/apple-microsoft-hit-all-time-highs-as-nasdaq-surges-2-in-post-election-rally-alphacheck-152548814.html",
+      "source_name": "Yahoo Finance"
+    },
+    {
+      "sector": "전기차·클린에너지",
+      "trend": "민주당 의회 장악으로 전기차 보조금·재생에너지 지원 확대 기대. 관련 ETF와 종목이 강세.",
+      "tickers": [
+        "TSLA"
+      ],
+      "tier": "news",
+      "source_url": "https://www.newsis.com/view/NISX20261104_0003854785",
+      "source_name": "뉴시스"
+    },
+    {
+      "sector": "AI·데이터센터",
+      "trend": "⚠️ 민주당 의회 장악으로 AI 규제 강화 우려. 데이터센터 관련 종목이 초반 하락 압박을 받았으나 장중 일부 회복.",
+      "tickers": [
+        "MSFT",
+        "GOOGL"
+      ],
+      "tier": "news",
+      "source_url": "https://www.newsis.com/view/NISX20261104_0003854895",
+      "source_name": "뉴시스"
+    }
+  ],
+  "notable_stocks": [
+    {
+      "name": "Apple",
+      "ticker": "AAPL",
+      "note": "사상 최고가 기록. 현재가 약 354달러. 애널리스트 평균 목표가 333달러로 현재가가 이를 소폭 상회하는 상태입니다.",
+      "tier": "analyst_data",
+      "source_url": "https://finance.yahoo.com/markets/article/apple-microsoft-hit-all-time-highs-as-nasdaq-surges-2-in-post-election-rally-alphacheck-152548814.html",
+      "source_name": "Yahoo Finance"
+    },
+    {
+      "name": "Microsoft",
+      "ticker": "MSFT",
+      "note": "사상 최고가 기록. 현재가 약 553달러. 애널리스트 평균 목표가 633달러로 상승 여력이 있다는 평가입니다.",
+      "tier": "analyst_data",
+      "source_url": "https://finance.yahoo.com/markets/article/apple-microsoft-hit-all-time-highs-as-nasdaq-surges-2-in-post-election-rally-alphacheck-152548814.html",
+      "source_name": "Yahoo Finance"
+    },
+    {
+      "name": "Alphabet",
+      "ticker": "GOOGL",
+      "note": "현재가 약 294달러. 애널리스트 평균 목표가 400달러로, 현재가 대비 상승 여력이 큰 편입니다.",
+      "tier": "analyst_data",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-midterm-elections-earnings-140752043.html",
+      "source_name": "Yahoo Finance"
+    },
+    {
+      "name": "Amazon",
+      "ticker": "AMZN",
+      "note": "현재가 약 267달러. 애널리스트 평균 목표가 327달러. 클라우드(AWS)와 이커머스 성장세가 지속되고 있습니다.",
+      "tier": "analyst_data",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-midterm-elections-earnings-140752043.html",
+      "source_name": "Yahoo Finance"
+    }
+  ],
+  "key_reports": [
+    {
+      "title": "Microsoft — AI 투자 수확기 진입",
+      "broker": "24/7 Wall St.",
+      "ticker": "MSFT",
+      "summary": "Microsoft 주가가 지난 1년간 횡보했지만 실적은 급증해, 밸류에이션(가치 평가) 갭이 벌어지고 있다는 분석. AI 투자의 수익화가 본격화될 전망.",
+      "tier": "ib_news",
+      "source_url": "https://247wallst.com/investing/2026/11/04/forget-the-12-month-squeeze-microsoft-is-primed-for-an-explosive-ai-payoff/"
+    },
+    {
+      "title": "Meta Platforms — 첫 소비자 AI 에이전트 Muse 출시",
+      "broker": "SK증권",
+      "ticker": "META",
+      "summary": "Meta가 출시한 일반 소비자용 AI 에이전트 'Muse'가 출시 1.5개월 만에 1,000만 다운로드를 기록. 구독과 쇼핑 수수료 모델로 신규 수익원 기대.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653241"
+    }
+  ],
+  "broker_views": [
+    {
+      "firm": "Reuters",
+      "view": "로이터에 따르면, 투자자들은 민주당의 중간선거 승리 후 분점 정부가 급격한 정책 변화를 제한할 것이라는 기대에 매수세를 보였습니다. 다만 AI 규제 강화 우려로 데이터센터 관련주는 하락 압박을 받았습니다.",
+      "date": "2026-11-04",
+      "tier": "ib_news",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-opens-higher-democrats-143718057.html"
+    },
+    {
+      "firm": "JP모건 (뉴시스 보도)",
+      "view": "JP모건은 뉴시스 보도에 따르면, 민주당이 상·하원을 모두 장악하는 '블루 웨이브' 시 S&P 500이 약 0.5% 하락할 것으로 예상했으나, 실제 시장은 반등으로 마감했습니다.",
+      "date": "2026-11-04",
+      "tier": "ib_news",
+      "source_url": "https://www.newsis.com/view/NISX20261104_0003854895"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "분점 정부",
+      "meaning": "대통령과 의회 다수당이 서로 다른 정당인 상태. 급격한 정책 변화가 어려워 시장 안정 요인으로 해석됩니다."
+    },
+    {
+      "term": "중간선거",
+      "meaning": "미국 대통령 임기 중간(2년째)에 치르는 연방 의회 선거. 대통령 정책에 대한 국민 평가로 여겨집니다."
+    },
+    {
+      "term": "AI 에이전트",
+      "meaning": "사용자 대신 정보를 찾고, 일정을 관리하고, 쇼핑을 도와주는 인공지능 프로그램입니다."
+    }
+  ]
+}
