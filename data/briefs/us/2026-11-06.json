@@ -1,0 +1,196 @@
+{
+  "market": "US",
+  "as_of_date": "2026-11-06",
+  "plain_summary": [
+    "미국 중간선거에서 민주당이 상·하원을 모두 장악하면서 다우지수가 1,569포인트(+3.03%) 급등했는데, 이는 1982년 이후 최대 중간선거 후 상승폭이라고 합니다.",
+    "국제유가가 8.7% 급락하고, 재생에너지·소비재 업종이 강세를 보인 반면, 엔비디아(-3%)와 AI 인프라 관련주는 데이터센터 규제 우려에 하락했습니다.",
+    "⚠️ 다음 날(11/5) 퀄컴 실적 부진 등으로 나스닥이 1% 하락하며 선거 랠리가 하루 만에 식었으므로, 변동성에 유의할 필요가 있습니다."
+  ],
+  "market_tone": "미국 중간선거에서 민주당이 상·하원을 동시에 장악하며 트럼프 대통령의 정책에 제동이 걸릴 것이라는 기대로 다우지수가 1,569포인트(+3.03%) 급등, 53,356에 마감했습니다. S&P 500은 +1.58%(7,688.62), 나스닥은 +1.44%(25,736.51)를 기록했습니다. 이란전 종전 기대로 브렌트유가 8.7% 급락($94.62)하며 에너지 비용 부담 완화 기대가 랠리를 뒷받침했습니다. 마이크로소프트·아마존이 6%대 상승한 반면, 엔비디아는 3% 하락해 빅테크 안에서도 AI 인프라 vs. 소프트웨어 플랫폼 간 차별화가 나타났습니다. 다만 11/5에는 퀄컴 실적 부진, 반도체 추가 하락 등으로 S&P 500이 3.18% 밀리며 랠리가 하루만에 꺾이는 모습도 보였습니다.",
+  "news": [
+    {
+      "title": "민주당 상·하원 동시 장악 — '블루웨이브' 확정",
+      "summary_plain": "미국 중간선거에서 민주당이 상원과 하원을 모두 차지하며 트럼프 대통령의 관세·재정 정책에 제동이 걸릴 전망입니다.",
+      "why_it_matters": "시장은 정치적 불확실성 해소를 반기며 랠리를 펼쳤지만, AI 데이터센터 규제 강화 가능성은 반도체 업종에 부담입니다.",
+      "tickers": [
+        "MSFT",
+        "AMZN"
+      ],
+      "date": "2026-11-04",
+      "tier": "news",
+      "source_url": "https://abcnews.com/Business/dow-surges-1000-points-democrats-control-congress/story?id=137842989",
+      "source_name": "ABC News"
+    },
+    {
+      "title": "다우 +1,569pt — 1982년 이후 최대 중간선거 후 상승",
+      "summary_plain": "다우지수가 3.03% 상승하며 53,356에 마감했습니다. CNN에 따르면 44년 만에 최대 중간선거 후 상승폭입니다.",
+      "why_it_matters": "중간선거 이후에는 통상 정치적 불확실성이 해소되며 주가가 오르는 경향이 있습니다.",
+      "tickers": [],
+      "date": "2026-11-04",
+      "tier": "news",
+      "source_url": "https://www.cnn.com/2026/11/04/investing/us-markets-midterm-elections",
+      "source_name": "CNN"
+    },
+    {
+      "title": "국제유가 급락 — 브렌트유 8.7% 하락",
+      "summary_plain": "민주당 승리로 이란전 종전 기대가 커지며 브렌트유가 8.7% 급락한 $94.62에 마감했습니다.",
+      "why_it_matters": "유가 하락은 기업 비용 부담을 줄이고 소비자 물가 안정에 도움이 되지만, 에너지 기업에는 부담입니다.",
+      "tickers": [],
+      "date": "2026-11-04",
+      "tier": "news",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-03/stock-market-today-dow-s-p-live-updates",
+      "source_name": "Bloomberg"
+    },
+    {
+      "title": "AI 인프라주 차별화 — 엔비디아 하락, 마이크로소프트·아마존 강세",
+      "summary_plain": "마이크로소프트와 아마존이 6%대 상승한 반면, 엔비디아는 3% 하락. AI 데이터센터 건설 규제 우려가 반도체 하드웨어에 집중.",
+      "why_it_matters": "같은 AI 관련주라도 데이터센터 건설에 의존하는 기업과 소프트웨어 플랫폼 기업의 희비가 갈렸습니다.",
+      "tickers": [
+        "NVDA",
+        "MSFT",
+        "AMZN"
+      ],
+      "date": "2026-11-04",
+      "tier": "news",
+      "source_url": "https://abcnews.com/Business/dow-surges-1000-points-democrats-control-congress/story?id=137842989",
+      "source_name": "ABC News"
+    },
+    {
+      "title": "11/5 후속 — 나스닥 1% 하락, 퀄컴 12% 급락",
+      "summary_plain": "중간선거 랠리 다음 날 퀄컴이 실적 부진으로 12% 급락하며 반도체 약세가 이어졌습니다.",
+      "why_it_matters": "선거 랠리가 하루만에 꺾이며, 실적이 뒷받침되지 않으면 상승세가 지속되기 어렵다는 점을 보여줍니다.",
+      "tickers": [
+        "QCOM",
+        "NVDA"
+      ],
+      "date": "2026-11-05",
+      "tier": "news",
+      "source_url": "https://tradingeconomics.com/united-states/stock-market",
+      "source_name": "Trading Economics"
+    }
+  ],
+  "hot_sectors": [
+    {
+      "sector": "재생에너지",
+      "trend": "강세",
+      "drivers": "민주당 의회 장악으로 친환경 정책 기대. First Solar 등 재생에너지주 급등.",
+      "tickers": [
+        "FSLR"
+      ],
+      "tier": "news",
+      "source_url": "https://x.com/marketsday/status/2118152664731341004",
+      "source_name": "Markets Today (X)"
+    },
+    {
+      "sector": "빅테크 소프트웨어",
+      "trend": "강세",
+      "drivers": "마이크로소프트, 아마존 6%대 상승. AI 인프라 감속이 오히려 기존 대형 플랫폼에 유리할 수 있다는 분석.",
+      "tickers": [
+        "MSFT",
+        "AMZN",
+        "META"
+      ],
+      "tier": "news",
+      "source_url": "https://abcnews.com/Business/dow-surges-1000-points-democrats-control-congress/story?id=137842989",
+      "source_name": "ABC News"
+    },
+    {
+      "sector": "AI 반도체·인프라",
+      "trend": "약세",
+      "drivers": "민주당 AI 데이터센터 전력망 규제 우려. 엔비디아 -3%, 퀄컴 -12%(11/5). 필라델피아반도체지수 하락.",
+      "tickers": [
+        "NVDA",
+        "AVGO",
+        "QCOM"
+      ],
+      "tier": "news",
+      "source_url": "https://tradingeconomics.com/united-states/stock-market",
+      "source_name": "Trading Economics"
+    }
+  ],
+  "notable_stocks": [
+    {
+      "name": "Microsoft",
+      "ticker": "MSFT",
+      "note": "6%대 상승. 애널리스트 57명 중 52명이 매수 의견(컨센서스 기준). 평균 목표가 $633로 현재가 $536 대비 상승 여력 제시.",
+      "tier": "analyst_data",
+      "source_url": "https://finance.yahoo.com/quote/MSFT/",
+      "source_name": "Yahoo Finance(yfinance 컨센서스)"
+    },
+    {
+      "name": "Amazon",
+      "ticker": "AMZN",
+      "note": "6%대 상승. 10개 오하이오 타운이 데이터센터를 금지했지만 '다른 곳에 지을 여력이 충분하다'는 분석에 강세.",
+      "tier": "news",
+      "source_url": "https://www.tikr.com/blog/amazon-soars-7-as-tech-shrugs-off-data-center-bans-can-buy-its-way-into-new-towns?ref=yahoofinance&tlnk=yf-261104-2574fwpq",
+      "source_name": "TIKR"
+    },
+    {
+      "name": "NVIDIA",
+      "ticker": "NVDA",
+      "note": "3% 하락. 데이터센터 규제 우려 직격. 다만 애널리스트 62명 중 59명 매수 의견, 평균 목표가 $327로 현재가 $183 대비 큰 괴리.",
+      "tier": "analyst_data",
+      "source_url": "https://finance.yahoo.com/quote/NVDA/",
+      "source_name": "Yahoo Finance(yfinance 컨센서스)"
+    },
+    {
+      "name": "Alphabet",
+      "ticker": "GOOGL",
+      "note": "보도에 따르면 데이터센터 규제에도 'AI 투자를 줄이지 않을 것'이라는 전망. 애널리스트 58명 중 53명 매수 의견.",
+      "tier": "analyst_data",
+      "source_url": "https://finance.yahoo.com/quote/GOOGL/",
+      "source_name": "Yahoo Finance(yfinance 컨센서스)"
+    }
+  ],
+  "broker_views": [
+    {
+      "firm": "Deutsche Bank",
+      "view": "George Saravelos: '야당이 의회를 장악하면 극단적 정책이 억제돼 리스크 프리미엄(위험 할증)이 낮아질 수 있다'.",
+      "date": "2026-11-04",
+      "tier": "ib_news",
+      "source_url": "https://www.cnn.com/2026/11/04/investing/us-markets-midterm-elections"
+    },
+    {
+      "firm": "Deutsche Bank",
+      "view": "Jim Reid: '역사적 기준으로 보면 지극히 정상적인 선거 결과. 시장은 그 정상성을 환영하며 안도 랠리를 보이고 있다'.",
+      "date": "2026-11-04",
+      "tier": "ib_news",
+      "source_url": "https://abcnews.com/Business/dow-surges-1000-points-democrats-control-congress/story?id=137842989"
+    },
+    {
+      "firm": "SK증권",
+      "view": "박제민 연구원: 'Meta의 소비자용 AI 에이전트 Muse가 출시 1.5개월 만에 1천만 다운로드. 구독과 커머스 수수료가 핵심 비즈니스 모델'.",
+      "date": "2026-10-23",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653241"
+    }
+  ],
+  "key_reports": [
+    {
+      "title": "Meta Platforms — Muse의 업사이드는 어디까지일까?",
+      "broker": "SK증권",
+      "ticker": "META",
+      "summary": "최초의 소비자용 AI 에이전트 Muse가 1.5개월 만에 1천만 다운로드. 구독과 쇼핑 수수료 모델로 2028년 ARR $40B 전망(베이스 케이스).",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653241"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "블루웨이브(Blue Wave)",
+      "meaning": "미국 선거에서 민주당(상징색 파란색)이 상·하원을 동시에 장악하는 현상."
+    },
+    {
+      "term": "브렌트유",
+      "meaning": "국제 원유 가격의 기준이 되는 북해산 원유. 유가의 대표 지표."
+    },
+    {
+      "term": "중간선거",
+      "meaning": "미국 대통령 임기 중간에 치르는 의회 선거. 대통령 당이 의석을 잃는 경우가 많음."
+    },
+    {
+      "term": "리스크 프리미엄",
+      "meaning": "불확실한 투자에 대해 투자자가 요구하는 추가 수익률. 불확실성이 줄면 낮아짐."
+    }
+  ]
+}
