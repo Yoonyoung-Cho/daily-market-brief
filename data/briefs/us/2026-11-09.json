@@ -1,0 +1,181 @@
+{
+  "market": "US",
+  "as_of_date": "2026-11-09",
+  "plain_summary": [
+    "나스닥이 중간선거 후 5.5% 폭락해 조정(고점 대비 10% 이상 하락) 영역에 진입했지만, 금요일에 반도체주 중심으로 1.3% 반등하며 한 주를 마감했습니다.",
+    "민주당이 상·하원을 모두 장악하면서 AI 데이터센터 규제 우려가 커졌고, 엔비디아만 하루에 약 4,500억 달러의 시가총액이 증발했습니다.",
+    "⚠️ 10월 고용이 16만 5천 명으로 예상을 크게 웃돌아 12월 금리 인상(기준금리를 올리는 것) 가능성이 80%로 높아졌습니다."
+  ],
+  "market_tone": "11월 첫째 주 미국 증시는 롤러코스터 장세였습니다. 4일(수) 중간선거 직후 다우는 3% 급등(+1,569pt)하며 올해 최대 상승폭을 기록했지만, 5일(목) AI 규제 우려가 본격화되며 나스닥 -5.5%, S&P 500 -4.4%, 다우 -3.4%로 급반전했습니다. 필라델피아 반도체지수는 12% 폭락해 2020년 3월 이후 최악의 하루였습니다. 6일(금) 반도체주 저가 매수세가 유입되며 나스닥 +1.3%, S&P 500 +0.3%로 반등했지만 다우는 -0.4%에 마감했습니다. 주간 기준 나스닥 -5.5%, S&P 500 -3.2%, 다우 -1.7%입니다.",
+  "news": [
+    {
+      "title": "미국 중간선거 '블루 웨이브' — 민주당 상·하원 장악",
+      "summary_plain": "민주당이 상원 56석, 하원 260석을 확보하며 상·하원 다수를 차지했습니다. 주지사 선거에서도 5곳을 추가 확보했습니다.",
+      "why_it_matters": "분점 정부(의회와 대통령 정당이 다른 상태)가 형성돼 트럼프 행정부의 정책에 제동이 걸릴 수 있고, AI·에너지 규제가 강화될 가능성이 높아졌습니다.",
+      "date": "2026-11-04",
+      "tier": "news",
+      "source_url": "https://apnews.com/article/stock-markets-ai-earnings-oil-4d12764c0b3ce38ffde3077712811182",
+      "source_name": "AP통신"
+    },
+    {
+      "title": "나스닥 5.5% 폭락, 2020년 3월 이후 최악의 하루",
+      "summary_plain": "5일 나스닥이 5.5% 하락하며 조정(고점 대비 10% 이상 하락) 영역에 들어갔습니다. S&P 500에서 약 2.5조 달러의 시가총액이 사라졌습니다.",
+      "why_it_matters": "데이터센터 건설에 대한 정치적 규제가 AI 인프라 투자를 늦출 수 있다는 우려 때문입니다. 미국 10개 주 41건 주민투표 중 40건에서 데이터센터 건설 반대가 나왔습니다.",
+      "tickers": [
+        "NVDA",
+        "AMD",
+        "MU"
+      ],
+      "date": "2026-11-05",
+      "tier": "news",
+      "source_url": "https://qz.com/sp-500-drops-nasdaq-correction-midterms-ai-110626",
+      "source_name": "Quartz"
+    },
+    {
+      "title": "금요일 반도체주 반등 — 저가 매수세 유입",
+      "summary_plain": "6일 AMD +11%, 인텔 +7.7%, 마이크론 +5.1%, 엔비디아 +2.8% 등 반도체주가 반등하며 나스닥을 끌어올렸습니다.",
+      "why_it_matters": "전날 급락 이후 저가 매수 기회를 노린 투자자들이 유입됐지만, 주간 기준으로는 여전히 큰 폭의 하락입니다.",
+      "tickers": [
+        "AMD",
+        "NVDA",
+        "MU"
+      ],
+      "date": "2026-11-06",
+      "tier": "news",
+      "source_url": "https://tradingeconomics.com/united-states/stock-market",
+      "source_name": "Trading Economics"
+    },
+    {
+      "title": "유가 배럴당 90달러로 급락 — 이란 외교 기대감",
+      "summary_plain": "브렌트유가 주간 10달러 넘게 빠져 배럴당 90달러 부근까지 하락했습니다. 민주당의 이란 전쟁 종식 압박 기대가 반영됐습니다.",
+      "why_it_matters": "유가가 내리면 인플레이션(물가 상승) 압력이 줄어 소비자에게 좋지만, 에너지 기업 주가에는 부담이 됩니다.",
+      "date": "2026-11-06",
+      "tier": "news",
+      "source_url": "https://www.nasdaq.com/economic-institute/chartstopper-110626",
+      "source_name": "나스닥"
+    }
+  ],
+  "hot_sectors": [
+    {
+      "sector": "AI 반도체",
+      "trend": "데이터센터 규제 우려로 주간 큰 폭 하락 후 금요일 반등했습니다. 엔비디아 시총은 한 주 동안 약 4,500억 달러 줄었습니다.",
+      "drivers": "데이터센터 건설 규제가 GPU·메모리 수요에 미칠 영향이 핵심 변수",
+      "tickers": [
+        "NVDA",
+        "AMD",
+        "MU",
+        "AVGO"
+      ],
+      "tier": "news",
+      "source_url": "https://www.freep.com/story/money/business/2026/11/07/midterm-results-worst-nasdaq-day/92642536007/",
+      "source_name": "Detroit Free Press"
+    },
+    {
+      "sector": "빅테크(대형 기술주)",
+      "trend": "Apple과 Microsoft가 중간선거 다음 날 사상 최고가를 기록했지만, 이후 조정을 받았습니다. 리포트에 따르면 분점 정부가 이미 자리잡은 대형 플랫폼 기업에는 오히려 유리할 수 있다는 분석입니다.",
+      "tickers": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+      ],
+      "tier": "news",
+      "source_url": "https://finance.yahoo.com/markets/article/apple-microsoft-hit-all-time-highs-as-nasdaq-surges-2-in-post-election-rally-alphacheck-152548814.html",
+      "source_name": "Yahoo Finance"
+    },
+    {
+      "sector": "에너지(정유·석유)",
+      "trend": "유가가 주간 10달러 넘게 빠지며 에너지 기업 주가가 약세를 보였습니다. 민주당의 이란 전쟁 종식 압박이 유가 하락 요인으로 작용했습니다.",
+      "tickers": [],
+      "tier": "news",
+      "source_url": "https://apnews.com/article/stock-markets-ai-earnings-oil-4d12764c0b3ce38ffde3077712811182",
+      "source_name": "AP통신"
+    }
+  ],
+  "notable_stocks": [
+    {
+      "name": "NVIDIA",
+      "ticker": "NVDA",
+      "note": "5일 하루에 약 4,500억 달러 시총이 증발했지만, 6일 2.8% 반등했습니다. 애널리스트 59명 중 59명이 매수 의견을 유지하고 있습니다.",
+      "tier": "analyst_data",
+      "source_url": "https://www.freep.com/story/money/business/2026/11/07/midterm-results-worst-nasdaq-day/92642536007/",
+      "source_name": "Detroit Free Press"
+    },
+    {
+      "name": "Microsoft",
+      "ticker": "MSFT",
+      "note": "중간선거 다음 날 사상 최고가를 기록한 뒤 조정을 받았습니다. 애널리스트 평균 목표가는 634달러로 현재가(530달러) 대비 상승 여력이 있다는 평가입니다.",
+      "tier": "analyst_data",
+      "source_url": "https://finance.yahoo.com/markets/article/apple-microsoft-hit-all-time-highs-as-nasdaq-surges-2-in-post-election-rally-alphacheck-152548814.html",
+      "source_name": "Yahoo Finance"
+    },
+    {
+      "name": "Amazon",
+      "ticker": "AMZN",
+      "note": "데이터센터 규제에도 불구하고 6일 7% 급등했습니다. 리포트에 따르면 대형 기업은 다른 지역에 건설할 여력이 있어 영향이 제한적이라는 분석입니다.",
+      "tier": "news",
+      "source_url": "https://www.tikr.com/blog/amazon-soars-7-as-tech-shrugs-off-data-center-bans-can-buy-its-way-into-new-towns?ref=yahoofinance&tlnk=yf-261104-2574fwpq",
+      "source_name": "TIKR"
+    },
+    {
+      "name": "Meta Platforms",
+      "ticker": "META",
+      "note": "소비자용 AI 에이전트 'Muse'가 출시 1.5개월 만에 1천만 다운로드를 기록했다는 SK증권 리포트가 있습니다. 애널리스트 54명 중 54명이 매수 의견입니다.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653241",
+      "source_name": "한경 컨센서스 (SK증권)"
+    }
+  ],
+  "key_reports": [
+    {
+      "title": "메타 — Muse의 업사이드는 어디까지일까?",
+      "broker": "SK증권",
+      "ticker": "META",
+      "summary": "소비자용 AI 에이전트 Muse가 출시 1.5개월 만에 DAU 25%를 기록했으며, 구독과 커머스 수수료 두 가지 수익 모델을 갖추고 있다고 분석했습니다.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653241",
+      "source_name": "한경 컨센서스"
+    }
+  ],
+  "broker_views": [
+    {
+      "firm": "J.P. Morgan",
+      "view": "중간선거 이후 분점 정부 결과가 나온 경우, 역사적으로 S&P 500은 1년 후 평균 15% 상승했다고 분석했습니다. 단, AI 인프라 투자에는 속도 조절 가능성이 있다고 경고했습니다.",
+      "date": "2026-11-06",
+      "tier": "ib_news",
+      "source_url": "https://www.jpmorgan.com/insights/global-research/current-events/us-midterms-markets"
+    },
+    {
+      "firm": "Fidelity",
+      "view": "1938년 이후 중간선거 후 12개월간 S&P 500이 95%의 확률로 상승했으며, 분점 정부가 시장에 긍정적이었다고 분석했습니다. 다만, 데이터센터 규제가 기존 빅테크에는 오히려 유리할 수 있다고 언급했습니다.",
+      "date": "2026-11-06",
+      "tier": "ib_news",
+      "source_url": "https://www.fidelity.com/learning-center/trading-investing/2026-midterm-elections-and-stocks"
+    },
+    {
+      "firm": "Yardeni Research",
+      "view": "AI 투자 속도 조절(pullback)은 장기적으로 더 큰 버블을 막는 역할을 할 수 있다며, '너무 과열됐던 AI 투자가 조정되는 것은 필요한 과정'이라고 평가했습니다.",
+      "date": "2026-11-06",
+      "tier": "ib_news",
+      "source_url": "https://qz.com/sp-500-drops-nasdaq-correction-midterms-ai-110626"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "조정(Correction)",
+      "meaning": "주가가 최근 고점에서 10% 이상 떨어진 상태를 말합니다."
+    },
+    {
+      "term": "분점 정부(Divided Government)",
+      "meaning": "대통령 소속 정당과 의회 다수당이 달라 정책 추진이 어려운 상태입니다."
+    },
+    {
+      "term": "비농업 고용(Nonfarm Payrolls)",
+      "meaning": "농업을 제외한 미국 전체 고용 변화로, 경기를 보여주는 핵심 지표입니다."
+    },
+    {
+      "term": "데이터센터",
+      "meaning": "AI 모델을 학습·운영하기 위한 대규모 서버 시설로, 막대한 전력과 냉각수를 사용합니다."
+    }
+  ]
+}

@@ -35723,5 +35723,41 @@
     "points": [],
     "extracted": true,
     "ingested_at": "2026-11-07 00:32"
+  },
+  "653815": {
+    "report_idx": "653815",
+    "date": "2026-11-06",
+    "category": "기업",
+    "title": "씨엠티엑스(388210) 3Q26P Review: 아쉬운 수익성, 점차 회복 기대\n                        \n                            \n                                씨엠티엑스(388210) 3Q26P Review: 아쉬운 수익성, 점차 회복 기대\n                                \n                                    3Q26P Review: 아쉬운 수익성, 점차 회복 기대",
+    "ticker": "388210",
+    "name": "씨엠티엑스",
+    "broker": "유진투자증권",
+    "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653815",
+    "opinion": "Buy",
+    "target_price": "53,000원",
+    "has_concern": true,
+    "concern_excerpt": "ew: 최대 매출액 갱신했으나. 수익성은 시장 기대치 하회. 최근(11/2) 발표한 동사의 3분기 잠정실적(연결 기준)은 매출액 484억원, 영업이익 105억원으로 전년동기 대비 매출",
+    "summary": "씨엠티엑스 중소형주 / IPO / 비상장 기업 박종선 6076 / 3Q26P Review: 아쉬운 수익성, 점차 회복 기대 투자의견 BUY(유지) 목표주가 53,…",
+    "points": [],
+    "extracted": true,
+    "ingested_at": "2026-11-09 01:01"
+  },
+  "653814": {
+    "report_idx": "653814",
+    "date": "2026-11-06",
+    "category": "",
+    "title": "Daily Forex Live\n                        \n                            \n                                Daily Forex Live\n                                \n                                    Daily Forex Live",
+    "ticker": null,
+    "name": "",
+    "broker": "우리은행",
+    "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653814",
+    "opinion": null,
+    "target_price": null,
+    "has_concern": true,
+    "concern_excerpt": "망. 간밤 나스닥이 5%대 급락하면서 데이터센터 규제 우려가 AI 및 반도체 업종 전반의 투매로 확산. 데이터센터 건설이 둔화되면 메모리 수요가 줄어 들 수 있다는 전망이 부각된 만큼",
+    "summary": "Daily Forex Live 2026년 11월 6일 금요일 (월) 중간선거 후 거세진 위험자산 이탈, 강달러 베팅 속 환율 상승 우위 FX/Economist 민…",
+    "points": [],
+    "extracted": true,
+    "ingested_at": "2026-11-09 01:01"
   }
 }
