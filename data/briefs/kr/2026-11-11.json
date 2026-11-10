@@ -1,0 +1,224 @@
+{
+  "market": "KR",
+  "as_of_date": "2026-11-11",
+  "plain_summary": [
+    "코스피가 전날보다 4.39% 올라 5,239에 마감하며, 3거래일 급락 뒤 4거래일 만에 반등했습니다.",
+    "미국 반도체주 반등에 힘입어 SK하이닉스(+6.69%)와 삼성전자(+4.74%)가 지수 상승을 이끌었고, 장 초반 '매수 사이드카'(선물 급등 시 프로그램 매매를 5분간 멈추는 장치)가 발동됐습니다.",
+    "⚠️ 다만 미국 10월 소비자물가(CPI)가 예상보다 높게 나와 추가 금리 인상 우려가 커졌고, 엔비디아 CEO 관련 이슈도 남아 변동성에 주의가 필요합니다."
+  ],
+  "market_tone": "코스피는 지난주 11.71% 급락 뒤 이날 4.39% 반등해 5,239.13으로 마감했습니다. 코스닥도 4.48% 올라 667.61을 기록했습니다. 시총 기여 기준으로 SK하이닉스(+6.69%, 시총 약 885조원)와 삼성전자(+4.74%, 시총 약 1,163조원)가 지수 상승을 주도했습니다. 삼성SDI(+9.88%), 두산에너빌리티(+8.30%), SK(+7.14%)도 크게 올랐습니다. 반면 삼성바이오로직스(-2.78%), 셀트리온(-3.33%), KT&G(-3.67%) 등 바이오·내수주는 시총 기여 기준 하락 요인이었습니다. 외국인은 8거래일 만에 순매수로 전환한 것으로 보도됐고, 기관도 매수에 가담했습니다.",
+  "news": [
+    {
+      "title": "코스피·코스닥 4%대 급등, 매수 사이드카 발동",
+      "summary_plain": "미국 반도체주 반등과 유가 하락에 힘입어 코스피가 4.39%, 코스닥이 4.48% 올랐습니다. 장 초반 양 시장에 매수 사이드카가 발동됐습니다.",
+      "why_it_matters": "지난주 11% 넘게 빠진 뒤 나온 반등이라 '저가 매수'가 들어온 것인데, 하락분을 다 회복하지는 못했습니다.",
+      "tickers": [
+        "005930",
+        "000660"
+      ],
+      "date": "2026-11-10",
+      "tier": "market_data",
+      "source_url": "https://yna.co.kr/view/AKR20261110131900008",
+      "source_name": "연합뉴스"
+    },
+    {
+      "title": "미국 S&P 500, 2.35% 반등…유가 5.8% 급락이 호재",
+      "summary_plain": "미국 S&P 500이 2.35%, 나스닥이 2.74% 올랐습니다. 트럼프 대통령이 이란 추가 공격 가능성이 낮다고 밝히면서 브렌트유가 배럴당 92달러대로 떨어졌습니다.",
+      "why_it_matters": "유가 하락은 기업 비용과 물가 부담을 줄여 주식시장에 긍정적입니다. 다만 그 다음 날 발표된 미국 CPI는 예상보다 높았습니다.",
+      "tickers": [],
+      "date": "2026-11-10",
+      "tier": "news",
+      "source_url": "https://u.aa.com.tr/en/americas/us-stocks-surge-at-close-as-tech-rebounds-oil-prices-tumble/4118084",
+      "source_name": "Anadolu Agency"
+    },
+    {
+      "title": "한진칼, 호반건설과 조원태 회장 지분 경쟁에 15% 급등",
+      "summary_plain": "호반건설이 한진칼 지분 20.69%를 확보해 최대주주에 올랐고, 조원태 회장은 12월 추가 매입을 예고했습니다. 한진칼 주가는 이날 15.18% 올랐습니다.",
+      "why_it_matters": "경영권 분쟁이 붙으면 양측이 지분을 사들이면서 주가에 '경영권 프리미엄'이 붙을 수 있습니다. 다만 단기 급등 뒤 변동성이 클 수 있습니다.",
+      "tickers": [
+        "180640"
+      ],
+      "date": "2026-11-10",
+      "tier": "news",
+      "source_url": "https://www.yna.co.kr/view/AKR20261104165852003",
+      "source_name": "연합뉴스"
+    },
+    {
+      "title": "엔비디아 CEO 젠슨 황, 불륜 시인…이사회 조사 착수",
+      "summary_plain": "엔비디아 젠슨 황 CEO가 중국 스파이 의혹 여성과의 관계를 시인했고, 이사회가 독립 조사에 착수했습니다. 엔비디아 주가는 4.3% 하락했습니다.",
+      "why_it_matters": "엔비디아는 AI 반도체의 핵심 기업이라 CEO 리스크가 글로벌 반도체주 전체에 영향을 줄 수 있습니다.",
+      "tickers": [],
+      "date": "2026-11-10",
+      "tier": "news",
+      "source_url": "https://www.moneycontrol.com/news/business/markets/s-p-500-rallies-most-since-april-as-oil-drop-lures-back-buyers-14075820.html",
+      "source_name": "Moneycontrol/Bloomberg"
+    },
+    {
+      "title": "미국 10월 CPI 0.4% 상승, 예상 웃돌아…12월 금리 인상 전망 강화",
+      "summary_plain": "미국 10월 소비자물가가 전월비 0.4% 올라 시장 예상(0.3%)을 웃돌았습니다. 미국 10년물 국채금리(나라가 돈을 빌릴 때 내는 이자율)는 4.98%까지 올랐습니다.",
+      "why_it_matters": "물가가 예상보다 높으면 중앙은행이 금리를 더 올릴 수 있고, 이는 주식시장에 부담이 됩니다.",
+      "tickers": [],
+      "date": "2026-11-11",
+      "tier": "news",
+      "source_url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11102026-12246538",
+      "source_name": "Investopedia"
+    }
+  ],
+  "hot_sectors": [
+    {
+      "sector": "반도체",
+      "trend": "미국 필라델피아 반도체지수가 전날 약 7% 반등하면서 국내 반도체 대형주도 동반 급등했습니다.",
+      "drivers": "SK하이닉스 +6.69%, 삼성전자 +4.74%, 삼성전기 +4.63%",
+      "tickers": [
+        "000660",
+        "005930",
+        "009150"
+      ],
+      "tier": "market_data",
+      "source_url": "https://yna.co.kr/view/AKR20261110131900008",
+      "source_name": "연합뉴스"
+    },
+    {
+      "sector": "2차전지(배터리)",
+      "trend": "삼성SDI가 9.88%, LG에너지솔루션이 3.93% 오르며 낙폭을 일부 만회했습니다.",
+      "drivers": "삼성SDI +9.88%, LG에너지솔루션 +3.93%",
+      "tickers": [
+        "006400",
+        "373220"
+      ],
+      "tier": "market_data",
+      "source_url": "https://yna.co.kr/view/AKR20261110131900008",
+      "source_name": "연합뉴스"
+    },
+    {
+      "sector": "에너지/원전",
+      "trend": "두산에너빌리티가 8.30% 오르며 원전·에너지 섹터가 강세를 보였습니다. 리포트에 따르면 원전 정부승인차액계약(VC) 12월 도입이 예정돼 있습니다.",
+      "drivers": "두산에너빌리티 +8.30%",
+      "tickers": [
+        "034020"
+      ],
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653563",
+      "source_name": "한경 컨센서스 (유진투자증권)"
+    }
+  ],
+  "notable_stocks": [
+    {
+      "name": "SK하이닉스",
+      "ticker": "000660",
+      "note": "시총 기여 기준 코스피 상승을 가장 크게 이끈 종목입니다. 전날 대비 6.69% 올라 121만 2,000원에 마감했습니다.",
+      "tier": "market_data",
+      "source_url": "https://yna.co.kr/view/AKR20261110131900008",
+      "source_name": "연합뉴스"
+    },
+    {
+      "name": "삼성전자",
+      "ticker": "005930",
+      "note": "4.74% 올라 19만 8,900원에 마감했습니다. 시총 약 1,163조원으로 국내 최대 시총 종목입니다.",
+      "tier": "market_data",
+      "source_url": "https://yna.co.kr/view/AKR20261110131900008",
+      "source_name": "연합뉴스"
+    },
+    {
+      "name": "삼성SDI",
+      "ticker": "006400",
+      "note": "9.88% 급등해 45만 6,000원에 마감했습니다. 리포트에 따르면 3분기 영업이익이 4,078억원으로 시장 예상을 크게 웃돌았고, ESS(에너지저장장치) 수주 확대가 기대됩니다.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653468",
+      "source_name": "한경 컨센서스 (유진투자증권)"
+    },
+    {
+      "name": "한진칼",
+      "ticker": "180640",
+      "note": "호반건설과 조원태 회장 간 지분 경쟁으로 15.18% 급등해 23만 9,000원에 마감했습니다. 시총 약 16조원입니다.",
+      "tier": "news",
+      "source_url": "https://www.yna.co.kr/view/AKR20261104165852003",
+      "source_name": "연합뉴스"
+    },
+    {
+      "name": "두산에너빌리티",
+      "ticker": "034020",
+      "note": "원전·에너지 관련 기대감에 8.30% 올라 46,950원에 마감했습니다. 시총 약 30조원입니다.",
+      "tier": "market_data",
+      "source_url": "https://yna.co.kr/view/AKR20261110131900008",
+      "source_name": "연합뉴스"
+    }
+  ],
+  "key_reports": [
+    {
+      "title": "삼성SDI - 훌륭한 실적과 미래에 대한 기대감",
+      "broker": "유진투자증권",
+      "ticker": "006400",
+      "opinion": "BUY",
+      "target_price": "700,000원",
+      "summary": "3분기 영업이익 4,078억원으로 시장 예상을 63% 상회. AMPC 효과와 고객 보상금이 기여. ESS 수주 가시성 확대와 SDC 지분 매각에 따른 재무구조 개선을 반영해 목표주가를 상향했다고 밝힘.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653468"
+    },
+    {
+      "title": "한전KPS - 단기적으론 원전 모멘텀 공백기",
+      "broker": "LS증권",
+      "ticker": "051600",
+      "opinion": "",
+      "target_price": "",
+      "summary": "원전 OH(정기보수) 장기화 영향으로 단기 실적 모멘텀이 약해질 수 있다는 분석. 주가는 이날 -6.97% 하락.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653990"
+    },
+    {
+      "title": "알테오젠 - 약가는 내려도 SC 전환은 계속된다",
+      "broker": "IBK투자증권",
+      "ticker": "196170",
+      "opinion": "",
+      "target_price": "",
+      "summary": "미국 약가협상 규정 영향에도 불구하고 피하주사(SC) 전환 트렌드는 계속될 것이라는 분석.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653998"
+    }
+  ],
+  "broker_views": [
+    {
+      "firm": "IBK투자증권",
+      "view": "유가 안정이 절실히 필요한 시점. 유가와 AI 업황 우려가 동반 완화돼야 시장이 의미 있는 반등 흐름을 만들 수 있다고 분석.",
+      "date": "2026-10-23",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653250"
+    },
+    {
+      "firm": "NH투자증권 (보도 인용)",
+      "view": "이번 주 코스피 예상 범위를 5,000~6,000으로 제시. 급락 후 기술적 반등 가능성은 있지만 외국인 수급 전환 확인이 필요하다는 의견.",
+      "date": "2026-11-09",
+      "tier": "ib_news",
+      "source_url": "https://gandanmanman.tistory.com/entry/%EC%BD%94%EC%8A%A4%ED%94%BC-5180%EC%84%A0-%EC%98%A4%ED%9B%84%EC%9E%A5-3%EB%8C%80-%EA%B0%95%EC%84%B8-%EC%82%AC%EC%9D%B4%EB%93%9C%EC%B9%B4-%EB%92%A4-%EC%88%98%EA%B8%89%EA%B3%BC-CPI-%EA%B2%BD%EA%B3%84-15%EC%8B%9C-%EC%98%A4%ED%9B%84%EC%9E%A5-%EC%8B%9C%ED%99%A9"
+    },
+    {
+      "firm": "메리츠증권",
+      "view": "2027년 글로벌 투자 핵심 변수는 막대한 부채의 금리 부담. AI 투자가 이끄는 높은 성장성 이면에 대규모 자금 조달 리스크가 있다고 분석.",
+      "date": "2026-10-30",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653583"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "매수 사이드카",
+      "meaning": "선물 가격이 급등할 때 프로그램 매매 호가의 효력을 5분간 멈추는 제도. 급등락 충격을 완화하는 안전장치입니다."
+    },
+    {
+      "term": "시총 기여",
+      "meaning": "어떤 종목의 시가총액 변화가 지수 등락에 얼마나 영향을 줬는지를 뜻합니다. 시총이 큰 종목일수록 영향이 큽니다."
+    },
+    {
+      "term": "CPI (소비자물가지수)",
+      "meaning": "소비자가 사는 물건과 서비스의 가격 변동을 측정하는 지표. 중앙은행의 금리 결정에 중요한 참고 자료입니다."
+    },
+    {
+      "term": "ESS (에너지저장장치)",
+      "meaning": "전기를 저장했다가 필요할 때 쓸 수 있게 해주는 대형 배터리 시스템입니다."
+    },
+    {
+      "term": "경영권 프리미엄",
+      "meaning": "회사의 경영권을 차지하기 위해 주식을 사들일 때 시장 가격보다 더 비싸게 사는 부분을 뜻합니다."
+    }
+  ]
+}
