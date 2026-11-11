@@ -1,0 +1,238 @@
+{
+  "market": "KR",
+  "as_of_date": "2026-11-12",
+  "plain_summary": [
+    "코스피가 2.60% 오른 5,375에, 코스닥은 5.62% 급등한 705에 마감하며 이틀 연속 반등했습니다.",
+    "미국 AI 클라우드 기업 코어위브의 실적 호조와 앤트로픽 IPO(기업공개) 기대감에 반도체주가 시장 상승을 이끌었습니다.",
+    "⚠️ 다만 미국 10월 소비자물가(CPI)가 예상을 웃돌아 연준(미국 중앙은행)의 금리 인상 우려는 여전히 남아 있습니다."
+  ],
+  "market_tone": "코스피는 전일 대비 136.23포인트(2.60%) 오른 5,375.36에 마감했습니다. 장 초반에는 미국 증시 하락 여파로 약세 출발했지만, 반도체 대형주에 외국인 매수가 집중되며 상승 전환했습니다. 외국인은 코스피에서 약 6,587억 원을 순매수했습니다. 코스닥은 37.49포인트(5.62%) 급등한 705.10으로 5거래일 만에 700선을 회복했고, 매수 사이드카(프로그램 매수 호가 일시 정지)가 이틀 연속 발동될 만큼 매수세가 강했습니다. 시총 기여도 기준으로 코스피 상승을 이끈 종목은 SK하이닉스(+5.36%)와 삼성전자(+3.57%)였고, 하락 쪽에서는 한진칼(-14.64%)과 삼성바이오로직스(-2.59%)가 지수에 부담을 줬습니다.",
+  "news": [
+    {
+      "title": "코어위브 3분기 실적 서프라이즈, AI 투자 심리 회복",
+      "summary_plain": "AI 전용 클라우드 기업 코어위브가 3분기 매출 36.6억 달러로 시장 예상을 웃돌았고, 2028년 상반기 흑자 전환 전망을 제시했습니다.",
+      "why_it_matters": "AI 인프라 투자가 과열이 아니라 실제 수요가 뒷받침된다는 신호로 읽혀, 국내 반도체·장비주 전반의 반등 재료가 됐습니다.",
+      "tickers": [
+        "000660",
+        "005930"
+      ],
+      "date": "2026-11-11",
+      "tier": "news",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html",
+      "source_name": "Yahoo Finance"
+    },
+    {
+      "title": "앤트로픽 IPO 공모가 70~78달러, 기업가치 최대 1.4조 달러",
+      "summary_plain": "AI 기업 앤트로픽이 주당 70~78달러 공모가로 IPO를 추진하며, 최대 기업가치 약 1.4조 달러를 목표로 로드쇼를 시작했습니다.",
+      "why_it_matters": "구글·엔비디아·AMD·TSMC 등이 총 260억 달러 규모의 사모투자에 참여해, AI 산업 전반의 투자 열기가 이어지고 있음을 보여줍니다.",
+      "tickers": [],
+      "date": "2026-11-11",
+      "tier": "news",
+      "source_url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion",
+      "source_name": "TechCrunch"
+    },
+    {
+      "title": "미국 10월 CPI 예상 상회, 연준 '빅스텝' 인상 가능성 부상",
+      "summary_plain": "미국 10월 소비자물가(CPI)가 시장 예상을 0.1%포인트씩 웃돌았고, 연준 월러 이사가 0.5%포인트 인상 가능성을 시사했습니다.",
+      "why_it_matters": "금리가 올라가면 기업의 돈 빌리는 비용이 늘어 성장주(기술주)에 부담이 됩니다. 12월 FOMC 결정이 다음 변수입니다.",
+      "tickers": [],
+      "date": "2026-11-11",
+      "tier": "news",
+      "source_url": "https://financialnewsletter.com/sp-500-nasdaq-rise-7/",
+      "source_name": "Reuters via Financial Newsletter"
+    },
+    {
+      "title": "한진칼 14.6% 급락, 경영권 분쟁 과열 후 차익실현",
+      "summary_plain": "호반건설의 최대주주 등극으로 2주간 2배 가까이 오른 한진칼이 하루 만에 14.64% 급락했습니다.",
+      "why_it_matters": "경영권 프리미엄(지배권 경쟁으로 붙는 추가 가치)은 공시 하나로 사라질 수 있어, 우선주·지주사 급등락 시 주의가 필요합니다.",
+      "tickers": [
+        "180640"
+      ],
+      "date": "2026-11-11",
+      "tier": "news",
+      "source_url": "https://www.yna.co.kr/view/AKR20261111067951008",
+      "source_name": "연합뉴스"
+    },
+    {
+      "title": "11월 1~10일 반도체 수출 전년 대비 331% 증가",
+      "summary_plain": "11월 상순 반도체 수출이 전년 같은 기간 대비 331% 늘어 AI 수요의 지속을 확인했습니다.",
+      "why_it_matters": "수출 데이터는 실물 수요를 보여주는 지표로, 국내 반도체 기업 실적 기대감을 높이는 재료입니다.",
+      "tickers": [
+        "000660",
+        "005930"
+      ],
+      "date": "2026-11-11",
+      "tier": "news",
+      "source_url": "https://mt.co.kr/en/stock/2026/11/11/2026111115584690277",
+      "source_name": "머니투데이(영문)"
+    }
+  ],
+  "hot_sectors": [
+    {
+      "sector": "반도체",
+      "trend": "코어위브 실적 호조·앤트로픽 IPO·11월 수출 급증으로 대형 반도체주 일제히 상승",
+      "drivers": "SK하이닉스 +5.36%, 삼성전자 +3.57%, SK스퀘어 +4.74%, 삼성전기 +4.65%",
+      "tickers": [
+        "000660",
+        "005930",
+        "402340",
+        "009150"
+      ],
+      "tier": "market_data",
+      "source_url": "https://en.edaily.co.kr/news/eda202611115585",
+      "source_name": "이데일리(영문)"
+    },
+    {
+      "sector": "2차전지(배터리)",
+      "trend": "코스닥 반등과 함께 2차전지 소재주도 동반 상승",
+      "drivers": "삼성SDI +4.93%, LG에너지솔루션 +1.51%",
+      "tickers": [
+        "006400",
+        "373220"
+      ],
+      "tier": "market_data",
+      "source_url": "https://businesskorea.co.kr/news/articleView.html?idxno=281060",
+      "source_name": "Business Korea"
+    },
+    {
+      "sector": "게임",
+      "trend": "크래프톤에 증권사 리포트 3건 집중, 2027년 대형 이벤트(PUBG 10주년) 기대감",
+      "drivers": "다만 크래프톤 당일 -9.56% 하락, 시장 전반 반등에도 역행",
+      "tickers": [
+        "259960"
+      ],
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/",
+      "source_name": "한경 컨센서스"
+    }
+  ],
+  "notable_stocks": [
+    {
+      "name": "SK하이닉스",
+      "ticker": "000660",
+      "note": "시총 기여도 1위로 코스피 상승을 이끔. 종가 127.7만 원(+5.36%).",
+      "tier": "market_data",
+      "source_url": "https://en.edaily.co.kr/news/eda202611115585",
+      "source_name": "이데일리(영문)"
+    },
+    {
+      "name": "삼성전자",
+      "ticker": "005930",
+      "note": "장 초반 약세에서 반전, 종가 20.6만 원(+3.57%). 외국인 집중 매수.",
+      "tier": "market_data",
+      "source_url": "https://businesskorea.co.kr/news/articleView.html?idxno=281060",
+      "source_name": "Business Korea"
+    },
+    {
+      "name": "한진칼",
+      "ticker": "180640",
+      "note": "호반건설 경영권 경쟁 과열 이후 차익 매물 출회로 -14.64% 급락. 거래소 투자경고종목.",
+      "tier": "news",
+      "source_url": "https://www.yna.co.kr/view/AKR20261111067951008",
+      "source_name": "연합뉴스"
+    },
+    {
+      "name": "크래프톤",
+      "ticker": "259960",
+      "note": "LS증권·유안타증권에서 리포트 3건 발간. 2027년 PUBG 10주년 이벤트 기대. 당일 -9.56%.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/",
+      "source_name": "한경 컨센서스"
+    },
+    {
+      "name": "삼성SDI",
+      "ticker": "006400",
+      "note": "2차전지 반등 흐름에 +4.93% 상승. 시총 약 38.6조 원.",
+      "tier": "market_data",
+      "source_url": "https://en.edaily.co.kr/news/eda202611115585",
+      "source_name": "이데일리(영문)"
+    }
+  ],
+  "key_reports": [
+    {
+      "title": "삼성화재 캐노피우스 인수: 글로벌 본격 진출 교두보 확보",
+      "broker": "LS증권",
+      "ticker": "000810",
+      "opinion": "",
+      "target_price": "",
+      "summary": "리포트에 따르면 삼성화재의 캐노피우스 인수는 글로벌 보험시장 본격 진출을 위한 교두보로 평가됩니다.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654061"
+    },
+    {
+      "title": "KT 본업 회복세 확인, 구체화된 AX(AI전환) 사업",
+      "broker": "유안타증권",
+      "ticker": "030200",
+      "opinion": "",
+      "target_price": "",
+      "summary": "iM증권·유안타증권 두 곳에서 KT 리포트 발간. 본업 정상화와 ktCloud 성장이 핵심 포인트로 제시됐습니다.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654054"
+    },
+    {
+      "title": "크래프톤 — PUBG 10주년과 신작을 기다리며",
+      "broker": "유안타증권",
+      "ticker": "259960",
+      "opinion": "",
+      "target_price": "",
+      "summary": "LS증권·유안타증권에서 총 3건 발간. 2027년 대형 이벤트와 신작 출시에 주목하라는 내용입니다.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654053"
+    },
+    {
+      "title": "[2027 연간전망] 수요의 재설계: AI 수익화와 메모리 접근 구조의 변화",
+      "broker": "유안타증권",
+      "ticker": "",
+      "opinion": "",
+      "target_price": "",
+      "summary": "2027년 반도체 산업 전망 리포트. AI 수익화가 본격화되며 메모리 접근 구조가 바뀔 것이라는 분석입니다.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654049"
+    }
+  ],
+  "broker_views": [
+    {
+      "firm": "신한투자증권",
+      "view": "리포트에 따르면, 코어위브 실적 발표 후 연준 매파 발언의 압력이 상쇄되며 코스피가 5,300선을 회복했다고 분석했습니다.",
+      "date": "2026-11-11",
+      "tier": "ib_news",
+      "source_url": "https://biz.chosun.com/en/en-finance/2026/11/11/RTBGACPMAZEMRDTA4XNIIY4E4Q"
+    },
+    {
+      "firm": "KB증권",
+      "view": "리포트에 따르면, 코스닥은 반도체뿐 아니라 2차전지·바이오·로봇 등 다양한 섹터로 매수세가 확산되며 급반등했다고 평가했습니다.",
+      "date": "2026-11-11",
+      "tier": "ib_news",
+      "source_url": "https://mt.co.kr/en/stock/2026/11/11/2026111115584690277"
+    },
+    {
+      "firm": "대신증권",
+      "view": "리포트에 따르면, 코어위브의 향후 3개월간 약 90억 달러의 고객 선수금 유입과 구세대 GPU 임대료 30~50% 인상이 AI 인프라 수익성 기대를 높였다고 분석했습니다.",
+      "date": "2026-11-11",
+      "tier": "ib_news",
+      "source_url": "https://mt.co.kr/en/stock/2026/11/11/2026111115584690277"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "사이드카(Sidecar)",
+      "meaning": "주가지수 선물이 급등·급락할 때 프로그램 매매 호가를 5분간 멈추는 장치입니다."
+    },
+    {
+      "term": "CPI(소비자물가지수)",
+      "meaning": "소비자가 사는 물건·서비스의 가격 변동을 측정하는 지표로, 물가 상승(인플레이션) 수준을 보여줍니다."
+    },
+    {
+      "term": "빅스텝(Big Step)",
+      "meaning": "중앙은행이 기준금리를 한 번에 0.5%포인트 올리는 것을 말합니다. 통상 0.25%포인트씩 조정하므로 큰 폭입니다."
+    },
+    {
+      "term": "IPO(기업공개)",
+      "meaning": "비상장 기업이 주식을 일반 투자자에게 처음 공개 판매하는 절차입니다."
+    },
+    {
+      "term": "시총 기여도(Index Drivers)",
+      "meaning": "시가총액이 큰 종목일수록 지수(코스피·코스닥)에 미치는 영향이 크며, 이를 기여도라고 합니다."
+    }
+  ]
+}

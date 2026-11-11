@@ -1,0 +1,180 @@
+{
+  "market": "US",
+  "as_of_date": "2026-11-12",
+  "plain_summary": [
+    "S&P 500은 0.8%, 나스닥은 1.2% 올랐고, 다우는 보합권에서 마감했습니다(11월 11일 현지시간 기준).",
+    "코어위브의 실적 호조로 반도체·AI 관련주가 일제히 반등했고, 앤트로픽 IPO 기대감이 더해졌습니다.",
+    "⚠️ 미국 10년물 국채 금리가 다시 5%를 넘어서며, 금리 인상 부담은 지속되고 있습니다."
+  ],
+  "market_tone": "11월 11일(현지시간) 미국 증시는 코어위브의 3분기 실적 서프라이즈를 계기로 AI 관련주가 반등하며 상승 마감했습니다. S&P 500은 +0.8%, 나스닥 종합은 +1.2% 올랐지만, 다우지수는 -0.1% 소폭 하락했습니다. 엔비디아가 최근 이틀간 약 4,300억 달러의 시총이 증발한 뒤 약 3% 반등했고, 브로드컴·마이크론·마벨이 각각 5~7% 상승했습니다. 다만 전날 예상을 웃도는 CPI(소비자물가) 발표와 연준 위원들의 매파 발언이 이어지며, 미국 10년물 국채 금리가 한때 다시 5%를 돌파해 금리 인상 우려가 남아 있습니다. 보훈의 날로 채권시장은 휴장이었습니다.",
+  "news": [
+    {
+      "title": "코어위브 3분기 매출 36.6억 달러, 가이던스 상향",
+      "summary_plain": "AI 클라우드 기업 코어위브가 3분기 매출 36.6억 달러를 기록해 컨센서스(35.6억 달러)를 상회했고, 연간 가이던스를 상향했습니다.",
+      "why_it_matters": "AI에 투입되는 돈이 실제 매출로 돌아오고 있다는 증거로, AI 관련 기업 전반의 투자 심리를 개선시켰습니다.",
+      "tickers": [
+        "NVDA",
+        "AVGO",
+        "MU"
+      ],
+      "date": "2026-11-11",
+      "tier": "news",
+      "source_url": "https://finance.yahoo.com/markets/stocks/article/coreweave-stock-pops-as-q3-revenue-beats-estimates-company-raises-full-year-outlook-211533280.html",
+      "source_name": "Yahoo Finance"
+    },
+    {
+      "title": "앤트로픽 IPO 공모가 70~78달러, 최대 기업가치 1.4조 달러",
+      "summary_plain": "AI 기업 앤트로픽이 11월 18일 상장을 목표로 공모가 범위를 발표했으며, 구글·엔비디아 등이 260억 달러 사모투자에 참여합니다.",
+      "why_it_matters": "역대 최대급 IPO 중 하나로, AI 산업에 대한 대형 기술기업들의 확신을 보여주는 이벤트입니다.",
+      "tickers": [
+        "GOOGL",
+        "NVDA",
+        "AMD",
+        "AVGO",
+        "MU",
+        "TSM"
+      ],
+      "date": "2026-11-11",
+      "tier": "news",
+      "source_url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion",
+      "source_name": "TechCrunch"
+    },
+    {
+      "title": "엔비디아 CEO 젠슨 황 스파이 의혹 조사 지속",
+      "summary_plain": "엔비디아 이사회가 황 CEO와 중국 정보기관 연계 의혹이 있는 여성과의 관계를 조사 중이며, 11월 들어 주가가 약 14% 하락했습니다.",
+      "why_it_matters": "AI 산업의 상징인 엔비디아의 리더십 리스크가 부각되며, 단기 변동성이 커지고 있습니다.",
+      "tickers": [
+        "NVDA"
+      ],
+      "date": "2026-11-11",
+      "tier": "news",
+      "source_url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11112026-12248789",
+      "source_name": "Investopedia"
+    },
+    {
+      "title": "미국 CPI 예상 상회, 연준 12월 금리 인상 확실시",
+      "summary_plain": "미국 10월 CPI가 시장 예상보다 높게 나왔고, 연준 월러 이사가 0.5%포인트 인상 가능성을 언급했습니다.",
+      "why_it_matters": "금리가 올라가면 기업이 돈을 빌리는 비용이 늘어 주식시장 전반에 부담이 됩니다. CME 페드워치 기준 12월 인상은 거의 확실시됩니다.",
+      "tickers": [],
+      "date": "2026-11-11",
+      "tier": "news",
+      "source_url": "https://financialnewsletter.com/sp-500-nasdaq-rise-7/",
+      "source_name": "Reuters via Financial Newsletter"
+    }
+  ],
+  "hot_sectors": [
+    {
+      "sector": "AI 반도체·인프라",
+      "trend": "코어위브 실적 호조로 AI 인프라 전반 반등. 필라델피아 반도체지수 +3%.",
+      "drivers": "엔비디아 +3%, 브로드컴·마이크론 각 +5~7%, 마벨 +5.5%",
+      "tickers": [
+        "NVDA",
+        "AVGO",
+        "MU",
+        "MRVL",
+        "AMD"
+      ],
+      "tier": "news",
+      "source_url": "https://financialnewsletter.com/sp-500-nasdaq-rise-7/",
+      "source_name": "Reuters via Financial Newsletter"
+    },
+    {
+      "sector": "빅테크",
+      "trend": "중간선거 이후 변동성 속에서도 마이크로소프트·알파벳이 AI 투자 확대 의지를 보이며 견조",
+      "drivers": "마이크로소프트 애널리스트 53명 중 53명 매수 의견, 평균 목표가 636달러(현재가 521달러)",
+      "tickers": [
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+      ],
+      "tier": "analyst_data",
+      "source_url": "https://finance.yahoo.com/quote/MSFT/",
+      "source_name": "Yahoo Finance(애널리스트 컨센서스)"
+    },
+    {
+      "sector": "에너지·유가",
+      "trend": "이란 핵물질 반출 거부 소식에 유가 1.2% 반등. WTI 87.1달러, 브렌트 92.6달러.",
+      "drivers": "에너지 섹터가 S&P 500 내 상위 수익률 기록",
+      "tickers": [],
+      "tier": "news",
+      "source_url": "https://apnews.com/article/stock-markets-ai-earnings-oil-297d040c83844a9563327340b370c24e",
+      "source_name": "AP News"
+    }
+  ],
+  "notable_stocks": [
+    {
+      "name": "NVIDIA",
+      "ticker": "NVDA",
+      "note": "황 CEO 스파이 의혹으로 11월 약 14% 하락 후 이날 약 3% 반등. 애널리스트 62명 중 58명이 매수 의견, 평균 목표가 325달러(현재가 약 176달러).",
+      "tier": "analyst_data",
+      "source_url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-11112026-12248789",
+      "source_name": "Investopedia"
+    },
+    {
+      "name": "Broadcom",
+      "ticker": "AVGO",
+      "note": "코어위브 실적에 동반 상승, 약 5.6% 올랐습니다. 애널리스트 51명 중 49명 매수 의견, 평균 목표가 533달러(현재가 352달러).",
+      "tier": "analyst_data",
+      "source_url": "https://financialnewsletter.com/sp-500-nasdaq-rise-7/",
+      "source_name": "Reuters via Financial Newsletter"
+    },
+    {
+      "name": "Micron",
+      "ticker": "MU",
+      "note": "메모리 수요 기대로 +6.8% 상승. 애널리스트 49명 중 45명 매수, 평균 목표가 1,561달러(현재가 818달러).",
+      "tier": "analyst_data",
+      "source_url": "https://financialnewsletter.com/sp-500-nasdaq-rise-7/",
+      "source_name": "Reuters via Financial Newsletter"
+    },
+    {
+      "name": "Microsoft",
+      "ticker": "MSFT",
+      "note": "앤트로픽 IPO에 사모투자 참여. 애널리스트 58명 중 53명 매수, 평균 목표가 636달러(현재가 521달러).",
+      "tier": "analyst_data",
+      "source_url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion",
+      "source_name": "TechCrunch"
+    }
+  ],
+  "key_reports": [],
+  "broker_views": [
+    {
+      "firm": "Interactive Brokers",
+      "view": "리포트에 따르면, 코어위브는 'AI 투자 전부를 좋게 보던 시각에서 보다 냉정하게 수익률을 따지는 시각으로의 전환'을 상징하는 종목이며, 이번 실적이 그 우려를 일부 해소했다고 평가했습니다.",
+      "date": "2026-11-11",
+      "tier": "ib_news",
+      "source_url": "https://financialnewsletter.com/sp-500-nasdaq-rise-7/"
+    },
+    {
+      "firm": "Wedbush (Dan Ives)",
+      "view": "리포트에 따르면, 앤트로픽 IPO는 약 1조 달러 수준에서 가격을 맞추되 수요에 따라 1.2조 달러까지 올리는 전략이 현명하다고 분석했습니다.",
+      "date": "2026-11-11",
+      "tier": "ib_news",
+      "source_url": "https://fortune.com/2026/11/11/anthropic-sets-a-1-4-trillion-ipo-target-but-bankers-may-already-be-aiming-higher-cfo"
+    },
+    {
+      "firm": "Bank of America",
+      "view": "리포트에 따르면, 지난주 급락 구간에서 투자자들이 ETF를 통해 주식을 순매수했으며, 기관이 매수를 주도했다고 분석했습니다.",
+      "date": "2026-11-11",
+      "tier": "ib_news",
+      "source_url": "https://financialnewsletter.com/sp-500-nasdaq-rise-7/"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "코어위브(CoreWeave)",
+      "meaning": "엔비디아의 GPU를 빌려주는 AI 전용 클라우드 기업입니다. AI 인프라 수요의 바로미터로 주목받고 있습니다."
+    },
+    {
+      "term": "10년물 국채 금리",
+      "meaning": "미국 정부가 10년간 빌린 돈에 매기는 이자율로, 주택담보대출·기업 대출의 기준이 됩니다. 오르면 돈 빌리기가 비싸집니다."
+    },
+    {
+      "term": "로드쇼(Roadshow)",
+      "meaning": "IPO 전에 기업이 기관투자자들을 만나 투자 매력을 설명하는 행사입니다."
+    },
+    {
+      "term": "필라델피아 반도체지수(SOX)",
+      "meaning": "미국에 상장된 주요 반도체 기업 30곳의 주가를 추적하는 대표 지수입니다."
+    }
+  ]
+}
