@@ -3,291 +3,292 @@
   "source_url": "https://consensus.hankyung.com/",
   "reports": [
     {
-      "date": "2026-11-10",
-      "category": "시장",
-      "title": "start with ibks\n                        \n                            \n                                start with ibks\n                                \n                                    start with ibks",
-      "ticker": null,
-      "authors": "투자분석부",
-      "broker": "IBK투자증권",
-      "report_idx": "654001",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654001"
+      "date": "2026-11-11",
+      "category": "기업",
+      "title": "KT(030200) 본업 정상화와 ktCloud 성장을 기대 \n                        \n                            \n                                KT(030200) 본업 정상화와 ktCloud 성장을 기대 \n                                \n                                    본업 정상화와 ktCloud 성장을 기대",
+      "ticker": "030200",
+      "authors": "신희철",
+      "broker": "iM증권",
+      "report_idx": "654065",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654065"
     },
     {
-      "date": "2026-11-10",
-      "category": "시장",
-      "title": "ibks morning brief\n                        \n                            \n                                ibks morning brief\n                                \n                                    ibks morning brief",
-      "ticker": null,
-      "authors": "기간산업분석부・혁신기업분석부",
-      "broker": "IBK투자증권",
-      "report_idx": "654000",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654000"
+      "date": "2026-11-11",
+      "category": "기업",
+      "title": "지역난방공사(071320) 4분기 LNG/SMP 디커플링 완화로 이익체력 정상화 예상 \n                        \n                            \n                                지역난방공사(071320) 4분기 LNG/SMP 디커플링 완화로 이익체력 정상화 예상 \n                                \n                                    4분기 LNG/SMP 디커플링 완화로 이익체력 정상화 예상",
+      "ticker": "071320",
+      "authors": "전유진, 장호",
+      "broker": "iM증권",
+      "report_idx": "654064",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654064"
     },
     {
-      "date": "2026-11-10",
+      "date": "2026-11-11",
+      "category": "기업",
+      "title": "와이지엔터테인먼트(122870) 기존 IP에 신인 모멘텀을 더할 때\n                        \n                            \n                                와이지엔터테인먼트(122870) 기존 IP에 신인 모멘텀을 더할 때\n                                \n                                    기존 IP에 신인 모멘텀을 더할 때",
+      "ticker": "122870",
+      "authors": "황지원",
+      "broker": "iM증권",
+      "report_idx": "654063",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654063"
+    },
+    {
+      "date": "2026-11-11",
+      "category": "기업",
+      "title": "유한양행(000100) 기다림은 유한하다 \n                        \n                            \n                                유한양행(000100) 기다림은 유한하다 \n                                \n                                    기다림은 유한하다",
+      "ticker": "000100",
+      "authors": "정재원",
+      "broker": "iM증권",
+      "report_idx": "654062",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654062"
+    },
+    {
+      "date": "2026-11-11",
+      "category": "기업",
+      "title": "삼성화재(000810) 캐노피우스 인수: 글로벌 본격 진출 교두보 확보 \n                        \n                            \n                                삼성화재(000810) 캐노피우스 인수: 글로벌 본격 진출 교두보 확보 \n                                \n                                    캐노피우스 인수: 글로벌 본격 진출 교두보 확보",
+      "ticker": "000810",
+      "authors": "전배승",
+      "broker": "LS증권",
+      "report_idx": "654061",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654061"
+    },
+    {
+      "date": "2026-11-11",
+      "category": "기업",
+      "title": "메가스터디교육(215200) 3Q26 Review: 여전히 온라인 강자\n                        \n                            \n                                메가스터디교육(215200) 3Q26 Review: 여전히 온라인 강자\n                                \n                                    3Q26 Review: 여전히 온라인 강자",
+      "ticker": "215200",
+      "authors": "정홍식",
+      "broker": "LS증권",
+      "report_idx": "654060",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654060"
+    },
+    {
+      "date": "2026-11-11",
+      "category": "기업",
+      "title": "LIG디펜스앤에어로스페이스(079550) 가능성 높은 주가 반등 조건 두 가지\n                        \n                            \n                                LIG디펜스앤에어로스페이스(079550) 가능성 높은 주가 반등 조건 두 가지\n                                \n                                    가능성 높은 주가 반등 조건 두 가지",
+      "ticker": "079550",
+      "authors": "이재광",
+      "broker": "LS증권",
+      "report_idx": "654059",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654059"
+    },
+    {
+      "date": "2026-11-11",
+      "category": "기업",
+      "title": "NHN(181710) 놀라운 실행력\n                        \n                            \n                                NHN(181710) 놀라운 실행력\n                                \n                                    놀라운 실행력",
+      "ticker": "181710",
+      "authors": "선유진",
+      "broker": "LS증권",
+      "report_idx": "654058",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654058"
+    },
+    {
+      "date": "2026-11-11",
+      "category": "기업",
+      "title": "크래프톤(259960) 2027년 대형 이벤트에 주목\n                        \n                            \n                                크래프톤(259960) 2027년 대형 이벤트에 주목\n                                \n                                    2027년 대형 이벤트에 주목",
+      "ticker": "259960",
+      "authors": "선유진",
+      "broker": "LS증권",
+      "report_idx": "654057",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654057"
+    },
+    {
+      "date": "2026-11-11",
+      "category": "기업",
+      "title": "한샘(009240) 매출 감소 여파 \n                        \n                            \n                                한샘(009240) 매출 감소 여파 \n                                \n                                    매출 감소 여파",
+      "ticker": "009240",
+      "authors": "김세련",
+      "broker": "LS증권",
+      "report_idx": "654056",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654056"
+    },
+    {
+      "date": "2026-11-11",
+      "category": "기업",
+      "title": "CJ제일제당(097950) 이익 회복의 방향은 확인, 속도는 지켜볼 필요\n                        \n                            \n                                CJ제일제당(097950) 이익 회복의 방향은 확인, 속도는 지켜볼 필요\n                                \n                                    이익 회복의 방향은 확인, 속도는 지켜볼 필요",
+      "ticker": "097950",
+      "authors": "손현정, 김고은",
+      "broker": "유안타증권",
+      "report_idx": "654055",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654055"
+    },
+    {
+      "date": "2026-11-11",
+      "category": "기업",
+      "title": "KT(030200) 본업 회복세 확인, 구체화된 AX 사업\n                        \n                            \n                                KT(030200) 본업 회복세 확인, 구체화된 AX 사업\n                                \n                                    본업 회복세 확인, 구체화된 AX 사업",
+      "ticker": "030200",
+      "authors": "이승웅, 김고은",
+      "broker": "유안타증권",
+      "report_idx": "654054",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654054"
+    },
+    {
+      "date": "2026-11-11",
+      "category": "기업",
+      "title": "크래프톤(259960) PUBG 10주년과 신작을 기다리며\n                        \n                            \n                                크래프톤(259960) PUBG 10주년과 신작을 기다리며\n                                \n                                    PUBG 10주년과 신작을 기다리며",
+      "ticker": "259960",
+      "authors": "최지운",
+      "broker": "유안타증권",
+      "report_idx": "654053",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654053"
+    },
+    {
+      "date": "2026-11-11",
+      "category": "기업",
+      "title": "크래프톤(259960) PUBG 10주년과 신작을 기다리며\n                        \n                            \n                                크래프톤(259960) PUBG 10주년과 신작을 기다리며\n                                \n                                    PUBG 10주년과 신작을 기다리며",
+      "ticker": "259960",
+      "authors": "최지운",
+      "broker": "유안타증권",
+      "report_idx": "654052",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654052"
+    },
+    {
+      "date": "2026-11-11",
+      "category": "기업",
+      "title": "CJ대한통운(000120) 외형 성장에도 아쉬운 수익성\n                        \n                            \n                                CJ대한통운(000120) 외형 성장에도 아쉬운 수익성\n                                \n                                    외형 성장에도 아쉬운 수익성",
+      "ticker": "000120",
+      "authors": "최지운",
+      "broker": "유안타증권",
+      "report_idx": "654051",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654051"
+    },
+    {
+      "date": "2026-11-11",
       "category": "산업",
-      "title": "[인터넷/게임] IBKS Daily \n                        \n                            \n                                [인터넷/게임] IBKS Daily \n                                \n                                    [인터넷/게임] IBKS Daily",
+      "title": "통신 weekly\n                        \n                            \n                                통신 weekly\n                                \n                                    통신 weekly",
       "ticker": null,
-      "authors": "이승훈, 박상준",
-      "broker": "IBK투자증권",
-      "report_idx": "653999",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653999"
+      "authors": "이승웅, 김고은",
+      "broker": "유안타증권",
+      "report_idx": "654050",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654050"
     },
     {
-      "date": "2026-11-10",
-      "category": "기업",
-      "title": "알테오젠(196170) 약가는 내려도 SC 전환은 계속된다\n                        \n                            \n                                알테오젠(196170) 약가는 내려도 SC 전환은 계속된다\n                                \n                                    약가는 내려도 SC 전환은 계속된다",
-      "ticker": "196170",
-      "authors": "정이수, 민지윤",
-      "broker": "IBK투자증권",
-      "report_idx": "653998",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653998"
+      "date": "2026-11-11",
+      "category": "산업",
+      "title": "[2027 연간전망] 수요의 재설계 : AI 수익화와 메모리 접근 구조의 변화\n                        \n                            \n                                [2027 연간전망] 수요의 재설계 : AI 수익화와 메모리 접근 구조의 변화\n                                \n                                    [2027 연간전망] 수요의 재설계 : AI 수익화와 메모리 접근 구조의 변화",
+      "ticker": null,
+      "authors": "백길현, 임석민",
+      "broker": "유안타증권",
+      "report_idx": "654049",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654049"
     },
     {
-      "date": "2026-11-10",
-      "category": "기업",
-      "title": "씨젠(096530) 이익보다 성장에 투자할 2027년 \n                        \n                            \n                                씨젠(096530) 이익보다 성장에 투자할 2027년 \n                                \n                                    이익보다 성장에 투자할 2027년",
-      "ticker": "096530",
-      "authors": "조은애",
-      "broker": "IBK투자증권",
-      "report_idx": "653997",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653997"
+      "date": "2026-11-11",
+      "category": "시장",
+      "title": "발전 5사 통합의 향방\n                        \n                            \n                                발전 5사 통합의 향방\n                                \n                                    발전 5사 통합의 향방",
+      "ticker": null,
+      "authors": "이현수",
+      "broker": "유안타증권",
+      "report_idx": "654048",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654048"
     },
     {
-      "date": "2026-11-10",
-      "category": "기업",
-      "title": "대한유화(006650) 두 개의 엔진, 특수 폴리머와 울산의 유틸리티 \n                        \n                            \n                                대한유화(006650) 두 개의 엔진, 특수 폴리머와 울산의 유틸리티 \n                                \n                                    두 개의 엔진, 특수 폴리머와 울산의 유틸리티",
-      "ticker": "006650",
-      "authors": "이동욱",
-      "broker": "IBK투자증권",
-      "report_idx": "653996",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653996"
-    },
-    {
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "category": "시장",
       "title": "YUANTA DAILY MARKET VIEW\n                        \n                            \n                                YUANTA DAILY MARKET VIEW\n                                \n                                    YUANTA DAILY MARKET VIEW",
       "ticker": null,
       "authors": "리서치센터",
       "broker": "유안타증권",
-      "report_idx": "653995",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653995"
+      "report_idx": "654047",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654047"
     },
     {
-      "date": "2026-11-10",
-      "category": "산업",
-      "title": "26.10 항공 수송 실적: 일본·중국 중심 호황 지속\n                        \n                            \n                                26.10 항공 수송 실적: 일본·중국 중심 호황 지속\n                                \n                                    26.10 항공 수송 실적: 일본·중국 중심 호황 지속",
-      "ticker": null,
-      "authors": "이재혁",
-      "broker": "LS증권",
-      "report_idx": "653994",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653994"
-    },
-    {
-      "date": "2026-11-10",
-      "category": "기업",
-      "title": "와이지엔터테인먼트(122870) 저연차 수익원 다변화\n                        \n                            \n                                와이지엔터테인먼트(122870) 저연차 수익원 다변화\n                                \n                                    저연차 수익원 다변화",
-      "ticker": "122870",
-      "authors": "박성호",
-      "broker": "LS증권",
-      "report_idx": "653993",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653993"
-    },
-    {
-      "date": "2026-11-10",
-      "category": "기업",
-      "title": "롯데칠성(005300) 원가 부담 완화 전망 \n                        \n                            \n                                롯데칠성(005300) 원가 부담 완화 전망 \n                                \n                                    원가 부담 완화 전망",
-      "ticker": "005300",
-      "authors": "박성호",
-      "broker": "LS증권",
-      "report_idx": "653992",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653992"
-    },
-    {
-      "date": "2026-11-10",
-      "category": "기업",
-      "title": "네오팜(092730) 3Q26 Review: 소리없이 강하다\n                        \n                            \n                                네오팜(092730) 3Q26 Review: 소리없이 강하다\n                                \n                                    3Q26 Review: 소리없이 강하다",
-      "ticker": "092730",
-      "authors": "오린아",
-      "broker": "LS증권",
-      "report_idx": "653991",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653991"
-    },
-    {
-      "date": "2026-11-10",
-      "category": "기업",
-      "title": "한전KPS(051600) 단기적으론 원전 모멘텀 공백기, 원전 OH 장기화 영향 시기 \n                        \n                            \n                                한전KPS(051600) 단기적으론 원전 모멘텀 공백기, 원전 OH 장기화 영향 시기 \n                                \n                                    단기적으론 원전 모멘텀 공백기, 원전 OH 장기화 영향 시기",
-      "ticker": "051600",
-      "authors": "성종화",
-      "broker": "LS증권",
-      "report_idx": "653990",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653990"
-    },
-    {
-      "date": "2026-11-10",
-      "category": "기업",
-      "title": "한전기술(052690) 원전 기대감 반영된 높은 멀티플. 시장위험 시기엔 부담\n                        \n                            \n                                한전기술(052690) 원전 기대감 반영된 높은 멀티플. 시장위험 시기엔 부담\n                                \n                                    원전 기대감 반영된 높은 멀티플. 시장위험 시기엔 부담",
-      "ticker": "052690",
-      "authors": "성종화",
-      "broker": "LS증권",
-      "report_idx": "653989",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653989"
-    },
-    {
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "category": "시장",
       "title": "wake up! 아침에 슼\n                        \n                            \n                                wake up! 아침에 슼\n                                \n                                    wake up! 아침에 슼",
       "ticker": null,
       "authors": "sk증권 리서치센터",
       "broker": "SK증권",
-      "report_idx": "653988",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653988"
-    },
-    {
-      "date": "2026-11-10",
-      "category": "시장",
-      "title": "[2027년 채권 연간전망] BONDYSSEY \n                        \n                            \n                                [2027년 채권 연간전망] BONDYSSEY \n                                \n                                    [2027년 채권 연간전망] BONDYSSEY",
-      "ticker": null,
-      "authors": "원유승",
-      "broker": "SK증권",
-      "report_idx": "653987",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653987"
-    },
-    {
-      "date": "2026-11-10",
-      "category": "산업",
-      "title": "Global Carbon Daily\n                        \n                            \n                                Global Carbon Daily\n                                \n                                    Global Carbon Daily",
-      "ticker": null,
-      "authors": "최관순",
-      "broker": "SK증권",
-      "report_idx": "653986",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653986"
-    },
-    {
-      "date": "2026-11-10",
-      "category": "산업",
-      "title": "쇼티지 CCL, 제품군이 넓어진다\n                        \n                            \n                                쇼티지 CCL, 제품군이 넓어진다\n                                \n                                    쇼티지 CCL, 제품군이 넓어진다",
-      "ticker": null,
-      "authors": "박형우, 정영환",
-      "broker": "SK증권",
-      "report_idx": "653985",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653985"
-    },
-    {
-      "date": "2026-11-10",
-      "category": "기업",
-      "title": "와이지엔터테인먼트(122870) 2027년에는 신인 아티스트 2팀 데뷔 예정\n                        \n                            \n                                와이지엔터테인먼트(122870) 2027년에는 신인 아티스트 2팀 데뷔 예정\n                                \n                                    2027년에는 신인 아티스트 2팀 데뷔 예정",
-      "ticker": "122870",
-      "authors": "박준형",
-      "broker": "SK증권",
-      "report_idx": "653984",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653984"
-    },
-    {
-      "date": "2026-11-10",
-      "category": "기업",
-      "title": "원익IPS(240810) 핵심은 수익성\n                        \n                            \n                                원익IPS(240810) 핵심은 수익성\n                                \n                                    핵심은 수익성",
-      "ticker": "240810",
-      "authors": "이동주",
-      "broker": "SK증권",
-      "report_idx": "653983",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653983"
-    },
-    {
-      "date": "2026-11-10",
-      "category": "기업",
-      "title": "씨이랩(189330) AI 인프라 구축과 운영 솔루션 제공 기업 \n                        \n                            \n                                씨이랩(189330) AI 인프라 구축과 운영 솔루션 제공 기업 \n                                \n                                    AI 인프라 구축과 운영 솔루션 제공 기업",
-      "ticker": "189330",
-      "authors": "김선호,홍소현",
-      "broker": "한국IR협의회",
-      "report_idx": "653982",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653982"
+      "report_idx": "654046",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654046"
     }
   ],
   "by_category": {
-    "기업": 11,
-    "시장": 5,
-    "산업": 4
+    "기업": 15,
+    "시장": 3,
+    "산업": 2
   },
   "top_tickers": [
     {
-      "ticker": "122870",
-      "count": 2,
-      "sample_title": "와이지엔터테인먼트(122870) 저연차 수익원 다변화\n                        \n                            \n                                와이지엔터테인먼트(122870) 저연차 수익원 다변화\n                                \n                                    저연차 수익원 다변화",
+      "ticker": "259960",
+      "count": 3,
+      "sample_title": "크래프톤(259960) 2027년 대형 이벤트에 주목\n                        \n                            \n                                크래프톤(259960) 2027년 대형 이벤트에 주목\n                                \n                                    2027년 대형 이벤트에 주목",
       "brokers": [
         "LS증권",
-        "SK증권"
+        "유안타증권"
       ]
     },
     {
-      "ticker": "196170",
-      "count": 1,
-      "sample_title": "알테오젠(196170) 약가는 내려도 SC 전환은 계속된다\n                        \n                            \n                                알테오젠(196170) 약가는 내려도 SC 전환은 계속된다\n                                \n                                    약가는 내려도 SC 전환은 계속된다",
+      "ticker": "030200",
+      "count": 2,
+      "sample_title": "KT(030200) 본업 정상화와 ktCloud 성장을 기대 \n                        \n                            \n                                KT(030200) 본업 정상화와 ktCloud 성장을 기대 \n                                \n                                    본업 정상화와 ktCloud 성장을 기대",
       "brokers": [
-        "IBK투자증권"
+        "iM증권",
+        "유안타증권"
       ]
     },
     {
-      "ticker": "096530",
+      "ticker": "071320",
       "count": 1,
-      "sample_title": "씨젠(096530) 이익보다 성장에 투자할 2027년 \n                        \n                            \n                                씨젠(096530) 이익보다 성장에 투자할 2027년 \n                                \n                                    이익보다 성장에 투자할 2027년",
+      "sample_title": "지역난방공사(071320) 4분기 LNG/SMP 디커플링 완화로 이익체력 정상화 예상 \n                        \n                            \n                                지역난방공사(071320) 4분기 LNG/SMP 디커플링 완화로 이익체력 정상화 예상 \n                                \n                                    4분기 LNG/SMP 디커플링 완화로 이익체력 정상화 예상",
       "brokers": [
-        "IBK투자증권"
+        "iM증권"
       ]
     },
     {
-      "ticker": "006650",
+      "ticker": "122870",
       "count": 1,
-      "sample_title": "대한유화(006650) 두 개의 엔진, 특수 폴리머와 울산의 유틸리티 \n                        \n                            \n                                대한유화(006650) 두 개의 엔진, 특수 폴리머와 울산의 유틸리티 \n                                \n                                    두 개의 엔진, 특수 폴리머와 울산의 유틸리티",
+      "sample_title": "와이지엔터테인먼트(122870) 기존 IP에 신인 모멘텀을 더할 때\n                        \n                            \n                                와이지엔터테인먼트(122870) 기존 IP에 신인 모멘텀을 더할 때\n                                \n                                    기존 IP에 신인 모멘텀을 더할 때",
       "brokers": [
-        "IBK투자증권"
+        "iM증권"
       ]
     },
     {
-      "ticker": "005300",
+      "ticker": "000100",
       "count": 1,
-      "sample_title": "롯데칠성(005300) 원가 부담 완화 전망 \n                        \n                            \n                                롯데칠성(005300) 원가 부담 완화 전망 \n                                \n                                    원가 부담 완화 전망",
+      "sample_title": "유한양행(000100) 기다림은 유한하다 \n                        \n                            \n                                유한양행(000100) 기다림은 유한하다 \n                                \n                                    기다림은 유한하다",
       "brokers": [
-        "LS증권"
+        "iM증권"
       ]
     },
     {
-      "ticker": "092730",
+      "ticker": "000810",
       "count": 1,
-      "sample_title": "네오팜(092730) 3Q26 Review: 소리없이 강하다\n                        \n                            \n                                네오팜(092730) 3Q26 Review: 소리없이 강하다\n                                \n                                    3Q26 Review: 소리없이 강하다",
-      "brokers": [
-        "LS증권"
-      ]
-    },
-    {
-      "ticker": "051600",
-      "count": 1,
-      "sample_title": "한전KPS(051600) 단기적으론 원전 모멘텀 공백기, 원전 OH 장기화 영향 시기 \n                        \n                            \n                                한전KPS(051600) 단기적으론 원전 모멘텀 공백기, 원전 OH 장기화 영향 시기 \n                                \n                                    단기적으론 원전 모멘텀 공백기, 원전 OH 장기화 영향 시기",
+      "sample_title": "삼성화재(000810) 캐노피우스 인수: 글로벌 본격 진출 교두보 확보 \n                        \n                            \n                                삼성화재(000810) 캐노피우스 인수: 글로벌 본격 진출 교두보 확보 \n                                \n                                    캐노피우스 인수: 글로벌 본격 진출 교두보 확보",
       "brokers": [
         "LS증권"
       ]
     },
     {
-      "ticker": "052690",
+      "ticker": "215200",
       "count": 1,
-      "sample_title": "한전기술(052690) 원전 기대감 반영된 높은 멀티플. 시장위험 시기엔 부담\n                        \n                            \n                                한전기술(052690) 원전 기대감 반영된 높은 멀티플. 시장위험 시기엔 부담\n                                \n                                    원전 기대감 반영된 높은 멀티플. 시장위험 시기엔 부담",
+      "sample_title": "메가스터디교육(215200) 3Q26 Review: 여전히 온라인 강자\n                        \n                            \n                                메가스터디교육(215200) 3Q26 Review: 여전히 온라인 강자\n                                \n                                    3Q26 Review: 여전히 온라인 강자",
       "brokers": [
         "LS증권"
       ]
     },
     {
-      "ticker": "240810",
+      "ticker": "079550",
       "count": 1,
-      "sample_title": "원익IPS(240810) 핵심은 수익성\n                        \n                            \n                                원익IPS(240810) 핵심은 수익성\n                                \n                                    핵심은 수익성",
+      "sample_title": "LIG디펜스앤에어로스페이스(079550) 가능성 높은 주가 반등 조건 두 가지\n                        \n                            \n                                LIG디펜스앤에어로스페이스(079550) 가능성 높은 주가 반등 조건 두 가지\n                                \n                                    가능성 높은 주가 반등 조건 두 가지",
       "brokers": [
-        "SK증권"
+        "LS증권"
       ]
     },
     {
-      "ticker": "189330",
+      "ticker": "181710",
       "count": 1,
-      "sample_title": "씨이랩(189330) AI 인프라 구축과 운영 솔루션 제공 기업 \n                        \n                            \n                                씨이랩(189330) AI 인프라 구축과 운영 솔루션 제공 기업 \n                                \n                                    AI 인프라 구축과 운영 솔루션 제공 기업",
+      "sample_title": "NHN(181710) 놀라운 실행력\n                        \n                            \n                                NHN(181710) 놀라운 실행력\n                                \n                                    놀라운 실행력",
       "brokers": [
-        "한국IR협의회"
+        "LS증권"
+      ]
+    },
+    {
+      "ticker": "009240",
+      "count": 1,
+      "sample_title": "한샘(009240) 매출 감소 여파 \n                        \n                            \n                                한샘(009240) 매출 감소 여파 \n                                \n                                    매출 감소 여파",
+      "brokers": [
+        "LS증권"
       ]
     }
   ],
