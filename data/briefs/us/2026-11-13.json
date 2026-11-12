@@ -1,0 +1,162 @@
+{
+  "market": "US",
+  "as_of_date": "2026-11-13",
+  "plain_summary": [
+    "11일(수) S&P 500은 1.3% 올라 7,619에 마감했고, 나스닥은 1.6% 상승하며 기술주가 반등했습니다.",
+    "하지만 12일(목) 엔비디아 젠슨 황 CEO가 사임을 발표하면서 나스닥 선물이 0.9% 하락하는 등 AI 랠리에 찬물을 끼얹었습니다.",
+    "⚠️ 엔비디아 주가가 시간 외 거래에서 10% 넘게 급락했고, AI 반도체 공급망 전반에 불확실성이 커지고 있습니다."
+  ],
+  "market_tone": "11일(수) 미국 3대 지수가 모두 상승했습니다. 다우 +0.5%(52,486), S&P 500 +1.3%(7,619), 나스닥 +1.6%(25,466). 애플이 사상 최고가를 경신하며 기술주 반등을 이끌었습니다. 하지만 12일(목) 엔비디아의 젠슨 황 CEO 사임 발표로 분위기가 급변했습니다. S&P 500 -0.6%, 나스닥 -0.9%로 하락 출발했고, 엔비디아는 장 초반 10% 넘게 급락했습니다. VIX(공포지수)는 전일 17.49에서 다시 상승 압력을 받고 있습니다.",
+  "news": [
+    {
+      "title": "엔비디아 젠슨 황 CEO 사임, 주가 10% 급락",
+      "summary_plain": "엔비디아의 창업자 젠슨 황 CEO가 이사회 해임 압력 속에서 사임을 발표했습니다. 불륜 및 스파이 의혹이 보도된 후 이사회가 거취 결정 회의를 추진한 것으로 알려졌습니다.",
+      "why_it_matters": "엔비디아는 AI 투자 붐의 중심 기업입니다. CEO 교체는 AI 반도체 공급망과 파트너십 전반에 불확실성을 만들 수 있습니다.",
+      "tickers": [
+        "NVDA"
+      ],
+      "date": "2026-11-12",
+      "tier": "news",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html",
+      "source_name": "Yahoo Finance"
+    },
+    {
+      "title": "11일(수) 미국 증시 상승, 애플 사상 최고가",
+      "summary_plain": "S&P 500이 1.3%, 나스닥이 1.6% 오르며 기술주가 반등했습니다. 애플이 사상 최고 종가를 기록했고, IT 섹터가 2.7% 상승하며 시장을 이끌었습니다.",
+      "why_it_matters": "AI 투자 과열 우려가 잠시 가라앉으며 기술주가 반등했지만, 다음 날 엔비디아 이슈로 다시 흔들렸습니다.",
+      "tickers": [
+        "AAPL",
+        "MSFT"
+      ],
+      "date": "2026-11-12",
+      "tier": "news",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-12-071100866.html",
+      "source_name": "Yahoo Finance"
+    },
+    {
+      "title": "코어위브 실적 설명회, AI 투자 심리 회복에 기여",
+      "summary_plain": "AI 클라우드 기업 코어위브가 고객 선급금 확보와 수익성 개선 전망을 밝히며 AI 투자에 대한 시장 우려를 일부 해소했습니다.",
+      "why_it_matters": "AI 기업들의 수익성 우려가 시장의 핵심 변수입니다. 코어위브의 긍정적 전망이 AI 관련 투자심리에 힘을 실어줬습니다.",
+      "tickers": [],
+      "date": "2026-11-11",
+      "tier": "news",
+      "source_url": "http://www.choicenews.co.kr/news/articleViewAmp.html?idxno=173104",
+      "source_name": "초이스경제"
+    }
+  ],
+  "hot_sectors": [
+    {
+      "sector": "AI 반도체",
+      "trend": "엔비디아 CEO 사임으로 AI 반도체 업종 전체에 불확실성이 커졌습니다. 엔비디아(-10%+), AMD, 브로드컴 등도 동반 하락 압력을 받고 있습니다.",
+      "drivers": "엔비디아 CEO 교체, AI 투자 수익성 논란",
+      "tickers": [
+        "NVDA",
+        "AVGO",
+        "AMD"
+      ],
+      "tier": "news",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html",
+      "source_name": "Yahoo Finance"
+    },
+    {
+      "sector": "빅테크",
+      "trend": "애플이 사상 최고가를 경신하고 마이크로소프트도 강세를 보였으나, 엔비디아 리스크가 기술 섹터 전반의 상승 모멘텀(상승 힘)을 약화시킬 수 있습니다.",
+      "drivers": "3분기 실적 호조, 민주당 중간선거 승리 후 기술주 우호적 환경 기대",
+      "tickers": [
+        "AAPL",
+        "MSFT",
+        "GOOGL"
+      ],
+      "tier": "news",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-12-071100866.html",
+      "source_name": "Yahoo Finance"
+    },
+    {
+      "sector": "K-뷰티/화장품",
+      "trend": "코스맥스가 3분기 연결 매출 +50% YoY, 영업이익 +95% YoY의 호실적을 기록하며 K-뷰티 ODM(주문자 설계 생산) 수요 강세가 이어지고 있습니다.",
+      "drivers": "글로벌 K-뷰티 수요 확대, 국내외 동반 고성장",
+      "tickers": [
+        "KOSMAX"
+      ],
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654115",
+      "source_name": "유안타증권"
+    }
+  ],
+  "notable_stocks": [
+    {
+      "name": "NVIDIA",
+      "ticker": "NVDA",
+      "note": "젠슨 황 CEO 사임 발표 후 시간외 거래에서 10% 넘게 급락. AI 산업의 핵심 기업으로 후임 CEO와 전략 방향이 최대 관심사입니다.",
+      "tier": "news",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html",
+      "source_name": "Yahoo Finance"
+    },
+    {
+      "name": "Apple",
+      "ticker": "AAPL",
+      "note": "11일(수) 사상 최고 종가를 경신하며 358.21달러에 마감. 민주당 중간선거 승리가 우호적이라는 분석이 있습니다.",
+      "tier": "analyst_data",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-12-071100866.html",
+      "source_name": "Yahoo Finance"
+    },
+    {
+      "name": "Microsoft",
+      "ticker": "MSFT",
+      "note": "528.17달러 거래. 애널리스트 53명 중 52명이 매수 의견이며, 평균 목표주가 636달러로 현재가 대비 상승 여력이 있다고 봅니다.",
+      "tier": "analyst_data",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-12-071100866.html",
+      "source_name": "Yahoo Finance"
+    },
+    {
+      "name": "Broadcom",
+      "ticker": "AVGO",
+      "note": "361.92달러 거래. 애널리스트 49명 중 49명이 매수 의견이며, 평균 목표주가 533달러. AI 네트워킹 반도체의 핵심 기업입니다.",
+      "tier": "analyst_data",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-12-071100866.html",
+      "source_name": "Yahoo Finance"
+    }
+  ],
+  "key_reports": [],
+  "broker_views": [
+    {
+      "firm": "Yahoo Finance",
+      "view": "엔비디아의 젠슨 황 CEO 사임으로 AI 산업의 최대 후원자를 잃었으며, 엔비디아의 파트너십 네트워크에도 불확실성이 생겼다고 분석했습니다.",
+      "date": "2026-11-12",
+      "tier": "news",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
+    },
+    {
+      "firm": "Reuters",
+      "view": "엔비디아 CEO 사임 직후 월가 주요 지수가 하락 출발했으며, AI 산업에 대한 불확실성이 시장 전반에 영향을 미치고 있다고 보도했습니다.",
+      "date": "2026-11-12",
+      "tier": "news",
+      "source_url": "https://marketscreener.com/news/wall-st-opens-lower-after-nvidia-ceo-steps-down-ce785ed8de8bf420"
+    },
+    {
+      "firm": "신한투자증권 (강진혁)",
+      "view": "코어위브의 수익성 개선 전망과 앤트로픽 공모가 상향 소식이 AI 투자 심리를 되살렸다고 분석했습니다.",
+      "date": "2026-11-11",
+      "tier": "ib_news",
+      "source_url": "http://www.choicenews.co.kr/news/articleViewAmp.html?idxno=173104"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "VIX(공포지수)",
+      "meaning": "시장 참가자들이 느끼는 향후 변동성 기대를 수치화한 것. 높을수록 불안감이 큽니다."
+    },
+    {
+      "term": "시간외 거래",
+      "meaning": "정규 거래 시간(9:30~16:00 ET) 이후에도 이루어지는 주식 거래. 유동성이 적어 가격 변동이 클 수 있습니다."
+    },
+    {
+      "term": "ODM(주문자 설계 생산)",
+      "meaning": "고객사의 요청에 따라 제품을 설계하고 생산까지 맡는 사업 모델. 코스맥스가 대표적입니다."
+    },
+    {
+      "term": "사이드카(sidecar)",
+      "meaning": "주가지수 선물이 급변할 때 프로그램매매를 일시 중단하는 장치. 시장 급등락 시 발동됩니다."
+    }
+  ]
+}

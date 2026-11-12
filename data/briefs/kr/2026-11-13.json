@@ -1,0 +1,249 @@
+{
+  "market": "KR",
+  "as_of_date": "2026-11-13",
+  "plain_summary": [
+    "코스피(한국 대표 주가지수)가 0.61% 내린 5,342.73에 마감했고, 코스닥(중소형 기업 주가지수)은 1.22% 빠져 700선을 다시 내줬습니다.",
+    "메리츠금융지주가 3분기 실적 부진(순이익 시장 전망치 대비 26% 하회)으로 13% 급락했고, 엔비디아 CEO 해임 보도가 반도체 업종에 긴장감을 더했습니다.",
+    "⚠️ 기관이 6,526억 원을 순매도하며 외국인 매수세(4,121억 원)를 압도했고, 코스닥에서는 외국인도 3,543억 원을 팔아 낙폭이 더 컸습니다."
+  ],
+  "market_tone": "코스피는 장중 5,458까지 올랐다가 기관 매도에 밀려 5,342로 마감했습니다. 외국인이 3거래일째 순매수했지만, 옵션 만기일 수급 부담과 직전 이틀간 7% 급등에 따른 차익실현이 겹쳤습니다. 삼성전자(+0.97%)가 시총 기여도 기준으로 지수를 지탱한 반면, SK하이닉스(-1.8%)·NAVER(-6.43%)·메리츠금융(-13.05%)·삼성화재(-7.24%)가 지수를 끌어내렸습니다. 원/달러 환율은 2.9원 내린 1,330.7원에 마감했습니다.",
+  "news": [
+    {
+      "title": "엔비디아 이사회, 젠슨 황 CEO 해임 준비 보도",
+      "summary_plain": "WSJ은 엔비디아 이사회가 창업자 젠슨 황 CEO의 해임을 준비하고 있으며 거취 결정 회의를 예정했다고 보도했습니다.",
+      "why_it_matters": "엔비디아는 세계 AI 반도체 시장을 이끄는 회사로, CEO 교체는 SK하이닉스·삼성전자 등 한국 반도체 공급사에도 영향을 줄 수 있습니다.",
+      "tickers": [
+        "000660",
+        "005930"
+      ],
+      "date": "2026-11-12",
+      "tier": "news",
+      "source_url": "https://www.yna.co.kr/view/AKR20261112020752072",
+      "source_name": "연합뉴스"
+    },
+    {
+      "title": "메리츠금융지주, 3분기 실적 충격으로 13% 급락",
+      "summary_plain": "메리츠금융지주의 3분기 지배주주순이익이 4,707억 원으로 시장 전망치(6,345억 원)를 26% 밑돌았습니다. 핵심 자회사 메리츠화재의 투자손익이 87.9% 급감한 것이 주요 원인입니다.",
+      "why_it_matters": "메리츠금융은 코스피 시총 상위 금융주입니다. 실적 부진이 주주환원 규모 불확실성으로 이어질 수 있어 금융 업종 전반에 영향을 줍니다.",
+      "tickers": [
+        "138040"
+      ],
+      "date": "2026-11-12",
+      "tier": "news",
+      "source_url": "https://www.fnnews.com/news/202611121131344896",
+      "source_name": "파이낸셜뉴스"
+    },
+    {
+      "title": "코스피 고배당주, 시장 급락 속 상대적 선방",
+      "summary_plain": "코스피가 10월 이후 21% 넘게 빠진 가운데, '코스피 고배당 50' 지수는 7.25% 하락에 그쳐 배당주의 방어력이 부각되고 있습니다.",
+      "why_it_matters": "시장이 크게 흔들릴 때 배당 수익으로 손실을 일부 보완할 수 있어, 안정적인 투자를 원하는 초심자에게 참고가 됩니다.",
+      "tickers": [],
+      "date": "2026-11-12",
+      "tier": "news",
+      "source_url": "https://seoul.co.kr/news/economy/securities/2026/11/13/20261113031005",
+      "source_name": "서울신문"
+    },
+    {
+      "title": "K-전력기기 3사, 2028년까지 생산능력 확대 가속",
+      "summary_plain": "HD현대일렉트릭·효성중공업·LS일렉트릭이 AI 데이터센터와 노후 전력망 교체 수요에 대응해 국내외 공장을 잇달아 증설하고 있습니다.",
+      "why_it_matters": "전력기기 수요는 AI 투자 확대와 직결됩니다. 증설이 실적으로 이어지는 시점이 관건입니다.",
+      "tickers": [
+        "267260"
+      ],
+      "date": "2026-11-04",
+      "tier": "news",
+      "source_url": "https://www.etoday.co.kr/news/view/2644101",
+      "source_name": "이투데이"
+    }
+  ],
+  "hot_sectors": [
+    {
+      "sector": "반도체",
+      "trend": "SK하이닉스(-1.8%)와 삼성전기(-4.01%)가 하락한 반면, 삼성전자(+0.97%)는 외국인 순매수에 힘입어 상승. 엔비디아 CEO 거취 불확실성이 변수로 부상했습니다.",
+      "drivers": "엔비디아 CEO 해임 보도, 외국인 선별 매수",
+      "tickers": [
+        "005930",
+        "000660",
+        "009150"
+      ],
+      "tier": "market_data",
+      "source_url": "https://stock7am.com/",
+      "source_name": "Stock7AM"
+    },
+    {
+      "sector": "금융/보험",
+      "trend": "메리츠금융지주(-13.05%)와 삼성화재(-7.24%)가 3분기 실적 실망에 큰 폭 하락. 리포트에 따르면 주식 평가손실과 부동산PF 충당금이 영향을 줬습니다.",
+      "drivers": "3분기 실적 시즌 어닝쇼크",
+      "tickers": [
+        "138040",
+        "000810"
+      ],
+      "tier": "consensus",
+      "source_url": "https://www.fnnews.com/news/202611121131344896",
+      "source_name": "파이낸셜뉴스"
+    },
+    {
+      "sector": "조선/전력기기",
+      "trend": "HD현대중공업(+1.9%)·HD현대일렉트릭(+3.95%) 등 조선·전력기기주가 강세를 보였습니다. 증권사 리포트에서 HD현대중공업은 '드래프트 1순위'로 평가받았습니다.",
+      "drivers": "글로벌 전력 인프라 수요 확대, 미 해군 협력 기대",
+      "tickers": [
+        "329180",
+        "267260"
+      ],
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654111",
+      "source_name": "유안타증권"
+    }
+  ],
+  "notable_stocks": [
+    {
+      "name": "삼성전자",
+      "ticker": "005930",
+      "note": "시총 기여도 1위로 지수를 지탱. 외국인이 7,449억 원을 순매수했습니다.",
+      "report_summary": "리포트에 따르면 삼성전자는 AI 투자 확대 수혜주로, 외국인 매수세가 집중되고 있습니다.",
+      "tier": "market_data",
+      "source_url": "https://stock7am.com/",
+      "source_name": "Stock7AM"
+    },
+    {
+      "name": "SK하이닉스",
+      "ticker": "000660",
+      "note": "1.8% 하락하며 시총 기여도 기준 지수 하락 1위. 외국인이 8,720억 원을 순매도했습니다.",
+      "report_summary": "엔비디아 CEO 거취 불확실성이 HBM(고대역폭메모리) 수요 전망에 부담을 주고 있습니다.",
+      "tier": "market_data",
+      "source_url": "https://stock7am.com/",
+      "source_name": "Stock7AM"
+    },
+    {
+      "name": "메리츠금융지주",
+      "ticker": "138040",
+      "note": "3분기 지배주주순이익 4,707억 원으로 시장 전망치 26% 하회하며 13% 급락.",
+      "report_summary": "iM증권 리포트에 따르면 메리츠화재 투자손익 급감이 주요 원인이며, '27년 회복을 기대한다고 분석했습니다. 키움증권은 투자의견 BUY와 목표주가 17만 원을 유지했습니다.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654130",
+      "source_name": "iM증권 리포트(한경 컨센서스)"
+    },
+    {
+      "name": "HD현대중공업",
+      "ticker": "329180",
+      "note": "1.9% 상승. 시총 28조 원 규모의 대형 조선주로, 유안타증권이 '드래프트 1순위'로 평가했습니다.",
+      "report_summary": "유안타증권 리포트에 따르면 목표주가 643,000원(하향)이며, 다재다능한 사업 포트폴리오와 높은 수주잔고를 긍정적으로 평가했습니다.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654111",
+      "source_name": "유안타증권 리포트(한경 컨센서스)"
+    },
+    {
+      "name": "삼성전기",
+      "ticker": "009150",
+      "note": "4.01% 하락. 시총 66조 원 규모. IBK투자증권은 NDR(기업설명회) 후기에서 자신감 넘치는 수요 전망을 전했습니다.",
+      "report_summary": "IBK투자증권 리포트에 따르면 AI 관련 부품(패키지 기판·MLCC)이 실적을 견인하고 있으며, 4분기에도 수요가 강할 것으로 본다고 분석했습니다. 목표주가 190만 원입니다.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654125",
+      "source_name": "IBK투자증권 리포트(한경 컨센서스)"
+    }
+  ],
+  "key_reports": [
+    {
+      "title": "메리츠금융지주 — 소외되었던 26년보다 27년이 기대되는 회사",
+      "broker": "iM증권",
+      "ticker": "138040",
+      "opinion": "Buy",
+      "target_price": "유지",
+      "summary": "3분기 지배순이익 4,707억 원(-28.1% YoY)으로 컨센서스 하회. 메리츠화재 투자손익 급감이 원인이나, 보장성 보험 신계약은 안정적이며 27년 회복을 기대한다고 분석.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654130"
+    },
+    {
+      "title": "삼성전기 — NDR 후기: 자신감 넘치는 수요 전망",
+      "broker": "IBK투자증권",
+      "ticker": "009150",
+      "opinion": "Buy",
+      "target_price": "1,900,000원",
+      "summary": "AI 관련 부품(패키지 기판·MLCC)이 실적을 견인. 4분기에도 수요 강세와 가격 상승이 예상되며, 모바일·PC 의존도가 크게 줄었다고 평가.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654125"
+    },
+    {
+      "title": "HD현대중공업 — 다재다능 드래프트 1순위",
+      "broker": "유안타증권",
+      "ticker": "329180",
+      "opinion": "Buy",
+      "target_price": "643,000원(하향)",
+      "summary": "조선 상장기업 브랜드 1위. 목표주가를 842,000원에서 643,000원으로 하향했으나, 다양한 선종 수주 능력과 높은 수주잔고를 긍정적으로 평가.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654111"
+    },
+    {
+      "title": "코스맥스 — 비수기는 없다",
+      "broker": "유안타증권",
+      "ticker": "192820",
+      "opinion": "Buy",
+      "target_price": "363,000원",
+      "summary": "3분기 연결 매출 8,758억 원(+50% YoY), 영업이익 833억 원(+95% YoY)으로 컨센서스 상회. 국내법인 매출 +61%로 역대 최대 실적 경신.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654115"
+    },
+    {
+      "title": "NC — 아이온2 글로벌, 신작 기대감 유효",
+      "broker": "LS증권",
+      "ticker": "036570",
+      "opinion": "Buy",
+      "target_price": "310,000원",
+      "summary": "3분기 연결 매출 6,865억 원(+90.7% YoY), 영업이익 1,196억 원(흑전). 리니지 클래식 견조하고 아이온2 글로벌 초기 흥행 확인. 마케팅비 절감으로 이익 상회.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654122"
+    }
+  ],
+  "broker_views": [
+    {
+      "firm": "iM증권 (설용진)",
+      "view": "메리츠금융지주에 대해 3분기 실적은 부진했지만, 보장성 보험 신계약이 안정적이고 27년 실적 회복을 기대한다고 분석했습니다.",
+      "date": "2026-11-12",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654130"
+    },
+    {
+      "firm": "신한투자증권 (임희연)",
+      "view": "메리츠금융지주의 주식 익스포저(주식에 투자한 규모)로 손익 변동성이 확대되는 구간이라며, 실적 변동성의 정점이 확인될 때까지 방어주 지위가 약해질 수 있다고 분석했습니다.",
+      "date": "2026-11-12",
+      "tier": "ib_news",
+      "source_url": "https://www.fnnews.com/news/202611121131344896"
+    },
+    {
+      "firm": "IBK투자증권 (김운호)",
+      "view": "삼성전기의 AI 관련 부품 수요가 강해지고 있으며, 컴포넌트와 패키지 기판 모두 톤이 더 강해졌다고 평가했습니다.",
+      "date": "2026-11-12",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654125"
+    },
+    {
+      "firm": "대신증권 (이경민)",
+      "view": "기관, 특히 금융투자의 순매도가 뚜렷해 장중 낙폭이 커졌다고 분석했습니다.",
+      "date": "2026-11-12",
+      "tier": "ib_news",
+      "source_url": "https://stock7am.com/"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "시총 기여도(index_drivers)",
+      "meaning": "시가총액이 큰 종목이 지수 등락에 미치는 영향. 대형주일수록 지수를 더 크게 움직입니다."
+    },
+    {
+      "term": "어닝쇼크",
+      "meaning": "기업 실적이 시장 전망치를 크게 밑도는 현상. 주가 급락의 원인이 됩니다."
+    },
+    {
+      "term": "옵션 만기일",
+      "meaning": "주가지수 옵션 계약이 만료되는 날. 수급 변동이 커져 주가가 평소보다 더 흔들릴 수 있습니다."
+    },
+    {
+      "term": "HBM(고대역폭메모리)",
+      "meaning": "AI 반도체에 필수적인 고성능 메모리. SK하이닉스가 세계 시장을 선도하고 있습니다."
+    },
+    {
+      "term": "NDR(Non-Deal Roadshow)",
+      "meaning": "기업이 투자자를 만나 실적과 전망을 설명하는 비공식 기업설명회입니다."
+    }
+  ]
+}
