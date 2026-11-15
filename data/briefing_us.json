@@ -1,162 +1,178 @@
 {
   "market": "US",
-  "as_of_date": "2026-11-13",
+  "as_of_date": "2026-11-16",
   "plain_summary": [
-    "11일(수) S&P 500은 1.3% 올라 7,619에 마감했고, 나스닥은 1.6% 상승하며 기술주가 반등했습니다.",
-    "하지만 12일(목) 엔비디아 젠슨 황 CEO가 사임을 발표하면서 나스닥 선물이 0.9% 하락하는 등 AI 랠리에 찬물을 끼얹었습니다.",
-    "⚠️ 엔비디아 주가가 시간 외 거래에서 10% 넘게 급락했고, AI 반도체 공급망 전반에 불확실성이 커지고 있습니다."
+    "나스닥은 엔비디아 CEO 사임 여파와 반도체 섹터 매도세에 0.91% 하락한 25,136.27로 마감했습니다.",
+    "10월 생산자물가(PPI)가 전월 대비 0.3% 올라 예상(0.4%)보다 낮았지만, 전년 대비 6.5% 상승은 4년 만에 최고치로 금리 인상 우려를 키웠습니다.",
+    "⚠️ 12월 기준금리 인상이 100% 확률로 반영되고 있고, 미국 10년물 국채금리가 5.15%까지 올라 성장주(미래 이익 기대가 큰 주식) 부담이 커지고 있습니다."
   ],
-  "market_tone": "11일(수) 미국 3대 지수가 모두 상승했습니다. 다우 +0.5%(52,486), S&P 500 +1.3%(7,619), 나스닥 +1.6%(25,466). 애플이 사상 최고가를 경신하며 기술주 반등을 이끌었습니다. 하지만 12일(목) 엔비디아의 젠슨 황 CEO 사임 발표로 분위기가 급변했습니다. S&P 500 -0.6%, 나스닥 -0.9%로 하락 출발했고, 엔비디아는 장 초반 10% 넘게 급락했습니다. VIX(공포지수)는 전일 17.49에서 다시 상승 압력을 받고 있습니다.",
+  "market_tone": "다우지수만 0.1% 소폭 오른 52,347.55에 마감한 반면, S&P 500은 0.40% 내린 7,561.67, 나스닥은 0.91% 빠진 25,136.27로 마감했습니다. 10월 PPI가 전월 대비 0.3%로 예상을 밑돌았지만, 전년 대비 6.5% 상승이 4년 만에 최고치를 기록하며 인플레이션(물가가 지속적으로 오르는 현상) 우려를 키웠습니다. 미국 10년물 국채금리는 장중 5.17%까지 올랐고, 시카고연준 굴스비 총재는 '인플레이션에 대해 할 일이 있다'고 발언했습니다. 필라델피아 반도체지수(SOX)가 3.43% 급락하며 기술주 전반을 끌어내렸습니다.",
   "news": [
     {
-      "title": "엔비디아 젠슨 황 CEO 사임, 주가 10% 급락",
-      "summary_plain": "엔비디아의 창업자 젠슨 황 CEO가 이사회 해임 압력 속에서 사임을 발표했습니다. 불륜 및 스파이 의혹이 보도된 후 이사회가 거취 결정 회의를 추진한 것으로 알려졌습니다.",
-      "why_it_matters": "엔비디아는 AI 투자 붐의 중심 기업입니다. CEO 교체는 AI 반도체 공급망과 파트너십 전반에 불확실성을 만들 수 있습니다.",
+      "title": "엔비디아 CEO 젠슨 황 사임 — AI 산업 충격파 확산",
+      "summary_plain": "엔비디아 창업자 젠슨 황이 사생활 스캔들과 중국 스파이 의혹으로 11월 12일 CEO직에서 물러났습니다. 콜레트 크레스 CFO가 임시 CEO를 맡았습니다.",
+      "why_it_matters": "엔비디아는 AI 칩 시장의 핵심 기업으로, CEO 교체가 AI 투자 방향과 대중국 반도체 수출 정책에도 영향을 줄 수 있습니다. 주가는 한 주간 12.7% 급락했습니다.",
       "tickers": [
         "NVDA"
       ],
       "date": "2026-11-12",
       "tier": "news",
-      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html",
-      "source_name": "Yahoo Finance"
+      "source_url": "https://www.reuters.com/business/retail-consumer/nvidia-ceo-jensen-huang-step-down-big-blow-ai-boom-2026-11-12/",
+      "source_name": "Reuters"
     },
     {
-      "title": "11일(수) 미국 증시 상승, 애플 사상 최고가",
-      "summary_plain": "S&P 500이 1.3%, 나스닥이 1.6% 오르며 기술주가 반등했습니다. 애플이 사상 최고 종가를 기록했고, IT 섹터가 2.7% 상승하며 시장을 이끌었습니다.",
-      "why_it_matters": "AI 투자 과열 우려가 잠시 가라앉으며 기술주가 반등했지만, 다음 날 엔비디아 이슈로 다시 흔들렸습니다.",
-      "tickers": [
-        "AAPL",
-        "MSFT"
-      ],
-      "date": "2026-11-12",
-      "tier": "news",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-12-071100866.html",
-      "source_name": "Yahoo Finance"
-    },
-    {
-      "title": "코어위브 실적 설명회, AI 투자 심리 회복에 기여",
-      "summary_plain": "AI 클라우드 기업 코어위브가 고객 선급금 확보와 수익성 개선 전망을 밝히며 AI 투자에 대한 시장 우려를 일부 해소했습니다.",
-      "why_it_matters": "AI 기업들의 수익성 우려가 시장의 핵심 변수입니다. 코어위브의 긍정적 전망이 AI 관련 투자심리에 힘을 실어줬습니다.",
+      "title": "10월 PPI 전월 대비 0.3% — 예상 하회했지만 연간 6.5%로 4년 최고",
+      "summary_plain": "10월 생산자물가지수(PPI)가 전월 대비 0.3% 올라 시장 예상(0.4%)보다 낮았습니다. 하지만 전년 대비 6.5% 상승은 2022년 11월 이후 가장 높은 수치입니다.",
+      "why_it_matters": "PPI가 높다는 것은 기업들의 생산 비용이 올라 소비자 가격에도 전이될 수 있다는 신호입니다. 이에 따라 12월 연준(Fed) 금리 인상이 거의 확실시됩니다.",
       "tickers": [],
-      "date": "2026-11-11",
+      "date": "2026-11-13",
       "tier": "news",
-      "source_url": "http://www.choicenews.co.kr/news/articleViewAmp.html?idxno=173104",
-      "source_name": "초이스경제"
+      "source_url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
+      "source_name": "CNBC"
+    },
+    {
+      "title": "반도체·AI 인프라주 동반 급락 — SOX 지수 3.43% 하락",
+      "summary_plain": "필라델피아 반도체지수가 3.43% 떨어졌습니다. AMD, 브로드컴, 마벨 등 주요 칩주가 4~10% 넘게 하락했고, 코어위브 등 AI 클라우드주도 큰 폭으로 내렸습니다.",
+      "why_it_matters": "엔비디아 경영 공백에 금리 상승 부담이 겹치면서 AI 관련 주식 전반에 매도세가 쏟아졌습니다. 다음 주 엔비디아 3분기 실적 발표(화요일)가 분위기 전환의 분수령이 될 전망입니다.",
+      "tickers": [
+        "NVDA",
+        "AMD",
+        "AVGO",
+        "MRVL"
+      ],
+      "date": "2026-11-13",
+      "tier": "news",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
+      "source_name": "Yahoo Finance"
+    },
+    {
+      "title": "세레브라스, 연간 매출 가이던스 상향 — AI 칩 대안 부각",
+      "summary_plain": "AI 칩 설계사 세레브라스 시스템즈가 연간 핵심 매출 전망을 9.4~9.6억달러로 제시해 시장 예상(8.9억달러)을 크게 웃돌았습니다. 주가는 11% 이상 올랐습니다.",
+      "why_it_matters": "엔비디아 독점에 대한 우려 속에서 대안 AI 칩 기업이 주목받고 있습니다. 다만 아직 매출 규모가 엔비디아에 비해 매우 작은 초기 단계입니다.",
+      "tickers": [],
+      "date": "2026-11-13",
+      "tier": "news",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
+      "source_name": "Yahoo Finance"
     }
   ],
   "hot_sectors": [
     {
       "sector": "AI 반도체",
-      "trend": "엔비디아 CEO 사임으로 AI 반도체 업종 전체에 불확실성이 커졌습니다. 엔비디아(-10%+), AMD, 브로드컴 등도 동반 하락 압력을 받고 있습니다.",
-      "drivers": "엔비디아 CEO 교체, AI 투자 수익성 논란",
+      "trend": "엔비디아 CEO 사임과 금리 상승이 겹치며 SOX 지수가 3.43% 급락했습니다. 한 주간 엔비디아 -12.7%, AMD·브로드컴 등도 큰 폭 하락했습니다.",
+      "drivers": "젠슨 황 사임 → 경영 공백 우려, 미국 10년물 5.17% 돌파, 12월 금리인상 100% 반영",
       "tickers": [
         "NVDA",
+        "AMD",
         "AVGO",
-        "AMD"
+        "MRVL"
       ],
       "tier": "news",
-      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
       "source_name": "Yahoo Finance"
     },
     {
       "sector": "빅테크",
-      "trend": "애플이 사상 최고가를 경신하고 마이크로소프트도 강세를 보였으나, 엔비디아 리스크가 기술 섹터 전반의 상승 모멘텀(상승 힘)을 약화시킬 수 있습니다.",
-      "drivers": "3분기 실적 호조, 민주당 중간선거 승리 후 기술주 우호적 환경 기대",
+      "trend": "나스닥이 0.91% 하락하며 빅테크 전반이 약세를 보였으나, 주간 기준으로는 소폭 상승을 기록했습니다.",
+      "drivers": "금리 상승에 따른 성장주 밸류에이션 부담, 엔비디아 충격의 심리적 파급",
       "tickers": [
         "AAPL",
         "MSFT",
-        "GOOGL"
+        "GOOGL",
+        "META"
       ],
-      "tier": "news",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-12-071100866.html",
-      "source_name": "Yahoo Finance"
+      "tier": "market_data",
+      "source_url": "https://www.latimes.com/business/story/2026-11-13/stocks-fall-but-wall-street-notches-winning-week-after-several-turbulent-days",
+      "source_name": "LA Times"
     },
     {
-      "sector": "K-뷰티/화장품",
-      "trend": "코스맥스가 3분기 연결 매출 +50% YoY, 영업이익 +95% YoY의 호실적을 기록하며 K-뷰티 ODM(주문자 설계 생산) 수요 강세가 이어지고 있습니다.",
-      "drivers": "글로벌 K-뷰티 수요 확대, 국내외 동반 고성장",
-      "tickers": [
-        "KOSMAX"
-      ],
-      "tier": "consensus",
-      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654115",
-      "source_name": "유안타증권"
+      "sector": "에너지",
+      "trend": "미국-이란 갈등 격화 우려에 국제유가가 WTI 기준 88달러대로 상승하며 에너지 섹터가 상대적으로 선방했습니다.",
+      "drivers": "중동 리스크 지속, IEA 수요 전망 하향에도 공급 차질 우려 우세",
+      "tickers": [],
+      "tier": "news",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
+      "source_name": "Yahoo Finance"
     }
   ],
   "notable_stocks": [
     {
       "name": "NVIDIA",
       "ticker": "NVDA",
-      "note": "젠슨 황 CEO 사임 발표 후 시간외 거래에서 10% 넘게 급락. AI 산업의 핵심 기업으로 후임 CEO와 전략 방향이 최대 관심사입니다.",
+      "note": "주가 2% 추가 하락해 주간 12.7% 급락. 젠슨 황 사임 이후 경영 공백 우려가 지속 중이며, 다음 주 3분기 실적 발표가 예정돼 있습니다.",
       "tier": "news",
-      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html",
-      "source_name": "Yahoo Finance"
+      "source_url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html",
+      "source_name": "CNBC"
     },
     {
-      "name": "Apple",
-      "ticker": "AAPL",
-      "note": "11일(수) 사상 최고 종가를 경신하며 358.21달러에 마감. 민주당 중간선거 승리가 우호적이라는 분석이 있습니다.",
-      "tier": "analyst_data",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-12-071100866.html",
-      "source_name": "Yahoo Finance"
+      "name": "AMD",
+      "ticker": "AMD",
+      "note": "10% 넘게 하락하며 S&P 500 낙폭 1위를 기록했습니다. 엔비디아 충격이 반도체 섹터 전반으로 확산된 결과입니다.",
+      "tier": "news",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/stocks-retreat-chipmakers-sink-bond-161211309.html",
+      "source_name": "Barchart/Yahoo Finance"
+    },
+    {
+      "name": "Meta Platforms",
+      "ticker": "META",
+      "note": "SK증권 리포트에 따르면 AI 에이전트 'Muse'가 출시 1.5개월 만에 1,000만 다운로드를 기록하며 소비자향 AI 시장에서 차별화되고 있습니다.",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653241",
+      "source_name": "한경 컨센서스 (SK증권)"
     },
     {
       "name": "Microsoft",
       "ticker": "MSFT",
-      "note": "528.17달러 거래. 애널리스트 53명 중 52명이 매수 의견이며, 평균 목표주가 636달러로 현재가 대비 상승 여력이 있다고 봅니다.",
+      "note": "애널리스트 53명 중 53명이 매수 의견을 유지하고 있습니다. 평균 목표가 636달러 대비 현재가 524달러로 상승 여력이 큽니다.",
       "tier": "analyst_data",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-12-071100866.html",
-      "source_name": "Yahoo Finance"
-    },
-    {
-      "name": "Broadcom",
-      "ticker": "AVGO",
-      "note": "361.92달러 거래. 애널리스트 49명 중 49명이 매수 의견이며, 평균 목표주가 533달러. AI 네트워킹 반도체의 핵심 기업입니다.",
-      "tier": "analyst_data",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-12-071100866.html",
-      "source_name": "Yahoo Finance"
+      "source_url": "https://finance.yahoo.com/quote/MSFT/",
+      "source_name": "yfinance 컨센서스"
     }
   ],
-  "key_reports": [],
   "broker_views": [
     {
-      "firm": "Yahoo Finance",
-      "view": "엔비디아의 젠슨 황 CEO 사임으로 AI 산업의 최대 후원자를 잃었으며, 엔비디아의 파트너십 네트워크에도 불확실성이 생겼다고 분석했습니다.",
-      "date": "2026-11-12",
-      "tier": "news",
-      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-12-sp-500-nasdaq-dow-nvidia-invest-110027430.html"
-    },
-    {
-      "firm": "Reuters",
-      "view": "엔비디아 CEO 사임 직후 월가 주요 지수가 하락 출발했으며, AI 산업에 대한 불확실성이 시장 전반에 영향을 미치고 있다고 보도했습니다.",
-      "date": "2026-11-12",
-      "tier": "news",
-      "source_url": "https://marketscreener.com/news/wall-st-opens-lower-after-nvidia-ceo-steps-down-ce785ed8de8bf420"
-    },
-    {
-      "firm": "신한투자증권 (강진혁)",
-      "view": "코어위브의 수익성 개선 전망과 앤트로픽 공모가 상향 소식이 AI 투자 심리를 되살렸다고 분석했습니다.",
-      "date": "2026-11-11",
+      "firm": "TD Securities",
+      "view": "보도에 따르면 '인플레이션이 완고하게 높아 연준이 좀 더 빠르고 공격적으로 행동할 필요가 있다'고 평가했습니다.",
+      "date": "2026-11-13",
       "tier": "ib_news",
-      "source_url": "http://www.choicenews.co.kr/news/articleViewAmp.html?idxno=173104"
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+    },
+    {
+      "firm": "SK증권",
+      "view": "리포트에 따르면 메타의 AI 에이전트 Muse의 업사이드를 분석하며, Base Case 기준 2028년 ARR(연간반복매출) 400억달러를 전망했습니다.",
+      "date": "2026-10-23",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653241"
+    },
+    {
+      "firm": "IBK투자증권",
+      "view": "리포트에 따르면 신용위험의 경로를 점검하며, 'AI 기업이 직접적 도화선이 되기보다 소외된 부실기업이 금융환경을 변화시켜 투자를 조정시키는 경로'에 주의해야 한다고 봤습니다.",
+      "date": "2026-10-23",
+      "tier": "consensus",
+      "source_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=653247"
     }
   ],
   "glossary": [
     {
-      "term": "VIX(공포지수)",
-      "meaning": "시장 참가자들이 느끼는 향후 변동성 기대를 수치화한 것. 높을수록 불안감이 큽니다."
+      "term": "PPI(생산자물가지수)",
+      "meaning": "공장에서 물건을 만들 때 드는 비용의 변화를 측정하는 지표. 소비자물가(CPI)에 앞서 인플레이션 압력을 보여줍니다."
     },
     {
-      "term": "시간외 거래",
-      "meaning": "정규 거래 시간(9:30~16:00 ET) 이후에도 이루어지는 주식 거래. 유동성이 적어 가격 변동이 클 수 있습니다."
+      "term": "SOX(필라델피아 반도체지수)",
+      "meaning": "미국에 상장된 주요 반도체 기업 30개의 주가를 추적하는 지수. 반도체 업종 전체의 분위기를 보여줍니다."
     },
     {
-      "term": "ODM(주문자 설계 생산)",
-      "meaning": "고객사의 요청에 따라 제품을 설계하고 생산까지 맡는 사업 모델. 코스맥스가 대표적입니다."
+      "term": "연준(Fed) 기준금리",
+      "meaning": "미국 중앙은행이 정하는 기준 금리. 올리면 대출 비용이 높아져 경제가 식고, 내리면 반대입니다."
     },
     {
-      "term": "사이드카(sidecar)",
-      "meaning": "주가지수 선물이 급변할 때 프로그램매매를 일시 중단하는 장치. 시장 급등락 시 발동됩니다."
+      "term": "10년물 국채금리",
+      "meaning": "미국 정부가 10년 만기로 빌리는 돈의 이자율. 주택담보대출·자동차대출 등 각종 금리의 기준이 됩니다."
+    },
+    {
+      "term": "ARR(연간반복매출)",
+      "meaning": "Annual Recurring Revenue. 구독 등 반복적으로 발생하는 매출을 연간으로 환산한 것. SaaS 기업의 성장을 측정하는 핵심 지표입니다."
     }
-  ]
+  ],
+  "disclaimer": "본 브리핑은 참고용 정보 요약이며 투자 자문이 아닙니다. 모든 투자 판단과 그에 따른 손익의 책임은 본인에게 있습니다."
 }
