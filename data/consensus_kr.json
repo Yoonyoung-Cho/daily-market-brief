@@ -3,282 +3,290 @@
   "source_url": "https://consensus.hankyung.com/",
   "reports": [
     {
-      "date": "2026-11-23",
+      "date": "2026-11-24",
+      "category": "산업",
+      "title": "[해외출장기] AI 컴퓨팅의 진화 & Logic으로 확장되는 본딩 시장\n                        \n                            \n                                [해외출장기] AI 컴퓨팅의 진화 & Logic으로 확장되는 본딩 시장\n                                \n                                    [해외출장기] AI 컴퓨팅의 진화 & Logic으로 확장되는 본딩 시장",
+      "ticker": null,
+      "authors": "정우성",
+      "broker": "LS증권",
+      "report_idx": "654515",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654515"
+    },
+    {
+      "date": "2026-11-24",
       "category": "시장",
-      "title": "start with ibks\n                        \n                            \n                                start with ibks\n                                \n                                    start with ibks",
+      "title": "Value&Growth\n                        \n                            \n                                Value&Growth\n                                \n                                    Value&Growth",
       "ticker": null,
-      "authors": "투자분석부",
-      "broker": "IBK투자증권",
-      "report_idx": "654479",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654479"
+      "authors": "정홍식,권태훈",
+      "broker": "LS증권",
+      "report_idx": "654514",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654514"
     },
     {
-      "date": "2026-11-23",
+      "date": "2026-11-24",
+      "category": "기업",
+      "title": "코미코(183300) 투자 부담의 정점 통과, 증설 효과 가시화 국면\n                        \n                            \n                                코미코(183300) 투자 부담의 정점 통과, 증설 효과 가시화 국면\n                                \n                                    투자 부담의 정점 통과, 증설 효과 가시화 국면",
+      "ticker": "183300",
+      "authors": "백길현, 임석민",
+      "broker": "유안타증권",
+      "report_idx": "654513",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654513"
+    },
+    {
+      "date": "2026-11-24",
       "category": "시장",
-      "title": "ibks morning brief\n                        \n                            \n                                ibks morning brief\n                                \n                                    ibks morning brief",
+      "title": "YUANTA Research | Daily Digital Asset \n                        \n                            \n                                YUANTA Research   |   Daily Digital Asset \n                                \n                                    YUANTA Research | Daily Digital Asset",
       "ticker": null,
-      "authors": "기간산업분석부·혁신기업분석부",
-      "broker": "IBK투자증권",
-      "report_idx": "654478",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654478"
-    },
-    {
-      "date": "2026-11-23",
-      "category": "산업",
-      "title": "[인터넷/게임] IBKS Daily \n                        \n                            \n                                [인터넷/게임] IBKS Daily \n                                \n                                    [인터넷/게임] IBKS Daily",
-      "ticker": null,
-      "authors": "이승훈, 박상준",
-      "broker": "IBK투자증권",
-      "report_idx": "654477",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654477"
-    },
-    {
-      "date": "2026-11-23",
-      "category": "기업",
-      "title": "팬오션(028670) 벌크의 안정적인 이익과 탱커 선대 확대\n                        \n                            \n                                팬오션(028670) 벌크의 안정적인 이익과 탱커 선대 확대\n                                \n                                    벌크의 안정적인 이익과 탱커 선대 확대",
-      "ticker": "028670",
-      "authors": "리서치센터",
-      "broker": "iM증권",
-      "report_idx": "654476",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654476"
-    },
-    {
-      "date": "2026-11-23",
-      "category": "기업",
-      "title": "CJ대한통운(000120) 실적 회복 예상되나, 단가 회복 시점은 여전히 불확실\n                        \n                            \n                                CJ대한통운(000120) 실적 회복 예상되나, 단가 회복 시점은 여전히 불확실\n                                \n                                    실적 회복 예상되나, 단가 회복 시점은 여전히 불확실",
-      "ticker": "000120",
-      "authors": "리서치센터",
-      "broker": "iM증권",
-      "report_idx": "654475",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654475"
-    },
-    {
-      "date": "2026-11-23",
-      "category": "기업",
-      "title": "대한항공(003490) 유가 부담 완화와 합병 시너지 본격화\n                        \n                            \n                                대한항공(003490) 유가 부담 완화와 합병 시너지 본격화\n                                \n                                    유가 부담 완화와 합병 시너지 본격화",
-      "ticker": "003490",
-      "authors": "리서치센터",
-      "broker": "iM증권",
-      "report_idx": "654474",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654474"
-    },
-    {
-      "date": "2026-11-23",
-      "category": "기업",
-      "title": "고려아연(010130) 본격 성장은 28년 이후, 중장기 최선호주\n                        \n                            \n                                고려아연(010130) 본격 성장은 28년 이후, 중장기 최선호주\n                                \n                                    본격 성장은 28년 이후, 중장기 최선호주",
-      "ticker": "010130",
-      "authors": "리서치센터",
-      "broker": "iM증권",
-      "report_idx": "654473",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654473"
-    },
-    {
-      "date": "2026-11-23",
-      "category": "기업",
-      "title": "POSCO홀딩스(005490) 불확실한 시기 업종 내 대안주\n                        \n                            \n                                POSCO홀딩스(005490) 불확실한 시기 업종 내 대안주\n                                \n                                    불확실한 시기 업종 내 대안주",
-      "ticker": "005490",
-      "authors": "리서치센터",
-      "broker": "iM증권",
-      "report_idx": "654472",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654472"
-    },
-    {
-      "date": "2026-11-23",
-      "category": "기업",
-      "title": "세아베스틸지주(001430) 27년 업종 최선호주 유지\n                        \n                            \n                                세아베스틸지주(001430) 27년 업종 최선호주 유지\n                                \n                                    27년 업종 최선호주 유지",
-      "ticker": "001430",
-      "authors": "리서치센터",
-      "broker": "iM증권",
-      "report_idx": "654471",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654471"
-    },
-    {
-      "date": "2026-11-23",
-      "category": "산업",
-      "title": "재편되는 하늘, 길어지는 바닷길\n                        \n                            \n                                재편되는 하늘, 길어지는 바닷길\n                                \n                                    재편되는 하늘, 길어지는 바닷길",
-      "ticker": null,
-      "authors": "배세호",
-      "broker": "iM증권",
-      "report_idx": "654470",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654470"
-    },
-    {
-      "date": "2026-11-23",
-      "category": "산업",
-      "title": "[iM Telecom Weekly] 엔트로픽 상장 이후 SK텔레콤 주가 변동성 확대\n                        \n                            \n                                [iM Telecom Weekly] 엔트로픽 상장 이후 SK텔레콤 주가 변동성 확대\n                                \n                                    [iM Telecom Weekly] 엔트로픽 상장 이후 SK텔레콤 주가 변동성 확대",
-      "ticker": null,
-      "authors": "신희철",
-      "broker": "iM증권",
-      "report_idx": "654469",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654469"
-    },
-    {
-      "date": "2026-11-23",
-      "category": "산업",
-      "title": "iM Steel Weekly\n                        \n                            \n                                iM Steel Weekly\n                                \n                                    iM Steel Weekly",
-      "ticker": null,
-      "authors": "김윤상",
-      "broker": "iM증권",
-      "report_idx": "654468",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654468"
-    },
-    {
-      "date": "2026-11-23",
-      "category": "산업",
-      "title": "2027년 Commodity 시장 전망: 둔화 속 양극화\n                        \n                            \n                                2027년 Commodity 시장 전망: 둔화 속 양극화\n                                \n                                    2027년 Commodity 시장 전망: 둔화 속 양극화",
-      "ticker": null,
-      "authors": "김윤상",
+      "authors": "이환욱",
       "broker": "유안타증권",
-      "report_idx": "654467",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654467"
+      "report_idx": "654512",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654512"
     },
     {
-      "date": "2026-11-23",
-      "category": "시장",
-      "title": "소액주주의 반격 : 2027년 소액주주 권익을 실현하자 \n                        \n                            \n                                소액주주의 반격 : 2027년 소액주주 권익을 실현하자  \n                                \n                                    소액주주의 반격 : 2027년 소액주주 권익을 실현하자",
-      "ticker": null,
-      "authors": "이상헌",
-      "broker": "iM증권",
-      "report_idx": "654466",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654466"
-    },
-    {
-      "date": "2026-11-23",
-      "category": "기업",
-      "title": "인텔리안테크(189300) 4Q 최대 실적 전망, 저평가 구간 진입\n                        \n                            \n                                인텔리안테크(189300) 4Q 최대 실적 전망, 저평가 구간 진입\n                                \n                                    4Q 최대 실적 전망, 저평가 구간 진입",
-      "ticker": "189300",
-      "authors": "백종민",
-      "broker": "유안타증권",
-      "report_idx": "654465",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654465"
-    },
-    {
-      "date": "2026-11-23",
-      "category": "기업",
-      "title": "유나이티드제약(033270) 쌓여가는 현금, 주주 환원 확대 기대 \n                        \n                            \n                                유나이티드제약(033270) 쌓여가는 현금, 주주 환원 확대 기대 \n                                \n                                    쌓여가는 현금, 주주 환원 확대 기대",
-      "ticker": "033270",
-      "authors": "하현수",
-      "broker": "유안타증권",
-      "report_idx": "654464",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654464"
-    },
-    {
-      "date": "2026-11-23",
-      "category": "기업",
-      "title": "종근당(185750) 성장 모멘텀이 필요\n                        \n                            \n                                종근당(185750) 성장 모멘텀이 필요\n                                \n                                    성장 모멘텀이 필요",
-      "ticker": "185750",
-      "authors": "하현수",
-      "broker": "유안타증권",
-      "report_idx": "654463",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654463"
-    },
-    {
-      "date": "2026-11-23",
-      "category": "시장",
-      "title": "유안타 클라스: Weekly Hot Stocks\n                        \n                            \n                                유안타 클라스: Weekly Hot Stocks\n                                \n                                    유안타 클라스: Weekly Hot Stocks",
-      "ticker": null,
-      "authors": "리서치센터",
-      "broker": "유안타증권",
-      "report_idx": "654462",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654462"
-    },
-    {
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "category": "시장",
       "title": "YUANTA DAILY MARKET VIEW\n                        \n                            \n                                YUANTA DAILY MARKET VIEW\n                                \n                                    YUANTA DAILY MARKET VIEW",
       "ticker": null,
       "authors": "리서치센터",
       "broker": "유안타증권",
-      "report_idx": "654461",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654461"
+      "report_idx": "654511",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654511"
     },
     {
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "category": "시장",
-      "title": "투매 이면의 금리 안정과 정책 안전판, 지금 가격이라면 공포는 지양\n                        \n                            \n                                투매 이면의 금리 안정과 정책 안전판, 지금 가격이라면 공포는 지양\n                                \n                                    투매 이면의 금리 안정과 정책 안전판, 지금 가격이라면 공포는 지양",
+      "title": "wake up! 아침에 슼\n                        \n                            \n                                wake up! 아침에 슼\n                                \n                                    wake up! 아침에 슼",
       "ticker": null,
-      "authors": "정다운",
-      "broker": "LS증권",
-      "report_idx": "654460",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654460"
+      "authors": "sk증권 리서치센터",
+      "broker": "SK증권",
+      "report_idx": "654510",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654510"
+    },
+    {
+      "date": "2026-11-24",
+      "category": "기업",
+      "title": "KG모빌리티플랫폼(381970) 달라지는 중고차 시장, 준비된 플랫폼 \n                        \n                            \n                                KG모빌리티플랫폼(381970) 달라지는 중고차 시장, 준비된 플랫폼 \n                                \n                                    달라지는 중고차 시장, 준비된 플랫폼",
+      "ticker": "381970",
+      "authors": "나승두",
+      "broker": "SK증권",
+      "report_idx": "654509",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654509"
+    },
+    {
+      "date": "2026-11-24",
+      "category": "기업",
+      "title": "하나투어(039130) 내년에는 연휴가 더 많습니다 \n                        \n                            \n                                하나투어(039130) 내년에는 연휴가 더 많습니다 \n                                \n                                    내년에는 연휴가 더 많습니다",
+      "ticker": "039130",
+      "authors": "나승두",
+      "broker": "SK증권",
+      "report_idx": "654508",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654508"
+    },
+    {
+      "date": "2026-11-24",
+      "category": "시장",
+      "title": "start with ibks\n                        \n                            \n                                start with ibks\n                                \n                                    start with ibks",
+      "ticker": null,
+      "authors": "투자분석부",
+      "broker": "IBK투자증권",
+      "report_idx": "654507",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654507"
+    },
+    {
+      "date": "2026-11-24",
+      "category": "산업",
+      "title": "[인터넷/게임] IBKS Daily \n                        \n                            \n                                [인터넷/게임] IBKS Daily \n                                \n                                    [인터넷/게임] IBKS Daily",
+      "ticker": null,
+      "authors": "이승훈, 박상준",
+      "broker": "IBK투자증권",
+      "report_idx": "654506",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654506"
+    },
+    {
+      "date": "2026-11-24",
+      "category": "시장",
+      "title": "ibks morning brief\n                        \n                            \n                                ibks morning brief\n                                \n                                    ibks morning brief",
+      "ticker": null,
+      "authors": "기간산업분석부·혁신기업분석부",
+      "broker": "IBK투자증권",
+      "report_idx": "654505",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654505"
+    },
+    {
+      "date": "2026-11-24",
+      "category": "기업",
+      "title": "아모텍(052710) AI 숫자는 탄탄 그 이상\n                        \n                            \n                                아모텍(052710) AI 숫자는 탄탄 그 이상\n                                \n                                    AI 숫자는 탄탄 그 이상",
+      "ticker": "052710",
+      "authors": "김운호",
+      "broker": "IBK투자증권",
+      "report_idx": "654504",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654504"
+    },
+    {
+      "date": "2026-11-24",
+      "category": "기업",
+      "title": "KT(030200) 27년, 본업 회복 및 KT Cloud 성장 기대\n                        \n                            \n                                KT(030200) 27년, 본업 회복 및 KT Cloud 성장 기대\n                                \n                                    27년, 본업 회복 및 KT Cloud 성장 기대",
+      "ticker": "030200",
+      "authors": "리서치센터",
+      "broker": "iM증권",
+      "report_idx": "654503",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654503"
+    },
+    {
+      "date": "2026-11-24",
+      "category": "기업",
+      "title": "LG유플러스(032640) 장기 테넌트가 확보된 파주 AIDC 중심 성장 기대\n                        \n                            \n                                LG유플러스(032640) 장기 테넌트가 확보된 파주 AIDC 중심 성장 기대\n                                \n                                    장기 테넌트가 확보된 파주 AIDC 중심 성장 기대",
+      "ticker": "032640",
+      "authors": "리서치센터",
+      "broker": "iM증권",
+      "report_idx": "654502",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654502"
+    },
+    {
+      "date": "2026-11-24",
+      "category": "기업",
+      "title": "SK텔레콤(017670) AIDC 테넌트 가시화가 본격화될 2027년\n                        \n                            \n                                SK텔레콤(017670) AIDC 테넌트 가시화가 본격화될 2027년\n                                \n                                    AIDC 테넌트 가시화가 본격화될 2027년",
+      "ticker": "017670",
+      "authors": "리서치센터",
+      "broker": "iM증권",
+      "report_idx": "654501",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654501"
+    },
+    {
+      "date": "2026-11-24",
+      "category": "기업",
+      "title": "OCI홀딩스(010060) Tesla, 폴리실리콘 투자 검토. 현실화돼도 규모가 작아 투자포인트 훼손은 없어\n                        \n                            \n                                OCI홀딩스(010060) Tesla, 폴리실리콘 투자 검토. 현실화돼도 규모가 작아 투자포인트 훼손은 없어\n                                \n                                    Tesla, 폴리실리콘 투자 검토. 현실화돼도 규모가 작아 투자포인트 훼손은 없어",
+      "ticker": "010060",
+      "authors": "리서치센터",
+      "broker": "iM증권",
+      "report_idx": "654500",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654500"
+    },
+    {
+      "date": "2026-11-24",
+      "category": "기업",
+      "title": "SK이노베이션(096770) 정유 외에 엔무브, E&S, On 등에서도 전쟁 이전 대비 높아진 이익 체력\n                        \n                            \n                                SK이노베이션(096770) 정유 외에 엔무브, E&S, On 등에서도 전쟁 이전 대비 높아진 이익 체력\n                                \n                                    정유 외에 엔무브, E&S, On 등에서도 전쟁 이전 대비 높아진 이익 체력",
+      "ticker": "096770",
+      "authors": "리서치센터",
+      "broker": "iM증권",
+      "report_idx": "654499",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654499"
+    },
+    {
+      "date": "2026-11-24",
+      "category": "기업",
+      "title": "HS효성첨단소재(298050) BTM 발전의 숨겨진 수혜, 탄소섬유\n                        \n                            \n                                HS효성첨단소재(298050) BTM 발전의 숨겨진 수혜, 탄소섬유\n                                \n                                    BTM 발전의 숨겨진 수혜, 탄소섬유",
+      "ticker": "298050",
+      "authors": "리서치센터",
+      "broker": "iM증권",
+      "report_idx": "654498",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654498"
+    },
+    {
+      "date": "2026-11-24",
+      "category": "산업",
+      "title": "반등의 실마리 \n                        \n                            \n                                반등의 실마리 \n                                \n                                    반등의 실마리",
+      "ticker": null,
+      "authors": "고의영, 박정하",
+      "broker": "iM증권",
+      "report_idx": "654497",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654497"
+    },
+    {
+      "date": "2026-11-24",
+      "category": "산업",
+      "title": "세 가지 성장 Catalyst\n                        \n                            \n                                세 가지 성장 Catalyst\n                                \n                                    세 가지 성장 Catalyst",
+      "ticker": null,
+      "authors": "신희철",
+      "broker": "iM증권",
+      "report_idx": "654496",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654496"
     }
   ],
   "by_category": {
-    "기업": 9,
+    "기업": 10,
     "시장": 6,
-    "산업": 5
+    "산업": 4
   },
   "top_tickers": [
     {
-      "ticker": "028670",
+      "ticker": "183300",
       "count": 1,
-      "sample_title": "팬오션(028670) 벌크의 안정적인 이익과 탱커 선대 확대\n                        \n                            \n                                팬오션(028670) 벌크의 안정적인 이익과 탱커 선대 확대\n                                \n                                    벌크의 안정적인 이익과 탱커 선대 확대",
-      "brokers": [
-        "iM증권"
-      ]
-    },
-    {
-      "ticker": "000120",
-      "count": 1,
-      "sample_title": "CJ대한통운(000120) 실적 회복 예상되나, 단가 회복 시점은 여전히 불확실\n                        \n                            \n                                CJ대한통운(000120) 실적 회복 예상되나, 단가 회복 시점은 여전히 불확실\n                                \n                                    실적 회복 예상되나, 단가 회복 시점은 여전히 불확실",
-      "brokers": [
-        "iM증권"
-      ]
-    },
-    {
-      "ticker": "003490",
-      "count": 1,
-      "sample_title": "대한항공(003490) 유가 부담 완화와 합병 시너지 본격화\n                        \n                            \n                                대한항공(003490) 유가 부담 완화와 합병 시너지 본격화\n                                \n                                    유가 부담 완화와 합병 시너지 본격화",
-      "brokers": [
-        "iM증권"
-      ]
-    },
-    {
-      "ticker": "010130",
-      "count": 1,
-      "sample_title": "고려아연(010130) 본격 성장은 28년 이후, 중장기 최선호주\n                        \n                            \n                                고려아연(010130) 본격 성장은 28년 이후, 중장기 최선호주\n                                \n                                    본격 성장은 28년 이후, 중장기 최선호주",
-      "brokers": [
-        "iM증권"
-      ]
-    },
-    {
-      "ticker": "005490",
-      "count": 1,
-      "sample_title": "POSCO홀딩스(005490) 불확실한 시기 업종 내 대안주\n                        \n                            \n                                POSCO홀딩스(005490) 불확실한 시기 업종 내 대안주\n                                \n                                    불확실한 시기 업종 내 대안주",
-      "brokers": [
-        "iM증권"
-      ]
-    },
-    {
-      "ticker": "001430",
-      "count": 1,
-      "sample_title": "세아베스틸지주(001430) 27년 업종 최선호주 유지\n                        \n                            \n                                세아베스틸지주(001430) 27년 업종 최선호주 유지\n                                \n                                    27년 업종 최선호주 유지",
-      "brokers": [
-        "iM증권"
-      ]
-    },
-    {
-      "ticker": "189300",
-      "count": 1,
-      "sample_title": "인텔리안테크(189300) 4Q 최대 실적 전망, 저평가 구간 진입\n                        \n                            \n                                인텔리안테크(189300) 4Q 최대 실적 전망, 저평가 구간 진입\n                                \n                                    4Q 최대 실적 전망, 저평가 구간 진입",
+      "sample_title": "코미코(183300) 투자 부담의 정점 통과, 증설 효과 가시화 국면\n                        \n                            \n                                코미코(183300) 투자 부담의 정점 통과, 증설 효과 가시화 국면\n                                \n                                    투자 부담의 정점 통과, 증설 효과 가시화 국면",
       "brokers": [
         "유안타증권"
       ]
     },
     {
-      "ticker": "033270",
+      "ticker": "381970",
       "count": 1,
-      "sample_title": "유나이티드제약(033270) 쌓여가는 현금, 주주 환원 확대 기대 \n                        \n                            \n                                유나이티드제약(033270) 쌓여가는 현금, 주주 환원 확대 기대 \n                                \n                                    쌓여가는 현금, 주주 환원 확대 기대",
+      "sample_title": "KG모빌리티플랫폼(381970) 달라지는 중고차 시장, 준비된 플랫폼 \n                        \n                            \n                                KG모빌리티플랫폼(381970) 달라지는 중고차 시장, 준비된 플랫폼 \n                                \n                                    달라지는 중고차 시장, 준비된 플랫폼",
       "brokers": [
-        "유안타증권"
+        "SK증권"
       ]
     },
     {
-      "ticker": "185750",
+      "ticker": "039130",
       "count": 1,
-      "sample_title": "종근당(185750) 성장 모멘텀이 필요\n                        \n                            \n                                종근당(185750) 성장 모멘텀이 필요\n                                \n                                    성장 모멘텀이 필요",
+      "sample_title": "하나투어(039130) 내년에는 연휴가 더 많습니다 \n                        \n                            \n                                하나투어(039130) 내년에는 연휴가 더 많습니다 \n                                \n                                    내년에는 연휴가 더 많습니다",
       "brokers": [
-        "유안타증권"
+        "SK증권"
+      ]
+    },
+    {
+      "ticker": "052710",
+      "count": 1,
+      "sample_title": "아모텍(052710) AI 숫자는 탄탄 그 이상\n                        \n                            \n                                아모텍(052710) AI 숫자는 탄탄 그 이상\n                                \n                                    AI 숫자는 탄탄 그 이상",
+      "brokers": [
+        "IBK투자증권"
+      ]
+    },
+    {
+      "ticker": "030200",
+      "count": 1,
+      "sample_title": "KT(030200) 27년, 본업 회복 및 KT Cloud 성장 기대\n                        \n                            \n                                KT(030200) 27년, 본업 회복 및 KT Cloud 성장 기대\n                                \n                                    27년, 본업 회복 및 KT Cloud 성장 기대",
+      "brokers": [
+        "iM증권"
+      ]
+    },
+    {
+      "ticker": "032640",
+      "count": 1,
+      "sample_title": "LG유플러스(032640) 장기 테넌트가 확보된 파주 AIDC 중심 성장 기대\n                        \n                            \n                                LG유플러스(032640) 장기 테넌트가 확보된 파주 AIDC 중심 성장 기대\n                                \n                                    장기 테넌트가 확보된 파주 AIDC 중심 성장 기대",
+      "brokers": [
+        "iM증권"
+      ]
+    },
+    {
+      "ticker": "017670",
+      "count": 1,
+      "sample_title": "SK텔레콤(017670) AIDC 테넌트 가시화가 본격화될 2027년\n                        \n                            \n                                SK텔레콤(017670) AIDC 테넌트 가시화가 본격화될 2027년\n                                \n                                    AIDC 테넌트 가시화가 본격화될 2027년",
+      "brokers": [
+        "iM증권"
+      ]
+    },
+    {
+      "ticker": "010060",
+      "count": 1,
+      "sample_title": "OCI홀딩스(010060) Tesla, 폴리실리콘 투자 검토. 현실화돼도 규모가 작아 투자포인트 훼손은 없어\n                        \n                            \n                                OCI홀딩스(010060) Tesla, 폴리실리콘 투자 검토. 현실화돼도 규모가 작아 투자포인트 훼손은 없어\n                                \n                                    Tesla, 폴리실리콘 투자 검토. 현실화돼도 규모가 작아 투자포인트 훼손은 없어",
+      "brokers": [
+        "iM증권"
+      ]
+    },
+    {
+      "ticker": "096770",
+      "count": 1,
+      "sample_title": "SK이노베이션(096770) 정유 외에 엔무브, E&S, On 등에서도 전쟁 이전 대비 높아진 이익 체력\n                        \n                            \n                                SK이노베이션(096770) 정유 외에 엔무브, E&S, On 등에서도 전쟁 이전 대비 높아진 이익 체력\n                                \n                                    정유 외에 엔무브, E&S, On 등에서도 전쟁 이전 대비 높아진 이익 체력",
+      "brokers": [
+        "iM증권"
+      ]
+    },
+    {
+      "ticker": "298050",
+      "count": 1,
+      "sample_title": "HS효성첨단소재(298050) BTM 발전의 숨겨진 수혜, 탄소섬유\n                        \n                            \n                                HS효성첨단소재(298050) BTM 발전의 숨겨진 수혜, 탄소섬유\n                                \n                                    BTM 발전의 숨겨진 수혜, 탄소섬유",
+      "brokers": [
+        "iM증권"
       ]
     }
   ],
