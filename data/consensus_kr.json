@@ -3,243 +3,290 @@
   "source_url": "https://consensus.hankyung.com/",
   "reports": [
     {
-      "date": "2026-11-26",
-      "category": "시장",
-      "title": "[Global Markets Monitor]: VIX로 살펴본 매수 타이밍\n                        \n                            \n                                [Global Markets Monitor]: VIX로 살펴본 매수 타이밍\n                                \n                                    [Global Markets Monitor]: VIX로 살펴본 매수 타이밍",
-      "ticker": null,
-      "authors": "김예슬",
-      "broker": "IBK투자증권",
-      "report_idx": "654585",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654585"
+      "date": "2026-11-27",
+      "category": "기업",
+      "title": "현대모비스(012330) 업종 내에서 가장 좋은 이익 모멘텀\n                        \n                            \n                                현대모비스(012330) 업종 내에서 가장 좋은 이익 모멘텀\n                                \n                                    업종 내에서 가장 좋은 이익 모멘텀",
+      "ticker": "012330",
+      "authors": "리서치센터",
+      "broker": "iM증권",
+      "report_idx": "654619",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654619"
     },
     {
-      "date": "2026-11-26",
+      "date": "2026-11-27",
+      "category": "기업",
+      "title": "두산로보틱스(454910) 수주를 통한 증명이 필요할 27년 \n                        \n                            \n                                두산로보틱스(454910) 수주를 통한 증명이 필요할 27년  \n                                \n                                    수주를 통한 증명이 필요할 27년",
+      "ticker": "454910",
+      "authors": "이상수",
+      "broker": "iM증권",
+      "report_idx": "654618",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654618"
+    },
+    {
+      "date": "2026-11-27",
+      "category": "기업",
+      "title": "현대차(005380) 내수가 반등하고 HMGMA 가동률도 올라와준다면\n                        \n                            \n                                현대차(005380) 내수가 반등하고 HMGMA 가동률도 올라와준다면\n                                \n                                    내수가 반등하고 HMGMA 가동률도 올라와준다면",
+      "ticker": "005380",
+      "authors": "리서치센터",
+      "broker": "iM증권",
+      "report_idx": "654617",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654617"
+    },
+    {
+      "date": "2026-11-27",
+      "category": "기업",
+      "title": "HD현대중공업(329180) 마지막까지 가져갈 조선사\n                        \n                            \n                                HD현대중공업(329180) 마지막까지 가져갈 조선사\n                                \n                                    마지막까지 가져갈 조선사",
+      "ticker": "329180",
+      "authors": "리서치센터",
+      "broker": "iM증권",
+      "report_idx": "654616",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654616"
+    },
+    {
+      "date": "2026-11-27",
+      "category": "기업",
+      "title": "한화오션(042660) 높은산 깊은 골\n                        \n                            \n                                한화오션(042660) 높은산 깊은 골\n                                \n                                    높은산 깊은 골",
+      "ticker": "042660",
+      "authors": "리서치센터",
+      "broker": "iM증권",
+      "report_idx": "654615",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654615"
+    },
+    {
+      "date": "2026-11-27",
+      "category": "기업",
+      "title": "삼성중공업(010140) 변동성이 커질 수록 빛나는 조선사\n                        \n                            \n                                삼성중공업(010140) 변동성이 커질 수록 빛나는 조선사\n                                \n                                    변동성이 커질 수록 빛나는 조선사",
+      "ticker": "010140",
+      "authors": "리서치센터",
+      "broker": "iM증권",
+      "report_idx": "654614",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654614"
+    },
+    {
+      "date": "2026-11-27",
+      "category": "산업",
+      "title": "쉽지 않음에도, 다시 한번\n                        \n                            \n                                쉽지 않음에도, 다시 한번\n                                \n                                    쉽지 않음에도, 다시 한번",
+      "ticker": null,
+      "authors": "이상수",
+      "broker": "iM증권",
+      "report_idx": "654613",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654613"
+    },
+    {
+      "date": "2026-11-27",
+      "category": "산업",
+      "title": "[조선 전망] 녹록지 않은 업황, 만만치 않은 경쟁\n                        \n                            \n                                [조선 전망] 녹록지 않은 업황, 만만치 않은 경쟁\n                                \n                                    [조선 전망] 녹록지 않은 업황, 만만치 않은 경쟁",
+      "ticker": null,
+      "authors": "변용진, 이주원",
+      "broker": "iM증권",
+      "report_idx": "654612",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654612"
+    },
+    {
+      "date": "2026-11-27",
       "category": "시장",
       "title": "start with ibks\n                        \n                            \n                                start with ibks\n                                \n                                    start with ibks",
       "ticker": null,
       "authors": "투자분석부",
       "broker": "IBK투자증권",
-      "report_idx": "654584",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654584"
+      "report_idx": "654611",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654611"
     },
     {
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "category": "시장",
       "title": "ibks morning brief\n                        \n                            \n                                ibks morning brief\n                                \n                                    ibks morning brief",
       "ticker": null,
       "authors": "기간산업분석부·혁신기업분석부",
       "broker": "IBK투자증권",
-      "report_idx": "654583",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654583"
+      "report_idx": "654610",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654610"
     },
     {
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "category": "산업",
       "title": "[인터넷/게임] IBKS Daily \n                        \n                            \n                                [인터넷/게임] IBKS Daily \n                                \n                                    [인터넷/게임] IBKS Daily",
       "ticker": null,
       "authors": "이승훈, 박상준",
       "broker": "IBK투자증권",
-      "report_idx": "654582",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654582"
+      "report_idx": "654609",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654609"
     },
     {
-      "date": "2026-11-26",
-      "category": "기업",
-      "title": "원익QnC(074600) 부족한 CAPA, PER 6배\n                        \n                            \n                                원익QnC(074600) 부족한 CAPA, PER 6배\n                                \n                                    부족한 CAPA, PER 6배",
-      "ticker": "074600",
-      "authors": "백길현, 임석민",
-      "broker": "유안타증권",
-      "report_idx": "654581",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654581"
-    },
-    {
-      "date": "2026-11-26",
-      "category": "기업",
-      "title": "디어유(376300) 하방은 닫히고, 옵션은 열렸다 \n                        \n                            \n                                디어유(376300) 하방은 닫히고, 옵션은 열렸다 \n                                \n                                    하방은 닫히고, 옵션은 열렸다",
-      "ticker": "376300",
-      "authors": "이환욱",
-      "broker": "유안타증권",
-      "report_idx": "654580",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654580"
-    },
-    {
-      "date": "2026-11-26",
-      "category": "기업",
-      "title": "한화솔루션(009830) 2027년 실적 소폭 개선 vs 현금흐름 부족\n                        \n                            \n                                한화솔루션(009830) 2027년 실적 소폭 개선 vs 현금흐름 부족\n                                \n                                    2027년 실적 소폭 개선 vs 현금흐름 부족",
-      "ticker": "009830",
-      "authors": "황규원, 서석준",
-      "broker": "유안타증권",
-      "report_idx": "654579",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654579"
-    },
-    {
-      "date": "2026-11-26",
-      "category": "기업",
-      "title": "SKC(011790) 2027년 영업 흑전 vs 2가지 숙제!\n                        \n                            \n                                SKC(011790) 2027년 영업 흑전 vs 2가지 숙제!\n                                \n                                    2027년 영업 흑전 vs 2가지 숙제!",
-      "ticker": "011790",
-      "authors": "황규원, 서석준",
-      "broker": "유안타증권",
-      "report_idx": "654578",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654578"
-    },
-    {
-      "date": "2026-11-26",
-      "category": "시장",
-      "title": "YUANTA DAILY MARKET VIEW\n                        \n                            \n                                YUANTA DAILY MARKET VIEW\n                                \n                                    YUANTA DAILY MARKET VIEW",
-      "ticker": null,
-      "authors": "리서치센터",
-      "broker": "유안타증권",
-      "report_idx": "654577",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654577"
-    },
-    {
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "category": "시장",
       "title": "wake up! 아침에 슼\n                        \n                            \n                                wake up! 아침에 슼\n                                \n                                    wake up! 아침에 슼",
       "ticker": null,
-      "authors": "SK증권 리서치센터",
+      "authors": "sk증권 리서치센터",
       "broker": "SK증권",
-      "report_idx": "654576",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654576"
+      "report_idx": "654608",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654608"
     },
     {
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "category": "시장",
-      "title": "약세장인지 조정인지, 신용잔고가 뒤늦게 답한다\n                        \n                            \n                                약세장인지 조정인지, 신용잔고가 뒤늦게 답한다\n                                \n                                    약세장인지 조정인지, 신용잔고가 뒤늦게 답한다",
+      "title": "[에이피알] 에이피알의 브랜드501 인수 관련 코멘트 \n                        \n                            \n                                [에이피알] 에이피알의 브랜드501 인수 관련 코멘트 \n                                \n                                    [에이피알] 에이피알의 브랜드501 인수 관련 코멘트",
       "ticker": null,
-      "authors": "강대승",
+      "authors": "형권훈",
       "broker": "SK증권",
-      "report_idx": "654575",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654575"
+      "report_idx": "654607",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654607"
     },
     {
-      "date": "2026-11-26",
+      "date": "2026-11-27",
+      "category": "산업",
+      "title": "[ESG snapshot] 공시대상 기업집단 내부현황 분석 보고서 발간\n                        \n                            \n                                [ESG snapshot] 공시대상 기업집단 내부현황 분석 보고서 발간\n                                \n                                    [ESG snapshot] 공시대상 기업집단 내부현황 분석 보고서 발간",
+      "ticker": null,
+      "authors": "최관순",
+      "broker": "SK증권",
+      "report_idx": "654606",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654606"
+    },
+    {
+      "date": "2026-11-27",
       "category": "산업",
       "title": "Global Carbon Daily\n                        \n                            \n                                Global Carbon Daily\n                                \n                                    Global Carbon Daily",
       "ticker": null,
       "authors": "최관순",
       "broker": "SK증권",
-      "report_idx": "654574",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654574"
+      "report_idx": "654605",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654605"
     },
     {
-      "date": "2026-11-26",
-      "category": "시장",
-      "title": "상상인 Macro Daily\n                        \n                            \n                                상상인 Macro Daily\n                                \n                                    상상인 Macro Daily",
-      "ticker": null,
-      "authors": "투자전략팀",
-      "broker": "상상인증권",
-      "report_idx": "654573",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654573"
+      "date": "2026-11-27",
+      "category": "기업",
+      "title": "보령(003850) 수출 확대와 국내 영업망 확장에 주목 \n                        \n                            \n                                보령(003850) 수출 확대와 국내 영업망 확장에 주목 \n                                \n                                    수출 확대와 국내 영업망 확장에 주목",
+      "ticker": "003850",
+      "authors": "이선경",
+      "broker": "SK증권",
+      "report_idx": "654604",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654604"
     },
     {
-      "date": "2026-11-26",
-      "category": "",
-      "title": "미국 증시, 연말까지 회복될까?\n                        \n                            \n                                미국 증시, 연말까지 회복될까?\n                                \n                                    미국 증시, 연말까지 회복될까?",
-      "ticker": null,
-      "authors": "신승윤",
-      "broker": "한화투자증권",
-      "report_idx": "654572",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654572"
+      "date": "2026-11-27",
+      "category": "기업",
+      "title": "동아제약(000640) 본업 성장에 지배구조 개편 효과까지 \n                        \n                            \n                                동아제약(000640) 본업 성장에 지배구조 개편 효과까지 \n                                \n                                    본업 성장에 지배구조 개편 효과까지",
+      "ticker": "000640",
+      "authors": "이선경",
+      "broker": "SK증권",
+      "report_idx": "654603",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654603"
     },
     {
-      "date": "2026-11-26",
-      "category": "산업",
-      "title": "과도했던 디레이팅을 되돌릴 시점 \n                        \n                            \n                                과도했던 디레이팅을 되돌릴 시점  \n                                \n                                    과도했던 디레이팅을 되돌릴 시점",
-      "ticker": null,
-      "authors": "박신애,김건우",
-      "broker": "메리츠증권",
-      "report_idx": "654571",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654571"
+      "date": "2026-11-27",
+      "category": "기업",
+      "title": "종근당(185750) 실적 공백기, R&D 모멘텀에 주목 \n                        \n                            \n                                종근당(185750) 실적 공백기, R&D 모멘텀에 주목 \n                                \n                                    실적 공백기, R&D 모멘텀에 주목",
+      "ticker": "185750",
+      "authors": "이선경",
+      "broker": "SK증권",
+      "report_idx": "654602",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654602"
     },
     {
-      "date": "2026-11-26",
-      "category": "산업",
-      "title": "모빌리티: 허니문이 끝나고, 현실이 왔다 \n                        \n                            \n                                모빌리티: 허니문이 끝나고, 현실이 왔다 \n                                \n                                    모빌리티: 허니문이 끝나고, 현실이 왔다",
-      "ticker": null,
-      "authors": "김준성",
-      "broker": "메리츠증권",
-      "report_idx": "654570",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654570"
+      "date": "2026-11-27",
+      "category": "기업",
+      "title": "한미약품(128940) 기술이전으로 증명한 R&D 경쟁력 \n                        \n                            \n                                한미약품(128940) 기술이전으로 증명한 R&D 경쟁력 \n                                \n                                    기술이전으로 증명한 R&D 경쟁력",
+      "ticker": "128940",
+      "authors": "이선경",
+      "broker": "SK증권",
+      "report_idx": "654601",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654601"
     },
     {
-      "date": "2026-11-26",
-      "category": "산업",
-      "title": "[플랫폼/게임] 분화와 수렴: 2027년 기업가치의 재편 \n                        \n                            \n                                [플랫폼/게임]   분화와 수렴: 2027년 기업가치의 재편   \n                                \n                                    [플랫폼/게임] 분화와 수렴: 2027년 기업가치의 재편",
-      "ticker": null,
-      "authors": "이효진",
-      "broker": "메리츠증권",
-      "report_idx": "654569",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654569"
-    },
-    {
-      "date": "2026-11-26",
-      "category": "산업",
-      "title": "[조선] 좋은 배는 풍랑일 때 드러난다 \n                        \n                            \n                                [조선] 좋은 배는 풍랑일 때 드러난다 \n                                \n                                    [조선] 좋은 배는 풍랑일 때 드러난다",
-      "ticker": null,
-      "authors": "배기연",
-      "broker": "메리츠증권",
-      "report_idx": "654568",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654568"
-    },
-    {
-      "date": "2026-11-26",
-      "category": "시장",
-      "title": "전략공감 2.0\n                        \n                            \n                                전략공감 2.0\n                                \n                                    전략공감 2.0",
-      "ticker": null,
-      "authors": "리서치센터",
-      "broker": "메리츠증권",
-      "report_idx": "654567",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654567"
-    },
-    {
-      "date": "2026-11-26",
-      "category": "산업",
-      "title": "이제부터 진검승부\n                        \n                            \n                                이제부터 진검승부\n                                \n                                    이제부터 진검승부",
-      "ticker": null,
-      "authors": "김회재",
-      "broker": "대신증권",
-      "report_idx": "654566",
-      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654566"
+      "date": "2026-11-27",
+      "category": "기업",
+      "title": "대원제약(003220) 4분기 회복, R&D 모멘텀 주목 \n                        \n                            \n                                대원제약(003220) 4분기 회복, R&D 모멘텀 주목 \n                                \n                                    4분기 회복, R&D 모멘텀 주목",
+      "ticker": "003220",
+      "authors": "이선경",
+      "broker": "SK증권",
+      "report_idx": "654600",
+      "pdf_url": "https://consensus.hankyung.com/analysis/downpdf?report_idx=654600"
     }
   ],
   "by_category": {
-    "시장": 8,
-    "산업": 7,
-    "기업": 4,
-    "기타": 1
+    "기업": 11,
+    "산업": 5,
+    "시장": 4
   },
   "top_tickers": [
     {
-      "ticker": "074600",
+      "ticker": "012330",
       "count": 1,
-      "sample_title": "원익QnC(074600) 부족한 CAPA, PER 6배\n                        \n                            \n                                원익QnC(074600) 부족한 CAPA, PER 6배\n                                \n                                    부족한 CAPA, PER 6배",
+      "sample_title": "현대모비스(012330) 업종 내에서 가장 좋은 이익 모멘텀\n                        \n                            \n                                현대모비스(012330) 업종 내에서 가장 좋은 이익 모멘텀\n                                \n                                    업종 내에서 가장 좋은 이익 모멘텀",
       "brokers": [
-        "유안타증권"
+        "iM증권"
       ]
     },
     {
-      "ticker": "376300",
+      "ticker": "454910",
       "count": 1,
-      "sample_title": "디어유(376300) 하방은 닫히고, 옵션은 열렸다 \n                        \n                            \n                                디어유(376300) 하방은 닫히고, 옵션은 열렸다 \n                                \n                                    하방은 닫히고, 옵션은 열렸다",
+      "sample_title": "두산로보틱스(454910) 수주를 통한 증명이 필요할 27년 \n                        \n                            \n                                두산로보틱스(454910) 수주를 통한 증명이 필요할 27년  \n                                \n                                    수주를 통한 증명이 필요할 27년",
       "brokers": [
-        "유안타증권"
+        "iM증권"
       ]
     },
     {
-      "ticker": "009830",
+      "ticker": "005380",
       "count": 1,
-      "sample_title": "한화솔루션(009830) 2027년 실적 소폭 개선 vs 현금흐름 부족\n                        \n                            \n                                한화솔루션(009830) 2027년 실적 소폭 개선 vs 현금흐름 부족\n                                \n                                    2027년 실적 소폭 개선 vs 현금흐름 부족",
+      "sample_title": "현대차(005380) 내수가 반등하고 HMGMA 가동률도 올라와준다면\n                        \n                            \n                                현대차(005380) 내수가 반등하고 HMGMA 가동률도 올라와준다면\n                                \n                                    내수가 반등하고 HMGMA 가동률도 올라와준다면",
       "brokers": [
-        "유안타증권"
+        "iM증권"
       ]
     },
     {
-      "ticker": "011790",
+      "ticker": "329180",
       "count": 1,
-      "sample_title": "SKC(011790) 2027년 영업 흑전 vs 2가지 숙제!\n                        \n                            \n                                SKC(011790) 2027년 영업 흑전 vs 2가지 숙제!\n                                \n                                    2027년 영업 흑전 vs 2가지 숙제!",
+      "sample_title": "HD현대중공업(329180) 마지막까지 가져갈 조선사\n                        \n                            \n                                HD현대중공업(329180) 마지막까지 가져갈 조선사\n                                \n                                    마지막까지 가져갈 조선사",
       "brokers": [
-        "유안타증권"
+        "iM증권"
+      ]
+    },
+    {
+      "ticker": "042660",
+      "count": 1,
+      "sample_title": "한화오션(042660) 높은산 깊은 골\n                        \n                            \n                                한화오션(042660) 높은산 깊은 골\n                                \n                                    높은산 깊은 골",
+      "brokers": [
+        "iM증권"
+      ]
+    },
+    {
+      "ticker": "010140",
+      "count": 1,
+      "sample_title": "삼성중공업(010140) 변동성이 커질 수록 빛나는 조선사\n                        \n                            \n                                삼성중공업(010140) 변동성이 커질 수록 빛나는 조선사\n                                \n                                    변동성이 커질 수록 빛나는 조선사",
+      "brokers": [
+        "iM증권"
+      ]
+    },
+    {
+      "ticker": "003850",
+      "count": 1,
+      "sample_title": "보령(003850) 수출 확대와 국내 영업망 확장에 주목 \n                        \n                            \n                                보령(003850) 수출 확대와 국내 영업망 확장에 주목 \n                                \n                                    수출 확대와 국내 영업망 확장에 주목",
+      "brokers": [
+        "SK증권"
+      ]
+    },
+    {
+      "ticker": "000640",
+      "count": 1,
+      "sample_title": "동아제약(000640) 본업 성장에 지배구조 개편 효과까지 \n                        \n                            \n                                동아제약(000640) 본업 성장에 지배구조 개편 효과까지 \n                                \n                                    본업 성장에 지배구조 개편 효과까지",
+      "brokers": [
+        "SK증권"
+      ]
+    },
+    {
+      "ticker": "185750",
+      "count": 1,
+      "sample_title": "종근당(185750) 실적 공백기, R&D 모멘텀에 주목 \n                        \n                            \n                                종근당(185750) 실적 공백기, R&D 모멘텀에 주목 \n                                \n                                    실적 공백기, R&D 모멘텀에 주목",
+      "brokers": [
+        "SK증권"
+      ]
+    },
+    {
+      "ticker": "128940",
+      "count": 1,
+      "sample_title": "한미약품(128940) 기술이전으로 증명한 R&D 경쟁력 \n                        \n                            \n                                한미약품(128940) 기술이전으로 증명한 R&D 경쟁력 \n                                \n                                    기술이전으로 증명한 R&D 경쟁력",
+      "brokers": [
+        "SK증권"
       ]
     }
   ],
